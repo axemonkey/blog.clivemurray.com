@@ -1,0 +1,21 @@
+---
+"permalink": "/{{ slug | slugify }}/"
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title }}</title>
+</head>
+<body>
+  <header>
+    <h1>Site Header - page layout</h1>
+    <a href="/About">About</a>
+  </header>
+  <main>
+    {{{ content }}}
+  </main>
+  <footer>Site Footer</footer>
+</body>
+</html>
