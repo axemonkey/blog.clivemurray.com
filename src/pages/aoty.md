@@ -8,7 +8,7 @@ tags: Albums of the Years, Music
 
 When I started this blog on my little Raspberry Pi, I wanted something that would keep me coming back to write. I knew from experience that just blogging for the sake of it would soon peter out, and the whole thing would just wither and die.
 
-So I came up with the idea of [Clive’s Album of the Year](__GHOST_URL__/tag/albums-of-the-years/). I’d start at the current year (2013 at the time) and work backwards to the year of my birth (1974) picking out my favourite album(s) of that year and writing a little about it/them. Well, I finally got all the way back to 1974 (and also filled in the years that elapsed while doing so) so here for reference are the winners and runners-up for every year of my life so far.
+So I came up with the idea of [Clive’s Album of the Year](/tag/albums-of-the-years/). I’d start at the current year (2013 at the time) and work backwards to the year of my birth (1974) picking out my favourite album(s) of that year and writing a little about it/them. Well, I finally got all the way back to 1974 (and also filled in the years that elapsed while doing so) so here for reference are the winners and runners-up for every year of my life so far.
 
 You can of course click through to the posts if you want to read more.
 
@@ -16,7 +16,7 @@ Enjoy.
 
 ---
 
-- [2021](__GHOST_URL__/clives-album-of-the-year-2021)
+- [2021](/clives-album-of-the-year-2021)
 - Winner
 
 - Architects – For Those That Wish to Exist
@@ -39,7 +39,7 @@ Enjoy.
 
 - Iron Maiden – Senjutsu
 
-- [2020](__GHOST_URL__/clives-album-of-the-year-2020)
+- [2020](/clives-album-of-the-year-2020)
 - Winner
 
 - Lady Gaga – Chromatica
@@ -60,7 +60,7 @@ Enjoy.
 
 - Reb Beach – A View From the Inside
 
-- [2019](__GHOST_URL__/clives-album-of-the-year-2019)
+- [2019](/clives-album-of-the-year-2019)
 - Winner
 
 - McRocklin & Hutch – Riding Out
@@ -83,7 +83,7 @@ Enjoy.
 
 - Yngwie Malmsteen – Blue Lightning
 
-- [2018 (tie)](__GHOST_URL__/clives-album-of-the-year-2018)
+- [2018 (tie)](/clives-album-of-the-year-2018)
 - Winners
 
 - Greta Van Fleet – Anthem of the Peaceful Army
@@ -102,7 +102,7 @@ Enjoy.
 - Nita Strauss – Controlled Chaos
 - Toska – Fire By the Silos
 
-- [2017 (tie)](__GHOST_URL__/clives-album-of-the-year-2017)
+- [2017 (tie)](/clives-album-of-the-year-2017)
 - Winners
 
 - Greta Van Fleet – From the Fires
@@ -123,7 +123,7 @@ Enjoy.
 
 - Lynch Mob – The Brotherhood
 
-- [2016](__GHOST_URL__/clives-album-of-the-year-2016)
+- [2016](/clives-album-of-the-year-2016)
 - Winner
 
 - Plini – Handmade Cities
@@ -140,7 +140,7 @@ Enjoy.
 
 - Dream Theater – The Astonishing
 
-- [2015](__GHOST_URL__/clives-album-of-the-year-2015)
+- [2015](/clives-album-of-the-year-2015)
 - Winner
 
 - Coheed and Cambria – The Color Before the Sun
@@ -153,7 +153,7 @@ Enjoy.
 - Plini – The End of Everything
 - Teramaze – Her Halo
 
-- [2014](__GHOST_URL__/clives-album-of-the-year-2014)
+- [2014](/clives-album-of-the-year-2014)
 - Winner
 
 - You Me At Six – Cavalier Youth
@@ -170,7 +170,7 @@ Enjoy.
 
 - Winger – Better Days Comin’
 
-- [2013](__GHOST_URL__/clives-album-of-the-year-2013)
+- [2013](/clives-album-of-the-year-2013)
 - Winner
 
 - Jon Gomm – Secrets Nobody Keeps
@@ -187,7 +187,7 @@ Enjoy.
 
 - Johnny Flynn – Country Mile
 
-- [2012](__GHOST_URL__/clives-album-of-the-year-2012)
+- [2012](/clives-album-of-the-year-2012)
 - Winner
 
 - Flying Colors – Flying Colors
@@ -200,7 +200,7 @@ Enjoy.
 - Savage Messiah – Plague of Conscience
 - Tremonti – All I Was
 
-- [2011](__GHOST_URL__/clives-album-of-the-year-2011)
+- [2011](/clives-album-of-the-year-2011)
 - Winner
 
 - You Me at Six – Sinners Never Sleep
@@ -213,7 +213,7 @@ Enjoy.
 - Scroobius Pip – Distraction Pieces
 - Evanescence – Evanescence
 
-- [2010](__GHOST_URL__/clives-album-of-the-year-2010)
+- [2010](/clives-album-of-the-year-2010)
 - Winner
 
 - Furyon – Gravitas
@@ -226,7 +226,7 @@ Enjoy.
 - My Chemical Romance – Danger Days: The True Lives of the Fabulous Killjoys
 - Pendulum – Immersion
 
-- [2009](__GHOST_URL__/clives-album-of-the-year-2009)
+- [2009](/clives-album-of-the-year-2009)
 - Winner
 
 - Amorphis – Skyforger
@@ -239,7 +239,7 @@ Enjoy.
 - The Last Vegas – Whatever Gets You Off
 - Mumford & Sons – Sigh No More
 
-- [2008](__GHOST_URL__/clives-album-of-the-year-2008)
+- [2008](/clives-album-of-the-year-2008)
 - Winner
 
 - You Me At Six – Take Off Your Colours
@@ -252,7 +252,7 @@ Enjoy.
 - Guns N’ Roses – Chinese Democracy
 - It Bites – The Tall Ships
 
-- [2007](__GHOST_URL__/clives-album-of-the-year-2007)
+- [2007](/clives-album-of-the-year-2007)
 - Winner
 
 - Turisas – The Varangian Way
@@ -265,7 +265,7 @@ Enjoy.
 - Underworld – Oblivion With Bells
 - Vangelis – Blade Runner Trilogy
 
-- [2006](__GHOST_URL__/clives-album-of-the-year-2006)
+- [2006](/clives-album-of-the-year-2006)
 - Winner
 
 - My Chemical Romance – The Black Parade
@@ -282,7 +282,7 @@ Enjoy.
 
 - Joe Satriani – Super Colossal
 
-- [2005](__GHOST_URL__/clives-album-of-the-year-2005)
+- [2005](/clives-album-of-the-year-2005)
 - Winner
 
 - Coheed and Cambria – Good Apollo, I’m Burning Star IV, Volume One: From Fear Through the Eyes of Madness
@@ -299,7 +299,7 @@ Enjoy.
 
 - Nickelback – All the Right Reasons
 
-- [2004 (tie)](__GHOST_URL__/clives-album-of-the-year-2004)
+- [2004 (tie)](/clives-album-of-the-year-2004)
 - Winners
 
 - William Shatner – Has Been
@@ -316,7 +316,7 @@ Enjoy.
 
 - Razorlight – Up All Night
 
-- [2003](__GHOST_URL__/clives-album-of-the-year-2003)
+- [2003](/clives-album-of-the-year-2003)
 - Winner
 
 - The Darkness – Permission to Land
@@ -333,7 +333,7 @@ Enjoy.
 
 - The Coral – Magic And Medicine
 
-- [2002](__GHOST_URL__/clives-album-of-the-year-2002)
+- [2002](/clives-album-of-the-year-2002)
 - Winner
 
 - Damien Rice – O
@@ -350,7 +350,7 @@ Enjoy.
 
 - Rush – Vapor Trails
 
-- [2001](__GHOST_URL__/clives-album-of-the-year-2001)
+- [2001](/clives-album-of-the-year-2001)
 - Winner
 
 - Buckcherry – Time Bomb
@@ -367,7 +367,7 @@ Enjoy.
 
 - Stereophonics – Just Enough Education To Perform
 
-- [2000](__GHOST_URL__/clives-album-of-the-year-2000)
+- [2000](/clives-album-of-the-year-2000)
 - Winner
 
 - Paul Gilbert – Alligator Farm
@@ -384,7 +384,7 @@ Enjoy.
 
 - Radiohead – Kid A
 
-- [1999](__GHOST_URL__/clives-album-of-the-year-1999)
+- [1999](/clives-album-of-the-year-1999)
 - Winner
 
 - Underworld – Beaucoup Fish
@@ -401,7 +401,7 @@ Enjoy.
 
 - Mr. Big – Get Over It
 
-- [1998](__GHOST_URL__/clives-album-of-the-year-1998)
+- [1998](/clives-album-of-the-year-1998)
 - Winner
 
 - Barenaked Ladies – Stunt
@@ -418,7 +418,7 @@ Enjoy.
 
 - Pulp – This Is Hardcore
 
-- [1997](__GHOST_URL__/clives-album-of-the-year-1997)
+- [1997](/clives-album-of-the-year-1997)
 - Winner
 
 - Dream Theater – Falling Into Infinity
@@ -435,7 +435,7 @@ Enjoy.
 
 - Mötley Crüe – Generation Swine
 
-- [1996](__GHOST_URL__/clives-album-of-the-year-1996)
+- [1996](/clives-album-of-the-year-1996)
 - Winner
 
 - The Presidents of the USA – The Presidents of the USA II
@@ -452,7 +452,7 @@ Enjoy.
 
 - Mr. Big – Hey Man
 
-- [1995 (tie)](__GHOST_URL__/clives-album-of-the-year-1995)
+- [1995 (tie)](/clives-album-of-the-year-1995)
 - Winners
 
 - Radiohead – The Bends
@@ -469,7 +469,7 @@ Enjoy.
 
 - Extreme – Waiting For the Punchline
 
-- [1994](__GHOST_URL__/clives-album-of-the-year-1994)
+- [1994](/clives-album-of-the-year-1994)
 - Winner
 
 - Jeff Buckley – Grace
@@ -486,7 +486,7 @@ Enjoy.
 
 - Oasis – Definitely Maybe
 
-- [1993](__GHOST_URL__/clives-album-of-the-year-1993)
+- [1993](/clives-album-of-the-year-1993)
 - Winner
 
 - Sting – Ten Summoner’s Tales
@@ -503,7 +503,7 @@ Enjoy.
 
 - Love/Hate – Let’s Rumble
 
-- [1992 (tie)](__GHOST_URL__/clives-album-of-the-year-1992)
+- [1992 (tie)](/clives-album-of-the-year-1992)
 - Winners
 
 - Dream Theater – Images and Words
@@ -526,7 +526,7 @@ Enjoy.
 
 - Electric Boys – Groovus Maximus
 
-- [1991](__GHOST_URL__/clives-album-of-the-year-1991)
+- [1991](/clives-album-of-the-year-1991)
 - Winner
 
 - Mr. Big – Lean Into It
@@ -549,7 +549,7 @@ Enjoy.
 
 - Guns N’ Roses – Use Your Illusion (I & II)
 
-- [1990](__GHOST_URL__/clives-album-of-the-year-1990)
+- [1990](/clives-album-of-the-year-1990)
 - Winner
 
 - Steve Vai – Passion and Warfare
@@ -569,7 +569,7 @@ Enjoy.
 
 - Iron Maiden – No Prayer for the Dying
 
-- [1989](__GHOST_URL__/clives-album-of-the-year-1989)
+- [1989](/clives-album-of-the-year-1989)
 - Winner
 
 - Aerosmith – Pump
@@ -591,7 +591,7 @@ Enjoy.
 
 - Warrant – Dirty Rotten Stinking Filthy Rich
 
-- [1988](__GHOST_URL__/clives-album-of-the-year-1988)
+- [1988](/clives-album-of-the-year-1988)
 - Winner
 
 - David Lee Roth – Skyscraper
@@ -608,7 +608,7 @@ Enjoy.
 
 - Van Halen – OU812
 
-- [1987](__GHOST_URL__/clives-album-of-the-year-1987)
+- [1987](/clives-album-of-the-year-1987)
 - Winner
 
 - Guns N’ Roses – Appetite For Destruction
@@ -625,7 +625,7 @@ Enjoy.
 
 - Mötley Crüe – Girls Girls Girls
 
-- [1986](__GHOST_URL__/clives-album-of-the-year-1986)
+- [1986](/clives-album-of-the-year-1986)
 - Winner
 
 - Peter Gabriel – So
@@ -642,12 +642,12 @@ Enjoy.
 
 - Poison – Look What the Cat Dragged In
 
-- [1985](__GHOST_URL__/clives-album-of-the-year-1981-1985)
+- [1985](/clives-album-of-the-year-1981-1985)
 - Winner
 
 - Dire Straits – Brothers In Arms
 
-- [1984](__GHOST_URL__/clives-album-of-the-year-1981-1985)
+- [1984](/clives-album-of-the-year-1981-1985)
 - Winner
 
 - Iron Maiden – Powerslave
@@ -657,7 +657,7 @@ Enjoy.
 - Steve Vai – Flex-Able
 - Van Halen – 1984
 
-- [1983](__GHOST_URL__/clives-album-of-the-year-1981-1985)
+- [1983](/clives-album-of-the-year-1981-1985)
 - Winner
 
 - Iron Maiden – Piece of Mind
@@ -667,7 +667,7 @@ Enjoy.
 - David Bowie – Let’s Dance
 - Stevie Ray Vaughan – Texas Flood
 
-- [1982](__GHOST_URL__/clives-album-of-the-year-1981-1985)
+- [1982](/clives-album-of-the-year-1981-1985)
 - Winner
 
 - Iron Maiden – The Number of the Beast
@@ -676,12 +676,12 @@ Enjoy.
 
 - Dire Straits – Love Over Gold
 
-- [1981](__GHOST_URL__/clives-album-of-the-year-1981-1985)
+- [1981](/clives-album-of-the-year-1981-1985)
 - Winner
 
 - Mötley Crüe – Too Fast For Love
 
-- [1980](__GHOST_URL__/clives-album-of-the-year-1977-1980)
+- [1980](/clives-album-of-the-year-1977-1980)
 - Winner
 
 - AC/DC – Back in Black
@@ -690,7 +690,7 @@ Enjoy.
 
 - Van Halen – Women and Children First
 
-- [1979](__GHOST_URL__/clives-album-of-the-year-1977-1980)
+- [1979](/clives-album-of-the-year-1977-1980)
 - Winner
 
 - Pink Floyd – The Wall
@@ -700,7 +700,7 @@ Enjoy.
 - AC/DC – Highway to Hell
 - Van Halen – Van Halen II
 
-- [1978](__GHOST_URL__/clives-album-of-the-year-1977-1980)
+- [1978](/clives-album-of-the-year-1977-1980)
 - Winner
 
 - Van Halen – Van Halen
@@ -710,7 +710,7 @@ Enjoy.
 - Dire Straits – Dire Straits
 - Brian Eno – Ambient 1: Music For Airports
 
-- [1977](__GHOST_URL__/clives-album-of-the-year-1977-1980)
+- [1977](/clives-album-of-the-year-1977-1980)
 - Winner
 
 - Fleetwood Mac – Rumours
@@ -719,12 +719,12 @@ Enjoy.
 
 - The Sex Pistols – Never Mind the Bollocks...
 
-- [1976](__GHOST_URL__/clives-album-of-the-year-1974-1976)
+- [1976](/clives-album-of-the-year-1974-1976)
 - Winner
 
 - Jean-Michel Jarre – Oxygene
 
-- [1975](__GHOST_URL__/clives-album-of-the-year-1974-1976)
+- [1975](/clives-album-of-the-year-1974-1976)
 - Winner
 
 - Pink Floyd – Wish You Were Here
@@ -734,7 +734,7 @@ Enjoy.
 - Led Zeppelin – Physical Graffitti
 - Queen – A Night at the Opera
 
-- [1974](__GHOST_URL__/clives-album-of-the-year-1974-1976)
+- [1974](/clives-album-of-the-year-1974-1976)
 - Winner
 
 - Queen – Sheer Heart Attack

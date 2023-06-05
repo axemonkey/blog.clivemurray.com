@@ -7,7 +7,7 @@ tags: Albums of the Years, Music
 excerpt: In 1989 I was fifteen, and for my birthday I got my first guitar and a year's worth of guitar lessons. Thank you eternally, Mum and Dad, RIP.
 ---
 
-In 1989 I was fifteen, and for my birthday I got [my first guitar](__GHOST_URL__/content/images/2014/Mar/maya_stratcopy-1.jpg) and a year's worth of guitar lessons. Thank you eternally, Mum and Dad, RIP.
+In 1989 I was fifteen, and for my birthday I got [my first guitar](/public/images/2014/Mar/maya_stratcopy-1.jpg) and a year's worth of guitar lessons. Thank you eternally, Mum and Dad, RIP.
 
 It was, it transpires, a historic turning point (yes I'm quoting Wikipedia) in politics, due to a wave of revolutions that started in Poland and swept across Europe eventually ending in the [dissolution of the USSR](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union) at the end of 1991.
 
@@ -27,7 +27,7 @@ OK. Shall we?
 
 ### [D-A-D](http://d-a-d.com/) - [No Fuel Left for the Pilgrims](https://www.amazon.co.uk/No-Fuel-Left-Pilgrims-D/dp/B001F2ZBEW/)
 
-It was my good old pal Stix McFlick who introduced me to this Danish 4-piece wayyyyyy back in the day, and though they never really achieved mainstream success despite slogging away through the oft-mentioned [Dark Times](__GHOST_URL__/the-dark-times), those who know their work will always remember the absolutely brilliant "Sleeping My Day Away" and many others. Fun fact: Wikipedia files this album under both genres "Hard rock" and "Cowpunk". Great fun. **Top track:** "Sleeping My Day Away"
+It was my good old pal Stix McFlick who introduced me to this Danish 4-piece wayyyyyy back in the day, and though they never really achieved mainstream success despite slogging away through the oft-mentioned [Dark Times](/the-dark-times), those who know their work will always remember the absolutely brilliant "Sleeping My Day Away" and many others. Fun fact: Wikipedia files this album under both genres "Hard rock" and "Cowpunk". Great fun. **Top track:** "Sleeping My Day Away"
 
 ### [Electric Boys](https://www.facebook.com/electricboys/) - [Funk-O-Metal Carpet Ride](https://www.amazon.co.uk/Funk-o-metal-carpet-ride-1989-90/dp/B000091FPK/)
 
@@ -35,7 +35,7 @@ I remember saying once upon a time to my guitar bud Pearl Fiasco "you'll never g
 
 ### [Faith No More](http://www.fnm.com/) - [The Real Thing](https://www.amazon.co.uk/d/CDs-Vinyl/Real-Thing-Faith-No-More/B00002DE1O/)
 
-It's impossible to properly explain the impact this record had at the time. Things were so simple – metallers listened to Metallica, Maiden, Slayer and Megadeth and wore black leather jackets, black band t-shirts, big white trainers (for reasons that still escape me) and tight black jeans. Rockers listened to Poison, Guns N Roses, Skid Row and even Bon Jovi, and wore glammed up versions of the same uniform (ripped blue jeans, cowboy boots, slightly more colourful t-shirts). Then along came *Faith No More* with not only a complete lack of respect for the dress code (Jim Martin aside, obv – [just look at these bastards](__GHOST_URL__/content/images/2017/03/rs-195453-81071842.jpg), will you?) but also a total blurring of the genre lines. Yes, I know they had been around for a while before 1989 with previous vocalist Chuck Mosley, but it's undeniable that it was **The Real Thing** (the band's first release to feature mercurial maniac Mike Patton on vocals) that broke them and guaranteed the band's place in the annals of metal. Catchy hooky choruses yet slamming metal riffs? Check. Undeniably odd metal tunes with screamed threatening lyrics? Yep. Sombre ballads? Yeah, just about. *Black Sabbath* cover? Oh yes. One of the tightest and funkiest rhythm sections ever to grace a tape reel? Aw yeah. Verdict: Indispensable. (Though I'm still never going to like "Surprise! You're Dead!") **Top track:** "Falling to Pieces"
+It's impossible to properly explain the impact this record had at the time. Things were so simple – metallers listened to Metallica, Maiden, Slayer and Megadeth and wore black leather jackets, black band t-shirts, big white trainers (for reasons that still escape me) and tight black jeans. Rockers listened to Poison, Guns N Roses, Skid Row and even Bon Jovi, and wore glammed up versions of the same uniform (ripped blue jeans, cowboy boots, slightly more colourful t-shirts). Then along came *Faith No More* with not only a complete lack of respect for the dress code (Jim Martin aside, obv – [just look at these bastards](/public/images/2017/03/rs-195453-81071842.jpg), will you?) but also a total blurring of the genre lines. Yes, I know they had been around for a while before 1989 with previous vocalist Chuck Mosley, but it's undeniable that it was **The Real Thing** (the band's first release to feature mercurial maniac Mike Patton on vocals) that broke them and guaranteed the band's place in the annals of metal. Catchy hooky choruses yet slamming metal riffs? Check. Undeniably odd metal tunes with screamed threatening lyrics? Yep. Sombre ballads? Yeah, just about. *Black Sabbath* cover? Oh yes. One of the tightest and funkiest rhythm sections ever to grace a tape reel? Aw yeah. Verdict: Indispensable. (Though I'm still never going to like "Surprise! You're Dead!") **Top track:** "Falling to Pieces"
 
 ### [King's X](http://www.kingsxrocks.com/) - [Gretchen Goes to Nebraska](https://www.amazon.co.uk/Gretchen-Goes-Nebraska-Kings-X-x/dp/B006IFHJN2/)
 
@@ -55,7 +55,7 @@ Yeah. I was surprised too, actually. Early *Rush*? No thanks. Can't be doing wit
 
 ### [Joe Satriani](http://www.satriani.com/) - [Flying in a Blue Dream](https://www.amazon.co.uk/d/Digital-Music/Flying-Blue-Dream-Joe-Satriani/B004IYO8Q6/)
 
-OK, so some might think this should win 1989, and while it is an astoundingly good and indispensable album, there are a number of things wrong with it. (It's Joe's vocals, mainly, if we're being honest.) While I applaud the bold decision to follow 1987's **Surfing with the Alien** – a 10-track purely instrumental barnstormer that changed the musical landscape – with an 18-track opus, 6 of which being vocal tracks, in hindsight I'd rather Joe had stuck to the winning formula (of course, he returned to that exact formula with spectacular results in [1992](__GHOST_URL__/clives-album-of-the-year-1992)). That said, many of the instrumental tracks on here are Joe's best work ever – the title track, "The Forgotten pt. 2", "Back to Shalla-Bal", "The Mystical Potato Head Groove Thing" – these are all incredible tracks, and no-one's denying that. There's just a bit much filler in between the killers, and it's mostly the singy ones, I'm afraid. **Top track:** "Flying in a Blue Dream"
+OK, so some might think this should win 1989, and while it is an astoundingly good and indispensable album, there are a number of things wrong with it. (It's Joe's vocals, mainly, if we're being honest.) While I applaud the bold decision to follow 1987's **Surfing with the Alien** – a 10-track purely instrumental barnstormer that changed the musical landscape – with an 18-track opus, 6 of which being vocal tracks, in hindsight I'd rather Joe had stuck to the winning formula (of course, he returned to that exact formula with spectacular results in [1992](/clives-album-of-the-year-1992)). That said, many of the instrumental tracks on here are Joe's best work ever – the title track, "The Forgotten pt. 2", "Back to Shalla-Bal", "The Mystical Potato Head Groove Thing" – these are all incredible tracks, and no-one's denying that. There's just a bit much filler in between the killers, and it's mostly the singy ones, I'm afraid. **Top track:** "Flying in a Blue Dream"
 
 ### [Skid Row](https://www.skidrow.com/) - [Skid Row](https://www.amazon.co.uk/d/Digital-Music/Skid-Row/B002G2YIOE/)
 
@@ -69,7 +69,7 @@ As the Cove himself is wont to say, 'Here's a song for ya'. In fact, here's ten,
 
 ### [Aerosmith](http://www.aerosmith.com/) - [Pump](https://www.amazon.co.uk/Pump-Aerosmith/dp/B000000ORO/)
 
-![Aerosmith - Pump](__GHOST_URL__/content/images/2017/03/pump.jpg)
+![Aerosmith - Pump](/public/images/2017/03/pump.jpg)
 
 OK, before we start - yes, **Permanent Vacation** is fine. Not much wrong with it at all. But this knocks it into a cocked chimp from a mile away.
 

@@ -17,7 +17,7 @@ During this, the idea of doing a lockdown video for one of our unreleased songs 
 
 Which is why there is this:
 
-![An idiot in the headlights](__GHOST_URL__/content/images/2020/05/IMG_5042.jpg)
+![An idiot in the headlights](/public/images/2020/05/IMG_5042.jpg)
 
 It’ll be slow going. The other guys have busy lives and I have a lot to learn about video editing. It’s possible that lockdown will be over before we get it done. But, I think we’re going to do it either way.
 

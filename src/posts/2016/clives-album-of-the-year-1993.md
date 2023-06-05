@@ -17,7 +17,7 @@ Among those getting comfortable in pine were [Dizzy Gillespie](https://en.wikipe
 
 But this was over 20 years ago… who did we gain? With whom did the universe replace all these people? Well… To be honest, I had a look down the 1993 births list and by the time I'd got to September, the only name I had recognised was someone out of One Direction (and that only because I read too much Twitter). We'll try that again next time, maybe.
 
-Meanwhile, in the land of rock, things had started to [go very wrong indeed](__GHOST_URL__/the-dark-times/)…
+Meanwhile, in the land of rock, things had started to [go very wrong indeed](/the-dark-times/)…
 
 ## Honourable mentions
 
@@ -45,7 +45,7 @@ Ah well, now. You have to realise that *Vai* was the biggest thing in guitar at 
 
 ### [Sting](http://www.sting.com/) - [Ten Summoner's Tales](https://www.amazon.co.uk/Ten-Summoners-Tales-Sting/dp/B00000744Y/)
 
-![Sting - Ten Summoner's Tales](__GHOST_URL__/content/images/2016/11/tensum400.jpg)
+![Sting - Ten Summoner's Tales](/public/images/2016/11/tensum400.jpg)
 
 So yeah, it's cool to think that *Sting* is a twat. So what? It's probably the norm to dismiss all his music as poncey pop garbage. With some of it I agree, but not this album. This album is sublime.
 

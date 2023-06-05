@@ -13,7 +13,7 @@ A blizzard hit the eastern States of the US killing over 150 in January, and the
 
 Setting out on the final journey were (as always, etc.) [François Mitterand](http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand), [Gene Kelly](http://en.wikipedia.org/wiki/Gene_Kelly), [Bob Paisley](http://en.wikipedia.org/wiki/Bob_Paisley), [George Burns](http://en.wikipedia.org/wiki/George_Burns), [Saul Bass](http://en.wikipedia.org/wiki/Saul_Bass), [The Third Doctor (John Pertwee)](http://en.wikipedia.org/wiki/Jon_Pertwee), [Timothy Leary](http://en.wikipedia.org/wiki/Timothy_Leary), [Ella Fitzgerald](http://en.wikipedia.org/wiki/Ella_Fitzgerald), [2Pac](http://en.wikipedia.org/wiki/Tupac_Shakur), [Leslie Crowther](http://en.wikipedia.org/wiki/Leslie_Crowther), [Beryl Reid](http://en.wikipedia.org/wiki/Beryl_Reid), [Eva Cassidy](http://en.wikipedia.org/wiki/Eva_Cassidy), [Willie Rushton](http://en.wikipedia.org/wiki/Willie_Rushton) and [Carl Sagan](http://en.wikipedia.org/wiki/Carl_Sagan).
 
-I was working in a bar in my hometown of Eastbourne, and praying for [hard rock to come back](__GHOST_URL__/the-dark-times/).
+I was working in a bar in my hometown of Eastbourne, and praying for [hard rock to come back](/the-dark-times/).
 
 ## Honourable mentions
 
@@ -41,7 +41,7 @@ As has been mentioned before I was a little late picking up on the Essex outfit'
 
 ### [The Presidents of the USA](http://www.presidentsrock.com/) - [The Presidents of the USA II](http://www.amazon.co.uk/Presidents-United-States-America-II/dp/B000002BIN/)
 
-![The Presidents of the USA - The Presidents of the USA II](__GHOST_URL__/content/images/2018/03/515KJ2EEJAL.jpg)
+![The Presidents of the USA - The Presidents of the USA II](/public/images/2018/03/515KJ2EEJAL.jpg)
 
 *PUSA!*
 
@@ -59,4 +59,4 @@ Unique, if nothing else.
 
 ### [Mr. Big](http://www.mrbigsite.com/) - [Hey Man](http://www.amazon.co.uk/Hey-Man-Mr-Big/dp/B000024Z3I/)
 
-No no no. The one before, **Bump Ahead** had gotten ballad-heavy and nondescript enough for me to consign it to the "probably won't listen to that again" CD pile, and this one (the last before Paul Gilbert left, though he did return 15 years later) really felt like everyone was phoning it in or just didn't know quite what they should sound like. This was [The Dark Times](__GHOST_URL__/the-dark-times) after all…
+No no no. The one before, **Bump Ahead** had gotten ballad-heavy and nondescript enough for me to consign it to the "probably won't listen to that again" CD pile, and this one (the last before Paul Gilbert left, though he did return 15 years later) really felt like everyone was phoning it in or just didn't know quite what they should sound like. This was [The Dark Times](/the-dark-times) after all…

@@ -31,7 +31,7 @@ No idea where I first heard "Nobody's Real" but when I did it made me want more,
 
 ### [Red Hot Chilli Peppers](http://) - [Californication](http://)
 
-This was the *Chillis*' first studio album in four years, and marked the return of John Frusciante on the six-string twangplank. It remains their best-selling album ever, though for my money it's slightly bettered by [2002](__GHOST_URL__/clives-album-of-the-year-2002/)'s **By The Way**. Still great though. **Top track:** "Scar Tissue"
+This was the *Chillis*' first studio album in four years, and marked the return of John Frusciante on the six-string twangplank. It remains their best-selling album ever, though for my money it's slightly bettered by [2002](/clives-album-of-the-year-2002/)'s **By The Way**. Still great though. **Top track:** "Scar Tissue"
 
 ### [Stereophonics](http://www.stereophonics.com/) - [Performance And Cocktails](http://www.amazon.co.uk/Performance-Cocktails-Stereophonics/dp/B00000ILO7/)
 
@@ -41,7 +41,7 @@ The *'phonics* were everywhere in 1999. You couldn't move for "The Bartender and
 
 ### [Underworld](http://www.underworldlive.com/) - [Beaucoup Fish](http://www.amazon.co.uk/Beaucoup-Fish-Underworld/dp/B000023Y31/)
 
-![Underworld - Beaucoup Fish](__GHOST_URL__/content/images/2018/03/u.jpg)
+![Underworld - Beaucoup Fish](/public/images/2018/03/u.jpg)
 
 King of Snake, King of Snake.
 

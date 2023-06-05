@@ -19,28 +19,28 @@ I've lived with my 2013 shortlist for a full year now, and have thus decreed:
 
 ### [Alter Bridge](http://www.alterbridge.com/) - [Fortress](http://www.amazon.co.uk/Fortress-Alter-Bridge/dp/B00DJ80VL8/)
 
-![Alter Bridge – Fortress](__GHOST_URL__/content/images/2020/05/alter-bridge_fortress.jpeg) Well what more can I say about the semi-divine *Alter Bridge*? Really, you've heard me wax lyrical about them enough. Know this though - this is their heaviest disc to date, and the most cohesive, and the best. Get on it in 2015 if you haven't already. **Top track:** "Addicted to Pain"
+![Alter Bridge – Fortress](/public/images/2020/05/alter-bridge_fortress.jpeg) Well what more can I say about the semi-divine *Alter Bridge*? Really, you've heard me wax lyrical about them enough. Know this though - this is their heaviest disc to date, and the most cohesive, and the best. Get on it in 2015 if you haven't already. **Top track:** "Addicted to Pain"
 
 ### [Ólafur Arnalds](http://olafurarnalds.com/) - [For Now I Am Winter](http://www.amazon.co.uk/Now-I-am-Winter/dp/B00AHUAMYW/)
 
-![Ólafur Arnalds – For Now I Am Winter](__GHOST_URL__/content/images/2020/05/olafur-arnalds_for-now-i-am-winter.jpeg) I think I saw Mr Arnalds on the programme at the Barbican at a *Max Richter* concert and took a gamble on tickets. Top choice. This is his first work to include vocals, and it's utterly gorgeous. **Top track:** "Reclaim"
+![Ólafur Arnalds – For Now I Am Winter](/public/images/2020/05/olafur-arnalds_for-now-i-am-winter.jpeg) I think I saw Mr Arnalds on the programme at the Barbican at a *Max Richter* concert and took a gamble on tickets. Top choice. This is his first work to include vocals, and it's utterly gorgeous. **Top track:** "Reclaim"
 
 ### [David Bowie](http://davidbowie.com/) - [The Next Day](http://www.amazon.co.uk/Next-Day-David-Bowie/dp/B00AYHKIZ6/)
 
-![David Bowie – The Next Day](__GHOST_URL__/content/images/2020/05/david-bowie_the-next-day.jpeg) Bowie infamously recorded this album without even his record company knowing. It was his first release in ten years, and it's the freshest sounding thing he's done in… well, decades. It's great. **Top track:** "The Stars (Are Out Tonight)"
+![David Bowie – The Next Day](/public/images/2020/05/david-bowie_the-next-day.jpeg) Bowie infamously recorded this album without even his record company knowing. It was his first release in ten years, and it's the freshest sounding thing he's done in… well, decades. It's great. **Top track:** "The Stars (Are Out Tonight)"
 
 ### [Hugh Laurie](http://hughlaurieblues.com) - [Didn't It Rain](http://www.amazon.co.uk/Didnt-Rain-Hugh-Laurie/dp/B00BWWA59Q/)
 
-![Hugh Laurie – Didn't It Rain](__GHOST_URL__/content/images/2020/05/hugh-laurie_didnt-it-rain.jpeg) While I loved Hugh's first blues album, I did find the roster of guest vocalists a touch irritating when Hugh's own voice is so soulful and gritty. Great, then, that this album sees him tying things down with his Copper Bottom Band and singing most of the leads himself. Better than the first one, if such an idea is to be entertained. **Top track:** "One For My Baby"
+![Hugh Laurie – Didn't It Rain](/public/images/2020/05/hugh-laurie_didnt-it-rain.jpeg) While I loved Hugh's first blues album, I did find the roster of guest vocalists a touch irritating when Hugh's own voice is so soulful and gritty. Great, then, that this album sees him tying things down with his Copper Bottom Band and singing most of the leads himself. Better than the first one, if such an idea is to be entertained. **Top track:** "One For My Baby"
 
 ### [Plini](http://http://plini.bandcamp.com/)/[Sithu Aye](http://http://sithuayemusic.bandcamp.com/) - [I](http://http://plini.bandcamp.com/album/i)
 
-![Plini/Sithu Aye – I](__GHOST_URL__/content/images/2020/05/plini_sithu-aye_i.jpg) Well. These guys. *Plini* from Sydney and *Sithu Aye* from somewhere in Scotland have between them reinvented what it is to be a young shit-hot solo guitar player, by having amazing production chops, great songwriting abilities, technique out the yin-yang, incredible musical sensibilities and a massive amount of fun releasing music. Or so it appears, anyway. Check out [both](http://plini.bandcamp.com/) of [their](http://sithuayemusic.bandcamp.com/) catalogues on Bandcamp while you're about it. **Top track:** "Rupture"
+![Plini/Sithu Aye – I](/public/images/2020/05/plini_sithu-aye_i.jpg) Well. These guys. *Plini* from Sydney and *Sithu Aye* from somewhere in Scotland have between them reinvented what it is to be a young shit-hot solo guitar player, by having amazing production chops, great songwriting abilities, technique out the yin-yang, incredible musical sensibilities and a massive amount of fun releasing music. Or so it appears, anyway. Check out [both](http://plini.bandcamp.com/) of [their](http://sithuayemusic.bandcamp.com/) catalogues on Bandcamp while you're about it. **Top track:** "Rupture"
 
 ## And the winner is…
 
 ### [Jon Gomm](http://jongomm.com) - [Secrets Nobody Keeps](http://http://jongomm.com/cds)
-![Jon Gomm - Secrets Nobody Keeps](__GHOST_URL__/content/images/2018/03/26622225_500_500.jpg)
+![Jon Gomm - Secrets Nobody Keeps](/public/images/2018/03/26622225_500_500.jpg)
 Jon is flat-out one of the most incredible musicians I can name, and if you've never heard of him I urge you to stop here and spend the next 7 minutes watching his incredible [Passionflower](https://www.youtube.com/watch?v=nY7GnAq6Znw).
 
 Yes, he really is doing all that live, at once. He pretty damned good, n'est-ce pas? I confess to not really digging his previous album **Don't Panic** - I'm not sure why, really, I think I just didn't get on with the production, or his vocals at the time, or something like that. But this album is flawless from start to finish.

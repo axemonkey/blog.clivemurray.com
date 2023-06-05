@@ -18,4 +18,4 @@ We'll be back, we're sure. We've been doing this since before the word "blogging
 Just give me a little bit longer, that's all I ask.
 
 In the meantime, here is a picture of some cats.
-![A photo of two cats laying together on a tiled floor](__GHOST_URL__/content/images/2020/02/two-cats.jpg)Two cats (not mine)
+![A photo of two cats laying together on a tiled floor](/public/images/2020/02/two-cats.jpg)Two cats (not mine)

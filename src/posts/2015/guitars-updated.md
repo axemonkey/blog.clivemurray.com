@@ -7,4 +7,4 @@ tags: Guitar
 excerpt: Just made a bunch of updates to the guitars page.
 ---
 
-Just made a bunch of updates to the [guitars page](__GHOST_URL__/guitars/), including updated photos of several of the axes, plus a little detail on the sad fate of Project Jem.
+Just made a bunch of updates to the [guitars page](/guitars/), including updated photos of several of the axes, plus a little detail on the sad fate of Project Jem.

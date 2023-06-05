@@ -11,7 +11,7 @@ Hark you, and listen.
 
 In 1926 in the city of Liverpool there was born a boy, and today would have been his 92nd birthday had Hodgkin’s Lymphoma not taken him six years ago. This man was Thomas Shildhauer, son of Godfrey Ernest and (forgive me, I think she was perhaps Elizabeth?) and brother to Ernie (RIP) and Ronnie (still going strong), grandson of Gottlieb of Dessau, Germany.
 
-![Tom](__GHOST_URL__/content/images/2018/07/dad1.jpg)
+![Tom](/public/images/2018/07/dad1.jpg)
 
 A very VERY large part of who and what I am is Tom. Anyone who knew Tom, knew Tom. He and my mother were, as I understand it, forces of nature in a time (the 70s) when men and women were goddamn doing what felt right, and no-one was telling them not to. It’s potentially no surprise that when I was born, upon leaving the hospital in Eastbourne, my parents went not home to bed for rest and recuperation, but to the bar where my Mum worked and I was immediately passed around among the staff and regulars for admiration and adoration while my parents had a much needed drink or three.
 
@@ -21,7 +21,7 @@ My Dad was 47 when I was born, and was no stranger to the family whirlwind. Whil
 
 “No regrets”, right? The clarion call of the naïve. I tear up now at the thought that if I’d got my damned act together a few years earlier, both Tom and Ann could have met my son and bounced him on their knees.
 
-![Me, Mum, Dad (at Grandma’s)](__GHOST_URL__/content/images/2018/07/me-mum-and-dad-at-grandma-s.jpg)
+![Me, Mum, Dad (at Grandma’s)](/public/images/2018/07/me-mum-and-dad-at-grandma-s.jpg)
 
 [interlude, which involves beer]
 

@@ -1,21 +1,59 @@
 ---
-"permalink": "/{{ title | slugify }}/"
+"permalink": "/{{ slug }}/"
+"layoutType": "post"
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ title }}</title>
+	<title>{{ title }}</title>
+	{{> headparts }}
 </head>
-<body>
-  <header>
-    <h1>Site Header - post layout</h1>
-    <a href="/About">About</a>
-  </header>
-  <main>
-    {{{ content }}}
-  </main>
-  <footer>Site Footer</footer>
+<body class="post-template">
+
+	<div class="site-wrapper">
+
+			{{> header }}
+
+			<main id="site-main" class="site-main outer">
+
+				<div class="inner">
+
+					<article class="post-full post">
+
+						<header class="post-full-header">
+							{{!-- <section class="post-full-tags"></section> --}}
+
+							<h1 class="post-full-title">{{ title }}</h1>
+
+							{{> byline }}
+
+						</header>
+
+						{{!-- <figure class="post-full-image"></figure> --}}
+
+						<section class="post-full-content">
+
+							<div class="post-content">
+
+<!-- BEGIN MARKDOWN OUTPUT -->
+{{{ content }}}
+<!-- BEGIN MARKDOWN OUTPUT -->
+
+							</div>
+
+						</section>
+
+					</article>
+
+				</div>
+
+			</main>
+
+			{{> footer }}
+
+	</div>
+
+	{{> script }}
+
 </body>
 </html>

@@ -45,7 +45,7 @@ So we know what Roth did when he quit *Van Halen*, but what did the rest of his 
 
 ### [Peter Gabriel](http://www.petergabriel.com/) - [So](https://www.amazon.co.uk/So-Remastered-Peter-Gabriel/dp/B00RK6SDG0/)
 
-![Peter Gabriel - So](__GHOST_URL__/content/images/2017/11/MI0003431369.jpg)
+![Peter Gabriel - So](/public/images/2017/11/MI0003431369.jpg)
 
 I simply will never get bored of this album, as long as I live. I adore everything about it. From the swelling intro to “Red Rain” right to the closing repeated phrases of “This Is the Picture”, there is not a sound on this album that I am not eternally in love with. As an aside, it is also forever linked in my mind to the Clive Barker book “Imajica”, which I was reading when I first discovered this album. I recommend them for simultaneous use.
 

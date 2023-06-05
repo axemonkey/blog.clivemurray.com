@@ -13,34 +13,34 @@ The reaper came for [Hunter S. Thompson](http://en.wikipedia.org/wiki/Hunter_S._
 
 I can't remember anything at all about what I was up to at that time, other than I was playing guitar in Little Monkeys, which means I must have been enjoying myself.
 
-Unfortunately, even though [The Dark Times](__GHOST_URL__/the-dark-times/) had ended by 2005, this was not a great year for music.
+Unfortunately, even though [The Dark Times](/the-dark-times/) had ended by 2005, this was not a great year for music.
 
 ## Honourable mentions
 
 ### [Crashdïet](http://www.crashdiet.org/) - [Rest in Sleaze](http://www.amazon.co.uk/Rest-In-Sleaze-Crashdiet/dp/B000B6TRQ6/)
 
-![Crashdïet – Rest in Sleaze](__GHOST_URL__/content/images/2020/06/crashdiet_rest-in-sleaze.jpg) These Swedish glamsters were at the forefront of the new wave of sleaze and glam metal, and this - their debut - is their best album to date, featuring as it does the vocal stylings of the late Dave Lepard. Nothing outstandingly original here, but delivered with flair and conviction at a time when it was sorely needed. **Top track:** "It's a Miracle"
+![Crashdïet – Rest in Sleaze](/public/images/2020/06/crashdiet_rest-in-sleaze.jpg) These Swedish glamsters were at the forefront of the new wave of sleaze and glam metal, and this - their debut - is their best album to date, featuring as it does the vocal stylings of the late Dave Lepard. Nothing outstandingly original here, but delivered with flair and conviction at a time when it was sorely needed. **Top track:** "It's a Miracle"
 
 ### [Forty Deuce](http://en.wikipedia.org/wiki/Nothing_to_Lose_%28Forty_Deuce_album%29) - [Nothing to Lose](http://www.amazon.co.uk/Nothing-Lose-Forty-Deuce/dp/B000H9I0Z6/)
 
-![Forty Deuce – Nothing to Lose](__GHOST_URL__/content/images/2020/06/forty-deuce_nothing-to-lose.jpg) I've been a *Richie Kotzen* fan for a long time, but always wished he would record more hard rock - it's been a while since **Fever Dream**, after all - so this (recorded, I assume, when he reached age 42) was a welcome find. **Top track:** "Oh My God"
+![Forty Deuce – Nothing to Lose](/public/images/2020/06/forty-deuce_nothing-to-lose.jpg) I've been a *Richie Kotzen* fan for a long time, but always wished he would record more hard rock - it's been a while since **Fever Dream**, after all - so this (recorded, I assume, when he reached age 42) was a welcome find. **Top track:** "Oh My God"
 
 ### [Hardcore Superstar](http://www.hardcoresuperstar.com/) - [Hardcore Superstar](http://www.amazon.co.uk/Hardcore-Superstar/dp/B000GIWSA6/)
 
-![Hardcore Superstar – Hardcore Superstar](__GHOST_URL__/content/images/2020/06/hardcore-superstar_hardcore-superstar.jpg) It's Swedish glamster time again. These guys have been banging it out since the late 90s and while their earlier efforts were somewhat naïve to say the least, their writing has matured over time and this eponymous release (their fourth album) is a really good cohesive listen. Bung it on and crack a beer. **Top track:** "We Don't Celebrate Sundays"
+![Hardcore Superstar – Hardcore Superstar](/public/images/2020/06/hardcore-superstar_hardcore-superstar.jpg) It's Swedish glamster time again. These guys have been banging it out since the late 90s and while their earlier efforts were somewhat naïve to say the least, their writing has matured over time and this eponymous release (their fourth album) is a really good cohesive listen. Bung it on and crack a beer. **Top track:** "We Don't Celebrate Sundays"
 
 ### [John 5](http://www.john-5.com/) - [Songs For Sanity](http://www.amazon.co.uk/Songs-Sanity-John-5/dp/B000A87WOE/)
 
-![John 5 – Songs For Sanity](__GHOST_URL__/content/images/2020/06/john-5_songs-for-sanity.jpg) When I first heard Señor Cinco's debut solo album **Vertigo** I thought to myself, "Wow, that's really something, even if the production isn't quite what it could be. I bet his next album will be a cracker." It is. **Top track:** "Perineum"
+![John 5 – Songs For Sanity](/public/images/2020/06/john-5_songs-for-sanity.jpg) When I first heard Señor Cinco's debut solo album **Vertigo** I thought to myself, "Wow, that's really something, even if the production isn't quite what it could be. I bet his next album will be a cracker." It is. **Top track:** "Perineum"
 
 ### [John Petrucci](http://www.johnpetrucci.com/) - [Suspended Animation](http://www.amazon.co.uk/Suspended-Animation-Import-JOHN-PETRUCCI/dp/B0009ZEC2I/)
 
-![John Petrucci – Suspended Animation](__GHOST_URL__/content/images/2020/06/john-petrucci_suspended-animation.jpg) Warning: contains notes. I was all set to write off Petrucci's solo album as a dull shredwankfest, but it's actually pretty damn good. Some of the melodies are downright catchy. Really good to hear what he gets up to outside of *Dream Theater*. Reminiscent of *Steve Morse* in places too, which is never a bad thing. **Top track:** "Glasgow Kiss"
+![John Petrucci – Suspended Animation](/public/images/2020/06/john-petrucci_suspended-animation.jpg) Warning: contains notes. I was all set to write off Petrucci's solo album as a dull shredwankfest, but it's actually pretty damn good. Some of the melodies are downright catchy. Really good to hear what he gets up to outside of *Dream Theater*. Reminiscent of *Steve Morse* in places too, which is never a bad thing. **Top track:** "Glasgow Kiss"
 
 ## And the winner is...
 
 ### [Coheed and Cambria](http://www.coheedandcambria.com/) - [Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness](http://www.amazon.co.uk/Good-Apollo-Burning-Star-One/dp/B000AS1H9K/)
-![Coheed and Cambria - Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness](__GHOST_URL__/content/images/2020/06/coheed-and-cambria_good-apollo-im-burning-star-iv-from-fear-through-the-eyes-of-madness.jpeg)
+![Coheed and Cambria - Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness](/public/images/2020/06/coheed-and-cambria_good-apollo-im-burning-star-iv-from-fear-through-the-eyes-of-madness.jpeg)
 Hinted at before, this is of course the gold medal for "Longest Album Title" in my music collection. If you know nothing of [**C&C**](http://coheed.wikia.com/wiki/Coheed_And_Cambria), the formidably-maned [Claudio Sanchez](http://coheed.wikia.com/wiki/Claudio_Sanchez), [The Amory Wars](http://coheed.wikia.com/wiki/The_Amory_Wars) or [The Bag.On.Line Adventures](http://coheed.wikia.com/wiki/The_Bag.On.Line_Adventures), don't worry about it. This is a fantastic album of catchy, interesting proggy rock songs in its own right and you don't need to worry about the ongoing comic/book/graphic novel sci-fi saga that underlies the sequence of albums. Honestly. Don't concern yourself with the fact that one of the tracks is written from the point of view of the story's writer hallucinating a demented ten-speed bicycle which is a manifestation of his own subconscious and is guiding him to kill off one of the characters within the main story itself. It's not important.
 
 Just stick it on and enjoy it.

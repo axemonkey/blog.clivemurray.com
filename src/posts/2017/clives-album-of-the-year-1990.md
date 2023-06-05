@@ -41,7 +41,7 @@ Well, now. *Lynch Mob*, eh? Yeah. See, George Lynch is utterly amazing, but I ju
 
 ### [Pantera](http://pantera.com/) - [Cowboys From Hell](https://www.amazon.co.uk/d/CDs-Vinyl/Cowboys-Hell-Pantera/B000002JNJ/)
 
-What else to say about *Pantera*? Not much that wasn't covered [previously](__GHOST_URL__/clives-album-of-the-year-1992/), really. This was the breakout album for the Texan four-piece, and pretty much invented and established the subgenre of [groove metal](https://en.wikipedia.org/wiki/Groove_metal). Fun fact: breakout album? Yes. Debut album? Nope. They released four albums before this one, three of which were glam. Yes, glam. Go look it up if you don't believe me. (I've never listened to any of them, they might be awesome. I somehow doubt it though…) In almost any other year, this would floor all comers. **Top track:** "Cemetery Gates"
+What else to say about *Pantera*? Not much that wasn't covered [previously](/clives-album-of-the-year-1992/), really. This was the breakout album for the Texan four-piece, and pretty much invented and established the subgenre of [groove metal](https://en.wikipedia.org/wiki/Groove_metal). Fun fact: breakout album? Yes. Debut album? Nope. They released four albums before this one, three of which were glam. Yes, glam. Go look it up if you don't believe me. (I've never listened to any of them, they might be awesome. I somehow doubt it though…) In almost any other year, this would floor all comers. **Top track:** "Cemetery Gates"
 
 ### [Queensrÿche](http://www.queensrycheofficial.com/) - [Empire](https://www.amazon.co.uk/Empire-Queensr%C3%BFche/dp/B00009L1UP/)
 
@@ -49,7 +49,7 @@ Oh my god, this album. I'd seen [Guitar World](http://www.guitarworld.com/) and 
 
 ### [Thunder](http://www.thunderonline.com/) - [Back Street Symphony](https://www.amazon.co.uk/Backstreet-Symphony-Thunder/dp/B0000074GK/)
 
-Awwww, *Thunder*! You have to love them. Not only did they keep on slogging all the way through [The Dark Times](__GHOST_URL__/the-dark-times), they genuinely seem to still be having a great time doing it. Even now! This album was their debut, and it's really great fun. **Top track:** "She's So Fine"
+Awwww, *Thunder*! You have to love them. Not only did they keep on slogging all the way through [The Dark Times](/the-dark-times), they genuinely seem to still be having a great time doing it. Even now! This album was their debut, and it's really great fun. **Top track:** "She's So Fine"
 
 ### [Winger](http://www.wingertheband.com/) - [In the Heart of the Young](https://www.amazon.co.uk/Heart-Young-Winger/dp/B000002IPL/)
 
@@ -59,7 +59,7 @@ OK, yes. Po-faced poodle-y hair metal that took itself too seriously could perha
 
 ### [Steve Vai](http://www.vai.com/) - [Passion and Warfare](https://www.amazon.co.uk/Passion-Warfare-Steve-Vai/dp/B000025I5U/)
 
-![Steve Vai - Passion and Warfare](__GHOST_URL__/content/images/2017/03/rsz_f80d5e3152f34fc17e980471a1b2926fe35c2e0a37476f321e153c0b4fcc7992.jpg)
+![Steve Vai - Passion and Warfare](/public/images/2017/03/rsz_f80d5e3152f34fc17e980471a1b2926fe35c2e0a37476f321e153c0b4fcc7992.jpg)
 
 Whooo-whee. OK.
 

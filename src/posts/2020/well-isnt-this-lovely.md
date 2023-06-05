@@ -19,10 +19,10 @@ Eagle-eyed listeners will note there isn't really a point to this post. You're r
 
 I hope you're still there and that it's going ok too.
 
-I hope to fit in some proper blogging during the coming weeks, if only to prevent my brain from eating itself. I've half-written the "H" entry of the [A-Z](__GHOST_URL__/a-z/), and I'm still whittling the shortlist for 2019's [Album of the Year](__GHOST_URL__/aoty/). I know, I bet you're on the edge of your wossname.
+I hope to fit in some proper blogging during the coming weeks, if only to prevent my brain from eating itself. I've half-written the "H" entry of the [A-Z](/a-z/), and I'm still whittling the shortlist for 2019's [Album of the Year](/aoty/). I know, I bet you're on the edge of your wossname.
 
 So that's it for now. Stay safe, stay home, stay hydrated, stay frosty.
 
 Find me on [Twitter](https://twitter.com/axemonkey) or [Instagram](https://www.instagram.com/axemonkey/) if you want.
 
-![hi](__GHOST_URL__/content/images/2020/03/IMG_3890.jpg)
+![hi](/public/images/2020/03/IMG_3890.jpg)

@@ -7,6 +7,6 @@ date_updated: 2019-04-09T09:34:38.000Z
 
 I just bought a house.
 
-![A house](__GHOST_URL__/content/images/2019/04/hoose-1.jpg)
+![A house](/public/images/2019/04/hoose-1.jpg)
 
 (It's that one.)

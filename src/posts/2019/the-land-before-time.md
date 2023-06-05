@@ -8,4 +8,4 @@ tags: Your Illustrious Host
 
 Me aged 22.
 
-![clive22](__GHOST_URL__/content/images/2019/03/clive22.jpg)
+![clive22](/public/images/2019/03/clive22.jpg)

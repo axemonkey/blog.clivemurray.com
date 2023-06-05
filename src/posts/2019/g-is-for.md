@@ -19,7 +19,7 @@ Andy took my breath away with that, but it was Jon who clean knocked me off my f
 
 ## Clive recommends:
 
-Jon’s been a busy touring lad of late, so we’re still waiting for new material since [2013](__GHOST_URL__/clives-album-of-the-year-2013/)’s amazing **[Secrets Nobody Keeps](https://www.jongomm.com/cds-autographed-cds)**, but if you don’t have that yet, you’re doing it wrong. Stop that right now.
+Jon’s been a busy touring lad of late, so we’re still waiting for new material since [2013](/clives-album-of-the-year-2013/)’s amazing **[Secrets Nobody Keeps](https://www.jongomm.com/cds-autographed-cds)**, but if you don’t have that yet, you’re doing it wrong. Stop that right now.
 
 ## Video evidence
 

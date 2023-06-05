@@ -7,7 +7,7 @@ tags: Music, Albums of the Years, Your Illustrious Host
 excerpt: Small point of order – I have retroactively changed Clive's Album of the Year 2011.
 ---
 
-Small point of order – I have retroactively changed [Clive's Album of the Year 2011](__GHOST_URL__/clives-album-of-the-year-2011/).
+Small point of order – I have retroactively changed [Clive's Album of the Year 2011](/clives-album-of-the-year-2011/).
 
 The more time went by, the less **Steel Panther** felt like a good fit, so they're out. I still like them, but the joke has worn thin now, and it just doesn't feel very... woke, as I believe people say these days.
 

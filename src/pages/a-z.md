@@ -10,13 +10,13 @@ Never did come up with a snappier title for this. But then, it's evidently still
 
 Anyway. Here's who we have so far:
 
-- A is for... [*Amorphis*](__GHOST_URL__/a-is-for)
-- B is for... [*Sebastian Bach*](__GHOST_URL__/b-is-for)
-- C is for... [*Cloudkicker*](__GHOST_URL__/c-is-for)
-- D is for... [*The Dead Daisies*](__GHOST_URL__/d-is-for)
-- E is for... [*Elbow*](__GHOST_URL__/e-is-for)
-- F is for... [*Frost**](__GHOST_URL__/f-is-for)
-- G is for... [*Jon Gomm*](__GHOST_URL__/g-is-for)
-- H is for... [*Daniel Hope*](__GHOST_URL__/h-is-for)
-- I is for... [*It Bites*](__GHOST_URL__/i-is-for)
-- J is for... [*Al Joseph*](__GHOST_URL__/j-is-for)
+- A is for... [*Amorphis*](/a-is-for)
+- B is for... [*Sebastian Bach*](/b-is-for)
+- C is for... [*Cloudkicker*](/c-is-for)
+- D is for... [*The Dead Daisies*](/d-is-for)
+- E is for... [*Elbow*](/e-is-for)
+- F is for... [*Frost**](/f-is-for)
+- G is for... [*Jon Gomm*](/g-is-for)
+- H is for... [*Daniel Hope*](/h-is-for)
+- I is for... [*It Bites*](/i-is-for)
+- J is for... [*Al Joseph*](/j-is-for)

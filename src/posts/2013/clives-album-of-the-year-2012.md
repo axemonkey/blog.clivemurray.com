@@ -14,30 +14,30 @@ tags: Music, Albums of the Years
 
 ### [Chimp Spanner](http://chimpspanner.com/) - [All Roads Lead Here](http://www.amazon.co.uk/Roads-Lead-Here-Chimp-Spanner/dp/B006QS9NCQ)
 
-![Chimp Spanner – All Roads Lead Here](__GHOST_URL__/content/images/2020/05/chimp-spanner_all-roads-lead-here.jpeg) Just 6 tracks, but 100% awesome. Some incredible guitar work here from Paul Ortiz. If you haven't tried the genre give this a go. **Top track:** "Cloud City"
+![Chimp Spanner – All Roads Lead Here](/public/images/2020/05/chimp-spanner_all-roads-lead-here.jpeg) Just 6 tracks, but 100% awesome. Some incredible guitar work here from Paul Ortiz. If you haven't tried the genre give this a go. **Top track:** "Cloud City"
 
 ### [Grand Magus](http://www.grandmagus.com/) - [The Hunt](http://www.amazon.co.uk/Hunt-Grand-Magus/dp/B007PF5U8K)
 
-![Grand Magus – The Hunt](__GHOST_URL__/content/images/2020/05/grand-magus_the-hunt.jpeg) Real good honest-to-horned-gods metal, from a Swedish power trio. Love JB's voice. If you don't like this, you don't like metal. It's that simple. **Top track:** "Silver Moon"
+![Grand Magus – The Hunt](/public/images/2020/05/grand-magus_the-hunt.jpeg) Real good honest-to-horned-gods metal, from a Swedish power trio. Love JB's voice. If you don't like this, you don't like metal. It's that simple. **Top track:** "Silver Moon"
 
 ### [Max Richter](http://www.maxrichtermusic.com/) - [Recomposed by Max Richter: Vivaldi, The Four Seasons](http://www.amazon.co.uk/Recomposed-Max-Richter-Vivaldi-Seasons/dp/B009HOU672)
 
-![Max Richter – Recomposed by Max Richter: Vivaldi, The Four Seasons](__GHOST_URL__/content/images/2020/05/max-richter_vivaldi-the-four-seasons.jpeg) I love *Max Richter*'s minimalist neo-modern classical stuff, and if that's too poncy a sentence for you then I quite understand. But his reworking of Vivaldi's classic is absolutely sublime. I'm listening to it right now, in fact. Are you? **Top track:** "Winter 1"
+![Max Richter – Recomposed by Max Richter: Vivaldi, The Four Seasons](/public/images/2020/05/max-richter_vivaldi-the-four-seasons.jpeg) I love *Max Richter*'s minimalist neo-modern classical stuff, and if that's too poncy a sentence for you then I quite understand. But his reworking of Vivaldi's classic is absolutely sublime. I'm listening to it right now, in fact. Are you? **Top track:** "Winter 1"
 
 ### [Savage Messiah](http://en.wikipedia.org/wiki/Savage_Messiah_%28band%29) - [Plague of Conscience](http://www.amazon.co.uk/Plague-Conscience-Savage-Messiah/dp/B005KNMYZQ)
 
-![Savage Messiah – Plague of Conscience](__GHOST_URL__/content/images/2020/05/savage-messiah_plague-of-conscience.jpeg) If you like your metal traditional, angst-free, long-haired, beer-fuelled and up-front, then *Savage Messiah* are for you. **Fun fact**: in the mid 2000s I was in a band with *Savage Messiah*'s lead guitarist Joff Bailey. **Top track:** "In Thought Alone"
+![Savage Messiah – Plague of Conscience](/public/images/2020/05/savage-messiah_plague-of-conscience.jpeg) If you like your metal traditional, angst-free, long-haired, beer-fuelled and up-front, then *Savage Messiah* are for you. **Fun fact**: in the mid 2000s I was in a band with *Savage Messiah*'s lead guitarist Joff Bailey. **Top track:** "In Thought Alone"
 
 ### [Tremonti](http://www.marktremonti.com/) - [All I Was](http://www.amazon.co.uk/All-I-Was-Tremonti/dp/B008B2IIYE)
 
-![Tremonti – All I Was](__GHOST_URL__/content/images/2020/05/tremonti_all-i-was.jpg) I was never a huge fan of *Creed*, far preferring the heavier *Alter Bridge* and the preternatural Myles Kennedy's voice over the frankly-a-bit-whingey Scott Stapp's, but I didn't know what to expect when Mark Tremonti - guitarist for both bands - launched a solo album. What I got was bloody good though. **Top track:** "Brains"
+![Tremonti – All I Was](/public/images/2020/05/tremonti_all-i-was.jpg) I was never a huge fan of *Creed*, far preferring the heavier *Alter Bridge* and the preternatural Myles Kennedy's voice over the frankly-a-bit-whingey Scott Stapp's, but I didn't know what to expect when Mark Tremonti - guitarist for both bands - launched a solo album. What I got was bloody good though. **Top track:** "Brains"
 
 ---
 
 ## And the winner is...
 
 ### [Flying Colors](http://flyingcolorsmusic.com/) - [Flying Colors](http://www.amazon.co.uk/Flying-Colors-Limited/dp/B006Z9DJ94)
-![Flying Colors - Flying Colors](__GHOST_URL__/content/images/2018/03/rsz_mp3-cover-fc.jpg)
+![Flying Colors - Flying Colors](/public/images/2018/03/rsz_mp3-cover-fc.jpg)
 Supergroups often end up somehow not quite equalling the sum of their parts, be it due to ego clashes, overhype, production nightmares or whatever. But sometimes it does in fact work out - see *Velvet Revolver*, *Audioslave*, *Them Crooked Vultures* and even the *David Lee Roth* band of the late 80s for details. And so it is with *Flying Colors*.
 
 The pedigree of the lineup is unquestionable: on lead guitar we have Steve Morse - solo artist and main axeman for *The Dixie Dregs* and latterly *Deep Purple*, he is an absolute star in the six-string heavens and would be considered "most valuable player" in any normal band lucky enough to have him. Versatile, tasteful, and - like Bruce Dickinson of *Iron Maiden* - can take over flying the plane on tour if the pilot has a heart attack.

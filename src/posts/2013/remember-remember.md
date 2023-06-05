@@ -20,6 +20,6 @@ I will always remember the 5th of November with mixed feelings. I just need to l
 
 Miss you Dad, you silly sod.
 
-![Me and my Dad](__GHOST_URL__/content/images/2016/11/me-and-dad-1979-or-1980.jpeg)
+![Me and my Dad](/public/images/2016/11/me-and-dad-1979-or-1980.jpeg)
 
 **RIP Tom Murray, 13/7/1926 - 5/11/2012.**

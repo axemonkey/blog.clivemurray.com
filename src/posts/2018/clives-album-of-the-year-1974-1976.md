@@ -15,7 +15,7 @@ The final part. The end, or I suppose, the beginning. Back to 1974, the year of 
 
 ### [Jean-Michel Jarre](https://jeanmicheljarre.com/) - [Oxygene](https://www.amazon.co.uk/Oxyg%C3%A8ne-Jean-Michel-Jarre/dp/B013J553W2/)
 
-![Jean-Michel Jarre - Oxygene](__GHOST_URL__/content/images/2018/01/Oxygene_album_cover-300.jpg)
+![Jean-Michel Jarre - Oxygene](/public/images/2018/01/Oxygene_album_cover-300.jpg)
 
 One of the few artists I got into when I was young (not in 1976, obviously) and before I was gripped by the majesty of rock (and the mystery of roll) was *J-MJ*. I like pretty much all his stuff and always have. **Oxygene** was probably my favourite of his, and "Oxygene 4" was used on the TV in the 70s and 80s all over the place. Still listen to this now and still love it.
 
@@ -37,7 +37,7 @@ Early *Queen* is a mixed bag, but this one gave us lifelong classics "You're My 
 
 ### [Pink Floyd](http://www.pinkfloyd.com/) - [Wish You Were Here](https://www.amazon.co.uk/Wall-2011-Remastered-Version/dp/B005NNYL54/)
 
-![Pink Floyd - Wish You Were Here](__GHOST_URL__/content/images/2018/01/pw-wish-300.jpg)
+![Pink Floyd - Wish You Were Here](/public/images/2018/01/pw-wish-300.jpg)
 
 Worth the price of admission several times over for the title track alone, **Wish You Were Here** is just great. It's great. That's what it is, great. Stick it on. It's great.
 
@@ -55,7 +55,7 @@ Worth the price of admission several times over for the title track alone, **Wis
 
 ### [Queen](http://www.queenonline.com/) - [Sheer Heart Attack](https://www.amazon.co.uk/Sheer-Heart-Attack-2011-Remaster/dp/B004M17ITE/)
 
-![Queen - Sheer Heart Attack](__GHOST_URL__/content/images/2018/01/qu-heart-300.jpg)
+![Queen - Sheer Heart Attack](/public/images/2018/01/qu-heart-300.jpg)
 
 Back to the mixed bag of *Queen* then, to round this thing out. This was in fact their second album of 1974, following the release of **Queen II** earlier on, and it is an entirely different gunnysack of weaselfish than the band's first two albums which were heavily 70s-prog influenced. This for me was where they started to really find their stride and start writing true *Queen* material, and while there are occasional oddities ("Bring Back That Leroy Brown", anyone?) it's otherwise solid and home to not only classics like "Killer Queen", "Brighton Rock" and "Stone Cold Crazy", but my favourite *Queen* song of all time, "Now I'm Here".
 

@@ -1,11 +1,11 @@
 module.exports = function (eleventyConfig) {
-	// eleventyConfig.addPassthroughCopy('blog.clivemurray.com/public');
+	eleventyConfig.addPassthroughCopy('src/public');
 	eleventyConfig.setUseGitIgnore(false);
 	eleventyConfig.setServerOptions({
 		// liveReload: false,
-		// watch: [
-		// 	'blog.clivemurray.com/public/**/*',
-		// ],
+		watch: [
+			'src/public/**/*',
+		],
 		showVersion: true,
 	});
 

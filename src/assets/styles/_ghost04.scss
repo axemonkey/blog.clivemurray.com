@@ -1,0 +1,71 @@
+html,
+body,
+.post-full-content h1,
+.post-full-content h2,
+.post-full-content h3,
+.post-full-content h4,
+.post-full-content h5,
+.post-full-content h6,
+.post-full-content table,
+.post-full-content figcaption,
+.post-full-content .kg-bookmark-container {
+	font-family: Montserrat, sans-serif;
+}
+
+#ghost-portal-root {
+	display: none;
+}
+
+.hm-img,
+.post-full-content .hm-img {
+	float: right;
+	margin: 0 0 5px 10px;
+	box-shadow: 2px 2px 4px rgb(128 128 128 / 50%);
+	border-radius: 3px;
+	border: 1px solid grey;
+}
+
+.winner-img,
+.post-full-content .winner-img,
+.post-full-content img {
+	box-shadow: 4px 4px 6px rgb(128 128 128 / 50%);
+	border-radius: 6px;
+	border: 2px solid grey;
+	max-width: 100%;
+}
+
+.post-full-comments {
+	padding: 2em 100px;
+	border-top: 3px double #ddd;
+	border-bottom: 3px double #ddd;
+}
+
+.post-full-content,
+.post-full-content h5,
+.post-full-custom-excerpt,
+.post-card-excerpt,
+.subscribe-overlay-description {
+	font-family: Spectral, Georgia, serif;
+}
+
+section.support {
+	display: none;
+}
+
+body.home-template section.support {
+	display: block;
+	position: fixed;
+	right: 5px;
+	bottom: 5px;
+	z-index: 1000;
+}
+
+body.post-template section.post-support {
+	display: block;
+	margin: 40px 0 120px;
+	text-align: center;
+}
+
+body.post-template section.post-support .btn-container {
+	margin: auto;
+}

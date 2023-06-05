@@ -67,7 +67,7 @@ First up, I never dug Frank Zappa. It's probably a failing in me, and I have tri
 
 ### [Mr. Big](http://www.mrbigsite.com/) - [Lean Into It](https://www.amazon.co.uk/Lean-Into-Mr-Big/dp/B003X6FS3W/)
 
-![Mr. Big - Lean Into It](__GHOST_URL__/content/images/2017/01/lean.jpg)
+![Mr. Big - Lean Into It](/public/images/2017/01/lean.jpg)
 
 OK, so we touched upon the wonder of *Mr. Big* earlier, so here it is. Paul Gilbert had made his name and put down the miles with *Racer X* and was the risingest star in the shred heavens at the time. Billy Sheehan was routinely voted the best bass player of all time, including the entirety of the future, and having seen him live a handful of times I can assure you the man is not a human being, because they just can't do the stuff he does. (Billy I was already well aware of from the *David Lee Roth* albums.) Pat Torpey and Eric Martin were unknown quantities to me, but to be honest the guitar magazines were shouting so hard about Paul and Billy that it could have been Pat Butcher on drums and Eric Morecambe on vocals and I would have bought this.
 

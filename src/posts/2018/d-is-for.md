@@ -23,7 +23,7 @@ The member you're least likely to have heard of is 63-year-old David Lowy on rhy
 
 They've put out four studio records and a live album, all of which rock all of my socks, though I am highly of the opinion that the optimal line-up was reached for 2016's **Make Some Noise**, largely due to the synergistic and tasteful (thankfully still current) pairing of John Corabi on lead vocals and Doug Aldrich on lead guitar. The Crab can scream (niche reference alert), of that there's no doubt, and Saint Doug knocks it out of the park on pretty much everything he touches. Messrs Lowy, Mendoza and Castronovo aren't mucking about, either, and they do sound like they're having a very large amount of fun while they make some excellent rock records.
 
-(You have no idea how happy I am to be able to write a sentence like that in 2018. It really did go [very bloody dark for quite a long time](__GHOST_URL__/the-dark-times), you know.)
+(You have no idea how happy I am to be able to write a sentence like that in 2018. It really did go [very bloody dark for quite a long time](/the-dark-times), you know.)
 
 Hear them continue to do all the above on 2018's really rather very **Burn It Down**.
 

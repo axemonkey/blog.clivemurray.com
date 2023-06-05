@@ -1,21 +1,58 @@
 ---
-"permalink": "/{{ slug | slugify }}/"
+"permalink": "/{{ slug }}/"
+"layoutType": "page"
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ title }}</title>
+	<title>{{ title }}</title>
+	{{> headparts }}
 </head>
-<body>
-  <header>
-    <h1>Site Header - page layout</h1>
-    <a href="/About">About</a>
-  </header>
-  <main>
-    {{{ content }}}
-  </main>
-  <footer>Site Footer</footer>
+<body class="page-template">
+
+	<div class="site-wrapper">
+
+		<header class="site-header">
+			{{> header }}
+		</header>
+
+		<main id="site-main" class="site-main outer">
+
+			<div class="inner">
+
+				<article class="post-full post page">
+
+					<header class="post-full-header">
+						<h1 class="post-full-title">{{ title }}</h1>
+					</header>
+
+					{{#if main_image_filename}}
+						{{> main_image }}
+					{{/if}}
+
+					<section class="post-full-content">
+
+						<div class="post-content">
+
+<!-- BEGIN MARKDOWN OUTPUT -->
+{{{ content }}}
+<!-- BEGIN MARKDOWN OUTPUT -->
+
+						</div>
+
+					</section>
+
+				</article>
+
+			</div>
+
+		</main>
+
+		{{> footer }}
+
+	</div>
+
+	{{> script }}
+
 </body>
 </html>

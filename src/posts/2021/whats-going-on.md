@@ -12,7 +12,7 @@ Observant listeners could be forgiven for wondering where the hell the [Indigo D
 You may also be forgiven for wondering why no blog posts for almost a year, though some of that is probably self-explanatory.
 
 First, the video: **it is finished**. It has been finished since December, in fact, dear Antonia.
-![Still from the video for &quot;Alive&quot; by Indigo Down](__GHOST_URL__/content/images/2021/03/Screenshot-2021-03-23-at-16.35.14.png)
+![Still from the video for &quot;Alive&quot; by Indigo Down](/public/images/2021/03/Screenshot-2021-03-23-at-16.35.14.png)
 So why have you not seen it, my dear Candace? Why isn't every music channel playing it 24/7, and the name Indigo Down being chanted on every street corner, praising us as the Saviours of Executive Rock that we truly are?
 
 Well, here's the thing with that, Grichard. We have an EP to release as well, and it makes sense to use the video to promote the EP, and the EP is currently undergoing the finishing touches of finishing and touching to make it as aurally pleasing to your dear ears, Margaret, as is humanly likely. [His Holiness John Mitchell](https://en.wikipedia.org/wiki/John_Mitchell_%28musician%29) is, even as I type this, slaving over a [hot mixing desk](https://outhousestudios.co.uk/) somewhere deep in the heart of Monaco. (Or Reading? One of those.) I bid you watch the skies, Rosalita, for whensoe'er it is ready, you will be among the first 7 billion to know about it. I promise you that much, Clarence.

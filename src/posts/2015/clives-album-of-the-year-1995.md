@@ -35,7 +35,7 @@ It's another tie for 1995. I just couldn't separate what are for me still to thi
 
 ### [Pulp](http://www.pulppeople.com/) - [Different Class](http://www.amazon.co.uk/Different-Class-Pulp/dp/B000001E8P/)
 
-![Pulp - Different Class](__GHOST_URL__/content/images/2018/03/51lBaKp46rL.jpg)
+![Pulp - Different Class](/public/images/2018/03/51lBaKp46rL.jpg)
 
 Brit-pop and me didn't really get along for the most part, but this album is absolute perfection from start to finish. There's not a bad moment on it, from the anthemic "Mis-Shapes", the visceral "Pencil Skirt" and the outright venomous "I Spy" to the floor filling classics "Common People" and "Disco 2000" there's not a note out of place.
 
@@ -47,7 +47,7 @@ Bloody wonderful stuff.
 
 ### [Radiohead](http://www.radiohead.co.uk/) - [The Bends](http://www.amazon.co.uk/Bends-Radiohead/dp/B000002TQV/)
 
-![Radiohead - The Bends](__GHOST_URL__/content/images/2018/03/cover_1813327122010.jpg)
+![Radiohead - The Bends](/public/images/2018/03/cover_1813327122010.jpg)
 
 I'm aware that I'm in the minority in thinking that *Radiohead* peaked here and everything they did after **OK Computer** was frankly dirge, but can we perhaps agree that when this album came out it was absolutely gobsmacking?
 
@@ -57,7 +57,7 @@ It was. And it still is.
 
 ## Turkey of the Year
 
-It's actually hard to pick, there were so many misfires this year - the [Dark Times](__GHOST_URL__/the-dark-times/) had really set in. But for pure disappointment value I'm going for…
+It's actually hard to pick, there were so many misfires this year - the [Dark Times](/the-dark-times/) had really set in. But for pure disappointment value I'm going for…
 
 ### [Extreme](http://www.extreme-band.com/) - [Waiting For the Punchline](http://www.amazon.co.uk/Waiting-Punchline-Extreme/dp/B000024GFT/)
 

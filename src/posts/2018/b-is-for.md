@@ -11,7 +11,7 @@ excerpt: ...Sebastian Bach
 
 *(Photo by Jamie - Flickr: Sebastian Bach & Rachel Bolan, CC BY 2.0, [https://commons.wikimedia.org/w/index.php?curid=14408377](https://commons.wikimedia.org/w/index.php?curid=14408377))*
 
-Hah! Didn't see that coming now, did you? OK, so I'm aware that a number of my listeners will be fully aware of Señor Bach from his time as lead shoutmarshall for that fine old American band, [*Skid Row*](https://en.wikipedia.org/wiki/Skid_Row_(American_band)), who released two absolutely barnstorming albums (and one mediocre one) right before the coming of [The Dark Times](__GHOST_URL__/the-dark-times). None of that is in question, and is a matter of immutable record.
+Hah! Didn't see that coming now, did you? OK, so I'm aware that a number of my listeners will be fully aware of Señor Bach from his time as lead shoutmarshall for that fine old American band, [*Skid Row*](https://en.wikipedia.org/wiki/Skid_Row_(American_band)), who released two absolutely barnstorming albums (and one mediocre one) right before the coming of [The Dark Times](/the-dark-times). None of that is in question, and is a matter of immutable record.
 
 But what you may not have known is that *Bach* has also made some cracking solo albums. Unfortunately, there is some total nonsense here too (Madam is please advised to skip directly past **Bring 'Em Bach Alive!** and **Bach 2 Basics**), and I actually know next to nothing about [*The Last Hard Men*](https://en.wikipedia.org/wiki/The_Last_Hard_Men_(band)) or [*SuperGroup*](https://en.wikipedia.org/wiki/Supergroup_(TV_series)) other than they are things that have happened, so please bear with me, caller.
 

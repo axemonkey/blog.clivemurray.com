@@ -41,7 +41,7 @@ It was **Empire**, the followup to this album, that really lit the *Queensrÿche
 
 ### [David Lee Roth](https://davidleeroth.com/) - [Skyscraper](https://www.amazon.co.uk/Skyscraper-David-Lee-Roth/dp/B0041ABQIA/)
 
-![David Lee Roth - Skyscraper](__GHOST_URL__/content/images/2017/05/skyscraper.jpg)
+![David Lee Roth - Skyscraper](/public/images/2017/05/skyscraper.jpg)
 
 OK.
 

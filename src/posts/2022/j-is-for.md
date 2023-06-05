@@ -11,7 +11,7 @@ excerpt: ...Al Joseph
 
 *Image borrowed from Al’s site at [aljosephmusic.com](https://aljosephmusic.com)*
 
-I first became aware of *Al Joseph* through a couple of YouTube videos and Instagram clips, and then a friend playing me one of his solo albums. Turns out he’s a very active guitar teacher over there in the gold old U.S. of States, both privately and through the splendid [JamTrackCentral](https://jtcguitar.com/), and I also just learned that he was born in 1987, which means I have [a guitar which is as old as he is](__GHOST_URL__/guitars/#ibanezjem777lng1987).
+I first became aware of *Al Joseph* through a couple of YouTube videos and Instagram clips, and then a friend playing me one of his solo albums. Turns out he’s a very active guitar teacher over there in the gold old U.S. of States, both privately and through the splendid [JamTrackCentral](https://jtcguitar.com/), and I also just learned that he was born in 1987, which means I have [a guitar which is as old as he is](/guitars/#ibanezjem777lng1987).
 
 Al absolutely *wails*, dude. His feel and technique are both death-defying, but the thing that leaps off the screen at me whenever I watch him play is how effortless his picking action is. Everything looks as easy as it sounds difficult. You won’t catch me learning any of his songs, put it that way.
 

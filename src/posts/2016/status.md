@@ -9,4 +9,4 @@ excerpt: I have no idea.
 
 This.
 
-![I have no idea](__GHOST_URL__/content/images/2016/10/IMG_6231.JPG)
+![I have no idea](/public/images/2016/10/IMG_6231.JPG)

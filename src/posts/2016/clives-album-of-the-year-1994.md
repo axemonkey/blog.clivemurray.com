@@ -11,7 +11,7 @@ In 1994 apartheid ended in South Africa with the election of [Nelson Mandela](ht
 
 If you think the death toll in 2016 has been bad, consider that in 1994 we lost [The Joker (Cesar Romero)](https://en.wikipedia.org/wiki/Cesar_Romero), [Kojak (Telly Savalas)](https://en.wikipedia.org/wiki/Telly_Savalas), [Bill Hicks](https://en.wikipedia.org/wiki/Bill_Hicks), [John Candy](https://en.wikipedia.org/wiki/John_Candy), [Kurt Cobain](https://en.wikipedia.org/wiki/Kurt_Cobain), [Richard Nixon](https://en.wikipedia.org/wiki/Richard_Nixon), [Ayrton Senna](https://en.wikipedia.org/wiki/Ayrton_Senna), [Hannibal (George Peppard)](https://en.wikipedia.org/wiki/George_Peppard), [Jackie Kennedy Onassis](https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis), [Henry Mancini](https://en.wikipedia.org/wiki/Henry_Mancini), [Peter Cushing](https://en.wikipedia.org/wiki/Peter_Cushing), [Roy Castle](https://en.wikipedia.org/wiki/Roy_Castle), [Danny Gatton](https://en.wikipedia.org/wiki/Danny_Gatton), [Burt Lancaster](https://en.wikipedia.org/wiki/Burt_Lancaster), [Gomez Addams (Raúl Juliá)](https://en.wikipedia.org/wiki/Ra%C3%BAl_Juli%C3%A1) and [Cab Calloway](https://en.wikipedia.org/wiki/Cab_Calloway) to name just the ones that pop out at me. Sheesh.
 
-For rock music, [the Dark Times](__GHOST_URL__/the-dark-times/) were upon us, and all around was grunge. Nonetheless, a few dim gems sparkled in the muck…
+For rock music, [the Dark Times](/the-dark-times/) were upon us, and all around was grunge. Nonetheless, a few dim gems sparkled in the muck…
 
 ## Honourable mentions
 
@@ -33,13 +33,13 @@ I am not going to apologise for this. You can say what you like. I love it, and 
 
 ### [Portishead](http://www.portishead.co.uk/) - [Dummy](https://www.amazon.co.uk/Dummy-Portishead/dp/B001KEBFLI/)
 
-It was a difficult old time, the mid 90s. Brit-pop was just finding out where it had left its knackered Gibson 335, hard rock was laying in the gutter having had one too many lines of spandex (as [documented](__GHOST_URL__/the-dark-times/) elsewhere), and industrial rock and nu-metal were still getting their hobnail boots and baggy shorts on. *Portishead*, then, were a breath of fresh - if melancholy - air. And Beth Gibbons' voice is unlike any other, so goddamn help me. **Top track:** "Roads" or "Glory Box"
+It was a difficult old time, the mid 90s. Brit-pop was just finding out where it had left its knackered Gibson 335, hard rock was laying in the gutter having had one too many lines of spandex (as [documented](/the-dark-times/) elsewhere), and industrial rock and nu-metal were still getting their hobnail boots and baggy shorts on. *Portishead*, then, were a breath of fresh - if melancholy - air. And Beth Gibbons' voice is unlike any other, so goddamn help me. **Top track:** "Roads" or "Glory Box"
 
 ## And the winner is…
 
 ### [Jeff Buckley](http://jeffbuckley.com/) - [Grace](https://www.amazon.co.uk/Grace-Jeff-Buckley/dp/B004C01PCG/)
 
-![Jeff Buckley - Grace](__GHOST_URL__/content/images/2018/03/518pL7GgW5L.jpg)
+![Jeff Buckley - Grace](/public/images/2018/03/518pL7GgW5L.jpg)
 
 I'd heard about the guy, you know? People on guitar forums – people who knew what they were talking about – would say things like "Such a shame", "Died so young", "What a talent" and "Imagine what he could have done", but I'd simply never actually heard anything by him, and was still mourning the loss of my beloved hair-metal.
 
