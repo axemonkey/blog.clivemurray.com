@@ -6,6 +6,7 @@ date: 2015-02-20T12:23:26.000Z
 date_updated: 2022-10-19T09:34:19.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 1997 was the year I first got a modem and discovered the Internet, a move that ended up providing me with a career but started with a £10/month Demon account...
+ghost_header_image: 1997aoty.jpg
 ---
 
 1997 was the year I first got a modem and discovered the Internet, a move that ended up providing me with a career but started with a £10/month [Demon](http://en.wikipedia.org/wiki/Demon_Internet) account and a 19.2kbps (it was supposed to be 28.8kbps but I think it was a bit fucked and it never once connected at that speed) modem.

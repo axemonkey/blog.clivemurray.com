@@ -6,6 +6,7 @@ date: 2017-04-06T12:21:41.000Z
 date_updated: 2022-10-19T09:43:40.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: In 1989 I was fifteen, and for my birthday I got my first guitar and a year's worth of guitar lessons. Thank you eternally, Mum and Dad, RIP.
+ghost_header_image: 1989aoty-1.jpg
 ---
 
 In 1989 I was fifteen, and for my birthday I got [my first guitar](/public/images/2014/Mar/maya_stratcopy-1.jpg) and a year's worth of guitar lessons. Thank you eternally, Mum and Dad, RIP.

@@ -6,6 +6,7 @@ date: 2016-10-23T16:00:00.000Z
 date_updated: 2022-10-19T09:38:44.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: For rock music, The Dark Times were upon us, and all around was grunge. Nonetheless, a few dim gems sparkled in the muck...
+ghost_header_image: 1994aoty.jpg
 ---
 
 In 1994 apartheid ended in South Africa with the election of [Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela) as the first multiracially and democratically elected president of that country. [Orenthal James Simpson](https://en.wikipedia.org/wiki/O._J._Simpson) was arrested on multiple murder charges *despite* his excellent appearances in the [Naked Gun](https://en.wikipedia.org/wiki/The_Naked_Gun) movies. The cinema gave us [Forrest Gump](https://en.wikipedia.org/wiki/Forrest_Gump), [The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption) and [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction). The first passengers travelled through [the Channel Tunnel](https://en.wikipedia.org/wiki/Channel_Tunnel) and [Michael Schumacher](https://en.wikipedia.org/wiki/Michael_Schumacher) won his first F1 World Championship.

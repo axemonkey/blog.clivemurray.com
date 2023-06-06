@@ -6,6 +6,7 @@ date: 2016-11-15T16:51:58.000Z
 date_updated: 2022-10-19T09:16:45.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2014 was the International Year of Crystallography, of Family Farming, of Solidarity with the Palestinian People, and of Small Island Developing States.
+ghost_header_image: 2014aoty.jpg
 ---
 
 2014 was the [International Year](https://en.wikipedia.org/wiki/International_observance#2010s) of Crystallography, of Family Farming, of Solidarity with the Palestinian People, and of Small Island Developing States. So now you know.

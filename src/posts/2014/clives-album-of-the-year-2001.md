@@ -6,6 +6,7 @@ date: 2014-10-31T23:53:20.000Z
 date_updated: 2021-10-22T12:09:18.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 2001 was of course released in 1968, and what's up with that monolith? Amirite?
+ghost_header_image: 2001aoty.jpg
 ---
 
 [2001](http://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29) was of course released in 1968, and what's up with that monolith? Amirite?

@@ -5,7 +5,8 @@ date_published: 2018-08-21T10:29:06.000Z
 date: 2018-08-21T10:29:06.000Z
 date_updated: 2021-08-26T14:06:27.000Z
 tags: ['post', 'Misc', 'Funny']
-excerpt: Don’t start on them. You know they’ve been short staffed since that thing with Kenny.
+excerpt: "Don’t start on them. You know they’ve been short staffed since that thing with Kenny."
+unsplash_post_image: photo-1449157291145-7efd050a4d0e
 ---
 
 A:

@@ -6,6 +6,7 @@ date: 2014-10-01T21:37:07.000Z
 date_updated: 2021-10-22T12:06:38.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 2003 was the International Year of Fresh Water.
+ghost_header_image: 2003aoty.jpg
 ---
 
 In 2003, the US Department of Homeland Security was established, [Space Shuttle Columbia disintegrated on re-entry](http://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster), SARS happened, Apple released [OSX Panther](http://en.wikipedia.org/wiki/Mac_OS_X_Panther), I got a job at the then fledgling [Dare Digital](http://www.thisisdare.com) and using mobile phones while driving was outlawed in the UK, though you wouldn't know it.

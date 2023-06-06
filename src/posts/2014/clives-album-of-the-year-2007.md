@@ -6,6 +6,7 @@ date: 2014-06-11T09:33:40.000Z
 date_updated: 2022-10-19T09:20:42.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: "I WAS CONWINCED!"
+ghost_header_image: 2019/05/aoty2007.jpg
 ---
 
 In 2007 the [Writers Guild of America went on strike](http://en.wikipedia.org/wiki/2007%E2%80%9308_Writers_Guild_of_America_strike), utterly buggering up the second series of [Heroes](http://en.wikipedia.org/wiki/Heroes_%28TV_series%29) and cutting short the annual season of many other shows. Oh, and winning a huge battle for the rights to residual payments or something, I guess.

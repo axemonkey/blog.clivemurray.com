@@ -5,7 +5,8 @@ date_published: 2019-04-28T21:40:37.000Z
 date: 2019-04-28T21:40:37.000Z
 date_updated: 2019-05-25T10:08:15.000Z
 tags: ['post', 'Cubing']
-excerpt: If R' D' R D means anything to you, you know the kind of thing I'm talking about.
+excerpt: "If R' D' R D means anything to you, you know the kind of thing I'm talking about."
+ghost_header_image: cubepost.jpg
 ---
 
 I've had a brand new hobby for over 6 months now, and I haven't written a word about it on here, which is rather remiss of me. If you follow me on Twitter or Facebook you'll have seen photos and such, so it won't come as a complete surprise, mind you.

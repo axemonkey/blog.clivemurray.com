@@ -6,6 +6,7 @@ date: 2015-01-02T01:46:40.000Z
 date_updated: 2022-10-19T09:18:08.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 2013 was the last year of my 30s, and was a pretty OK year for me all round.
+ghost_header_image: 2013aoty.jpg
 ---
 
 2013 was the last year of my 30s, and was a pretty OK year for me all round. I didn't have to move house, no-one super-close to me died, my work situation was good, and I played a couple of gigs.

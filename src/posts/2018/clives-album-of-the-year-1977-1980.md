@@ -6,6 +6,7 @@ date: 2018-01-30T09:56:25.000Z
 date_updated: 2021-08-26T14:23:34.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: On we go, come on come on, keep up, I haven't got all day, you know.
+ghost_header_image: 1977-1980aoty.jpg
 ---
 
 On we go, come on come on, keep up, I haven't got all day, you know.

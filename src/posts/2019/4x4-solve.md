@@ -6,6 +6,7 @@ date: 2019-05-08T08:23:58.000Z
 date_updated: 2019-05-08T11:45:55.000Z
 tags: ['post', 'Cubing']
 excerpt: "Here we see our hero solving the Supernova WuQue 4x4 M in a pretty poor time of 5:00."
+ghost_header_image: 4x4solve.jpg
 ---
 
 Further adventures in cubing!

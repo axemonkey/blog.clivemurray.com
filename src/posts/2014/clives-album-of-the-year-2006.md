@@ -6,6 +6,7 @@ date: 2014-07-18T15:20:40.000Z
 date_updated: 2022-10-19T09:21:48.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: In 2006 a man named Mathias hired me for the second time, I moved from Leyton E10 to South Woodford E18, I turned 32 and my band Little Monkeys released a live album on 6th June (6/6/6).
+ghost_header_image: 2006aoty.jpg
 ---
 
 In 2006 a man named Mathias hired me for the second time, I moved from Leyton E10 to South Woodford E18, I turned 32 and my band Little Monkeys released a [live album](http://www.amazon.co.uk/Live-At-Marquee-Little-Monkeys/dp/B00350WWU8/) on 6th June (6/6/6).

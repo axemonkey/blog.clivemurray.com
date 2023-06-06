@@ -6,6 +6,7 @@ date: 2017-11-10T14:01:42.000Z
 date_updated: 2022-10-19T09:46:50.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 1986 was designated the International Year of Peace by the UN. Good-oh.
+ghost_header_image: 1986aoty.jpg
 ---
 
 1986. I was 12, and had yet to develop any taste in music, so as before this is all retroactive. This is also as far back as I’m going with the whole “1 winner and 5 runners-up” thing. My original idea was to try and go right back to the year of my birth, 1974, but I just can’t find enough music that I like from all of those years. What we’ll have after this is a digest format with the best one of the year, and possible an honourable mention or two. So now you know.

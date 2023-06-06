@@ -6,6 +6,7 @@ date: 2017-03-09T17:40:00.000Z
 date_updated: 2021-08-26T14:48:26.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: So, 1990. What happened in 1990? Um… I finished school, I suppose.
+ghost_header_image: 1990aoty.jpg
 ---
 
 So, 1990. What happened in 1990? Um… I finished school, I suppose. Passed all my GCSEs and waved goodbye to [Ratton](http://www.ratton.e-sussex.sch.uk/). Errrr. Oh, I think I got my first decent guitar – a [Fender HM Strat](https://en.wikipedia.org/wiki/Fender_HM_Strat) in Ice Blue. Nice.

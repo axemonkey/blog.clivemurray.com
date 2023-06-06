@@ -6,6 +6,7 @@ date: 2014-09-02T08:00:34.000Z
 date_updated: 2022-10-19T09:25:31.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 2004 was a leap year starting on a Thursday, and soon after that I turned 30. It was also the International Year of Rice.
+ghost_header_image: 2004aoty.jpg
 ---
 
 2004 was a leap year starting on a Thursday, and soon after that I turned 30. It was also the International Year of Rice.

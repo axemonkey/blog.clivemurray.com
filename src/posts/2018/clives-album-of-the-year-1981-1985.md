@@ -6,6 +6,7 @@ date: 2018-01-19T14:18:19.000Z
 date_updated: 2021-08-26T14:25:32.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Right, I hadn't developed a real taste in music this far back, and a lot of what I've gotten into from these years is the back catalogues of a handful of bands...
+ghost_header_image: 1981-1985aoty.jpg
 ---
 
 Right, I hadn't developed a real taste in music this far back, and a lot of what I've gotten into from these years is the back catalogues of a handful of bands, so it's going to get samey from here on in. I shall therefore be brief, we'll skip the preambles and births and deaths etc. – I'm sure you can all use Wikipedia.

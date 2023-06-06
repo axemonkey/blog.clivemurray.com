@@ -6,6 +6,7 @@ date: 2017-09-20T06:03:27.000Z
 date_updated: 2021-09-23T10:04:49.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Unnnnnngh. Whoo. Ummm… yeah. 2016. OK. Damn. Right. Let’s do this.
+ghost_header_image: 2016aoty.jpg
 ---
 
 Unnnnnngh. Whoo. Ummm… yeah. 2016. OK. Damn.
@@ -28,7 +29,7 @@ Mortal-coil-shuffler of the year awards go to (oh boy… here we go… *grits te
 
 ### [Frost*](http://frost.life/) - [Falling Satellites](https://www.amazon.co.uk/Falling-Satellites-Frost/dp/B01EIOPJD6/)
 
-![Frost* – Falling Satellites](/public/images/2020/05/frost_falling-satellites.jpeg) Oh look, another appearance by friend of the show, HHJM†. *Frost**, though, are the brainchild of Jem Godfrey with John maintaining guitar duties with the occasional lead vocal thrown in. This is the third album from the BritProg supergroup, and it’s the most cohesive and best yet. The debut **Milliontown** is pretty hard to beat, but I reckon this does just about manage it. Progtacular! **Top track:** “Signs”
+![Frost* – Falling Satellites](/public/images/2020/05/frost_falling-satellites.jpeg) Oh look, another appearance by friend of the show, HHJM†. *Frost\**, though, are the brainchild of Jem Godfrey with John maintaining guitar duties with the occasional lead vocal thrown in. This is the third album from the BritProg supergroup, and it’s the most cohesive and best yet. The debut **Milliontown** is pretty hard to beat, but I reckon this does just about manage it. Progtacular! **Top track:** “Signs”
 
 †His Holiness John Mitchell
 

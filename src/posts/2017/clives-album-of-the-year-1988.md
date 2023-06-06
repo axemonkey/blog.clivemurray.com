@@ -6,6 +6,7 @@ date: 2017-05-25T10:30:55.000Z
 date_updated: 2019-04-04T16:35:31.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: "1988 was the year in the 20th century that had the most digits when written as Roman numerals: MCMLXXXVIII. So there's that."
+ghost_header_image: 1988aoty.jpg
 ---
 
 1988 was the year in the 20th century that had the most digits when written as Roman numerals: MCMLXXXVIII. So there's that.

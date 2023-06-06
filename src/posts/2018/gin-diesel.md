@@ -6,6 +6,7 @@ date: 2018-06-08T13:06:59.000Z
 date_updated: 2019-04-09T09:18:34.000Z
 tags: ['post', 'Your Illustrious Host']
 excerpt: Many years ago, I came up with an excellent name for a cocktail – the "Gin Diesel".
+unsplash_post_image: photo-1504675099198-7023dd85f5a3
 ---
 
 Many years ago, I came up with an excellent name for a cocktail – the "Gin Diesel". However it was at least a full year before I could properly nail down the recipe.

@@ -6,6 +6,7 @@ date: 2017-01-16T11:00:00.000Z
 date_updated: 2021-10-22T12:22:12.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: Right. This is going to be a long one, so strap in. Get a coffee, or a beer, or a whiskey, or a cigar. Or all of them if you think it'll help.
+ghost_header_image: 1992aoty.jpg
 ---
 
 Right. This is going to be a long one, so strap in. Get a coffee, or a beer, or a whiskey, or a cigar. Or all of them if you think it'll help. But first, our usual business…

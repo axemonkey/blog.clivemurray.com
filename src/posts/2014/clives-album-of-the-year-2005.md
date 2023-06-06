@@ -6,6 +6,7 @@ date: 2014-08-26T17:10:08.000Z
 date_updated: 2022-10-19T09:23:03.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: Unfortunately, even though The Dark Times had ended by 2005, this was not a great year for music.
+ghost_header_image: 2005aoty.jpg
 ---
 
 2005 gave us YouTube, the Kyoto Protocol, Pope Benedict XVI, the first flight of the [A380](http://en.wikipedia.org/wiki/Airbus_A380), [Live8](http://en.wikipedia.org/wiki/Live_8), [a metre of rain in Mumbai](http://en.wikipedia.org/wiki/Maharashtra_floods_of_2005), [Disneyland Hong Kong](http://en.wikipedia.org/wiki/Hong_Kong_Disneyland_Resort), the [Danish cartoons of Muhammad](http://en.wikipedia.org/wiki/Jyllands-Posten_Muhammad_cartoons_controversy), an [earthquake in Kashmir that killed around 80,000 people](http://en.wikipedia.org/wiki/2005_Kashmir_earthquake), the first human face transplant and the [Chadian Civil War](http://en.wikipedia.org/wiki/Chadian_Civil_War_(2005%E2%80%9310)).

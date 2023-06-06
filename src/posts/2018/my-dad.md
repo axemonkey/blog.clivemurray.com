@@ -5,7 +5,8 @@ date_published: 2018-07-13T00:38:00.000Z
 date: 2018-07-13T00:38:00.000Z
 date_updated: 2020-02-25T17:40:02.000Z
 tags: ['post', 'Your Illustrious Host', 'Thinks']
-excerpt: In 1926 in the city of Liverpool there was born a boy, and today would have been his 92nd birthday...
+excerpt: "In 1926 in the city of Liverpool there was born a boy, and today would have been his 92nd birthday..."
+ghost_header_image: folks.jpg
 ---
 
 Hark you, and listen.

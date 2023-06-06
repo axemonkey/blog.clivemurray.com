@@ -6,6 +6,7 @@ date: 2014-12-11T23:10:19.000Z
 date_updated: 2022-10-19T09:29:32.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: On millennium night I played a covers gig in Hastings, where for the first half we partied like it was 1999, because it was. And then it wasn't. But we carried on anyway.
+ghost_header_image: 1999aoty.jpg
 ---
 
 In Summer 1999 I met a girl. We hooked up for a bit and it didn’t really work out. But then in Autumn I met another girl. We hooked up and 15 years later I’m proud to call her my wife. :)

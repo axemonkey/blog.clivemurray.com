@@ -6,6 +6,7 @@ date: 2014-04-18T07:28:26.000Z
 date_updated: 2021-10-22T12:04:34.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 2008 was a year.
+ghost_header_image: 2020/06/aoty2008.jpg
 ---
 
 2008 was a year.

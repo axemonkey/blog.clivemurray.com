@@ -6,6 +6,7 @@ date: 2018-05-24T10:12:48.000Z
 date_updated: 2021-08-26T14:13:07.000Z
 tags: ['post', 'Music', 'A-Z']
 excerpt: ...Sebastian Bach
+ghost_header_image: 1280px-Sebastian_Bach_-_Rachel_Bolan.jpg
 ---
 
 ## B is for… [Sebastian Bach](http://www.sebastianbach.com/)

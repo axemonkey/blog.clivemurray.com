@@ -6,6 +6,7 @@ date: 2017-01-05T16:16:49.000Z
 date_updated: 2022-10-19T09:14:34.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: It was both the International Year of Light, and of Soils. Something for everyone there, then.
+ghost_header_image: 2015aoty.jpg
 ---
 
 In 2015 I left my two-year contract in Westminster to go work for a [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales) venture, and the nearly 2-year wait for my [BlacKat DC7](/public/images/2016/03/IMG_5263.jpg) finally came to an end. It was both the International Year of [Light](https://en.wikipedia.org/wiki/International_Year_of_Light), and of [Soils](https://en.wikipedia.org/wiki/Soil_governance#International_Year_of_Soils). Something for everyone there, then.

@@ -4,6 +4,7 @@ slug: reports-of-my
 date_published: 2016-08-22T20:59:36.000Z
 date: 2016-08-22T20:59:36.000Z
 date_updated: 2016-08-22T20:59:36.000Z
+tags: ['post']
 ---
 
 ...etc etc.

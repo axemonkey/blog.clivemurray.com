@@ -6,6 +6,7 @@ date: 2018-07-29T20:01:58.000Z
 date_updated: 2021-08-26T14:10:17.000Z
 tags: ['post', 'Music', 'A-Z']
 excerpt: ...The Dead Daisies
+ghost_header_image: The_Dead_Daisies_Tour_2016.jpg
 ---
 
 ## D is for… [The Dead Daisies](https://thedeaddaisies.com/)
