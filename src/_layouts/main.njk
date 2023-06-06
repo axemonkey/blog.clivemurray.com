@@ -6,11 +6,11 @@
 <html lang="en">
 <head>
   <title>{{ title }}</title>
-  {{> headparts }}
+  {% include "headparts.njk" %}
 </head>
 <body>
 
-  {{> front-header }}
+  {% include "front-header.njk" %}
 
   <main id="site-main" class="site-main outer">
 
@@ -18,7 +18,7 @@
 
   		<div class="post-feed">
 
-	  		{{{ content }}}
+	  		{{ content | safe }}
 
   		</div>
 
@@ -26,9 +26,9 @@
 
   </main>
 
-  {{> footer }}
+  {% include "footer.njk" %}
 
-	{{> script }}
+	{% include "script.njk" %}
 
 </body>
 </html>

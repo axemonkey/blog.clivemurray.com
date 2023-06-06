@@ -6,13 +6,13 @@
 <html lang="en">
 <head>
 	<title>{{ title }}</title>
-	{{> headparts }}
+	{% include "headparts.njk" %}
 </head>
 <body class="post-template">
 
 	<div class="site-wrapper">
 
-			{{> header }}
+			{% include "header.njk" %}
 
 			<main id="site-main" class="site-main outer">
 
@@ -21,22 +21,22 @@
 					<article class="post-full post">
 
 						<header class="post-full-header">
-							{{!-- <section class="post-full-tags"></section> --}}
+							{# <section class="post-full-tags"></section> #}
 
 							<h1 class="post-full-title">{{ title }}</h1>
 
-							{{> byline }}
+							{% include "byline.njk" %}
 
 						</header>
 
-						{{!-- <figure class="post-full-image"></figure> --}}
+						{# <figure class="post-full-image"></figure> #}
 
 						<section class="post-full-content">
 
 							<div class="post-content">
 
 <!-- BEGIN MARKDOWN OUTPUT -->
-{{{ content }}}
+{{ content | safe }}
 <!-- BEGIN MARKDOWN OUTPUT -->
 
 							</div>
@@ -49,11 +49,11 @@
 
 			</main>
 
-			{{> footer }}
+			{% include "footer.njk" %}
 
 	</div>
 
-	{{> script }}
+	{% include "script.njk" %}
 
 </body>
 </html>

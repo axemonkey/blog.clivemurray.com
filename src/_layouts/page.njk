@@ -6,14 +6,14 @@
 <html lang="en">
 <head>
 	<title>{{ title }}</title>
-	{{> headparts }}
+	{% include "headparts.njk" %}
 </head>
 <body class="page-template">
 
 	<div class="site-wrapper">
 
 		<header class="site-header">
-			{{> header }}
+			{% include "header.njk" %}
 		</header>
 
 		<main id="site-main" class="site-main outer">
@@ -26,16 +26,16 @@
 						<h1 class="post-full-title">{{ title }}</h1>
 					</header>
 
-					{{#if main_image_filename}}
-						{{> main_image }}
-					{{/if}}
+					{% if main_image_filename %}
+						{% include "main_image.njk" %}
+					{% endif %}
 
 					<section class="post-full-content">
 
 						<div class="post-content">
 
 <!-- BEGIN MARKDOWN OUTPUT -->
-{{{ content }}}
+{{ content | safe }}
 <!-- BEGIN MARKDOWN OUTPUT -->
 
 						</div>
@@ -48,11 +48,11 @@
 
 		</main>
 
-		{{> footer }}
+		{% include "footer.njk" %}
 
 	</div>
 
-	{{> script }}
+	{% include "script.njk" %}
 
 </body>
 </html>
