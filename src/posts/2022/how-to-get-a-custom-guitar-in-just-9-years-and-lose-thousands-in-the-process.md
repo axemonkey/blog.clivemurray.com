@@ -6,6 +6,7 @@ date: 2022-11-25T11:07:51.000Z
 date_updated: 2023-02-20T14:18:16.000Z
 tags: ['post', 'Guitar']
 excerpt: So, the time has come at last to tell the story of my most recently acquired guitar. Firstly, you must gaze upon its awesomeness.
+ghost_header_image: 2022/11/IMG_9052.jpg
 ---
 
 So, the time has come at last to tell the full story of my most recently acquired guitar. It is a long story with many trials and tribulations, meandering anecdotes, more guitar nerdery than even [Pete Thorn](http://4.bp.blogspot.com/-0axd8eZB3MM/TvNTQb9LYeI/AAAAAAAAAoM/aHTc4-2GWUs/s1600/folder.jpg) could stand, and even a smattering of crime.

@@ -29,7 +29,16 @@
 
 						</header>
 
-						{# <figure class="post-full-image"></figure> #}
+						{% if unsplash_post_image or ghost_header_image %}
+						<figure class="post-full-image">
+							{% if unsplash_post_image %}
+								{% include "unsplash_post_image_holder.njk" %}
+							{% else %}
+								{% include "ghost_post_image_holder.njk" %}
+							{% endif %}
+
+						</figure>
+						{% endif %}
 
 						<section class="post-full-content">
 

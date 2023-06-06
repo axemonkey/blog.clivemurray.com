@@ -6,6 +6,7 @@ date: 2021-07-29T13:29:29.000Z
 date_updated: 2021-07-30T15:07:48.000Z
 tags: ['post', 'Music', 'Indigo Down']
 excerpt: It's been a while, I'm aware. Let's get right to it, shall we?
+ghost_header_image: band-on-video-still-copy-1.jpg
 ---
 
 It's been a while, I'm aware. Let's get right to it, shall we?

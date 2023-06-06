@@ -6,6 +6,7 @@ date: 2021-08-25T12:21:42.000Z
 date_updated: 2022-12-12T23:28:29.000Z
 tags: ['post', 'Music', 'Your Illustrious Host', 'Guitar']
 excerpt: I’m proud that I can hold up a shrinkwrapped CD with a barcode on it and say, “That’s my album. I wrote that.”
+ghost_header_image: IMG_7251.jpg
 ---
 
 A long time ago I released an album. (I play guitar, you know.) It was recorded with the limited equipment I had at the time, and with the limited skill and patience I had at the time.

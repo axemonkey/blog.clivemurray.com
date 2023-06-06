@@ -6,6 +6,7 @@ date: 2023-05-03T11:36:54.000Z
 date_updated: 2023-05-03T12:49:53.000Z
 tags: ['post', 'Guitar', 'Music', 'Your Illustrious Host']
 excerpt: I've been working on my second solo album of guitar instrumentals on-and-off for well over a decade now. I am very happy to report that I am nearly there.
+ghost_header_image: 2023/05/pick0_1-16x9.jpg
 ---
 
 Hello.

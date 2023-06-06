@@ -1,4 +1,4 @@
-{{#if main_image_filename}}
+{% if main_image_filename %}
 <figure class="post-full-image">
 
 	<img srcset="/public/images/size/w300/2020/07/{{ main_image_filename}} 300w,
@@ -9,4 +9,4 @@
 	                            2000px" src="/public/images/size/w2000/2020/07/{{ main_image_filename}}" alt="{{ title }}">
 
 </figure>
-{{/if}}
+{% endif %}

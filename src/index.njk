@@ -1,4 +1,20 @@
 ---
 layout: main.njk
+pagination:
+  data: collections.post
+  size: 1000
+  pageNumber: 2
+  reverse: true
+  alias: posts
 ---
-<h1>Something?</h1>
+{# <h1>Something?</h1> #}
+
+{% for post in posts %}
+	{% if loop.first %}
+  	<article class="post post-card post-card-large">
+	{% else %}
+  	<article class="post post-card">
+  {% endif %}
+    {% include "post-card.njk" %}
+  </article>
+{% endfor %}

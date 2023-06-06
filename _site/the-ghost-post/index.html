@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>The Ghost Post</title>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" href="/public/css/blog.css">
+<link rel="icon" href="/public/images/favicon.png" type="image/png">
+
+</head>
+<body class="post-template">
+
+	<div class="site-wrapper">
+
+			<header class="site-header">
+	<h1>Site Header - post layout</h1>
+
+	<ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/clives-album-of-the-year-2020/">A Post</a></li>
+		<li><a href="/guitars/">A Page</a></li>
+	</ul>
+
+</header>
+
+
+			<main id="site-main" class="site-main outer">
+
+				<div class="inner">
+
+					<article class="post-full post">
+
+						<header class="post-full-header">
+							
+
+							<h1 class="post-full-title">The Ghost Post</h1>
+
+							<div class="post-full-byline">
+
+	<section class="post-full-byline-content">
+
+		<ul class="author-list">
+			<li class="author-list-item">
+
+				<div class="author-card">
+					<img class="author-profile-image" src="/public/images/size/w100/2022/09/IMG_3364-cropped-bslight.JPG" alt="Clive Murray">
+					<div class="author-info">
+						<div class="bio">
+							<h2>Clive Murray</h2>
+							<p>Rock guitarist and gentleman adventurer from a land before time.</p>
+							<p><a href="/author/clive/">More posts</a> by Clive Murray.</p>
+						</div>
+					</div>
+				</div>
+
+				<a href="/author/clive/" class="author-avatar">
+					<img class="author-profile-image" src="/public/images/2022/09/IMG_3364-cropped-bslight.JPG" alt="Clive Murray">
+				</a>
+
+			</li>
+		</ul>
+
+		<section class="post-full-byline-meta">
+			<h4 class="author-name"><a href="/author/clive/">Clive Murray</a></h4>
+			<div class="byline-meta-content">
+				<time class="byline-meta-date" datetime="2023-06-06">6 June 2023</time>
+				<span class="byline-reading-time"><span class="bull">•</span> 7 min read</span>
+			</div>
+		</section>
+
+	</section>
+
+</div>
+
+
+						</header>
+
+						
+
+						<section class="post-full-content">
+
+							<div class="post-content">
+
+<!-- BEGIN MARKDOWN OUTPUT -->
+<p><em>Please note: this post was written in 2013 and is now really rather out of date.</em></p>
+<p>It occurs to me that others may want to set up a <a href="https://ghost.org/">Ghost</a> blog on their Raspberry Pi, and may be interested in how I went about it.</p>
+<p>95% of the process is <a href="http://c-mobberley.com/wordpress/index.php/2013/10/20/raspberry-pi-installation-of-ghost-with-node-js-the-open-source-blogging-platform/">documented very helpfully here by Chris Mobberly</a>, for which I am most grateful.</p>
+<p>I started with a fresh install of Raspbian. My Pi's SD card is a <a href="http://www.raspberrypi.org/downloads">NOOBS</a> (New Out Of Box Software) card, so all I had to do was reboot and hold down shift to go into recovery mode, and that let me reinstall Raspbian from scratch.</p>
+<p>Then I followed Chris's splendid tutorial to get Ghost up and running on the Pi. Once it was installed and running I set it to run on port 80, and forwarded that port to the Pi on my router. At that point I could surf to my external IP address (easy to test if you have a smartphone, just turn wi-fi off and surf to it via 3G) and see the Ghost landing page.</p>
+<p>From that point the blog was externally visible, but only via an IP address, and one which would change every now and then since I don't have a static IP from my ISP. To solve that I signed up for a free account at <a href="http://www.noip.com">noip.com</a> and installed their client on the Pi. There's more on that in <a href="http://people.virginia.edu/~ll2bf/docs/nix/rpi_server.html">this tutorial</a>.</p>
+<p>Soon after that was done, this blog became visible at <a href="http://axemonkey.no-ip.biz">http://axemonkey.no-ip.biz</a> and even if my IP changed, the Noip client would keep the DNS pointing to the right place.</p>
+<p>The final step was to decide on a domain name, and after a little deliberation I picked / and then upgraded my Noip account to a paid account, which then lets you use your own domain name.</p>
+<p>Simple, really. :)</p>
+
+<!-- BEGIN MARKDOWN OUTPUT -->
+
+							</div>
+
+						</section>
+
+					</article>
+
+				</div>
+
+			</main>
+
+			<footer>Site Footer</footer>
+
+<ul>
+	<li><a href="/">Home</a></li>
+	<li><a href="/clives-album-of-the-year-2020/">A Post</a></li>
+	<li><a href="/guitars/">A Page</a></li>
+</ul>
+
+
+	</div>
+
+	<script nomodule src="/public/js/es5bundle.main.js"></script>
+<script type="module" src="/public/js/main.js"></script>
+
+
+</body>
+</html>

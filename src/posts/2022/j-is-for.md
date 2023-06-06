@@ -6,6 +6,7 @@ date: 2022-05-13T14:43:23.000Z
 date_updated: 2022-05-13T14:44:46.000Z
 tags: ['post', 'A-Z', 'Music', 'Guitar']
 excerpt: ...Al Joseph
+ghost_header_image: al-joseph.jpg
 ---
 
 ## J is for… [Al Joseph](https://www.aljosephmusic.com/)

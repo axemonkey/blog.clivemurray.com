@@ -6,6 +6,7 @@ date: 2021-12-21T16:57:27.000Z
 date_updated: 2022-05-13T15:01:03.000Z
 tags: ['post', 'A-Z', 'Music']
 excerpt: ...It Bites
+ghost_header_image: ib-both.jpg
 ---
 
 ## I is for… [It Bites](https://en.wikipedia.org/wiki/It_Bites)

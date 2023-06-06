@@ -6,6 +6,7 @@ date: 2022-10-18T14:39:28.000Z
 date_updated: 2022-10-18T14:39:28.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Are you still out there? Hello? What’s going on?
+ghost_header_image: aoty2021.jpg
 ---
 
 Are you still out there? Hello? What’s going on?

@@ -6,6 +6,7 @@ date: 2023-05-22T10:29:43.000Z
 date_updated: 2023-05-23T09:43:31.000Z
 tags: ['post', 'Music', 'Your Illustrious Host', 'Guitar']
 excerpt: ...including some teaser clips from the new material plus some info about the mysterious producer
+ghost_header_image: "2023/05/video-grab.jpg"
 ---
 
 Hey there! My Kickstarter to get my album mastered is 61% funded!

@@ -6,6 +6,7 @@ date: 2021-09-22T13:49:04.000Z
 date_updated: 2021-09-22T13:59:50.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Well, that was definitely a year.
+ghost_header_image: aoty2020.jpg
 ---
 
 Well, that was definitely a year.

@@ -6,6 +6,7 @@ date: 2022-02-02T11:09:03.000Z
 date_updated: 2022-02-02T11:09:03.000Z
 tags: ['post', 'Guitar', 'Your Illustrious Host']
 excerpt: There are many who seek the One True Pick, and a smaller number who will claim to have found it.
+ghost_header_image: header.jpg
 ---
 
 Most electric guitar players (and many acoustic players also, I suppose) use a pick, or plectrum, when playing. And while a percentage of these players are equally happy with any old pick in their hand, many—myself included—are part of an eternal quest, a never-ending search that occupies a tiny part of our brains 24/7...
