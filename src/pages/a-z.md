@@ -2,8 +2,9 @@
 title: Clive's A-Z of Artists/Bands Of Which You May Not Have Heard
 slug: a-z
 date_published: 2018-06-14T14:26:18.000Z
+date: 2018-06-14T14:26:18.000Z
 date_updated: 2022-05-13T14:45:44.000Z
-tags: A-Z, Music
+tags: ['A-Z', 'Music']
 ---
 
 Never did come up with a snappier title for this. But then, it's evidently still a work in progress, so there's time yet.
