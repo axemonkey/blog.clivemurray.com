@@ -1,0 +1,21 @@
+---
+"layoutType": "home"
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{{ title }}</title>
+	{% include "headparts.njk" %}
+</head>
+<body class="{{ layoutType }}-template">
+
+	<div class="site-wrapper">
+
+			{{ content | safe }}
+
+	</div>
+
+	{% include "script.njk" %}
+
+</body>
+</html>

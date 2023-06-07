@@ -1,0 +1,36 @@
+---
+layout: "content.njk"
+layoutType: page
+pagination:
+  data: collections.postsByYear
+  size: 1000
+  reverse: true
+  alias: postsByYear
+---
+<article class="post-full post page">
+
+	<header class="post-full-header">
+		<h1 class="post-full-title">{{ title }}</h1>
+	</header>
+
+	<section class="post-full-content">
+
+		<div class="post-content">
+
+			<!-- BEGIN ARCHIVE PAGE -->
+
+			<h1>Archive</h1>
+
+			{% for year in postsByYear %}
+				<h2>{{ year }}</h2>
+				{# <p><a href="{{post.url}}">{{ post.data.title }}</a></p> #}
+			{% endfor %}
+
+
+			<!-- BEGIN ARCHIVE PAGE -->
+
+		</div>
+
+	</section>
+
+</article>

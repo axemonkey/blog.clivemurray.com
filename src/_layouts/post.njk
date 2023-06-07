@@ -1,70 +1,48 @@
 ---
 "permalink": "/{{ slug }}/"
 "layoutType": "post"
+"layout": "content"
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>{{ title }}</title>
-	{% include "headparts.njk" %}
-</head>
-<body class="post-template">
+{% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
+{% set fixedContent = content | replace(regExpCode, "") | striptags %}
+{% set wordCount = fixedContent | wordcount %}
+{% set readingRate = 225 %}
+{% set readingTime = (wordCount/readingRate) | round %}
+{% if readingTime < 1 %}{% set readingTime = 1 %}{% endif %}
 
-	<div class="site-wrapper">
+<article class="post-full post">
 
-			{% include "header.njk" %}
+	<header class="post-full-header">
+		<section class="post-full-tags">
+			{% include "post-tags.njk" %}
+		</section>
 
-			<main id="site-main" class="site-main outer">
+		<h1 class="post-full-title">{{ title }}</h1>
 
-				<div class="inner">
+		{% include "byline.njk" %}
 
-					<article class="post-full post">
+	</header>
 
-						<header class="post-full-header">
-							<section class="post-full-tags">
-								{% include "post-tags.njk" %}
-							</section>
+	{% if unsplash_post_image or ghost_header_image %}
+	<figure class="post-full-image">
+		{% if unsplash_post_image %}
+			{% include "unsplash_post_image_holder.njk" %}
+		{% else %}
+			{% include "ghost_post_image_holder.njk" %}
+		{% endif %}
 
-							<h1 class="post-full-title">{{ title }}</h1>
+	</figure>
+	{% endif %}
 
-							{% include "byline.njk" %}
+	<section class="post-full-content">
 
-						</header>
-
-						{% if unsplash_post_image or ghost_header_image %}
-						<figure class="post-full-image">
-							{% if unsplash_post_image %}
-								{% include "unsplash_post_image_holder.njk" %}
-							{% else %}
-								{% include "ghost_post_image_holder.njk" %}
-							{% endif %}
-
-						</figure>
-						{% endif %}
-
-						<section class="post-full-content">
-
-							<div class="post-content">
-
+		<div class="post-content">
 <!-- BEGIN MARKDOWN OUTPUT -->
 {{ content | safe }}
 <!-- BEGIN MARKDOWN OUTPUT -->
 
-							</div>
+		</div>
 
-						</section>
+	</section>
 
-					</article>
-
-				</div>
-
-			</main>
-
-			{% include "footer.njk" %}
-
-	</div>
-
-	{% include "script.njk" %}
-
-</body>
-</html>
+</article>

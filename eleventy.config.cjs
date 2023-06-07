@@ -1,3 +1,4 @@
+const collections = require("./collections.cjs");
 const moment = require('moment');
 
 moment.locale('en-gb');
@@ -11,6 +12,10 @@ module.exports = function (eleventyConfig) {
 			'src/public/**/*',
 		],
 		showVersion: true,
+	});
+
+	Object.keys(collections).forEach((collectionName) => {
+		eleventyConfig.addCollection(collectionName, collections[collectionName]);
 	});
 
 	eleventyConfig.addFilter('dateIso', date => {

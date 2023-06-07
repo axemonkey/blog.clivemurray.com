@@ -2,7 +2,7 @@
 layout: main.njk
 pagination:
   data: collections.post
-  size: 1000
+  size: 25
   reverse: true
   alias: posts
 ---
@@ -11,19 +11,17 @@ pagination:
 	<h2>TODO:</h2>
 
 	<ul>
-		<li>* import JS from live to arrange the homepage</li>
-		<li>* figure out how to do the "reading time" thing</li>
-		<li>* make a nice footer</li>
-		<li>*	make a nice top nav</li>
-		<li>* build in straplines somehow?</li>
 		<li>* build the archive page</li>
-		<li>* pare homepage down to 10(?) posts</li>
 		<li>* make tag pages</li>
 		<li>* do all the stuff for "pages" that I did for "posts"</li>
 		<li>* go through images and somehow prune files that aren't needed</li>
 		<li>* create posts that were made since the export</li>
 		<li>* trawl through and find links to flickr, and replace with new pics</li>
+		<li>* build in straplines somehow?</li>
 		<li>* comments!</li>
+		<li>* add an email icon to the social nav</li>
+		<li>* read every single post - yes, every one - and sort out things like figcaptions, image orientation, etc.</li>
+		<li>* reindent everything, in the name of sanity</li>
 	</ul>
 </section>
 
@@ -37,12 +35,24 @@ pagination:
 		<li>* images for posts that don't have one</li>
 		<li>* get tags onto posts</li>
 		<li>* get tags onto homepage post cards</li>
+		<li>* import JS from live to arrange the homepage (it wasn't JS!)</li>
+		<li>* figure out how to do the "reading time" thing</li>
+		<li>* pare homepage down to ~25 posts</li>
+		<li>*	make a nice top nav</li>
+		<li>* make a nice footer</li>
 	</ul>
 </section>
 
 
 {% for post in posts %}
-	{% if loop.first %}
+	{% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
+	{% set fixedContent = post.content | replace(regExpCode, "") | striptags %}
+	{% set wordCount = fixedContent | wordcount %}
+	{% set readingRate = 225 %}
+	{% set readingTime = (wordCount/readingRate) | round %}
+	{% if readingTime < 1 %}{% set readingTime = 1 %}{% endif %}
+
+	{% if (loop.index0 % 6) === 0 %}
   	<article class="post post-card post-card-large">
 	{% else %}
   	<article class="post post-card">

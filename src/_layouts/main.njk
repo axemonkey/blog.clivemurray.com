@@ -1,34 +1,28 @@
 ---
 "layoutType": "main"
+"layout": "frame.njk"
 "title": "insince.re :: The Blog of Clive Murray"
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>{{ title }}</title>
-  {% include "headparts.njk" %}
-</head>
-<body>
+{% include "front-header.njk" %}
 
-  {% include "front-header.njk" %}
+<main id="site-main" class="site-main outer">
 
-  <main id="site-main" class="site-main outer">
+	<div class="inner posts">
 
-  	<div class="inner posts">
+		<div class="post-feed">
 
-  		<div class="post-feed">
+			{{ content | safe }}
 
-	  		{{ content | safe }}
+		</div>
 
-  		</div>
+	</div>
 
-  	</div>
+</main>
 
-  </main>
+<div class="outer site-nav-main">
+	<div class="inner">
+		{% include "nav.njk" %}
+	</div>
+</div>
 
-  {% include "footer.njk" %}
-
-	{% include "script.njk" %}
-
-</body>
-</html>
+{% include "footer.njk" %}

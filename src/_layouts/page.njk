@@ -1,58 +1,28 @@
 ---
 "permalink": "/{{ slug }}/"
 "layoutType": "page"
+"layout": "content.njk"
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>{{ title }}</title>
-	{% include "headparts.njk" %}
-</head>
-<body class="page-template">
+<article class="post-full post page">
 
-	<div class="site-wrapper">
+	<header class="post-full-header">
+		<h1 class="post-full-title">{{ title }}</h1>
+	</header>
 
-		<header class="site-header">
-			{% include "header.njk" %}
-		</header>
+	{% if main_image_filename %}
+		{% include "main_image.njk" %}
+	{% endif %}
 
-		<main id="site-main" class="site-main outer">
+	<section class="post-full-content">
 
-			<div class="inner">
-
-				<article class="post-full post page">
-
-					<header class="post-full-header">
-						<h1 class="post-full-title">{{ title }}</h1>
-					</header>
-
-					{% if main_image_filename %}
-						{% include "main_image.njk" %}
-					{% endif %}
-
-					<section class="post-full-content">
-
-						<div class="post-content">
+		<div class="post-content">
 
 <!-- BEGIN MARKDOWN OUTPUT -->
 {{ content | safe }}
 <!-- BEGIN MARKDOWN OUTPUT -->
 
-						</div>
+		</div>
 
-					</section>
+	</section>
 
-				</article>
-
-			</div>
-
-		</main>
-
-		{% include "footer.njk" %}
-
-	</div>
-
-	{% include "script.njk" %}
-
-</body>
-</html>
+</article>
