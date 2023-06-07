@@ -5,6 +5,8 @@ date_published: 2013-11-15T12:00:00.000Z
 date: 2013-11-15T12:00:00.000Z
 date_updated: 2021-10-22T12:00:26.000Z
 tags: ['post', 'Music', 'Albums of the Years']
+ghost_header_image: 2020/05/aoty2012.jpg
+excerpt: '"technical instrumental djent-y metal-y stuff"'
 ---
 
 2012 was a jolly fine year for music - or at any rate, music that I like. It was also the year in which I discovered a genre that took my ears by storm for some while, and which I can only attempt to name something like "technical instrumental djent-y metal-y stuff". Since that's such a crap name, go away and listen to *Chimp Spanner*, *Cloudkicker*, *Scale the Summit* and *Intervals*, and you'll soon get the gist.

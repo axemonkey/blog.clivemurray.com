@@ -6,6 +6,7 @@ date: 2013-11-16T17:00:00.000Z
 date_updated: 2021-10-22T12:00:59.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: A lot of great music came my way in 2011.
+ghost_header_image: 2020/05/aoty2011.jpg
 ---
 
 ---

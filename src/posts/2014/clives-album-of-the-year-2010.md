@@ -6,6 +6,7 @@ date: 2014-03-14T19:22:44.000Z
 date_updated: 2021-10-22T12:01:52.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: 2010 was the year in which I got married, the Burj Khalifa opened, Ronnie James Dio and Leslie Nielsen died, and Steve Coogan and Rob Brydon went on The Trip.
+ghost_header_image: 2020/05/aoty2010.jpg
 ---
 
 This post was lost in the ether after a server crash, until my pal and colleague [Mat Harden](http://www.twitter.com/matharden) dug it out of his Instapaper for me. Thanks Mat!

@@ -6,6 +6,7 @@ date: 2014-03-22T08:51:10.000Z
 date_updated: 2022-02-23T01:33:02.000Z
 tags: ['post', 'Music', 'Albums of the Years']
 excerpt: In 2009 we lost Michael Jackson and Patrick Swayze, Barack Obama was awarded the Nobel prize for peace, there was a coup d'état in Madagascar and swine flu broke out in Mexico.
+ghost_header_image: 2020/06/aoty2009.jpg
 ---
 
 In 2009 we lost [Michael Jackson](http://en.wikipedia.org/wiki/Michael_Jackson#Death_and_memorial) and [Patrick Swayze](http://en.wikipedia.org/wiki/Patrick_Swayze#Illness_and_death), [Barack Obama](http://en.wikipedia.org/wiki/Barack_Obama) was awarded the Nobel prize for peace, there was a coup d'état in [Madagascar](http://en.wikipedia.org/wiki/Madagascar) and swine flu [broke out in Mexico](http://en.wikipedia.org/wiki/2009_swine_flu_outbreak). Flight 1549 [ditched in the Hudson River with zero loss of life](http://en.wikipedia.org/wiki/Flight_1549), the civil war in Sri Lanka [came to an end](http://en.wikipedia.org/wiki/Sri_Lankan_Civil_War), as did my ten-year stint in advertising, and [Jóhanna Sigurðardóttir](http://en.wikipedia.org/wiki/J%C3%B3hanna_Sigur%C3%B0ard%C3%B3ttir) was elected as Iceland's first female prime minister and the [first openly gay head of state](http://en.wikipedia.org/wiki/List_of_the_first_LGBT_holders_of_political_offices) in the modern world.
