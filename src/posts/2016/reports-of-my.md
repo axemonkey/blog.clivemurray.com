@@ -4,7 +4,8 @@ slug: reports-of-my
 date_published: 2016-08-22T20:59:36.000Z
 date: 2016-08-22T20:59:36.000Z
 date_updated: 2016-08-22T20:59:36.000Z
-tags: ['post']
+tags: ['post', 'Your Illustrious Host']
+excerpt: You know how it is. Blogging comes and goes in phases.
 ---
 
 ...etc etc.

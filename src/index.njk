@@ -3,29 +3,39 @@ layout: main.njk
 pagination:
   data: collections.post
   size: 1000
-  pageNumber: 2
   reverse: true
   alias: posts
 ---
-{#
-TODO:
 
-* excerpts for old posts that don't have one
-* check all posts have the 'post' tag
-* import JS from live to arrange the homepage
-* make a nice footer
-* build the archive page
-* get tags onto posts
-* get tags onto homepage post cards
-* make tag pages
-* go through images and somehow prune files that aren't needed
+<section>
+	<h2>TODO:</h2>
 
+	<ul>
+		<li>* images for posts that don't have one</li>
+		<li>* get tags onto posts</li>
+		<li>* get tags onto homepage post cards</li>
+		<li>* import JS from live to arrange the homepage</li>
+		<li>* figure out how to do the "reading time" thing</li>
+		<li>* make a nice footer</li>
+		<li>*	make a nice top nav</li>
+		<li>* build in straplines somehow?</li>
+		<li>* build the archive page</li>
+		<li>* make tag pages</li>
+		<li>* go through images and somehow prune files that aren't needed</li>
+		<li>* create posts that were made since the export</li>
+	</ul>
+</section>
 
-TO DONE!
+<section>
+	<h2>TO DONE!</h2>
 
-* finish all old header images
+	<ul>
+		<li>* finish all old header images</li>
+		<li>* excerpts for old posts that don't have one</li>
+		<li>* check all posts have the 'post' tag AND a subject tag</li>
+	</ul>
+</section>
 
-#}
 
 {% for post in posts %}
 	{% if loop.first %}

@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1991
 date_published: 2017-02-23T18:09:53.000Z
 date: 2017-02-23T18:09:53.000Z
 date_updated: 2021-08-26T15:06:59.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: In 1991 I lost my virginity and got a 49cc moped. And the first Gulf War began. So, you know. A mixed bag there.
 ghost_header_image: 1991aoty.jpg
 ---

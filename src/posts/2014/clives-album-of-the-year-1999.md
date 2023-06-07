@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1999
 date_published: 2014-12-11T23:10:19.000Z
 date: 2014-12-11T23:10:19.000Z
 date_updated: 2022-10-19T09:29:32.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: On millennium night I played a covers gig in Hastings, where for the first half we partied like it was 1999, because it was. And then it wasn't. But we carried on anyway.
 ghost_header_image: 1999aoty.jpg
 ---

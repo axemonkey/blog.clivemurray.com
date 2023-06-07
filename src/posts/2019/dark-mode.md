@@ -4,7 +4,7 @@ slug: dark-mode
 date_published: 2019-03-20T17:03:06.000Z
 date: 2019-03-20T17:03:06.000Z
 date_updated: 2020-02-26T14:17:56.000Z
-tags: ['post', 'Your Illustrious Host', 'This site', 'Thinks']
+tags: ['post', 'Your Illustrious Host', 'This Site', 'Thinks']
 excerpt: "Sometimes I post stuff on here that doesn't sound very happy, or not like I'm in a very good place."
 unsplash_post_image: photo-1531167599833-609a45d3d903
 ---

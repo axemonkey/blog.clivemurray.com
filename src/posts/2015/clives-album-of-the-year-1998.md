@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1998
 date_published: 2015-02-03T23:31:15.000Z
 date: 2015-02-03T23:31:15.000Z
 date_updated: 2022-10-19T09:31:45.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1998 marked the end of a few chapters for me, and the beginning of actually having a proper job and getting on with things.
 ghost_header_image: 1998aoty.jpg
 ---

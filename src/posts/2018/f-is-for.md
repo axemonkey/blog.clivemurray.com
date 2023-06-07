@@ -4,7 +4,7 @@ slug: f-is-for
 date_published: 2018-12-10T11:45:09.000Z
 date: 2018-12-10T11:45:09.000Z
 date_updated: 2019-04-03T14:59:42.000Z
-tags: ['post', 'Music', 'A-Z']
+tags: ['post', 'A-Z', 'Music']
 excerpt: "...Frost*"
 ghost_header_image: frost-home-top-1.jpg
 ---

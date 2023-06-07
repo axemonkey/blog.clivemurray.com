@@ -4,7 +4,7 @@ slug: g-is-for
 date_published: 2019-04-18T20:03:38.000Z
 date: 2019-04-18T20:03:38.000Z
 date_updated: 2021-08-26T13:57:27.000Z
-tags: ['post', 'Music', 'A-Z']
+tags: ['post', 'A-Z', 'Music']
 excerpt: ...Jon Gomm
 ghost_header_image: jon-gomm-l1001808-photo-credit-marc-mennigmann.jpg
 ---

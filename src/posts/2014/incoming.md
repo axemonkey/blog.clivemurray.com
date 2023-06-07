@@ -4,7 +4,8 @@ slug: incoming
 date_published: 2014-07-02T09:19:04.000Z
 date: 2014-07-02T09:19:04.000Z
 date_updated: 2014-07-02T09:19:04.000Z
-tags: ['post', 'cats']
+tags: ['post', 'Cats']
+excerpt: My wife and I visited a cat rescue place in Luton on 21st June
 ---
 
 So, if the story is about Shira and her departure then this is the third and final part of that story.

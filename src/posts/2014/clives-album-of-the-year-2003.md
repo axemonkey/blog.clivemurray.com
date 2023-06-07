@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2003
 date_published: 2014-10-01T21:37:07.000Z
 date: 2014-10-01T21:37:07.000Z
 date_updated: 2021-10-22T12:06:38.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2003 was the International Year of Fresh Water.
 ghost_header_image: 2003aoty.jpg
 ---

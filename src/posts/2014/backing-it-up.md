@@ -4,7 +4,8 @@ slug: backing-it-up
 date_published: 2014-03-10T14:20:44.000Z
 date: 2014-03-10T14:20:44.000Z
 date_updated: 2014-03-17T17:43:36.000Z
-tags: ['post', 'This site']
+tags: ['post', 'This Site']
+excerpt: So I mentioned in the last post that I had learned my lesson re backing up - so it was time to actually do something about it.
 ---
 
 So I mentioned in the last post that I had learned my lesson re backing up - so it was time to actually do something about it.

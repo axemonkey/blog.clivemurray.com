@@ -4,7 +4,7 @@ slug: e-is-for
 date_published: 2018-08-28T11:56:32.000Z
 date: 2018-08-28T11:56:32.000Z
 date_updated: 2021-08-26T14:03:01.000Z
-tags: ['post', 'Music', 'A-Z']
+tags: ['post', 'A-Z', 'Music']
 excerpt: ...Elbow
 ghost_header_image: Elbow_in_festival_Positivus_2014.jpg
 ---

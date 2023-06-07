@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1986
 date_published: 2017-11-10T14:01:42.000Z
 date: 2017-11-10T14:01:42.000Z
 date_updated: 2022-10-19T09:46:50.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1986 was designated the International Year of Peace by the UN. Good-oh.
 ghost_header_image: 1986aoty.jpg
 ---

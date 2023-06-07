@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2013
 date_published: 2015-01-02T01:46:40.000Z
 date: 2015-01-02T01:46:40.000Z
 date_updated: 2022-10-19T09:18:08.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2013 was the last year of my 30s, and was a pretty OK year for me all round.
 ghost_header_image: 2013aoty.jpg
 ---

@@ -4,7 +4,8 @@ slug: cats-update
 date_published: 2014-10-01T20:52:10.000Z
 date: 2014-10-01T20:52:10.000Z
 date_updated: 2014-12-09T23:09:09.000Z
-tags: ['post', 'cats']
+tags: ['post', 'Cats']
+excerpt: Ok, so when last I spoke about feline friends, my wife and I had just adopted four new sets of paws...
 ---
 
 Ok, so when [last I spoke about feline friends](/incoming/), my wife and I had just adopted four new sets of paws - a mummy cat and her three kittens.

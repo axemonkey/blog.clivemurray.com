@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2010
 date_published: 2014-03-14T19:22:44.000Z
 date: 2014-03-14T19:22:44.000Z
 date_updated: 2021-10-22T12:01:52.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2010 was the year in which I got married, the Burj Khalifa opened, Ronnie James Dio and Leslie Nielsen died, and Steve Coogan and Rob Brydon went on The Trip.
 ghost_header_image: 2020/05/aoty2010.jpg
 ---

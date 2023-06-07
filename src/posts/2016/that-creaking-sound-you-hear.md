@@ -4,7 +4,8 @@ slug: that-creaking-sound-you-hear
 date_published: 2016-10-12T15:07:42.000Z
 date: 2016-10-12T15:07:42.000Z
 date_updated: 2016-10-12T15:08:19.000Z
-tags: ['post', 'This site']
+tags: ['post', 'This Site']
+excerpt: I'm not promising to post much, but I am at least trying to get the thing working again.
 ---
 
 ...is this blog trying to live.

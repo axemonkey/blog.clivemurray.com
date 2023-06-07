@@ -4,7 +4,8 @@ slug: going-under
 date_published: 2016-11-22T11:49:42.000Z
 date: 2016-11-22T11:49:42.000Z
 date_updated: 2017-08-03T13:42:45.000Z
-tags: ['post', 'This site']
+tags: ['post', 'This Site']
+excerpt: This blog will be going offline for a little while shortly, as I'm moving house.
 ---
 
 This blog will be going offline for a little while shortly, as I'm moving house.

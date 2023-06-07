@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1996
 date_published: 2015-04-19T00:10:30.000Z
 date: 2015-04-19T00:10:30.000Z
 date_updated: 2022-10-19T09:35:28.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1996 was a leap year, and was designated as the International Year for the Eradication of Poverty. So that went well, then.
 ghost_header_image: 1996aoty.jpg
 ---

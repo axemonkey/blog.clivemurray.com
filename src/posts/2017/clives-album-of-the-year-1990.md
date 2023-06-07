@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1990
 date_published: 2017-03-09T17:40:00.000Z
 date: 2017-03-09T17:40:00.000Z
 date_updated: 2021-08-26T14:48:26.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: So, 1990. What happened in 1990? Um… I finished school, I suppose.
 ghost_header_image: 1990aoty.jpg
 ---

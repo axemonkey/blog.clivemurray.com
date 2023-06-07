@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2012
 date_published: 2013-11-15T12:00:00.000Z
 date: 2013-11-15T12:00:00.000Z
 date_updated: 2021-10-22T12:00:26.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 ghost_header_image: 2020/05/aoty2012.jpg
 excerpt: '"technical instrumental djent-y metal-y stuff"'
 ---

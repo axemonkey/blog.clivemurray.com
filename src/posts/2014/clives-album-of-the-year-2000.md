@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2000
 date_published: 2014-12-09T22:32:48.000Z
 date: 2014-12-09T22:32:48.000Z
 date_updated: 2021-10-22T12:09:48.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Let's all meet up in the year 2000, won't it be strange when we're all fully grown?
 ghost_header_image: 2000aoty.jpg
 ---

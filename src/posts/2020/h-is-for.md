@@ -4,7 +4,7 @@ slug: h-is-for
 date_published: 2020-03-20T14:13:30.000Z
 date: 2020-03-20T14:13:30.000Z
 date_updated: 2020-03-20T14:15:37.000Z
-tags: ['post', 'Music', 'A-Z']
+tags: ['post', 'A-Z', 'Music']
 excerpt: ...Daniel Hope
 ghost_header_image: daniel_hope14.jpg
 ---

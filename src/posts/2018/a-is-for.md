@@ -4,7 +4,7 @@ slug: a-is-for
 date_published: 2018-05-18T13:24:05.000Z
 date: 2018-05-18T13:24:05.000Z
 date_updated: 2019-04-03T15:40:49.000Z
-tags: ['post', 'Music', 'A-Z']
+tags: ['post', 'A-Z', 'Music']
 excerpt: ...Amorphis
 ghost_header_image: 1280px-Amorphis_032008_024.jpg
 ---

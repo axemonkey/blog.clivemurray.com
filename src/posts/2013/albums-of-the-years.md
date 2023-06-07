@@ -4,7 +4,8 @@ slug: albums-of-the-years
 date_published: 2013-11-14T12:00:00.000Z
 date: 2013-11-14T12:00:00.000Z
 date_updated: 2014-03-17T17:41:16.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
+excerpt: I was trying to think of stuff to post here on my shiny new Ghost blog, and I came up with "Clive's Albums of the Years"
 ---
 
 Years, perhaps centuries ago, I started a series of posts on my old blog listing my top 100 albums of the 2000s in groups of 10 with mini-reviews of each. It was a hopelessly ambitious task, given that I was hardly blogging at all, and despite finishing a list in Evernote the posts only ever made it from 100 up to 41. And looking back at the list, I can see that I'd probably change over half of them were I to do it again, so that's kind of a pointless endeavour.

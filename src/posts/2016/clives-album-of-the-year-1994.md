@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1994
 date_published: 2016-10-23T16:00:00.000Z
 date: 2016-10-23T16:00:00.000Z
 date_updated: 2022-10-19T09:38:44.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: For rock music, The Dark Times were upon us, and all around was grunge. Nonetheless, a few dim gems sparkled in the muck...
 ghost_header_image: 1994aoty.jpg
 ---

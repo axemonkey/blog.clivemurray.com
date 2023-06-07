@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1993
 date_published: 2016-11-07T09:52:39.000Z
 date: 2016-11-07T09:52:39.000Z
 date_updated: 2021-10-22T12:21:01.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1993 was the last year of my teens. I'd been playing guitar long enough to think I was pretty good, although that was wrong.
 ghost_header_image: 1993aoty.jpg
 ---

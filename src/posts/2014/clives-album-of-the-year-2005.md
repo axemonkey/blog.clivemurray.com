@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2005
 date_published: 2014-08-26T17:10:08.000Z
 date: 2014-08-26T17:10:08.000Z
 date_updated: 2022-10-19T09:23:03.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Unfortunately, even though The Dark Times had ended by 2005, this was not a great year for music.
 ghost_header_image: 2005aoty.jpg
 ---

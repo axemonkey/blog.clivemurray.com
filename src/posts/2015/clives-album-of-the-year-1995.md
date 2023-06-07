@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1995
 date_published: 2015-06-13T22:52:25.000Z
 date: 2015-06-13T22:52:25.000Z
 date_updated: 2021-10-22T12:20:06.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: It's another tie for 1995. I just couldn't separate what are for me still to this day two perfect albums that have barely dated in two decades.
 ghost_header_image: 1995aoty.jpg
 ---

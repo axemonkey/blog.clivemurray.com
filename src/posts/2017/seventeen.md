@@ -4,7 +4,8 @@ slug: seventeen
 date_published: 2017-01-02T17:17:34.000Z
 date: 2017-01-02T17:17:34.000Z
 date_updated: 2017-08-03T13:43:02.000Z
-tags: ['post', 'This site']
+tags: ['post', 'This Site']
+excerpt: I've moved house and though the boxes still fill most corners of the new place, there is at least internet and I finally got the Raspberry Pi that houses this thing a wi-fi adapter and got it back on the internet.
 ---
 
 And so, the blog is back. I've moved house and though the boxes still fill most corners of the new place, there is at least internet and I finally got the Raspberry Pi that houses this thing a wi-fi adapter and got it back on the internet.

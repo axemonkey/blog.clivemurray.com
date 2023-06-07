@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2017
 date_published: 2018-05-02T15:27:37.000Z
 date: 2018-05-02T15:27:37.000Z
 date_updated: 2022-10-19T09:04:27.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: People have been banging on about how terrible 2017 was… and they're not wrong… but hey, did everyone forget about 2016?
 ghost_header_image: 2017aoty-l.jpg
 ---

@@ -4,7 +4,8 @@ slug: tools-in-the-shed
 date_published: 2014-04-02T20:50:16.000Z
 date: 2014-04-02T20:50:16.000Z
 date_updated: 2014-04-02T20:50:16.000Z
-tags: ['post']
+tags: ['post', 'Guitar']
+excerpt: I wrote ~2500 words about guitars I own, guitars I have owned in the past...
 ---
 
 I wrote ~2500 words about guitars I own, guitars I have owned in the past, and guitars I will own very soon.

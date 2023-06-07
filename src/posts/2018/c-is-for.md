@@ -4,7 +4,7 @@ slug: c-is-for
 date_published: 2018-07-24T23:12:21.000Z
 date: 2018-07-24T23:12:21.000Z
 date_updated: 2019-04-03T15:36:57.000Z
-tags: ['post', 'Music', 'A-Z']
+tags: ['post', 'A-Z', 'Music']
 excerpt: ...Cloudkicker
 ghost_header_image: cloudkicker-top.jpg
 ---

@@ -4,7 +4,8 @@ slug: the-ghost-post
 date_published: 2013-11-09T17:00:00.000Z
 date: 2013-11-09T17:00:00.000Z
 date_updated: 2020-02-25T17:46:10.000Z
-tags: ['post', 'This site']
+tags: ['post', 'This Site']
+excerpt: It occurs to me that others may want to set up a Ghost blog on their Raspberry Pi, and may be interested in how I went about it.
 ---
 
 *Please note: this post was written in 2013 and is now really rather out of date.*

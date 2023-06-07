@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2009
 date_published: 2014-03-22T08:51:10.000Z
 date: 2014-03-22T08:51:10.000Z
 date_updated: 2022-02-23T01:33:02.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: In 2009 we lost Michael Jackson and Patrick Swayze, Barack Obama was awarded the Nobel prize for peace, there was a coup d'état in Madagascar and swine flu broke out in Mexico.
 ghost_header_image: 2020/06/aoty2009.jpg
 ---

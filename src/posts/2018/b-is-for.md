@@ -4,7 +4,7 @@ slug: b-is-for
 date_published: 2018-05-24T10:12:48.000Z
 date: 2018-05-24T10:12:48.000Z
 date_updated: 2021-08-26T14:13:07.000Z
-tags: ['post', 'Music', 'A-Z']
+tags: ['post', 'A-Z', 'Music']
 excerpt: ...Sebastian Bach
 ghost_header_image: 1280px-Sebastian_Bach_-_Rachel_Bolan.jpg
 ---

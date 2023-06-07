@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-2002
 date_published: 2014-10-22T21:22:04.000Z
 date: 2014-10-22T21:22:04.000Z
 date_updated: 2021-10-22T12:08:18.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2002 was the first palindromic year since 1991 and the last until 2112.
 ghost_header_image: 2002aoty.jpg
 ---

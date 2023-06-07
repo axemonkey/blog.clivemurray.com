@@ -4,7 +4,7 @@ slug: clives-album-of-the-year-1987
 date_published: 2017-08-03T09:49:48.000Z
 date: 2017-08-03T09:49:48.000Z
 date_updated: 2022-10-19T09:44:53.000Z
-tags: ['post', 'Music', 'Albums of the Years']
+tags: ['post', 'Albums of the Years', 'Music']
 excerpt: I was at school with bad hair and short curly skin, choosing my subjects for GCSE, and in a deeply committed relationship with my ZX Spectrum.
 ghost_header_image: 1987aoty.jpg
 ---

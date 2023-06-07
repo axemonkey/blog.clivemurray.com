@@ -4,7 +4,8 @@ slug: the-wrong-number-of-cats
 date_published: 2014-06-16T22:54:04.000Z
 date: 2014-06-16T22:54:04.000Z
 date_updated: 2021-03-30T08:03:23.000Z
-tags: ['post', 'cats']
+tags: ['post', 'Cats']
+excerpt: I wasn’t always That Cat Guy.
 ---
 
 In my opinion there is only one wrong number of cats to have, and that is none.
