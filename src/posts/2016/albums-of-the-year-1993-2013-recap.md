@@ -6,6 +6,7 @@ date: 2016-11-10T00:43:17.000Z
 date_updated: 2019-04-05T21:14:46.000Z
 tags: ['post', 'Albums of the Years', 'Your Illustrious Host', 'Recap', 'Music']
 excerpt: So when I launched this blog, 3 years ago this month, it was mainly because I had discovered the wonder of the Raspberry Pi and wanted an excuse to buy one (that wasn't bitcoin mining) so a blog server seemed like a good idea.
+ghost_header_image: some-albums.jpg
 ---
 
 So when I launched this blog, [3 years ago this month](/remember-remember), it was mainly because I had discovered the wonder of the [Raspberry Pi](https://www.raspberrypi.org/) and wanted an excuse to buy one (that wasn't bitcoin mining) so a blog server seemed like a good idea.

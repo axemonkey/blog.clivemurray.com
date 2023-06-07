@@ -12,7 +12,7 @@
 	<a class="post-card-content-link" href="{{ post.url | url }}">
 
 		<header class="post-card-header">
-			{# <div class="post-card-primary-tag">Music</div> #}
+			<div class="post-card-primary-tag">{{ post.data.tags[1] }}</div>
 			<h2 class="post-card-title">{{ post.data.title }}</h2>
 		</header>
 
@@ -37,7 +37,7 @@
 				<span><a href="/about">Clive Murray</a></span>
 				<span class="post-card-byline-date">
 					<time datetime="{{ post.date | dateHyphenated }}">{{ post.date | dateReadable }}</time>
-					{# <span class="bull">•</span> 1 min read #}
+					<span class="bull">•</span> 777 min read
 				</span>
 		</div>
 	</footer>

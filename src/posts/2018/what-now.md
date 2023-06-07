@@ -6,6 +6,7 @@ date: 2018-05-11T13:49:35.000Z
 date_updated: 2019-04-08T10:12:38.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: So yeah, observant listeners may have realised that I have now completed my task of picking an Album of the Year (plus runners-up where applicable) for every year from 2017 right back to the year of my birth, 1974.
+unsplash_post_image: photo-1588665343610-04dfd562e2e7
 ---
 
 So yeah, observant listeners may have realised that I have now completed my task of picking an Album of the Year (plus runners-up where applicable) for every year from 2017 right back to the year of my birth, 1974.

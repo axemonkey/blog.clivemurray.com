@@ -1,0 +1,8 @@
+{% for tag in tags %}
+	{% if tag !== 'post' %}
+		<a href="/tag/{{ tag | slugify }}">{{ tag }}</a>
+		{% if not loop.last %}
+			<span>&nbsp;//&nbsp;</span>
+		{% endif %}
+	{% endif %}
+{% endfor %}

@@ -6,6 +6,7 @@ date: 2013-12-13T12:00:00.000Z
 date_updated: 2014-03-17T17:42:37.000Z
 tags: ['post', 'Funny']
 excerpt: My good friend Nick Beatty, known on the Twitters as @bumlaser, has a unique way with words.
+unsplash_post_image: photo-1630710979324-43f131046559
 ---
 
 My good friend Nick Beatty, known on the Twitters as [@bumlaser](http://www.twitter.com/bumlaser), has a unique way with words.

@@ -6,6 +6,7 @@ date: 2014-06-16T22:54:04.000Z
 date_updated: 2021-03-30T08:03:23.000Z
 tags: ['post', 'Cats']
 excerpt: I wasn’t always That Cat Guy.
+ghost_header_image: bobble.jpg
 ---
 
 In my opinion there is only one wrong number of cats to have, and that is none.
@@ -42,7 +43,7 @@ Shira wormed her way into both our hearts in no time and soon I had more picture
 
 Well, as also mentioned [previously](/cats-and-dogs), Shira recently got very ill. She just stopped eating, and once again we will never know exactly what it was she had. And it is with the very heaviest of hearts that I report that we lost her this morning. She’d seemed like she was going to bounce back again and again, but in the end it seems she had used up all her 18-or-so lives, and it was finally time for her to go. I knew this morning when I came down and found her sitting next to the sofa, having been unable to get up onto it in the night, that the time had come. The vet was wonderful as always, and now our beloved Little Bear is buried at the bottom of the garden here, at the house she lived in for all that time, and next to Trevor.
 
-RIP Shira the cat, 16/6/2014. Our darling Little Bear. Bobble, Shouty Bob, Feetsie, Queen of Tail, the Little Minx. Do excuse me, I have something in my eye.
+RIP Shira the cat, 16/6/2014. Our darling Little Bear. Bobble, Shouty Bob, Feetsie, Queen of Tail, the Little Minx. Do excuse me, I have a great number of things in my eye.
 
 ![Shira, the Minxy one](/public/images/2014/Jun/Photo-22-04-2012-08-45-13.jpg)
 

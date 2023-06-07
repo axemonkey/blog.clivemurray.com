@@ -15,7 +15,7 @@ Why's that? Well don't worry, it's not another ~4000 word ramble, it's very simp
 
 These particular Shitheads are one of the big hosting conglomerates, and have a history of hiking prices. Sure enough, a week or two ago, I got an email from them telling me that email inboxes would no longer be included in the price, and the prices were all going up.
 
-So, to quote the late Lionel Blair, "fuck that for a game of soldiers". I am currently shopping around for a new web hosting company that allows nodejs applications, and isn't vastly expensive.
+So, to quote the late Lionel Blair, "sod that for a game of soldiers". I am currently shopping around for a new web hosting company that allows nodejs applications, and isn't vastly expensive.
 
 One idea that has occurred to me is I could move all my websites onto the aforementioned Raspberry Pi, and not pay for web hosting at all! This would have one downside, and that is that this blog could no longer live on the same device, since it has its own built-in server, and they would clash.
 

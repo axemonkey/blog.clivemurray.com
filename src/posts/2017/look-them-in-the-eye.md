@@ -6,6 +6,7 @@ date: 2017-01-04T13:47:06.000Z
 date_updated: 2021-08-26T15:20:13.000Z
 excerpt: "One minute, got to pay for my shopping, I'll ring you back"
 tags: ['post', 'Thinks']
+unsplash_post_image: photo-1572016047668-5b5e909e1605
 ---
 
 Right, stop what you're doing and listen closely.

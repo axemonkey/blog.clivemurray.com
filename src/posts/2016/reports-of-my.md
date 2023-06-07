@@ -6,6 +6,7 @@ date: 2016-08-22T20:59:36.000Z
 date_updated: 2016-08-22T20:59:36.000Z
 tags: ['post', 'Your Illustrious Host']
 excerpt: You know how it is. Blogging comes and goes in phases.
+ghost_header_image: oldphone.jpg
 ---
 
 ...etc etc.
