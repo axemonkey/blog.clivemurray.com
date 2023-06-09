@@ -1,0 +1,44 @@
+<header class="site-archive-header">
+	<div class="outer site-nav-main">
+		<div class="inner">
+			{% include "nav.njk" %}
+		</div>
+	</div>
+
+	<style type="text/css">
+	    .responsive-header-img {
+	        background-image: url(/public/images/size/w2000/tag-{{ tags | slugify }}.jpg);
+	    }
+
+	    @media(max-width: 1000px) {
+	        .responsive-header-img {
+	            background-image: url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg);
+	            background-image: -webkit-image-set(url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 1x,
+	                url(/public/images/size/w2000/tag-{{ tags | slugify }}.jpg) 2x);
+	            background-image: image-set(url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 1x,
+	                url(/public/images/size/w2000/tag-{{ tags | slugify }}.jpg) 2x);
+	        }
+	    }
+
+	    @media(max-width: 600px) {
+	        .responsive-header-img {
+	            background-image: url(/public/images/size/w600/tag-{{ tags | slugify }}.jpg);
+	            background-image: -webkit-image-set(url(/public/images/size/w600/tag-{{ tags | slugify }}.jpg) 1x,
+	                url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 2x);
+	            background-image: image-set(url(/public/images/size/w600/tag-{{ tags | slugify }}.jpg) 1x,
+	                url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 2x);
+	        }
+	    }
+	</style>
+
+	<div class="outer site-header-background responsive-header-img">
+		<div class="inner site-header-content">
+			<h1 class="site-title">
+				{{ tags }}
+			</h1>
+
+			<h2 class="site-description">A collection of {{ collections[tags].length }} posts</h2>
+		</div>
+	</div>
+
+</header>

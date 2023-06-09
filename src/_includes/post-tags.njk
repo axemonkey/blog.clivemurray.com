@@ -2,7 +2,7 @@
 	{% if tag !== 'post' %}
 		<a href="/tag/{{ tag | slugify }}">{{ tag }}</a>
 		{% if not loop.last %}
-			<span>&nbsp;//&nbsp;</span>
+			{% include "separator.njk" %}
 		{% endif %}
 	{% endif %}
 {% endfor %}

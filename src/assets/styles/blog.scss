@@ -1,3 +1,7 @@
+$headingFont: "Atkinson-Hyperlegible";
+// $bodyCopyFont: "Spectral";
+$bodyCopyFont: $headingFont;
+
 @import "fonts";
 @import "ghost01";
 @import "ghost02";
@@ -6,5 +10,23 @@
 @import "ghost05";
 
 p.footer-text {
+	margin: 10px 0;
 	text-align: center;
+}
+
+details {
+	width: 100%;
+}
+
+summary {
+	cursor: pointer;
+}
+
+summary span {
+	text-decoration: underline;
+}
+
+details[open] summary span {
+	text-decoration: none;
+	font-weight: bold;
 }

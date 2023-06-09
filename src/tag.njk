@@ -1,0 +1,41 @@
+---
+layout: frame.njk
+layoutType: page
+permalink: "/tag/{{ tags | slugify }}/"
+pagination:
+  data: collections.tagsList
+  size: 1
+  alias: tags
+---
+{% include "tag-header.njk" %}
+
+<main id="site-main" class="site-main outer">
+
+  <div class="inner posts">
+
+    <div class="post-feed">
+
+      <!-- BEGIN TAG PAGE -->
+
+      {% for post in collections[tags] | reverse %}
+
+        {% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
+        {% set fixedContent = post.content | replace(regExpCode, "") | striptags %}
+        {% set wordCount = fixedContent | wordcount %}
+        {% set readingRate = 225 %}
+        {% set readingTime = (wordCount/readingRate) | round %}
+        {% if readingTime < 1 %}{% set readingTime = 1 %}{% endif %}
+
+        <article class="post post-card">
+          {% include "post-card.njk" %}
+        </article>
+
+      {% endfor %}
+
+      <!-- END TAG PAGE -->
+
+    </div>
+
+  </div>
+
+</main>

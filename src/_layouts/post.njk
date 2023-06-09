@@ -1,7 +1,7 @@
 ---
-"permalink": "/{{ slug }}/"
-"layoutType": "post"
-"layout": "content"
+permalink: "/{{ slug }}/"
+layoutType: post
+layout: content
 ---
 {% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
 {% set fixedContent = content | replace(regExpCode, "") | striptags %}

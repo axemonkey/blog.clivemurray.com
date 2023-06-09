@@ -1,0 +1,34 @@
+---
+layout: "content.njk"
+layoutType: page
+title: Tags
+---
+<article class="post-full post page">
+
+	<header class="post-full-header">
+		<h1 class="post-full-title">{{ title }}</h1>
+	</header>
+
+	<section class="post-full-content">
+
+		<div class="post-content">
+
+			<!-- BEGIN ARCHIVE PAGE -->
+
+			<h2>Tags ({{ collections.tagsList.length }})</h2>
+
+			<ul>
+				{% for tag, val in collections.tagsList %}
+					{% if tag !== 'post' %}
+						<li><a href="/tag/{{ tag | slugify }}">{{ tag }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+
+			<!-- END ARCHIVE PAGE -->
+
+		</div>
+
+	</section>
+
+</article>

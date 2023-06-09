@@ -9,7 +9,7 @@ body,
 .post-full-content table,
 .post-full-content figcaption,
 .post-full-content .kg-bookmark-container {
-	font-family: Montserrat, sans-serif;
+	font-family: $headingFont, sans-serif;
 }
 
 #ghost-portal-root {
@@ -45,7 +45,7 @@ body,
 .post-full-custom-excerpt,
 .post-card-excerpt,
 .subscribe-overlay-description {
-	font-family: Spectral, Georgia, serif;
+	font-family: $bodyCopyFont, Georgia, serif;
 }
 
 section.support {

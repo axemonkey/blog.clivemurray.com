@@ -4,7 +4,6 @@ slug: about
 date_published: 2014-03-07T18:58:43.000Z
 date: 2014-03-07T18:58:43.000Z
 date_updated: 2022-12-13T15:54:42.000Z
-tags: ['Your Illustrious Host']
 ---
 
 I'm Clive. Rock guitarist and gentleman adventurer from a land before time. I am also at [clivemurray.com](https://clivemurray.com/).

@@ -4,7 +4,6 @@ slug: guitars
 date_published: 2014-03-15T18:08:39.000Z
 date: 2014-03-15T18:08:39.000Z
 date_updated: 2023-02-08T16:18:46.000Z
-tags: ['Guitar']
 excerpt: I love guitars. How can you not? They're so cool.
 main_image_filename: IMG_5275.JPG
 ---

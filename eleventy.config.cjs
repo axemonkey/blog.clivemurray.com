@@ -4,6 +4,7 @@ const moment = require('moment');
 moment.locale('en-gb');
 
 module.exports = function (eleventyConfig) {
+	eleventyConfig.addGlobalData('titlePrepend', 'insincere :: ');
 	eleventyConfig.addPassthroughCopy('src/public');
 	eleventyConfig.setUseGitIgnore(false);
 	eleventyConfig.setServerOptions({
@@ -18,6 +19,10 @@ module.exports = function (eleventyConfig) {
 		eleventyConfig.addCollection(collectionName, collections[collectionName]);
 	});
 
+	eleventyConfig.addFilter('titlePrepend', string => {
+		return `insince.re :: ${string}`;
+	});
+
 	eleventyConfig.addFilter('dateIso', date => {
 		return moment(date).toISOString();
 	});
@@ -28,6 +33,10 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.addFilter('dateComfortable', date => {
 		return moment(date).utc().format('LL');
+	});
+
+	eleventyConfig.addFilter('dateComfortableShort', date => {
+		return moment(date).utc().format('MMM DD');
 	});
 
 	eleventyConfig.addFilter('dateHyphenated', date => {
