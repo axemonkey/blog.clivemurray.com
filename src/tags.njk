@@ -3,6 +3,12 @@ layout: "content.njk"
 layoutType: page
 title: Tags
 ---
+{% set theTags = [] %}
+{% for tag, val in collections.tagsList %}
+	{% if tag !== 'post' %}
+		{% set theTags = (theTags.push(tag), theTags) %}
+	{% endif %}
+{% endfor %}
 <article class="post-full post page">
 
 	<header class="post-full-header">
@@ -15,10 +21,10 @@ title: Tags
 
 			<!-- BEGIN ARCHIVE PAGE -->
 
-			<h2>Tags ({{ collections.tagsList.length }})</h2>
+			<h2>Tags ({{ theTags.length }})</h2>
 
 			<ul>
-				{% for tag, val in collections.tagsList %}
+				{% for tag in theTags | sort %}
 					{% if tag !== 'post' %}
 						<li><a href="/tag/{{ tag | slugify }}">{{ tag }}</a></li>
 					{% endif %}
