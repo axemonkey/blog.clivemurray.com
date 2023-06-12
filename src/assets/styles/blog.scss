@@ -16,17 +16,28 @@ p.footer-text {
 
 details {
 	width: 100%;
+	margin-bottom: 1rem;
 }
 
 summary {
 	cursor: pointer;
 }
 
-summary span {
+summary span.archive-year {
 	text-decoration: underline;
+	font-size: 3rem;
 }
 
-details[open] summary span {
+details[open] summary span.archive-year {
 	text-decoration: none;
-	font-weight: bold;
+	// font-weight: bold;
+	font-style: italic;
+}
+
+.post-full-content ul.archive-list {
+	margin-top: 2.5rem;
+}
+
+.archive-list li {
+	margin-left: 3rem;
 }
