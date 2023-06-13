@@ -1,11 +1,12 @@
 ---
 layout: frame.njk
 layoutType: page
-permalink: "/tag/{{ tags | slugify }}/"
 pagination:
   data: collections.tagsList
   size: 1
   alias: tags
+permalink: "/tag/{{ tags | slugify }}/"
+title: {{ tags }}
 ---
 {% include "tag-header.njk" %}
 
@@ -13,7 +14,9 @@ pagination:
 
   <div class="inner posts">
 
+      <h1>{{ tags }}</h1>
     <div class="post-feed">
+
 
       <!-- BEGIN TAG PAGE -->
 

@@ -26,7 +26,7 @@ title: Tags
 			<ul>
 				{% for tag in theTags | sort %}
 					{% if tag !== 'post' %}
-						<li><a href="/tag/{{ tag | slugify }}">{{ tag }}</a></li>
+						<li><a href="/tag/{{ tag | slugify }}">{{ tag | capitalize }}</a></li>
 					{% endif %}
 				{% endfor %}
 			</ul>
