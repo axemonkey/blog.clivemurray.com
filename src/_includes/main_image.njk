@@ -1,12 +1,12 @@
 {% if main_image_filename %}
 <figure class="post-full-image">
 
-	<img srcset="/public/images/size/w300/2020/07/{{ main_image_filename}} 300w,
-	                            /public/images/size/w600/2020/07/{{ main_image_filename}} 600w,
-	                            /public/images/size/w1000/2020/07/{{ main_image_filename}} 1000w,
-	                            /public/images/size/w2000/2020/07/{{ main_image_filename}} 2000w" sizes="(max-width: 800px) 400px,
+	<img srcset="/public/images/size/w300/{{ main_image_filename}} 300w,
+	                            /public/images/size/w600/{{ main_image_filename}} 600w,
+	                            /public/images/size/w1000/{{ main_image_filename}} 1000w,
+	                            /public/images/size/w2000/{{ main_image_filename}} 2000w" sizes="(max-width: 800px) 400px,
 	                            (max-width: 1170px) 1170px,
-	                            2000px" src="/public/images/size/w2000/2020/07/{{ main_image_filename}}" alt="{{ title }}">
+	                            2000px" src="/public/images/size/w2000/{{ main_image_filename}}" alt="{{ title }}">
 
 </figure>
 {% endif %}

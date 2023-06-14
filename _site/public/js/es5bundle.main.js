@@ -76,7 +76,7 @@
 	  var bodyEl = document.querySelector('body');
 	  if (bodyEl.classList.contains('home-template')) {
 	    initHomepageNav();
-	  } else {
+	  } else if (bodyEl.classList.contains('post-template')) {
 	    initStickyNav(window, document);
 	    Casper.stickyNavTitle({
 	      navSelector: '.site-nav-main',

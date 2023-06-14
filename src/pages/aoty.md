@@ -4,6 +4,7 @@ slug: aoty
 date_published: 2018-05-11T09:19:11.000Z
 date: 2018-05-11T09:19:11.000Z
 date_updated: 2022-10-19T08:47:03.000Z
+main_image_filename: albums-2.JPG
 ---
 
 When I started this blog on my little Raspberry Pi, I wanted something that would keep me coming back to write. I knew from experience that just blogging for the sake of it would soon peter out, and the whole thing would just wither and die.
@@ -17,728 +18,487 @@ Enjoy.
 ---
 
 - [2021](/clives-album-of-the-year-2021)
-- Winner
-
-- Architects – For Those That Wish to Exist
-
-- Honourable mentions
-
-- Black Veil Brides – The Phantom Tomorrow
-- Buckcherry – Hellbound
-- Billie Eilish – Happier Than Ever
-- Evanescence – The Bitter Truth
-- Frost* – Day and Age
-- Gojira – Fortitude
-- London Grammar – Californian Soil
-- George Lynch – Seamless
-- The Offspring – Let the Bad Times Roll
-- Spiritbox – Eternal Blue
-- You Me at Six – Suckapunch
-
-- Turkey of the year
-
-- Iron Maiden – Senjutsu
-
+	- Winner
+		- Architects – For Those That Wish to Exist
+	- Honourable mentions
+		- Black Veil Brides – The Phantom Tomorrow
+		- Buckcherry – Hellbound
+		- Billie Eilish – Happier Than Ever
+		- Evanescence – The Bitter Truth
+		- Frost* – Day and Age
+		- Gojira – Fortitude
+		- London Grammar – Californian Soil
+		- George Lynch – Seamless
+		- The Offspring – Let the Bad Times Roll
+		- Spiritbox – Eternal Blue
+		- You Me at Six – Suckapunch
+	- Turkey of the year
+		- Iron Maiden – Senjutsu
 - [2020](/clives-album-of-the-year-2020)
-- Winner
-
-- Lady Gaga – Chromatica
-
-- Honourable mentions
-
-- Jon Gomm – The Faintest Idea
-- Green Day – Father of All Motherf***ers
-- Dua Lipa – Future Nostalgia
-- Nuclear Power Trio – A Clear and Present Rager
-- Plini – Impulse Voices
-- Protest the Hero – Palimpsest
-- Public Enemy – What You Gonna Do When the Grid Goes Down?
-- Taylor Swift – Evermore
-- Taylor Swift – Folklore
-
-- Turkey of the year
-
-- Reb Beach – A View From the Inside
-
+	- Winner
+		- Lady Gaga – Chromatica
+	- Honourable mentions
+		- Jon Gomm – The Faintest Idea
+		- Green Day – Father of All Motherf\*\*\*ers
+		- Dua Lipa – Future Nostalgia
+		- Nuclear Power Trio – A Clear and Present Rager
+		- Plini – Impulse Voices
+		- Protest the Hero – Palimpsest
+		- Public Enemy – What You Gonna Do When the Grid Goes Down?
+		- Taylor Swift – Evermore
+		- Taylor Swift – Folklore
+	- Turkey of the year
+		- Reb Beach – A View From the Inside
 - [2019](/clives-album-of-the-year-2019)
-- Winner
-
-- McRocklin & Hutch – Riding Out
-
-- Honourable mentions
-
-- Alter Bridge – Walk the Sky
-- Blood Stain Child – Amateras
-- Billie Eilish – When We All Fall Asleep, Where Do We Go?
-- Elbow – Giants of All Sizes
-- Eluveitie – Ategnatos
-- The End Machine – The End Machine
-- KXM – Circle of Dolls
-- Mr. Fastfinger – Mountain Tone
-- Tool – Fear Inoculum
-- Voyager – Colours in the Sun
-- Ed Wynne – Shimmer Into Nature
-
-- Turkey of the year
-
-- Yngwie Malmsteen – Blue Lightning
-
+	- Winner
+		- McRocklin & Hutch – Riding Out
+	- Honourable mentions
+		- Alter Bridge – Walk the Sky
+		- Blood Stain Child – Amateras
+		- Billie Eilish – When We All Fall Asleep, Where Do We Go?
+		- Elbow – Giants of All Sizes
+		- Eluveitie – Ategnatos
+		- The End Machine – The End Machine
+		- KXM – Circle of Dolls
+		- Mr. Fastfinger – Mountain Tone
+		- Tool – Fear Inoculum
+		- Voyager – Colours in the Sun
+		- Ed Wynne – Shimmer Into Nature
+	- Turkey of the year
+		- Yngwie Malmsteen – Blue Lightning
 - [2018 (tie)](/clives-album-of-the-year-2018)
-- Winners
-
-- Greta Van Fleet – Anthem of the Peaceful Army
-- Michael Romeo – War of the Worlds Pt.1
-- Mika Tyyskä – Night Overdrive
-
-- Honourable mentions
-
-- Alice in Chains – Rainier Fog
-- Amorphis – Queen of Time
-- Coheed and Cambria – Vaxis, Act 1: The Unheavenly Creatures
-- Gus G. – Fearless
-- Hyvmine – Earthquake
-- Myles Kennedy – Year of the Tiger
-- McRocklin – New Beginnings
-- Nita Strauss – Controlled Chaos
-- Toska – Fire By the Silos
-
+	- Winners
+		- Greta Van Fleet – Anthem of the Peaceful Army
+		- Michael Romeo – War of the Worlds Pt.1
+		- Mika Tyyskä – Night Overdrive
+	- Honourable mentions
+		- Alice in Chains – Rainier Fog
+		- Amorphis – Queen of Time
+		- Coheed and Cambria – Vaxis, Act 1: The Unheavenly Creatures
+		- Gus G. – Fearless
+		- Hyvmine – Earthquake
+		- Myles Kennedy – Year of the Tiger
+		- McRocklin – New Beginnings
+		- Nita Strauss – Controlled Chaos
+		- Toska – Fire By the Silos
 - [2017 (tie)](/clives-album-of-the-year-2017)
-- Winners
-
-- Greta Van Fleet – From the Fires
-- Steven Wilson – To the Bone
-
-- Honourable mentions
-
-- Jonathan Coulton – Solid State
-- KXM – Scatterbrain
-- Lonely Robot – The Big Dream
-- David Maxim Micic – Who Bit the Moon
-- Oh Wonder – Ultralife
-- Sons of Apollo – Psychotic Symphony
-- You Me at Six – Night People
-- Jakub Zytecki – Ladder Head
-
-- Turkey of the year
-
-- Lynch Mob – The Brotherhood
-
+	- Winners
+		- Greta Van Fleet – From the Fires
+		- Steven Wilson – To the Bone
+	- Honourable mentions
+		- Jonathan Coulton – Solid State
+		- KXM – Scatterbrain
+		- Lonely Robot – The Big Dream
+		- David Maxim Micic – Who Bit the Moon
+		- Oh Wonder – Ultralife
+		- Sons of Apollo – Psychotic Symphony
+		- You Me at Six – Night People
+		- Jakub Zytecki – Ladder Head
+	- Turkey of the year
+		- Lynch Mob – The Brotherhood
 - [2016](/clives-album-of-the-year-2016)
-- Winner
-
-- Plini – Handmade Cities
-
-- Honourable mentions
-
-- David Bowie – Blackstar
-- The Dead Daisies – Make Some Noise
-- Frost* – Falling Satellites
-- Mandroid Echostar – Coral Throne
-- Sithu Aye – Set Course For Andromeda
-
-- Turkey of the year
-
-- Dream Theater – The Astonishing
-
+	- Winner
+		- Plini – Handmade Cities
+	- Honourable mentions
+		- David Bowie – Blackstar
+		- The Dead Daisies – Make Some Noise
+		- Frost* – Falling Satellites
+		- Mandroid Echostar – Coral Throne
+		- Sithu Aye – Set Course For Andromeda
+	- Turkey of the year
+		- Dream Theater – The Astonishing
 - [2015](/clives-album-of-the-year-2015)
-- Winner
-
-- Coheed and Cambria – The Color Before the Sun
-
-- Honourable mentions
-
-- Furyon – Lost Salvation
-- Lonely Robot – Please Come Home
-- Mumford & Sons – Wilder Mind
-- Plini – The End of Everything
-- Teramaze – Her Halo
-
+	- Winner
+		- Coheed and Cambria – The Color Before the Sun
+	- Honourable mentions
+		- Furyon – Lost Salvation
+		- Lonely Robot – Please Come Home
+		- Mumford & Sons – Wilder Mind
+	- Plini – The End of Everything
+		- Teramaze – Her Halo
 - [2014](/clives-album-of-the-year-2014)
-- Winner
-
-- You Me At Six – Cavalier Youth
-
-- Honourable mentions
-
-- Sebastian Bach – Give ‘Em Hell
-- Black Veil Brides – Black Veil Brides
-- Buckcherry – Fuck
-- Elbow – The Take Off and Landing of Everything
-- Slash – World on Fire
-
-- Turkey of the year
-
-- Winger – Better Days Comin’
-
+	- Winner
+		- You Me At Six – Cavalier Youth
+	- Honourable mentions
+		- Sebastian Bach – Give ‘Em Hell
+		- Black Veil Brides – Black Veil Brides
+		- Buckcherry – F\*\*k
+		- Elbow – The Take Off and Landing of Everything
+		- Slash – World on Fire
+	- Turkey of the year
+		- Winger – Better Days Comin’
 - [2013](/clives-album-of-the-year-2013)
-- Winner
-
-- Jon Gomm – Secrets Nobody Keeps
-
-- Honourable mentions
-
-- Alter Bridge – Fortress
-- Ólafur Arnalds – For Now I Am Winter
-- David Bowie – The Next Day
-- Hugh Laurie – Didn’t It Rain
-- Plini / Sithu Aye – I
-
-- Turkey of the year
-
-- Johnny Flynn – Country Mile
-
+	- Winner
+		- Jon Gomm – Secrets Nobody Keeps
+	- Honourable mentions
+		- Alter Bridge – Fortress
+		- Ólafur Arnalds – For Now I Am Winter
+		- David Bowie – The Next Day
+		- Hugh Laurie – Didn’t It Rain
+		- Plini / Sithu Aye – I
+	- Turkey of the year
+		- Johnny Flynn – Country Mile
 - [2012](/clives-album-of-the-year-2012)
-- Winner
-
-- Flying Colors – Flying Colors
-
-- Honourable mentions
-
-- Chimp Spanner – All Roads Lead Here
-- Grand Magus – The Hunt
-- Max Richter – Recomposed by Max Richter: Vivaldi, The Four Seasons
-- Savage Messiah – Plague of Conscience
-- Tremonti – All I Was
-
+	- Winner
+		- Flying Colors – Flying Colors
+	- Honourable mentions
+		- Chimp Spanner – All Roads Lead Here
+		- Grand Magus – The Hunt
+		- Max Richter – Recomposed by Max Richter: Vivaldi, The Four Seasons
+		- Savage Messiah – Plague of Conscience
+		- Tremonti – All I Was
 - [2011](/clives-album-of-the-year-2011)
-- Winner
-
-- You Me at Six – Sinners Never Sleep
-
-- Honourable mentions
-
-- Hugh Laurie – Let Them Talk
-- Mr. Big – What If...
-- Myrath – Tales of the Sands
-- Scroobius Pip – Distraction Pieces
-- Evanescence – Evanescence
-
+	- Winner
+		- You Me at Six – Sinners Never Sleep
+	- Honourable mentions
+		- Hugh Laurie – Let Them Talk
+		- Mr. Big – What If...
+		- Myrath – Tales of the Sands
+		- Scroobius Pip – Distraction Pieces
+		- Evanescence – Evanescence
 - [2010](/clives-album-of-the-year-2010)
-- Winner
-
-- Furyon – Gravitas
-
-- Honourable mentions
-
-- Cloudkicker – Beacons
-- The Damned Things – Ironiclast
-- Eluvietie – Everything Remains (As It Never Was)
-- My Chemical Romance – Danger Days: The True Lives of the Fabulous Killjoys
-- Pendulum – Immersion
-
+	- Winner
+		- Furyon – Gravitas
+	- Honourable mentions
+		- Cloudkicker – Beacons
+		- The Damned Things – Ironiclast
+		- Eluvietie – Everything Remains (As It Never Was)
+		- My Chemical Romance – Danger Days: The True Lives of the Fabulous Killjoys
+		- Pendulum – Immersion
 - [2009](/clives-album-of-the-year-2009)
-- Winner
-
-- Amorphis – Skyforger
-
-- Honourable mentions
-
-- Alestorm – Black Sails At Midnight
-- Florence & the Machine – Lungs
-- Halestorm – Halestorm
-- The Last Vegas – Whatever Gets You Off
-- Mumford & Sons – Sigh No More
-
+	- Winner
+		- Amorphis – Skyforger
+	- Honourable mentions
+		- Alestorm – Black Sails At Midnight
+		- Florence & the Machine – Lungs
+		- Halestorm – Halestorm
+		- The Last Vegas – Whatever Gets You Off
+		- Mumford & Sons – Sigh No More
 - [2008](/clives-album-of-the-year-2008)
-- Winner
-
-- You Me At Six – Take Off Your Colours
-
-- Honourable mentions
-
-- Black Stone Cherry – Folklore and Superstition
-- Dan le Sac vs Scroopius Pip – Angles
-- Johnny Flynn – A Larum
-- Guns N’ Roses – Chinese Democracy
-- It Bites – The Tall Ships
-
+	- Winner
+		- You Me At Six – Take Off Your Colours
+	- Honourable mentions
+		- Black Stone Cherry – Folklore and Superstition
+		- Dan le Sac vs Scroopius Pip – Angles
+		- Johnny Flynn – A Larum
+		- Guns N’ Roses – Chinese Democracy
+		- It Bites – The Tall Ships
 - [2007](/clives-album-of-the-year-2007)
-- Winner
-
-- Turisas – The Varangian Way
-
-- Honourable mentions
-
-- Airbourne – Runnin’ Wild
-- Alter Bridge – Blackbird
-- Coheed and Cambria – Good Apollo, I’m Burning Star IV, Volume Two: No World for Tomorrow
-- Underworld – Oblivion With Bells
-- Vangelis – Blade Runner Trilogy
-
+	- Winner
+		- Turisas – The Varangian Way
+	- Honourable mentions
+		- Airbourne – Runnin’ Wild
+		- Alter Bridge – Blackbird
+		- Coheed and Cambria – Good Apollo, I’m Burning Star IV, Volume Two: No World for Tomorrow
+		- Underworld – Oblivion With Bells
+		- Vangelis – Blade Runner Trilogy
 - [2006](/clives-album-of-the-year-2006)
-- Winner
-
-- My Chemical Romance – The Black Parade
-
-- Honourable mentions
-
-- Buckcherry – 15
-- DragonForce – Inhuman Rampage
-- Guthrie Govan – Erotic Cakes
-- The Killers – Sam’s Town
-- Muse – Black Holes and Revelations
-
-- Turkey of the year
-
-- Joe Satriani – Super Colossal
-
+	- Winner
+		- My Chemical Romance – The Black Parade
+	- Honourable mentions
+		- Buckcherry – 15
+		- DragonForce – Inhuman Rampage
+		- Guthrie Govan – Erotic Cakes
+		- The Killers – Sam’s Town
+		- Muse – Black Holes and Revelations
+	- Turkey of the year
+		- Joe Satriani – Super Colossal
 - [2005](/clives-album-of-the-year-2005)
-- Winner
-
-- Coheed and Cambria – Good Apollo, I’m Burning Star IV, Volume One: From Fear Through the Eyes of Madness
-
-- Honourable mentions
-
-- Crashdïet – Rest In Sleaze
-- Forty Deuce – Nothing to Lose
-- Hardcore Superstar – Hardcore Superstar
-- John 5 – Songs For Sanity
-- John Petrucci – Suspended Animation
-
-- Turkey of the year
-
-- Nickelback – All the Right Reasons
-
+	- Winner
+		- Coheed and Cambria – Good Apollo, I’m Burning Star IV, Volume One: From Fear Through the Eyes of Madness
+	- Honourable mentions
+		- Crashdïet – Rest In Sleaze
+		- Forty Deuce – Nothing to Lose
+		- Hardcore Superstar – Hardcore Superstar
+		- John 5 – Songs For Sanity
+		- John Petrucci – Suspended Animation
+	- Turkey of the year
+		- Nickelback – All the Right Reasons
 - [2004 (tie)](/clives-album-of-the-year-2004)
-- Winners
-
-- William Shatner – Has Been
-- Max Richter – The Blue Notebooks
-
-- Honourable mentions
-
-- Alter Bridge – One Day Remains
-- Green Day – American Idiot
-- The Streets – A Grand Don’t Come For Free
-- Velvet Revolver – Contraband
-
-- Turkey of the year
-
-- Razorlight – Up All Night
-
+	- Winners
+		- William Shatner – Has Been
+		- Max Richter – The Blue Notebooks
+	- Honourable mentions
+		- Alter Bridge – One Day Remains
+		- Green Day – American Idiot
+		- The Streets – A Grand Don’t Come For Free
+		- Velvet Revolver – Contraband
+	- Turkey of the year
+		- Razorlight – Up All Night
 - [2003](/clives-album-of-the-year-2003)
-- Winner
-
-- The Darkness – Permission to Land
-
-- Honourable mentions
-
-- Backyard Babies – Stockholm Syndrome
-- Larry Carlton – Sapphire Blue
-- Elbow – Cast of Thousands
-- Evanescence – Fallen
-- Skid Row – Thickskin
-
-- Turkey of the year
-
-- The Coral – Magic And Medicine
-
+	- Winner
+		- The Darkness – Permission to Land
+	- Honourable mentions
+		- Backyard Babies – Stockholm Syndrome
+		- Larry Carlton – Sapphire Blue
+		- Elbow – Cast of Thousands
+		- Evanescence – Fallen
+		- Skid Row – Thickskin
+	- Turkey of the year
+		- The Coral – Magic And Medicine
 - [2002](/clives-album-of-the-year-2002)
-- Winner
-
-- Damien Rice – O
-
-- Honourable mentions
-
-- A – Hi-Fi Serious
-- Freak Kitchen – Move
-- Paul Gilbert – Burning Organ
-- Porcupine Tree – In Absentia
-- Red Hot Chili Peppers – By the Way
-
-- Turkey of the year
-
-- Rush – Vapor Trails
-
+	- Winner
+		- Damien Rice – O
+	- Honourable mentions
+		- A – Hi-Fi Serious
+		- Freak Kitchen – Move
+		- Paul Gilbert – Burning Organ
+		- Porcupine Tree – In Absentia
+		- Red Hot Chili Peppers – By the Way
+	- Turkey of the year
+		- Rush – Vapor Trails
 - [2001](/clives-album-of-the-year-2001)
-- Winner
-
-- Buckcherry – Time Bomb
-
-- Honourable mentions
-
-- Backyard Babies – Making Enemies Is Good
-- Beautiful Creatures – Beautiful Creatures
-- John Butler Trio – Three
-- Muse – Origin of Symmetry
-- Nickelback – Silver Side Up
-
-- Turkey of the year
-
-- Stereophonics – Just Enough Education To Perform
-
+	- Winner
+		- Buckcherry – Time Bomb
+	- Honourable mentions
+		- Backyard Babies – Making Enemies Is Good
+		- Beautiful Creatures – Beautiful Creatures
+		- John Butler Trio – Three
+		- Muse – Origin of Symmetry
+		- Nickelback – Silver Side Up
+	- Turkey of the year
+		- Stereophonics – Just Enough Education To Perform
 - [2000](/clives-album-of-the-year-2000)
-- Winner
-
-- Paul Gilbert – Alligator Farm
-
-- Honourable mentions
-
-- Coldplay – Parachutes
-- Danger Danger – The Return of the Great Gildersleeves
-- Slash’s Snakepit – Ain’t Life Grand
-- Transmission OK – The Sky, the Stars and the Great Beyond
-- Wheatus – Wheatus
-
-- Turkey of the year
-
-- Radiohead – Kid A
-
+	- Winner
+		- Paul Gilbert – Alligator Farm
+	- Honourable mentions
+		- Coldplay – Parachutes
+		- Danger Danger – The Return of the Great Gildersleeves
+		- Slash’s Snakepit – Ain’t Life Grand
+		- Transmission OK – The Sky, the Stars and the Great Beyond
+		- Wheatus – Wheatus
+	- Turkey of the year
+		- Radiohead – Kid A
 - [1999](/clives-album-of-the-year-1999)
-- Winner
-
-- Underworld – Beaucoup Fish
-
-- Honourable mentions
-
-- Buckcherry – Buckcherry
-- Ludovico Einaudi – Eden Roc
-- Powerman 5000 – Tonight the Stars Revolt!
-- Red Hot Chili Peppers – Californication
-- Stereophonics – Performance and Cocktails
-
-- Turkey of the year
-
-- Mr. Big – Get Over It
-
+	- Winner
+		- Underworld – Beaucoup Fish
+	- Honourable mentions
+		- Buckcherry – Buckcherry
+		- Ludovico Einaudi – Eden Roc
+		- Powerman 5000 – Tonight the Stars Revolt!
+		- Red Hot Chili Peppers – Californication
+		- Stereophonics – Performance and Cocktails
+	- Turkey of the year
+		- Mr. Big – Get Over It
 - [1998](/clives-album-of-the-year-1998)
-- Winner
-
-- Barenaked Ladies – Stunt
-
-- Honourable mentions
-
-- Fatboy Slim – You’ve Come a Long Way, Baby
-- Garbage – Version 2.0
-- David Gray – White Ladder
-- The Offspring – Americana
-- Joe Satriani – Crystal Planet
-
-- Turkey of the year
-
-- Pulp – This Is Hardcore
-
+	- Winner
+		- Barenaked Ladies – Stunt
+	- Honourable mentions
+		- Fatboy Slim – You’ve Come a Long Way, Baby
+		- Garbage – Version 2.0
+		- David Gray – White Ladder
+		- The Offspring – Americana
+		- Joe Satriani – Crystal Planet
+	- Turkey of the year
+		- Pulp – This Is Hardcore
 - [1997](/clives-album-of-the-year-1997)
-- Winner
-
-- Dream Theater – Falling Into Infinity
-
-- Honourable mentions
-
-- Ben Folds Five – Whatever and Ever Amen
-- Mansun – Attack of the Grey Lantern
-- Primus – The Brown Album
-- The Prodigy – Fat of the Land
-- Radiohead – OK Computer
-
-- Turkey of the year
-
-- Mötley Crüe – Generation Swine
-
+	- Winner
+		- Dream Theater – Falling Into Infinity
+	- Honourable mentions
+		- Ben Folds Five – Whatever and Ever Amen
+		- Mansun – Attack of the Grey Lantern
+		- Primus – The Brown Album
+		- The Prodigy – Fat of the Land
+		- Radiohead – OK Computer
+	- Turkey of the year
+		- Mötley Crüe – Generation Swine
 - [1996](/clives-album-of-the-year-1996)
-- Winner
-
-- The Presidents of the USA – The Presidents of the USA II
-
-- Honourable mentions
-
-- Barenaked Ladies – Born on a Pirate Ship
-- Manic Street Preachers – Everything Must Go
-- Matchbox Twenty – Yourself Or Someone Like You
-- Ocean Colour Scene – Moseley Shoals
-- Underworld – Second Toughest in the Infants
-
-- Turkey of the year
-
-- Mr. Big – Hey Man
-
+	- Winner
+		- The Presidents of the USA – The Presidents of the USA II
+	- Honourable mentions
+		- Barenaked Ladies – Born on a Pirate Ship
+		- Manic Street Preachers – Everything Must Go
+		- Matchbox Twenty – Yourself Or Someone Like You
+		- Ocean Colour Scene – Moseley Shoals
+		- Underworld – Second Toughest in the Infants
+	- Turkey of the year
+		- Mr. Big – Hey Man
 - [1995 (tie)](/clives-album-of-the-year-1995)
-- Winners
-
-- Radiohead – The Bends
-- Pulp – Different Class
-
-- Honourable mentions
-
-- Faith No More – King for a Day... Fool for a Lifetime
-- Garbage – Garbage
-- The Presidents of the USA – The Presidents of the USA
-- Steve Vai – Alien Love Secrets
-
-- Turkey of the year
-
-- Extreme – Waiting For the Punchline
-
+	- Winners
+		- Radiohead – The Bends
+		- Pulp – Different Class
+	- Honourable mentions
+		- Faith No More – King for a Day... Fool for a Lifetime
+		- Garbage – Garbage
+		- The Presidents of the USA – The Presidents of the USA
+		- Steve Vai – Alien Love Secrets
+	- Turkey of the year
+		- Extreme – Waiting For the Punchline
 - [1994](/clives-album-of-the-year-1994)
-- Winner
-
-- Jeff Buckley – Grace
-
-- Honourable mentions
-
-- Dream Theater – Awake
-- Gun – Swagger
-- Megadeth – Youthanasia
-- Mike Oldfield – Songs of Distant Earth
-- Portishead – Dummy
-
-- Turkey of the year
-
-- Oasis – Definitely Maybe
-
+	- Winner
+		- Jeff Buckley – Grace
+	- Honourable mentions
+		- Dream Theater – Awake
+		- Gun – Swagger
+		- Megadeth – Youthanasia
+		- Mike Oldfield – Songs of Distant Earth
+		- Portishead – Dummy
+	- Turkey of the year
+		- Oasis – Definitely Maybe
 - [1993](/clives-album-of-the-year-1993)
-- Winner
-
-- Sting – Ten Summoner’s Tales
-
-- Honourable mentions
-
-- Anthrax – Sound of White Noise
-- Jan Cyrka – Spirit
-- Jamiroquai – Emergency on Planet Earth
-- Poison – Native Tongue
-- Steve Vai – Sex & Religion
-
-- Turkey of the year
-
-- Love/Hate – Let’s Rumble
-
+	- Winner
+		- Sting – Ten Summoner’s Tales
+	- Honourable mentions
+		- Anthrax – Sound of White Noise
+		- Jan Cyrka – Spirit
+		- Jamiroquai – Emergency on Planet Earth
+		- Poison – Native Tongue
+		- Steve Vai – Sex & Religion
+	- Turkey of the year
+		- Love/Hate – Let’s Rumble
 - [1992 (tie)](/clives-album-of-the-year-1992)
-- Winners
-
-- Dream Theater – Images and Words
-- Pantera – Vulgar Display of Power
-- Joe Satriani – The Extremist
-- T-Ride – T-Ride
-
-- Honourable mentions
-
-- Barenaked Ladies – Gordon
-- Jan Cyrka – Beyond the Common Ground
-- Extreme – III Sides to Every Story
-- Faith No More – Angel Dust
-- Peter Gabriel – Us
-- King’s X – King’s X
-- Love/Hate – Wasted In America
-- Megadeth – Countdown to Extinction
-
-- Turkey of the year
-
-- Electric Boys – Groovus Maximus
-
+	- Winners
+		- Dream Theater – Images and Words
+		- Pantera – Vulgar Display of Power
+		- Joe Satriani – The Extremist
+		- T-Ride – T-Ride
+	- Honourable mentions
+		- Barenaked Ladies – Gordon
+		- Jan Cyrka – Beyond the Common Ground
+		- Extreme – III Sides to Every Story
+		- Faith No More – Angel Dust
+		- Peter Gabriel – Us
+		- King’s X – King’s X
+		- Love/Hate – Wasted In America
+		- Megadeth – Countdown to Extinction
+	- Turkey of the year
+		- Electric Boys – Groovus Maximus
 - [1991](/clives-album-of-the-year-1991)
-- Winner
-
-- Mr. Big – Lean Into It
-
-- Honourable mentions
-
-- Danger Danger – Screw It!
-- Enuff Z’Nuff – Strength
-- Metallica – Metallica
-- Ozzy Osbourne – No More Tears
-- Primus – Sailing the Seas of Cheese
-- Dan Reed Network – The Heat
-- David Lee Roth – A Little Ain’t Enough
-- Saigon Kick – Saigon Kick
-- The Scream – Let It Scream
-- Skid Row – Slave to the Grind
-- Dweezil Zappa – Confessions
-
-- Turkey of the year
-
-- Guns N’ Roses – Use Your Illusion (I & II)
-
+	- Winner
+		- Mr. Big – Lean Into It
+	- Honourable mentions
+		- Danger Danger – Screw It!
+		- Enuff Z’Nuff – Strength
+		- Metallica – Metallica
+		- Ozzy Osbourne – No More Tears
+		- Primus – Sailing the Seas of Cheese
+		- Dan Reed Network – The Heat
+		- David Lee Roth – A Little Ain’t Enough
+		- Saigon Kick – Saigon Kick
+		- The Scream – Let It Scream
+		- Skid Row – Slave to the Grind
+		- Dweezil Zappa – Confessions
+	- Turkey of the year
+		- Guns N’ Roses – Use Your Illusion (I & II)
 - [1990](/clives-album-of-the-year-1990)
-- Winner
-
-- Steve Vai – Passion and Warfare
-
-- Honourable mentions
-
-- Extreme – Pornograffitti
-- Richie Kotzen – Fever Dream
-- Love/Hate – Blackout in the Red Room
-- Lynch Mob – Wicked Sensation
-- Pantera – Cowboys From Hell
-- Queensrÿche – Empire
-- Thunder – Backstreet Symphony
-- Winger – In the Heart of the Young
-
-- Turkey of the year
-
-- Iron Maiden – No Prayer for the Dying
-
+	- Winner
+		- Steve Vai – Passion and Warfare
+	- Honourable mentions
+		- Extreme – Pornograffitti
+		- Richie Kotzen – Fever Dream
+		- Love/Hate – Blackout in the Red Room
+		- Lynch Mob – Wicked Sensation
+		- Pantera – Cowboys From Hell
+		- Queensrÿche – Empire
+		- Thunder – Backstreet Symphony
+		- Winger – In the Heart of the Young
+	- Turkey of the year
+		- Iron Maiden – No Prayer for the Dying
 - [1989](/clives-album-of-the-year-1989)
-- Winner
-
-- Aerosmith – Pump
-
-- Honourable mentions
-
-- D-A-D – No Fuel Left for the Pilgrims
-- Electric Boys – Funk-O-Metal Carpet Ride
-- Faith No More – The Real Thing
-- King’s X – Gretchen Goes to Nebraska
-- Mötley Crüe – Dr. Feelgood
-- Mr. Big – Mr. Big
-- Rush – Presto
-- Joe Satriani – Flying In a Blue Dream
-- Skid Row – Skid Row
-- Whitesnake – Slip of the Tongue
-
-- Turkey of the year
-
-- Warrant – Dirty Rotten Stinking Filthy Rich
-
+	- Winner
+		- Aerosmith – Pump
+	- Honourable mentions
+		- D-A-D – No Fuel Left for the Pilgrims
+		- Electric Boys – Funk-O-Metal Carpet Ride
+		- Faith No More – The Real Thing
+		- King’s X – Gretchen Goes to Nebraska
+		- Mötley Crüe – Dr. Feelgood
+		- Mr. Big – Mr. Big
+		- Rush – Presto
+		- Joe Satriani – Flying In a Blue Dream
+		- Skid Row – Skid Row
+		- Whitesnake – Slip of the Tongue
+	- Turkey of the year
+		- Warrant – Dirty Rotten Stinking Filthy Rich
 - [1988](/clives-album-of-the-year-1988)
-- Winner
-
-- David Lee Roth – Skyscraper
-
-- Honourable mentions
-
-- Iron Maiden – Seventh Son of a Seventh Son
-- It Bites – Once Around the World
-- Ozzy Osbourne – No Rest For the Wicked
-- Queensrÿche – Operation: Mindcrime
-- Jean-Michel Jarre – Revolutions
-
-- Turkey of the year
-
-- Van Halen – OU812
-
+	- Winner
+		- David Lee Roth – Skyscraper
+	- Honourable mentions
+		- Iron Maiden – Seventh Son of a Seventh Son
+		- It Bites – Once Around the World
+		- Ozzy Osbourne – No Rest For the Wicked
+		- Queensrÿche – Operation: Mindcrime
+		- Jean-Michel Jarre – Revolutions
+	- Turkey of the year
+		- Van Halen – OU812
 - [1987](/clives-album-of-the-year-1987)
-- Winner
-
-- Guns N’ Roses – Appetite For Destruction
-
-- Honourable mentions
-
-- Aerosmith – Permanent Vacation
-- Pink Floyd – A Momentary Lapse of Reason
-- Joe Satriani – Surfing With the Alien
-- Whitesnake – 1987
-- Sting – Nothing Like the Sun
-
-- Turkey of the year
-
-- Mötley Crüe – Girls Girls Girls
-
+	- Winner
+		- Guns N’ Roses – Appetite For Destruction
+	- Honourable mentions
+		- Aerosmith – Permanent Vacation
+		- Pink Floyd – A Momentary Lapse of Reason
+		- Joe Satriani – Surfing With the Alien
+		- Whitesnake – 1987
+		- Sting – Nothing Like the Sun
+	- Turkey of the year
+		- Mötley Crüe – Girls Girls Girls
 - [1986](/clives-album-of-the-year-1986)
-- Winner
-
-- Peter Gabriel – So
-
-- Honourable mentions
-
-- Megadeth – Peace Sells... But Who’s Buying?
-- Metallica – Master of Puppets
-- Queen – A Kind of Magic
-- David Lee Roth – Eat ’Em and Smile
-- Van Halen – 5150
-
-- Turkey of the year
-
-- Poison – Look What the Cat Dragged In
-
+	- Winner
+		- Peter Gabriel – So
+	- Honourable mentions
+		- Megadeth – Peace Sells... But Who’s Buying?
+		- Metallica – Master of Puppets
+		- Queen – A Kind of Magic
+		- David Lee Roth – Eat ’Em and Smile
+		- Van Halen – 5150
+	- Turkey of the year
+		- Poison – Look What the Cat Dragged In
 - [1985](/clives-album-of-the-year-1981-1985)
-- Winner
-
-- Dire Straits – Brothers In Arms
-
+	- Winner
+		- Dire Straits – Brothers In Arms
 - [1984](/clives-album-of-the-year-1981-1985)
-- Winner
-
-- Iron Maiden – Powerslave
-
-- Honourable mentions
-
-- Steve Vai – Flex-Able
-- Van Halen – 1984
-
+	- Winner
+		- Iron Maiden – Powerslave
+	- Honourable mentions
+		- Steve Vai – Flex-Able
+		- Van Halen – 1984
 - [1983](/clives-album-of-the-year-1981-1985)
-- Winner
-
-- Iron Maiden – Piece of Mind
-
-- Honourable mentions
-
-- David Bowie – Let’s Dance
-- Stevie Ray Vaughan – Texas Flood
-
+	- Winner
+		- Iron Maiden – Piece of Mind
+	- Honourable mentions
+		- David Bowie – Let’s Dance
+		- Stevie Ray Vaughan – Texas Flood
 - [1982](/clives-album-of-the-year-1981-1985)
-- Winner
-
-- Iron Maiden – The Number of the Beast
-
-- Honourable mention
-
-- Dire Straits – Love Over Gold
-
+	- Winner
+		- Iron Maiden – The Number of the Beast
+	- Honourable mention
+		- Dire Straits – Love Over Gold
 - [1981](/clives-album-of-the-year-1981-1985)
-- Winner
-
-- Mötley Crüe – Too Fast For Love
-
+	- Winner
+		- Mötley Crüe – Too Fast For Love
 - [1980](/clives-album-of-the-year-1977-1980)
-- Winner
-
-- AC/DC – Back in Black
-
-- Honourable mention
-
-- Van Halen – Women and Children First
-
+	- Winner
+		- AC/DC – Back in Black
+	- Honourable mention
+		- Van Halen – Women and Children First
 - [1979](/clives-album-of-the-year-1977-1980)
-- Winner
-
-- Pink Floyd – The Wall
-
-- Honourable mentions
-
-- AC/DC – Highway to Hell
-- Van Halen – Van Halen II
-
+	- Winner
+		- Pink Floyd – The Wall
+	- Honourable mentions
+		- AC/DC – Highway to Hell
+		- Van Halen – Van Halen II
 - [1978](/clives-album-of-the-year-1977-1980)
-- Winner
-
-- Van Halen – Van Halen
-
-- Honourable mentions
-
-- Dire Straits – Dire Straits
-- Brian Eno – Ambient 1: Music For Airports
-
+	- Winner
+		- Van Halen – Van Halen
+	- Honourable mentions
+		- Dire Straits – Dire Straits
+		- Brian Eno – Ambient 1: Music For Airports
 - [1977](/clives-album-of-the-year-1977-1980)
-- Winner
-
-- Fleetwood Mac – Rumours
-
-- Dishonourable mention
-
-- The Sex Pistols – Never Mind the Bollocks...
-
+	- Winner
+		- Fleetwood Mac – Rumours
+	- Dishonourable mention
+		- The Sex Pistols – Never Mind the Bollocks...
 - [1976](/clives-album-of-the-year-1974-1976)
-- Winner
-
-- Jean-Michel Jarre – Oxygene
-
+	- Winner
+		- Jean-Michel Jarre – Oxygene
 - [1975](/clives-album-of-the-year-1974-1976)
-- Winner
-
-- Pink Floyd – Wish You Were Here
-
-- Honourable mentions
-
-- Led Zeppelin – Physical Graffitti
-- Queen – A Night at the Opera
-
+	- Winner
+		- Pink Floyd – Wish You Were Here
+	- Honourable mentions
+		- Led Zeppelin – Physical Graffitti
+		- Queen – A Night at the Opera
 - [1974](/clives-album-of-the-year-1974-1976)
-- Winner
-
-- Queen – Sheer Heart Attack
-
-- Honourable mention
-
-- Deep Purple – Burn
+	- Winner
+		- Queen – Sheer Heart Attack
+	- Honourable mention
+		- Deep Purple – Burn
