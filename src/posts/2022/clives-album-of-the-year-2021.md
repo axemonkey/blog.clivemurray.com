@@ -76,7 +76,7 @@ Still here? Great. Now, as alluded to in previous years, my musical tastes have 
 
 ### [Frost*](https://frost.life/) - [Day and Age](https://www.amazon.co.uk/dp/B08XZZ5FZK/)
 
-![Frost* – Day and Age](/public/images/2022/10/dayandage600x600bb.jpg) Regular listeners will be well aware of my fandom for all things John-Mitchell-based. I think he is superb in *It Bites* and *Kino*, love his solo project *Lonely Robot*, and rumour has it he even sang backing vocals on a track by top executive rockers, *Indigo Down*. But *Frost** is the brainchild of keyboardist, producer, singer, and all-round general prog whiz Jem Godfrey, with HHJM providing vocals and guitars as required, and this is their fourth studio album, following 2016’s **Falling Satellites**. Messrs Godfrey and Mitchell are—as seemingly always—at the top of their game here, with prog chops aplenty on show, and their expertly crafted soundscapes always sounding fresh and interesting. Prog-tastic? Not ‘arf. **Top track:** “The Boy Who Stood Still”
+![Frost* – Day and Age](/public/images/2022/10/dayandage600x600bb.jpg) Regular listeners will be well aware of my fandom for all things John-Mitchell-based. I think he is superb in *It Bites* and *Kino*, love his solo project *Lonely Robot*, and rumour has it he even sang backing vocals on a track by top executive rockers, *Indigo Down*. But *Frost\** is the brainchild of keyboardist, producer, singer, and all-round general prog whiz Jem Godfrey, with HHJM providing vocals and guitars as required, and this is their fourth studio album, following 2016’s **Falling Satellites**. Messrs Godfrey and Mitchell are—as seemingly always—at the top of their game here, with prog chops aplenty on show, and their expertly crafted soundscapes always sounding fresh and interesting. Prog-tastic? Not ‘arf. **Top track:** “The Boy Who Stood Still”
 
 ### [Gojira](https://www.gojira-music.com/) - [Fortitude](https://smile.amazon.co.uk/Fortitude-Gojira/dp/B08WQZ7C8V/)
 
@@ -125,6 +125,8 @@ Musically, it *crushes*. Once the intro track is out of the way and “Black Lun
 I could sit here and froth on for another few hundred words without much trouble, but honestly your time is better spent clicking the play button on this here video than reading my waffle.
 
 So do that.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdWhJcrrjQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Top tracks:** “Animals”, “[Black Lungs](https://www.youtube.com/watch?v=W69ow97hqbI)”, “Discourse Is Dead”
 

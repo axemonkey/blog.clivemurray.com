@@ -125,6 +125,9 @@ And here it is.
 ![Photo of me holding the black and white swirled Jem up to my face and making a manic grin](/public/images/2022/11/IMG_9049.jpg)It's MINE and you CAN'T have it!
 Here’s a few minutes of me noodling around on it. Note, for this whole video, I am plugged into the wonderful [Archetype: Rabea](https://neuraldsp.com/news/introducing-archetype-rabea) plugin from [Neural DSP](https://neuraldsp.com/), and nothing else, and at no point do I change the settings on the plugin. I picked a high gain patch and left it alone. All the sound variance and control comes from the guitar.
 A few minutes of widdling to show how versatile this guitar is.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rtLfEhbZ8e0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I’m looking at it right now. In a few minutes I’m going to play it. It is **the best guitar I own**, and that is saying **a lot**.
 
 — 🍺 —

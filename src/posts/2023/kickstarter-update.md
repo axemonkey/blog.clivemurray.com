@@ -13,6 +13,8 @@ Hey there! My Kickstarter to get my album mastered is 61% funded!
 
 Here is an update video, including some teaser clips from the new material plus some info about the mysterious producer who will be doing the mastering if we make the target...
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BolzOTj81m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 If you can pledge, [please do](http://kck.st/3HBamlE)! And if you can't, or already have, please spread the word to anyone who might enjoy this sort of thing.
 
 Thanks!

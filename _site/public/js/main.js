@@ -103,3 +103,78 @@ window.addEventListener('load', function() {
 	}
 });
 
+
+const getStrapline = () => {
+	const straps = [];
+	const theDate = new Date();
+	const month = theDate.getMonth();
+
+	straps.push('I play guitar, you know');
+	straps.push('Now in colours!');
+	straps.push('display: bloke;');
+	straps.push('It’s good for you');
+	straps.push('HACKA LÖKEN!');
+	straps.push('Always running');
+	straps.push('Web stuff since 1997');
+	straps.push('Disinformation superlayby');
+	straps.push('At the forefront of the retreat');
+	straps.push('More harmonies');
+	straps.push('Do you have any grey poupon?');
+	straps.push('He’s beginning to believe');
+	straps.push('It’s not the years, it’s the mileage');
+	straps.push('Be excellent to each other');
+	straps.push('Alsø wik');
+	straps.push('Alsø alsø wik');
+	straps.push('I know where Bruce Lee lives');
+	straps.push('It’s all relative');
+	straps.push('JEM777LNG #407');
+	straps.push('Never put a sock in a toaster');
+	straps.push('Never put jam on a magnet');
+	straps.push('Thou shalt not question Stephen Fry');
+	straps.push('Cough drop and roll');
+
+	if (month === 5) { // it's june
+		straps.push('HAPPY PRIDE');
+		straps.push('He/Him for now at least');
+	}
+
+	const rStrap = straps[Math.floor(Math.random() * straps.length)];
+	return rStrap;
+};
+
+const initStrapline = () => {
+	const strapSelector = document.querySelector('.site-description');
+
+	if (strapSelector) {
+		strapSelector.innerHTML = getStrapline();
+	}
+};
+
+window.addEventListener('load', initStrapline);
+
+const fitVids = () => {
+	const frames = document.querySelectorAll('iframe[src*="youtube.com"]');
+
+	let currentVid = 0;
+
+	for (const frame of frames) {
+		const frameParent = frame.parentNode;
+		const frameWidth = frame.width;
+		const frameHeight = frame.height;
+
+		const vidFigure = document.createElement('figure');
+		vidFigure.classList.add('kg-card');
+		vidFigure.classList.add('kg-embed-card');
+		const vidDiv = document.createElement('div');
+		vidDiv.classList.add('fluid-width-video-wrapper');
+		vidDiv.style.paddingTop = `${(frameHeight / frameWidth) * 100}%`;
+		vidFigure.append(vidDiv);
+		frameParent.insertBefore(vidFigure, frame);
+		vidDiv.append(frame);
+		frame.setAttribute('name', `fitvid${currentVid}`);
+
+		currentVid++;
+	}
+};
+
+window.addEventListener('load', fitVids);

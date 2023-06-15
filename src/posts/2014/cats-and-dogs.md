@@ -15,11 +15,11 @@ Cat people are often viewed as obsessive, and this is only because they usually 
 
 Well I'm the guy that *those* people think are a bit weird.
 
-Cats to me (or at least the two cats I have lived with for any time) aren't animals, or pets, they are best mates who happen to be shorter than me and covered in fur\*. A handful of you reading this will remember [Trevor](https://www.flickr.com/photos/clivemurray/sets/940238/). Trevor was a big ginger moggy my wife and I adopted when we moved house since he obviously had no owner and he lived ten happy years with us until ill health took him in 2012 - the year that also took my father.
+Cats to me (or at least the two cats I have lived with for any time) aren't animals, or pets, they are best mates who happen to be shorter than me and covered in fur\*. A handful of you reading this will remember [Trevor](/public/images/2014/trevor.jpg). Trevor was a big ginger moggy my wife and I adopted when we moved house since he obviously had no owner and he lived ten happy years with us until ill health took him in 2012 - the year that also took my father.
 
 I cried far harder on June 11th, 2012 when Trevor departed than I ever did over my father's 2-year decline and eventual death\*\* from (what else) cancer in November of the same year. Seeing this cuddly, furry force of nature brought low by hyperthyroidism, asthma, heart disease and god alone knows what else was unbearable and I will never forget digging a grave for him down the bottom of our garden in the rain that evening. The cherry tree we planted alongside him will forever be Trevor's Tree.
 
-The void he left was in part filled by [Shira](https://www.flickr.com/photos/clivemurray/13924201996/), the 18-year old black-and-white female cat we inherited when we moved into the rented house we still occupy. The owner had moved into assisted living due to ill health and left her cat behind, hoping that new tenants would take her on. We did, of course, and she wormed her way into our hearts in next to no time and became our beloved Little Bear.
+The void he left was in part filled by [Shira](/public/images/2014/shira.jpg), the 18-year old black-and-white female cat we inherited when we moved into the rented house we still occupy. The owner had moved into assisted living due to ill health and left her cat behind, hoping that new tenants would take her on. We did, of course, and she wormed her way into our hearts in next to no time and became our beloved Little Bear.
 
 You can probably see where this is going.
 
