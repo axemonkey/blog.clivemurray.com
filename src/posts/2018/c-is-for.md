@@ -29,6 +29,8 @@ I reckon [**Beacons**](https://cloudkickermusic.com/album/beacons) is a good pla
 
 Mr. Kicker is not seemingly a particularly fanatical self promoter, and while he continues to produce and release music on a continual slow burn, finding live footage of him playing was quite a task. I mean it took me literally almost a *minute* on YouTube to find you the following, but find it I did. Here then, is Ben playing live with [Intronaut](https://en.wikipedia.org/wiki/Intronaut) as his backing band, performing "Push it way up!" from **Beacons**. I totally did find it though. Look.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDeK2QRLuHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### C is also for…
 
 - *[Chimp Spanner](https://en.wikipedia.org/wiki/Paul_Ortiz_(musician))* (Instrumental Prog Metal)

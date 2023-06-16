@@ -47,7 +47,7 @@ See [previous](/clives-album-of-the-year-2010/) re *MCR* being emo. Whether they
 
 So come one - come all - to this tragic affair, and make sure you play it loud.
 
-**Top tracks:** "This Is How I Disappear", "House of Wolves", "The Sharpest Lives"
+**Top tracks:** "This Is How I Disappear", "Welcome to the Black Parade", "The Sharpest Lives"
 
 ## Turkey of the Year
 

@@ -17,7 +17,7 @@ But what now I hear you cry? With what spurious bollocks will I pollute this blo
 
 Fear not, gentle listener, for coming your way very soon, right here, in this very corner of the ee-lectrick hinternet, prepare your fragile eggshell minds for...
 
-**[Clive's A-Z of Artists/Bands Of Which You May Not Have Heard!!](/a-z)***
+**[Clive's A-Z of Artists/Bands Of Which You May Not Have Heard!!](/a-z)\***
 
 Yes, that's right. I know. Please try to contain your gibbering, frothing excitement – ew, you got some on your leg there – and prepare as best you can to come with me on a 26-stop journey through my music collection examining briefly or in-depth, sometimes perhaps coherently, a musical act for each and every letter in the English alphabet that may be unfamiliar to you.
 
@@ -27,4 +27,4 @@ You might even find new music that you like.
 
 --c.
 
-* *(Working title)*
+\* *(Working title)*

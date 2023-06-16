@@ -67,7 +67,7 @@ Ready? OK. Here are the contenders for the top spot from 2020, a blighted year t
 
 ![Jon Gomm – The Faintest Idea](/public/images/2021/09/jongomm-thefaintestidea.jpg) It blows my mind that (at time of writing) if you go to the acoustic guitars page on the Ibanez website, there are [three signature acoustic ranges](/public/images/2021/09/ibanez-acoustics.png): one for *Steve Vai*, one for *Joe Satriani*, and one for a guy from Yorkshire who I sort of know a bit. Like many acts who were suddenly everywhere, Jon was of course toiling away doing his thing for years before a chance confluence of circumstances led to a breakthrough event that catapulted him to much-deserved recognition back in 2013, following the release of his smash album [**Secrets Nobody Keeps**](/clives-album-of-the-year-2013/#jongommsecretsnobodykeeps). We’ve been waiting 7 years for the followup, during which time Jon has toured the globe, and traversed some no-less-gnarly personal and emotional terrain, and come out the other side scarred perhaps, but on the top of his game, and bearing an absolutely beautiful record. Raw, touching, personal, inspiring, fragile and slightly bloody. But enough about me, go listen to this record. **Top track:** “Deep Sea Fishes”
 
-### [Green Day](https://greenday.com/) - [Father of All Motherf***ers](https://smile.amazon.co.uk/Father-All-Explicit-Green-Day/dp/B07XDD4Y4H/)
+### [Green Day](https://greenday.com/) - [Father of All Motherf\*\*\*ers](https://smile.amazon.co.uk/Father-All-Explicit-Green-Day/dp/B07XDD4Y4H/)
 
 ![Green Day – Father of All Motherf\*\*\*ers](/public/images/2021/09/greenday-fatherofall.jpg) You should know what to expect from *Green Day* by now. This particular album is more pop punk party than political pomp or puff proselytising, and there’s only 26 minutes of it, so pay attention. It’s really good, and you don’t want to miss it. **Top track:** Fire, Ready, Aim”
 
@@ -114,6 +114,8 @@ I love all her albums, though not every single track is a zinger. That said, **C
 And what songs they are. The relentlessly fun “Stupid Love” was the lead single, with its camp-as-Christmas-balls cyberpunk dance battle video (see below), and it only got better from there. “Rain On Me” (duet with [Ariana Grande](https://en.wikipedia.org/wiki/Ariana_Grande)) is one of the best pop songs I’ve heard in recent times, and the slightly chewier subject matter in songs like “Sour Candy” and “911” keep the whole affair from vanishing in a puff of saccharin smoke.
 
 I’m not going to go on much further – I’m not trying to convert you or to convince you. I’m just saying that this is without a shadow of a doubt my Album of the Year for 2020. A bright, shiny, fun 43 minutes of dance pop in a year that gave us very little to celebrate.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5L6xyaeiV58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Top tracks:** “Sour Candy”, “Rain On Me”, “Stupid Love”
 

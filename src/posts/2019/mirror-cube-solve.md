@@ -11,6 +11,8 @@ ghost_header_image: mirrorsolve.jpg
 
 Solving my mirror cube in 4:06. Not exactly lightning, but a new personal best for me. The solve part of the video is sped up to 500% to keep the video short.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KC7bH6XExnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Cube: [ShengShou Mirror 3x3](https://www.kewbz.co.uk/products/mirror-blocks-shiny-advanced-cube-puzzle?variant=29479314945).
 
 Music: more of my noodlings in [Korg Gadget](https://www.korg.com/us/products/software/korg_gadget/).

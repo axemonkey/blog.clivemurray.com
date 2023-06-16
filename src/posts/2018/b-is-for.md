@@ -22,6 +22,7 @@ Where it gets properly interesting is the true solo Bach stuff, the albums where
 Bach moved it up a gear for 2011's [**Kicking & Screaming**](https://en.wikipedia.org/wiki/Kicking_%26_Screaming_(Sebastian_Bach_album)), though. Gone were the covers and the attention-grabbing guest spots, and in their place is solid record of damned good rock songs. One reviewer quoth:
 
 > **Kicking & Screaming** is unexpectedly fantastic and the *Sebastian Bach* record that I've been wishing for, for more than a decade now…
+
 > [Citation: Dave Steed of Popdose.com, via Wikipedia](https://en.wikipedia.org/wiki/Kicking_%26_Screaming_(Sebastian_Bach_album))
 
 …and I remember feeling exactly the same when I heard it. In fact I recall taking to Twitter and posting something like "I'm listening to brand new albums from *Sebastian Bach*, *Electric Boys*, *Mr. Big* and *Primus*… is it 1990 again?" and Seb replied to me saying "Actually, it's 2011…"
@@ -39,6 +40,8 @@ Give it a go yourself, and you may find you like it right up you. Don't be put o
 ## Video evidence
 
 You would perhaps like some video to go with that, Sir? I bring you "Temptation" from the aforementioned **Give 'Em Hell**, and a very fine rockingest tune it is too once it finally BOTHERS to start. Eagle-eared readers may spot a familiar figure wielding the lower strings. Oh yes indeed, that's how we do things around here, yessum.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0aAnLcQJJHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### B is also for…
 

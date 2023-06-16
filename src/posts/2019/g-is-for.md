@@ -29,6 +29,8 @@ Jon is no trick-cyclist, his percussive and unique guitar playing style comes fr
 
 He does this stuff live, you know. No overdubs, no retakes. One man, one heart, one incredible sound.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nY7GnAq6Znw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### G is also for…
 
 - *[Goldie Lookin' Chain](https://en.wikipedia.org/wiki/Goldie_Lookin_Chain)* (Hip hop/Newport)

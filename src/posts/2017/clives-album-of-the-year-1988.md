@@ -51,13 +51,13 @@ Really.
 
 I don't know if I'm going to try and make a Clive's Top 10 Albums of All Time, but if I did, this would be in the top half of that list.
 
-A little background: *DLR* was of course the frontman for *Van Halen* from their seismic launch in 1977 right up to releasing the seminal **1984** in 1984. Roth left *VH* in 1985 due to natural causes*, and started a solo career which kicked off properly with the 1986 release **Eat 'Em And Smile**. For this Dave assembled a band the like of which has not been seen before or since – Steve Vai, fresh from his stints with *Frank Zappa* and *Alcatrazz* on guitar, the inhuman Billy Sheehan on bass and Gregg Bissonette on drums, along with a host of guest musicians. **EEaS** is a terrifyingly good record, but it's not without its problems – 3 out of 10 songs are covers, two of which are more or less in the lounge style, and the sound is occasionally not as cohesive as one might like. Don't get me wrong, it's brilliant…
+A little background: *DLR* was of course the frontman for *Van Halen* from their seismic launch in 1977 right up to releasing the seminal **1984** in 1984. Roth left *VH* in 1985 due to natural causes\*, and started a solo career which kicked off properly with the 1986 release **Eat 'Em And Smile**. For this Dave assembled a band the like of which has not been seen before or since – Steve Vai, fresh from his stints with *Frank Zappa* and *Alcatrazz* on guitar, the inhuman Billy Sheehan on bass and Gregg Bissonette on drums, along with a host of guest musicians. **EEaS** is a terrifyingly good record, but it's not without its problems – 3 out of 10 songs are covers, two of which are more or less in the lounge style, and the sound is occasionally not as cohesive as one might like. Don't get me wrong, it's brilliant…
 
 …but it isn't **Skyscraper**. On this record all those problems were gone, and you can hear the songwriting gel in a way it didn't on its predecessor. Radio smashes "Just Like Paradise" and "Damn Good" nestle comfortably alongside punchy rockers like "Hot Dog and a Shake" and the sublime "Knucklebones" and the moodier tracks "Skyscraper" and "Hina". The production is first class, and Vai and Sheehan are on absolutely unstoppable fire.
 
 If I had to pick something I didn't like, it would be the album cover. Dave climbing a mountain? Don't care. But that's my only beef. (Aside from the CD release getting two extra crappy tracks from Dave's first EP shoehorned onto it…)
 
-* It's more usually called "creative differences", which is a well-known euphemism for "two or more members of the band despised each other and could no longer work together".
+\* It's more usually called "creative differences", which is a well-known euphemism for "two or more members of the band despised each other and could no longer work together".
 
 **Top tracks:** "Knucklebones", "Skyscraper", "Damn Good"
 
@@ -71,7 +71,7 @@ Relatedly, after Roth left *Van Halen*, they carried on with a new singer, one S
 
 ### [Guns N' Roses](http://www.gunsnroses.com/) - [GN'R Lies](https://www.amazon.co.uk/G-N-Lies-Guns-Roses/dp/B001KULBCA/)
 
-"But Clive," you say, "didn't *Guns N' Roses* release **GN'R Lies** in 1988? That's awesome too, isn't it?
+"But Clive," you say, "didn't *Guns N' Roses* release **GN'R Lies** in 1988? That's awesome too, isn't it?"
 
 Well. The clue is in the question. That album is a lie.
 

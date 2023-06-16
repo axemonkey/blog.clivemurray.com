@@ -42,9 +42,23 @@ Until...
 Well, I kept going round my mate's house, and all he had were The Small Ones. He even had a few different types of them now... there was [The Red Grippy Small One](https://www.stringsdirect.co.uk/accessories-c2/picks-plectrums-c50/jazz-picks-c404/jim-dunlop-nylon-jazz-3-max-grip-player-pack-6-pack-red-guitar-picks-p4591), [The Black Grippy Carbon Fibre Small One](https://www.stringsdirect.co.uk/accessories-c2/picks-plectrums-c50/jazz-picks-c404/jim-dunlop-max-grip-jazz-iii-carbon-fiber-guitar-picks-6-pack-of-plectrums-p4596) and [The Red Eric Johnson Small One](https://www.stringsdirect.co.uk/accessories-c2/picks-plectrums-c50/jazz-picks-c404/jim-dunlop-eric-johnson-custom-nylon-jazz-iii-guitar-picks-6-pack-p4583). There were more, I know, but these were the ones he had. And the ones he gifted me. The swine. I said thanks but no thanks, but he insisted I put them in my wallet and give them a go, so I took them home. One day I couldn't find a pick for a moment, and one of The Small Ones was laying around nearby, so I gave it a try. A proper try.
 
 Oh my.
-![Photo of a bag of Jim Dunlop Jazz III Carbon Fibre Max Grip plectrums, and a single one next to the bag.](/public/images/2022/02/bag.jpg)The Black Grippy Carbon Fibre Small Ones
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/02/bag.jpg" alt="Photo of a bag of Jim Dunlop Jazz III Carbon Fibre Max Grip plectrums, and a single one next to the bag." loading="lazy">
+	<figcaption>
+		The Black Grippy Carbon Fibre Small Ones
+	</figcaption>
+</figure>
+
 Within no time, The Bigger Small Ones were history, the scales fell from my eyes, and  a golden new age of Plectrology dawned, as I accepted The Small Ones as my church and specifically The Black Grippy Carbon Fibre Small Ones as my personal saviour. Many bags of The Black Grippy Carbon Fibre Small Ones were purchased, and hitherto advantages that hadn't even occurred to me revealed themselves (you can get three in the little pick pocket on your jeans, whereas with big picks two is probably maximum, if you want to also get your fingers in there to get them out again). Being carbon fibre, they lasted a while too. I was overjoyed to have *finally* discovered the ***REAL*** One True Pick.
-![A Jim Dunlop Jazz III Carbon Fibre Max Grip plectrum](/public/images/2022/02/the_black_grippy_carbon_fibre_small_one.jpg)The Black Grippy Carbon Fibre Small One
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/02/the_black_grippy_carbon_fibre_small_one.jpg" alt="A Jim Dunlop Jazz III Carbon Fibre Max Grip plectrum" loading="lazy">
+	<figcaption>
+		The Black Grippy Carbon Fibre Small One
+	</figcaption>
+</figure>
+
 I should thank my guitar brother, and indeed I do. I shan't use his name here as he prefers it that way, but I am truly grateful for his continued interest in providing me with new and different ways to discover the One True Pick, among a million other things. (Truthfully I would not be the player I am today without him. We have evolved together over the last 30 years and learned an unimaginable amount from each other over that time, about a great many things, not just picks.)
 
 But...
@@ -58,11 +72,25 @@ Go on, I'll wait.
 ...
 
 That's right. In the bag was the One True Pick.
-![Photo of a Gravity Razer Mini 1.5mm plectrum](/public/images/2022/02/the_one_true_pick.jpg)The One True Pick
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/02/the_one_true_pick.jpg" alt="Photo of a Gravity Razer Mini 1.5mm plectrum" loading="lazy">
+	<figcaption>
+		The One True Pick
+	</figcaption>
+</figure>
+
 It came in three different shapes, only one of which was the OTP, but the three were clearly hewn from the same flourescent cloth. They were the [Gravity Classic Mini](https://gravitypicks.co.uk/Classic-CP.htm), the [Gravity Sunrise Mini](https://gravitypicks.co.uk/Sunrise-SP.htm), and the [Gravity Razer Mini](https://gravitypicks.co.uk/Razer-R2.htm). Oh my days. Playing with these felt like I had been driving with the brakes on for decades. Suddenly fast runs were faster and more accurate, notes were clearer and more defined, the air contained 7% more oxygen, carbon emissions were down in the area, Local Sports Team began winning all their Sports matches, the sun shone down from the heavens, the lame walked, the blind saw, and all was truly well.
 
 Such is the limitless power of the Gravity Razer Mini, 1.5mm, flourescent green, with "master finish" bevel for preference.
 
 For it is **The One True Pick**.
-![Photo of a Gravity Razer plectrum being held between thumb and forefinger (mine).](/public/images/2022/02/the_quest_is_over.jpg)The Quest Is Over
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/02/the_quest_is_over.jpg" alt="Photo of a Gravity Razer plectrum being held between thumb and forefinger (mine)." loading="lazy">
+	<figcaption>
+		The Quest Is Over
+	</figcaption>
+</figure>
+
 Feel free to @ me with your Hawk picks, and your GraphTech Tusq picks, and your Red Bear picks, and whatever boutique picks made out of, I dunno, whalebone or something, that you personally use and/or recommend. Just be aware that I will very probably ignore it, since the Quest is over, and I have found the One True Pick.

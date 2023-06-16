@@ -9,7 +9,7 @@ excerpt: 1997 was the year I first got a modem and discovered the Internet, a mo
 ghost_header_image: 1997aoty.jpg
 ---
 
-1997 was the year I first got a modem and discovered the Internet, a move that ended up providing me with a career but started with a £10/month [Demon](http://en.wikipedia.org/wiki/Demon_Internet) account and a 19.2kbps (it was supposed to be 28.8kbps but I think it was a bit fucked and it never once connected at that speed) modem.
+1997 was the year I first got a modem and discovered the Internet, a move that ended up providing me with a career but started with a £10/month [Demon](http://en.wikipedia.org/wiki/Demon_Internet) account and a 19.2kbps (it was supposed to be 28.8kbps but I think it was a bit broken and it never once connected at that speed) modem.
 
 [Mike Judge](http://en.wikipedia.org/wiki/Mike_Judge)'s [King of the Hill](http://en.wikipedia.org/wiki/King_of_the_hill) started, there were some [strange lights in the sky](http://en.wikipedia.org/wiki/Phoenix_Lights), [a load of idiots killed themselves](http://en.wikipedia.org/wiki/Heaven%27s_Gate_(cult)), the first [burials at space](http://en.wikipedia.org/wiki/Space_burial) took place, [Tony Blair](http://en.wikipedia.org/wiki/Tony_Blair), [WinNuke](http://en.wikipedia.org/wiki/WinNuke), [Harry Potter](http://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone), [Steve Jobs](http://en.wikipedia.org/wiki/Steve_Jobs) returned to Apple, [South Park](http://en.wikipedia.org/wiki/South_Park) premiered, there was [a car crash in Paris](http://en.wikipedia.org/wiki/Death_of_Diana,_Princess_of_Wales), [Cassini-Huygens](http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens) was launched and [Kyoto](http://en.wikipedia.org/wiki/Kyoto_Protocol) was signed.
 
@@ -41,7 +41,7 @@ Can't remember where I heard of *Mansun*, but once I did I grabbed this album (t
 
 ### [The Prodigy](http://www.theprodigy.co.uk/) - [Fat of the Land](http://www.amazon.co.uk/Fat-Land-Prodigy/dp/B000006TNS/)
 
-As has been intimated previously, I've never been much of a dance head. But throughout the late 90s The Prodge were ubiquitous and the very block-rockingest of their beats are all right here (and yes, I'm fully aware that's a *Chemical Brothers*, not *Prodigy* reference, thanks). Still bitch-up-smackingly good, if I may. **Top track:** "Breathe"
+As has been intimated previously, I've never been much of a dance head. But throughout the late 90s *The Prodge* were ubiquitous and the very block-rockingest of their beats are all right here (and yes, I'm fully aware that's a *Chemical Brothers*, not *Prodigy* reference, thanks). Still bitch-up-smackingly good, if I may. **Top track:** "Breathe"
 
 ### [Radiohead](http://www.radiohead.co.uk/) - [OK Computer](http://www.amazon.co.uk/OK-Computer-Radiohead/dp/B000002UJQ/)
 
@@ -57,11 +57,11 @@ Yep, I'm the one who likes it.
 
 I gather that the *DT* faithful see this as the album where they sold out and tried to sound more commercial.
 
-Well, fuck 'em.
+Well, screw 'em.
 
-Faithful *Dream Theater* fans are the kind of people who think Jordan Rudess was a good thing to happen to the band, so they can fuck off. I lamented the departure of Kevin Moore like anyone else, but I thought Derek Sherinian was a splendid replacement, bringing a bluesier edge to the band's sound and dare I say it, some soul - something the more clinical musicians in the band (i.e. the rest of them) are often sorely lacking.
+Faithful *Dream Theater* fans are the kind of people who think Jordan Rudess was a good thing to happen to the band, so they can f\*\*\* right off. I lamented the departure of Kevin Moore like anyone else, but I thought Derek Sherinian was a splendid replacement, bringing a bluesier edge to the band's sound and dare I say it, some soul - something the more clinical musicians in the band (i.e. the rest of them) are often sorely lacking.
 
-I'm fully willing to go on the record saying that this is the last *DT* album that I properly enjoyed. Since then (and don't fucking start with any of that **Scenes From a Memory** bullshit, either) every single one of their albums has been around 70 mins of miscellaneous prog beige. You could start it at any point in the record, play it for a while, then turn it off. It just depends how much you want.
+I'm fully willing to go on the record saying that this is the last *DT* album that I properly enjoyed. Since then (and DO NOT start with any of that **Scenes From a Memory** bullshit, either) every single one of their albums has been around 70 mins of miscellaneous prog beige. You could start it at any point in the record, play it for a while, then turn it off. It just depends how much you want.
 
 "How much *Dream Theater* do you want today, Gladys?"
 
@@ -73,7 +73,7 @@ Not so, **Falling Into Infinity**. I can actually sing you lines from several of
 
 This all sounds awfully apologetic - it shouldn't. **FII** is a really good album - and remember it's only the third full-length album they released (in the LaBrie era, let's pretend the Dominici stuff didn't happen, it's best for everyone), and it felt to me like a proper natural progression from **Awake** and the intervening (but patchily produced) EP **A Change of Seasons**.
 
-It's great. Bung it on and stop being a gimp. Or don't. The choice is almost literally yours.
+It's great. Bung it on and stop being lame. Or don't. The choice is almost literally yours.
 
 **Top tracks:** "Lines in the Sand", "New Millennium", "Trial of Tears"
 

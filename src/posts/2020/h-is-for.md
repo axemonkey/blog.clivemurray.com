@@ -21,7 +21,9 @@ Daniel's work with [*Max Richter*](https://www.maxrichter.com/) is outstanding, 
 
 ## Video evidence
 
-Here's Daniel smashing out a classic Vivaldi banger, Winter pt.1 (allegro non molto) from (natch) The Four Seasons.
+Here's Daniel playing a piece from *Max Richter*'s rearrangement of Vivaldi's Four Seasons:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EcsM4HUEwVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Respect.
 

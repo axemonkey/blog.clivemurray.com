@@ -20,6 +20,11 @@ So, yeah. We're really happy with the EP. Personally I can say for sure it's the
 
 Huge thanks to everyone at [Outhouse Studios](https://outhousestudios.co.uk/) who was involved in making this a reality, and special thanks to **His Holiness John Mitchell** for mixing, remixing, mastering, and generally being lovely throughout. (If you listen carefully you might even hear his dulcet tones somewhere on one of the songs...)
 
-![My band, Indigo Down, relaxing and looking very natural indeed.](/public/images/2021/07/9387-small.jpg)L-R: Martin Szomszor, Jez Fielder, Clive Murray, Paul Fielder. Photo: [k b photography](https://www.katebookerphotography.com/).
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2021/07/9387-small.jpg" alt="My band, Indigo Down, relaxing and looking very natural indeed." loading="lazy">
+	<figcaption>
+		L-R: Martin Szomszor, Jez Fielder, Clive Murray, Paul Fielder. Photo: <a href="https://www.katebookerphotography.com/">k b photography</a>.
+	</figcaption>
+</figure>
 
 Enjoy! Then put some clothes on, for pity's sake.

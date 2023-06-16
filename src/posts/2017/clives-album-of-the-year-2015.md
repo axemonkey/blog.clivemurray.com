@@ -41,13 +41,13 @@ Off to Valhalla (or their designated equivalent) went (as always, etc.) [Leonard
 
 ### [Coheed and Cambria](http://www.coheedandcambria.com/) - [The Color Before the Sun](https://www.amazon.co.uk/Color-Before-Sun-Explicit/dp/B013ZDVDQI/)
 ![Coheed and Cambria - The Color Before the Sun](/public/images/2017/01/color-before-sun.jpg)
-Well, now. What can I say about **C&C** that hasn't been said copiously elsewhere? If you like prog, or even just interesting rock music, you've probably heard of them. If you're anything like me (and I know I am*) you've probably got every one of their CDs and don't plan on stopping any time soon.
+Well, now. What can I say about **C&C** that hasn't been said copiously elsewhere? If you like prog, or even just interesting rock music, you've probably heard of them. If you're anything like me (and I know I am\*) you've probably got every one of their CDs and don't plan on stopping any time soon.
 
 Unusually, this is their eighth full length album, yet their first non-concept album. Again, if you know anything about them you'll know that their previous output is effectively the soundtrack to [The Amory Wars](https://en.wikipedia.org/wiki/The_Amory_Wars), a series of sci-fi comics and graphic novels written by the band's frontman Claudio Sanchez, and is extraordinarily good taken with or without that alongside.
 
 So can they do it when they don't have a plot to follow? Of course they can. This is some of their catchiest work too, and that's saying something. Sanchez can't half write a melody and a hook. So if you thought they sounded interesting before, but didn't want to buy into that concept nonsense, get this. In fact, just get it generally. It's brilliant.
 
-*Ta, Ian.
+\* Ta, iffy50.
 
 **Top tracks:** "Island", "From Here to Mars", "You Got Spirit, Kid"
 
@@ -55,4 +55,4 @@ So can they do it when they don't have a plot to follow? Of course they can. Thi
 
 No **Turkey of the Year** for 2015, as there just wasn't anything in my collection from the year that I found disappointing. Perhaps I bought less music, or perhaps I just got a bit more discerning about what I shelled out for. (Yes kids, music costs money, and so it should.)
 
-One side note though: I had **Muse**'s *Drones* listed as a possible honourable mention contender. I mentioned this to a friend, who said that they make him physically sick. I said yeah, Matt Bellamy's constant hectoring to WAKE UP SHEEPLE can get a bit tiresome after a while, and he made his feelings very clear. Quoth he: "F*** off you middle class post alt rock prick".
+One side note though: I had **Muse**'s *Drones* listed as a possible honourable mention contender. I mentioned this to a friend, who said that they make him physically sick. I said yeah, Matt Bellamy's constant hectoring to WAKE UP SHEEPLE can get a bit tiresome after a while, and he made his feelings very clear. Quoth he: "F\*\*\* off you middle class post alt rock prick".

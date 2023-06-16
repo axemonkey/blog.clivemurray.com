@@ -29,7 +29,7 @@ There are literally* billions of videos of Al on YouTube, what with him being su
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62PL3zZfLps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* NB: not literally.
+\* NB: not literally.
 
 ### J is also for…
 

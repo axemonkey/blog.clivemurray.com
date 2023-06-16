@@ -39,7 +39,11 @@ Both the Mitchell-era albums are wonderful, but I think **Map of the Past** edge
 
 OK, so you have to have one of each, naturally. Here’s Francis and co. with “Screaming on the Beaches” in 1989:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndSOTwgEnj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 …and here’s Johnny boy and friends banging out “Ghosts” in an altogether more recent 2010:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BD_LnXsyK5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Marvellous. Aren’t you?
 

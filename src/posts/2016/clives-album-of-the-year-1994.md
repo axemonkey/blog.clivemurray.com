@@ -53,8 +53,8 @@ So when, sometime between 2002 and 2006 (I remember which house I was in at the 
 
 ## Turkey of the Year
 
-I don't really have a Turkey nomination for 1994, so much of it was just purely mediocre that very little stands out for good or for bad. But seeing as this was the year that spawned the following utter pile of shit, I'm picking…
+I don't really have a Turkey nomination for 1994, so much of it was just purely mediocre that very little stands out for good or for bad. But seeing as this was the year that spawned the following utter pile of arse, I'm picking…
 
 ### [Oasis](https://en.wikipedia.org/wiki/Oasis_(band)) - [Definitely Maybe](https://www.amazon.co.uk/Definitely-Maybe-Oasis/dp/B00KB979G8/)
 
-For fuck's sake, no.
+For f\*\*\*'s sake, no.

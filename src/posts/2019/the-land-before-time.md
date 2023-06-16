@@ -5,7 +5,7 @@ date_published: 2019-03-31T19:25:14.000Z
 date: 2019-03-31T19:25:14.000Z
 date_updated: 2019-04-03T15:04:13.000Z
 tags: ['post', 'Your Illustrious Host']
-ghost_header_image: mirrorsolve.jpg
+ghost_header_image: clive22-top.jpg
 ---
 
 Me aged 22.

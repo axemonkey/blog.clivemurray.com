@@ -106,6 +106,8 @@ This has never been out of rotation in the last year. It’s epic. Tom & Tim hav
 
 I could probably sit here and crack off about this album all day long, but you’ve slogged through over 3000 words to get this far, so Imma shut my keyboard-hole and give you a video so you can get an idea of what the holy bastard I’m on about.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YacNiC74MjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Maybe you love every second of it like I do, maybe you don’t, and that’s fair enough. I will defend your right to be wrong with every breath in my wossname. But there it is – from the moment I heard this I knew it would be Album of the Year 2019.
 
 **Top tracks:** "Animals", "One of Them", "Jugaar"

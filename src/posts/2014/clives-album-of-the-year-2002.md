@@ -51,7 +51,7 @@ It took me a while to get down into it, having been played it a few times at a f
 
 This album.
 
-I find it hard to even write about, since I often find it hard to listen to. And I find it hard to listen to purely because if I actually pay attention to it (as opposed to, say, having it in my headphones while working) then I find it drags me on an emotional roller-coaster journey that frankly wears me out. I know music is *supposed* to do that, that's generally *the idea*. But the epic trek comprised of these ten tracks demands a lot of the listener. Don't get me wrong, it's not challenging music - it's just… **deep**. I think. I could be wrong.
+I find it hard to even write about, since I often find it hard to listen to. And I find it hard to listen to purely because if I actually pay attention to it (as opposed to, say, having it in my headphones while working) then I find it drags me on an emotional roller-coaster journey that frankly wears me out. I know music is *supposed* to do that, that's generally *the idea*. But the epic trek that these ten tracks comprises demands a lot of the listener. Don't get me wrong, it's not challenging music - it's just… **deep**. I think. I could be wrong.
 
 I'll say this - go with it. You'll get back at least as much as you put in, though you might end up a little different by the end.
 

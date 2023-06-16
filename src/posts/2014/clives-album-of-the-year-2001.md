@@ -23,11 +23,11 @@ And so, to business.
 
 ### [Backyard Babies](http://www.backyardbabies.com/) - [Making Enemies Is Good](http://www.amazon.co.uk/Making-Enemies-Good-Backyard-Babies/dp/B00005EBSZ/)
 
-![Backyard Babies – Making Enemies Is Good](/public/images/2020/06/backyard-babies_making-enemies-is-good.jpg) I've mentioned these Swedish sleaze pioneers before, and this was the first work of theirs to grace my ears. It grabbed me immediately, and was one of the first lights to truly go on in the darkness. Still great 13 years later. Raw and punky, but slick enough to enjoy on a daily basis. **Top track:** "The Clash"
+![Backyard Babies – Making Enemies Is Good](/public/images/2020/06/backyard-babies_making-enemies-is-good.jpg) I've mentioned these Swedish sleaze pioneers before, and this was the first work of theirs to grace my ears. It grabbed me immediately, and was one of the first lights to truly go on in [the darkness](/the-dark-times). Still great 13 years later. Raw and punky, but slick enough to enjoy on a daily basis. **Top track:** "The Clash"
 
 ### [Beautiful Creatures](http://en.wikipedia.org/wiki/Beautiful_Creatures_%28band%29) - [Beautiful Creatures](http://www.amazon.co.uk/Beautiful-Creatures/dp/B00005N82Q/)
 
-![Beautiful Creatures – Beautiful Creatures](/public/images/2020/06/beautiful-creatures_beautiful-creatures-1.jpg) Around the time I first heard of *Backyard Babies*, it also came to my intention that Joe LeSte (previously of *Bang Tango*) had a new outfit on the scene, and I checked out the record. It's great - but it's dated far worse than the Babies' record has. Still has its moments, though. **Top track:** "1 A.M."
+![Beautiful Creatures – Beautiful Creatures](/public/images/2020/06/beautiful-creatures_beautiful-creatures-1.jpg) Around the time I first heard of *Backyard Babies*, it also came to my attention that Joe LeSte (previously of *Bang Tango*) had a new outfit on the scene, and I checked out the record. It's great - but it's dated far worse than the Babies' record has. Still has its moments, though. **Top track:** "1 A.M."
 
 ### [John Butler Trio](http://johnbutlertrio.com/) - [Three](http://www.amazon.co.uk/Three-John-Butler-Trio/dp/B0041HU3UU/)
 

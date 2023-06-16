@@ -35,6 +35,8 @@ Every album is a joy in its way, but I would hope that [**Cast of Thousands**](h
 
 While **Cast of Thousands** is still my favourite *Elbow* album, my favourite song of theirs comes from 2008's **The Seldom Seen Kid**. Ladies, Gentlemen and Evil Dave, please enjoy "Grounds For Divorce".
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jxczVhG0os8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### E is also for…
 
 - *[Eluveitie](https://en.wikipedia.org/wiki/Eluveitie)* (Celtic Folk Metal)

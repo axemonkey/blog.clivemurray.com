@@ -12,7 +12,14 @@ ghost_header_image: 2022/11/IMG_9052.jpg
 So, the time has come at last to tell the full story of my most recently acquired guitar. It is a long story with many trials and tribulations, meandering anecdotes, more guitar nerdery than even [Pete Thorn](http://4.bp.blogspot.com/-0axd8eZB3MM/TvNTQb9LYeI/AAAAAAAAAoM/aHTc4-2GWUs/s1600/folder.jpg) could stand, and even a smattering of crime.
 
 Firstly, you must gaze upon its awesomeness.
-![Photo of an Ibanez Jem style guitar with a black and white swirly paint job.](/public/images/2022/11/IMG_9045-copy.jpg)MARVEL! YOU MARVELLED, DIDN'T YOU? I SAW YOU MARVELLING!
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/11/IMG_9045-copy.jpg" alt="Photo of an Ibanez Jem style guitar with a black and white swirly paint job." loading="lazy">
+	<figcaption>
+		MARVEL! YOU MARVELLED, DIDN'T YOU? I SAW YOU MARVELLING!
+	</figcaption>
+</figure>
+
 (If you find that it is simply **too** awesome to behold, try using the pinhole camera trick that people use to view solar eclipses, see if that helps. I don’t want you to go blind from awesome.)
 
 Secondly, and some observant listeners may already have spotted this, it is not a genuine [Ibanez](https://www.ibanez.com/) guitar. It is a clone built to my specs, and more about this process shortly. A lot more, in fact, as this guitar was nine years in the making.
@@ -36,7 +43,14 @@ I have been an unashamed Ibanez fanboy for over three decades. My best buddy and
 However, around this time, my buddy had hatched a plan. He’d found via ads in [Guitarist Magazine](https://www.guitarworld.com/guitarist) that you could get Jem necks separately, the idea being presumably that if you had a headstock break, you didn’t want to have to junk the whole guitar (they were around £1500 new, and this was 1991, so that was a lot). He then spotted a [JEM777DY](https://static.wikia.nocookie.net/ibanez/images/7/73/JEM777_Desert_Sun_Yellow.png) body (DY is “Desert Sun Yellow”) boxed on the shelf at FCN, and all the lights went green. He bought the body (for £100), ordered the matching neck to go with it (£230), priced up every spare part he would need using the Ibanez spares catalogue, and began to build his very own Jem at home. Why not? It would surely be cheaper that way, and he would learn a whole ton about guitar assembly on top of his already mad skillz. It all went to plan barring one thing – he waited months or maybe even a year for that neck to become available but it never showed up. But... a neck from a [JEM777SK](https://static.wikia.nocookie.net/ibanez/images/7/71/JEM777_Shocking_Pink_.jpg) (SK is “Shocking Pink”) *did* become available – the exact same neck as the neck from a 777DY, except with a pink headstock. So with patience, diligence and not a little money (though roughly half the money it would have been to buy a new Jem off the rack), he finished it. 
 
 30 years later he still has it, and here it is:
-![My friend's self-built JEM777DY, with a pink rather than yellow headstock, against a tasteful backdrop](/public/images/2022/11/IMG_1139.jpeg)Please do not adjust your set.
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/11/IMG_1139.jpeg" alt="My friend's self-built JEM777DY, with a pink rather than yellow headstock, against a tasteful backdrop" loading="lazy">
+	<figcaption>
+		Please do not adjust your set.
+	</figcaption>
+</figure>
+
 At the same time, I had fallen head-over-heels in love with the [Ibanez 540PII-HH (in purple metallic)](https://static.wikia.nocookie.net/ibanez/images/b/b0/1990_540PII-HH_PM.jpg/revision/latest/scale-to-width-down/1000?cb=20210410062449), and was sending FCN about fifty quid every month in instalments. I did that for around a year, and then it became mine. Oh yes. [It became mine](/public/images/2014/Mar/ibanez_540pii-1.jpg).
 
 I loved that guitar for a good few years, but then in the mid-90s, in a moment of utter madness, I part-exchanged it for a vastly inferior [PGM30](https://ibanez.fandom.com/wiki/PGM30), which I then played for many more years. In fact the longest and most intense period of gigging in my life to date was done on that guitar. From the pubs of Eastbourne and Hastings to the nightclubs of Rochester and Gillingham (shudder) that guitar got more live action than any other I’ve owned. Hey-ho, so it goes.
@@ -48,13 +62,27 @@ Wind forward a few years, and now I live in London with my girlfriend and work i
 That became my main guitar for a while, but the lust was not quenched. I joined a [forum site](https://www.jemsite.com/forums/) focussing on all things Ibanez and it was on there that one day I found my gob to be smacked. You see, the original Jem was of course (I’m sure I don’t have to tell you) designed by [Steve Vai](https://vai.com/), and was released in 1987. The very first model was limited to 777 units, and Vai signed and numbered every one of them (some on the guitar itself, some on the backplate). And one of these original Jems – the [JEM777LNG](https://static.wikia.nocookie.net/ibanez/images/d/d2/JEM777_Loch_Ness.jpg) (“Loch Ness Green”) – was up for sale in the forum classifieds, for around 3000 Deutschmarks. It was number 407 of 777.
 
 I bought that too.
-![Photo of me with my 1987 Ibanez JEM777LNG](/public/images/2022/11/IMG_9040.jpg)Mmmm... original!
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/11/IMG_9040.jpg" alt="Photo of me with my 1987 Ibanez JEM777LNG" loading="lazy">
+	<figcaption>
+		Mmmm... original!
+	</figcaption>
+</figure>
+
 The Jem lust was pretty much sated by this incredible guitar, and (unlike the floral one) I still have it and play it loads. When I write with it, I come up with stuff I just don’t on any other guitar. It has very **definite** “mojo”.
 
 A year after that, someone I knew was getting rid of his battered and beaten old yellow Jem, for not much money, so I took it off his hands and… [customised the finish](https://youtu.be/NVOa5CVgP-Q?t=67). The chap who hosts that video on his YouTube (thanks James!) still gets hate mail about it, I understand. This was 20 years ago.
 
 Anyway, we reassembled it with its new (cosmetic!) customisation, and I still have it and play it. I gigged on it in July this year (2022), as it happens.
-![Photo of me playing my burned Ibanez JEM777DY with my band, Indigo Down](/public/images/2022/11/293656622_5394028053952666_6543623167492184940_n.jpg)What a fun gig this was...
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/11/293656622_5394028053952666_6543623167492184940_n.jpg" alt="Photo of me playing my burned Ibanez JEM777DY with my band, Indigo Down" loading="lazy">
+	<figcaption>
+		What a fun gig this was...
+	</figcaption>
+</figure>
+
 At one point I had 6 or 7 very similar Ibanez guitars – all Jem or RG shape, all 6-string, all in standard tuning, all with locking trems. Eventually some rationalisation had to happen and I shed a few, and even branched out into owning [a Gibson](/guitars/#gibsonlespaulcustom2001). Absolute scenes! I played that Gibbo solidly for a few years, in [Claytown Troupe](https://www.youtube.com/watch?v=9nJ8LkOAuh0) and in [Little Monkeys](https://www.youtube.com/watch?v=JP1kdYJrasg), and it’s a great guitar. It’s just over there. **points**
 
 The Ibanez lust never left, though, and in 2011-ish I bagged a [JEM90HAM](https://ibanez.fandom.com/wiki/JEM90HAM) to add to the roster, and maybe a year later I even tracked down [a replacement 540PII](/guitars/#ibanez540piish1989). You’d think I’d be done there, wouldn’t you? I did. I definitely thought “right, that’s enough now.”
@@ -64,7 +92,14 @@ It wasn’t though, and in 2012/2013 I began to cook up an idea.
 The idea was, I would assemble (or rather, have assembled for me) a custom Jem clone. I would get the paint job I wanted, the pickups I wanted, the fretboard I wanted, but still make it recognisably a Jem in all but actual lineage. A tribute Jem, if you like.
 
 I workshopped some ideas with that same buddy from all those years ago (who had by now left the country and moved to mainland Europe) and we came up with this image:
-![Mocked up image of a black and white swirled Ibanez Jem style guitar with a reverse headstock and black tree of life inlay](/public/images/2022/11/tumblr_m7pyha728q1rc3udho1_1280.jpg)Bear in mind, this is a mockup image made in 2012.
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/11/tumblr_m7pyha728q1rc3udho1_1280.jpg" alt="Mocked up image of a black and white swirled Ibanez Jem style guitar with a reverse headstock and black tree of life inlay" loading="lazy">
+	<figcaption>
+		Bear in mind, this is a mockup image made in 2012.
+	</figcaption>
+</figure>
+
 So, we had the design, all we had to do was make it. The first step was the body and the most crucial part was the swirl, and here is where it gets interesting. The original swirled Ibanez guitars from the 90s were done in America, by one company – About Time Designs – and as far as I know, by one guy, whose name was Darren Johansen. I’m pretty sure he did all the official ones – the [JEM77GMC](https://ibanez.fandom.com/wiki/JEM77_(Green_Multi_Color)), the [JEM77PMC](https://ibanez.fandom.com/wiki/JEM77_(Purple_Multi_Color)), the [UV77MC](https://ibanez.fandom.com/wiki/UV77) and the [JEM2KDNA](https://ibanez.fandom.com/wiki/JEM2K). Well, he had hung up his swirling hat by this time, and I found out that his main competitor from back in the day, Herc Fede, was not well and I think no longer swirling (he sadly passed away in 2014, RIP), so I went to the forums to ask about alternative swirlers, and started getting in touch with them.
 
 A few were no longer swirling, a couple gave examples that didn’t impress me enough to go with them, and then I ended up selecting one based on recommendations, price, and the fact that they actually replied to my emails. (I shall not be naming this individual or their company here, for reasons that are about to become apparent. Let’s just call them “M” for now.)
@@ -118,11 +153,25 @@ I sourced a new neck from the very splendid Ernie Taylor of [ET Guitars](https:/
 We also dug deep into the wiring. My friend is an absolute wizard at this, and thinks nothing of swapping out sets of pickups during a coffee break, whereas I am the kind of person who needs to give the authorities not less than a month’s notice before picking up a soldering iron. He located a wiring scheme that has 9 different pickup configs (remember the pull-push tone pot mentioned at the start?) all of which sound great.
 
 Here’s the wiring diagram he used – look at all those combinations, and only one duplicate (only position 4 is the same when the knob is up or down):
-![A wiring diagram for a humbucker-single coil-humbucker guitar with a push-pull tone pot, showing the different pickup configurations it makes available.](/public/images/2022/11/63b2ea8c02138d21a71b2323c7942b71.png)Some spaghetti, earlier
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/11/63b2ea8c02138d21a71b2323c7942b71.png" alt="A wiring diagram for a humbucker-single coil-humbucker guitar with a push-pull tone pot, showing the different pickup configurations it makes available." loading="lazy">
+	<figcaption>
+		Some spaghetti, earlier
+	</figcaption>
+</figure>
+
 This final phase still took a couple of years to finish off, through one thing and another, the pandemic being one of them and geography being another. But thanks to a heroic amount of work from my best friend, it finally got finished in early 2022, and then he and his family came to visit again over Easter. On 19th April 2022, the project Jem arrived home.
 
 And here it is.
-![Photo of me holding the black and white swirled Jem up to my face and making a manic grin](/public/images/2022/11/IMG_9049.jpg)It's MINE and you CAN'T have it!
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2022/11/IMG_9049.jpg" alt="Photo of me holding the black and white swirled Jem up to my face and making a manic grin" loading="lazy">
+	<figcaption>
+		It's MINE and you CAN'T have it!
+	</figcaption>
+</figure>
+
 Here’s a few minutes of me noodling around on it. Note, for this whole video, I am plugged into the wonderful [Archetype: Rabea](https://neuraldsp.com/news/introducing-archetype-rabea) plugin from [Neural DSP](https://neuraldsp.com/), and nothing else, and at no point do I change the settings on the plugin. I picked a high gain patch and left it alone. All the sound variance and control comes from the guitar.
 A few minutes of widdling to show how versatile this guitar is.
 

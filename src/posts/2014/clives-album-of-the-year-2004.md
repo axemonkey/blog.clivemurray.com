@@ -13,7 +13,7 @@ ghost_header_image: 2004aoty.jpg
 
 NASA's Spirit and Opportunity landers touched down on Mars, Facebook launched, Massachusetts legalised same-sex marriage and North Korea banned mobile phones, [Cassini-Huygens](http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens) reached Saturn, [The Scream](http://en.wikipedia.org/wiki/The_Scream) was stolen, [Ubuntu](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) was launched, and the [Southeast Asia earthquake and tsunami](http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami) killed hundreds of thousands of people on Boxing Day and generally devastated the entire Indian Ocean region.
 
-Those taking the Stairway or the Highway included [Peter Ustinov](http://en.wikipedia.org/wiki/Peter_Ustinov), [Estée Lauder](http://en.wikipedia.org/wiki/Est%C3%A9e_Lauder_(person)), [Ronald Reagan](http://en.wikipedia.org/wiki/Ronald_Reagan), [Ray Charles](http://en.wikipedia.org/wiki/Ray_Charles), [Marlon Brando](http://en.wikipedia.org/wiki/Marlon_Brando), [Francis Crick](http://en.wikipedia.org/wiki/Francis_Crick), [Rodney Dangerfield](http://en.wikipedia.org/wiki/Rodney_Dangerfield), [Superman (Christopher Reeve)](http://en.wikipedia.org/wiki/Christopher_Reeve), [John Peel](http://en.wikipedia.org/wiki/John_Peel), [Emlyn Hughes](http://en.wikipedia.org/wiki/Emlyn_Hughes), [Yasser Arafat](http://en.wikipedia.org/wiki/Yasser_Arafat) and fucking [Dimebag](http://en.wikipedia.org/wiki/Dimebag_Darrell).
+Those taking the Stairway or the Highway included [Peter Ustinov](http://en.wikipedia.org/wiki/Peter_Ustinov), [Estée Lauder](http://en.wikipedia.org/wiki/Est%C3%A9e_Lauder_(person)), [Ronald Reagan](http://en.wikipedia.org/wiki/Ronald_Reagan), [Ray Charles](http://en.wikipedia.org/wiki/Ray_Charles), [Marlon Brando](http://en.wikipedia.org/wiki/Marlon_Brando), [Francis Crick](http://en.wikipedia.org/wiki/Francis_Crick), [Rodney Dangerfield](http://en.wikipedia.org/wiki/Rodney_Dangerfield), [Superman (Christopher Reeve)](http://en.wikipedia.org/wiki/Christopher_Reeve), [John Peel](http://en.wikipedia.org/wiki/John_Peel), [Emlyn Hughes](http://en.wikipedia.org/wiki/Emlyn_Hughes), [Yasser Arafat](http://en.wikipedia.org/wiki/Yasser_Arafat) and goddamn [Dimebag Darrell](http://en.wikipedia.org/wiki/Dimebag_Darrell), dammit.
 
 ## Honourable mentions
 
@@ -61,4 +61,4 @@ Honestly. No guff, Chet.
 
 ### [Razorlight](http://www.razorlight.co.uk/) - [Up All Night](http://www.amazon.co.uk/Up-All-Night-Razorlight/dp/B0009353JQ/)
 
-Fuck **all** of that noise.
+F\*\*\* **all** of that noise.

@@ -20,4 +20,10 @@ We'll be back, we're sure. We've been doing this since before the word "blogging
 Just give me a little bit longer, that's all I ask.
 
 In the meantime, here is a picture of some cats.
-![A photo of two cats laying together on a tiled floor](/public/images/2020/02/two-cats.jpg)Two cats (not mine)
+
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/2020/02/two-cats.jpg" alt="A photo of two cats laying together on a tiled floor" loading="lazy">
+	<figcaption>
+		Two cats (not mine)
+	</figcaption>
+</figure>

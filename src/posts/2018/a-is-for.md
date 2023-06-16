@@ -37,6 +37,8 @@ It has to be [**Skyforger**](https://smile.amazon.co.uk/Skyforger-Amorphis/dp/B0
 
 Check out the video for "Silver Bride" (from **Skyforger**) if you need further conwincing…
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8qjiWb1O_L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### A is also for…
 
 - *[A](https://en.wikipedia.org/wiki/A_(band))* (Rock)

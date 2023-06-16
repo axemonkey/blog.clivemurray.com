@@ -15,7 +15,7 @@ ghost_header_image: 2020/05/aoty2011.jpg
 
 **2019-04-04**
 
-Originally I had a different album of the year for 2011, it was **Balls Out** by *Steel Panther*. While I still get the SP joke, it is wearing thin over the years, and looking back I feel more and more embarrassed by that choice. The irony has burned a hole through which I can now see the woke. So guess what? I've changed it!
+Originally I had a different album of the year for 2011, it was **Balls Out** by *Steel Panther*. While I still get the *SP* joke, it is wearing thin over the years, and looking back I feel more and more embarrassed by that choice. The irony has burned a hole through which I can now see the woke. So guess what? I've changed it!
 
 OK, as you were...
 
@@ -23,7 +23,7 @@ OK, as you were...
 
 ---
 
-A lot of great music came my way in 2011. There were comeback albums from *Anthrax*, *Mr. Big*, *Sebastian Bach*, *Electric Boys*, *Primus*, and *Vain*, great new folk metal albums from *Alestorm*, *Amorphis*, *Turisas* and *Týr*, the long-awaited *Aristocrats* album arrived, *Lady Gaga* was **Born This Way** and *Hugh Laurie***Let Them Talk**. So with no further ado...
+A lot of great music came my way in 2011. There were comeback albums from *Anthrax*, *Mr. Big*, *Sebastian Bach*, *Electric Boys*, *Primus*, and *Vain*, great new folk metal albums from *Alestorm*, *Amorphis*, *Turisas* and *Týr*, the long-awaited *Aristocrats* album arrived, *Lady Gaga* was **Born This Way** and *Hugh Laurie* **Let Them Talk**. So with no further ado...
 
 ---
 

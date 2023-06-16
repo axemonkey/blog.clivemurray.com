@@ -91,7 +91,7 @@ This may be the best of the best. If the house was on fire, and I for some reaso
 
 ### [Guns N' Roses](http://www.gunsnroses.com/) - [Use Your Illusion I & II](https://www.amazon.co.uk/Use-Your-Illusion-Guns-Roses/dp/B001KWLP6U/)
 
-For f***'s sake.
+For f\*\*\*'s sake.
 
 No, don't even.
 
@@ -105,10 +105,10 @@ Are those amazing songs? Yes! Of course they are! No-one's doubting that for a m
 
 You know what's too much, particularly when people have been waiting for four years? THIRTY. THIRTY SONGS IS TOO MUCH. Especially when AT LEAST HALF OF THEM ARE AWFUL.
 
-"Shotgun Blues"? "Get in the Ring"? Are you kidding me? "Perfect Crime"? What even is that? It sounds like someone recorded Slash checking his guitar was in tune and then excreted vocals on it from 20 storeys up. "Garden of Eden"? "My World"? Oh just f*** the f***ing f*** off.
+"Shotgun Blues"? "Get in the Ring"? Are you kidding me? "Perfect Crime"? What even is that? It sounds like someone recorded Slash checking his guitar was in tune and then excreted vocals on it from 20 storeys up. "Garden of Eden"? "My World"? Oh just f\*\*\* the f\*\*\*ing f\*\*\* off.
 
 Look, you can make a really pretty good album out of this total shitshow if you throw away about 18-20 songs. Honestly, there's some great stuff here. "Yesterdays", "Bad Obsession", "Dust N' Bones", "Pretty Tied Up"? All really good.
 
-"I know what this needs! A cover of Knockin' On Heaven's Door!"
+I know what this needs! A cover of "Knockin' On Heaven's Door!"
 
-Jesus f***ing wept.
+Jesus f\*\*\*ing wept.
