@@ -25,11 +25,11 @@ Resting in pieces (among, as ever, many more) were [Eusébio](https://en.wikiped
 
 ### [Black Veil Brides](http://www.blackveilbrides.net/) - [Black Veil Brides](https://www.amazon.co.uk/Black-Veil-Brides/dp/B00OI60O76/)
 
-![Black Veil Brides – Black Veil Brides](/public/images/2020/05/black-veil-brides_black-veil-brides.jpeg) I think it was my good friend [Rick](https://twitter.com/rfbooth) who introduced me to *BVB*, and I thank him hugely for that. Sounding not a million miles from some kind of weird bastard offspring of *Mötley Crüe* and *Pantera*, these guys stand for everything I stood for when I was young enough to still stand for it. Oh man, and that voice. That fucking voice. **Top track:** "Last Rites"
+![Black Veil Brides – Black Veil Brides](/public/images/2020/05/black-veil-brides_black-veil-brides.jpeg) I think it was my good friend [Rick](https://twitter.com/rfbooth) who introduced me to *BVB*, and I thank him hugely for that. Sounding not a million miles from some kind of weird bastard offspring of *Mötley Crüe* and *Pantera*, these guys stand for everything I stood for when I was young enough to still stand for it. Oh man, and that voice. That goddamn voice. **Top track:** "Last Rites"
 
-### [Buckcherry](http://www.buckcherry.com/) - [Fuck](https://www.amazon.co.uk/Fuck-Uncn-Buckcherry/dp/B00M3TK7I6/)
+### [Buckcherry](http://www.buckcherry.com/) - [F\*\*k](https://www.amazon.co.uk/Fuck-Uncn-Buckcherry/dp/B00M3TK7I6/)
 
-![Buckcherry – Fuck](/public/images/2020/05/buckcherry_fuck.jpeg) It's no secret around these parts that I love me some *Buckcherry*, but I had found the quality control to be slipping a little in recent years (since the excellent **15**, actually), so it was refreshing to check out this 6-song tribute to the good old F-bomb, as these are all great fun. Novelty record? Sure. Great fun? Fuck yeah. **Top track:** "I Don't Give A Fuck"
+![Buckcherry – F\*\*k](/public/images/2020/05/buckcherry_fuck.jpeg) It's no secret around these parts that I love me some *Buckcherry*, but I had found the quality control to be slipping a little in recent years (since the excellent **15**, actually), so it was refreshing to check out this 6-song tribute to the good old F-bomb, as these are all great fun. Novelty record? Sure. Great fun? F\*\*\* yeah. **Top track:** "I Don't Give A F\*\*\*"
 
 ### [Elbow](http://www.elbow.co.uk/) - [The Take Off and Landing of Everything](https://www.amazon.co.uk/Take-Off-Landing-Everything/dp/B00IOVNK72/)
 

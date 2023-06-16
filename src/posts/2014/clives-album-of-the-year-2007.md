@@ -27,7 +27,7 @@ Also the new [Wembley Stadium](http://en.wikipedia.org/wiki/Wembley_Stadium) ope
 
 ### [Coheed and Cambria](http://www.coheedandcambria.com/) - [Good Apollo, I'm Burning Star IV, Volume Two: No World For Tomorrow](http://www.amazon.co.uk/World-For-Tomorrow-Coheed-Cambria/dp/B000VXWAUE/)
 
-![Coheed and Cambria – Good Apollo, I'm Burning Star IV, Volume Two: No World For Tomorrow](/public/images/2020/06/coheed-and-cambria_no-world-for-tomorrow.jpg) This, the silver medal for "Longest Album Title" in my collection, marks the soundtrack to the chronological end of [the "Amory Wars" saga of comic books](http://en.wikipedia.org/wiki/The_Amory_Wars), as written by Claudio Sanchez. Who is also guitarist and singer of the band. Mental stuff - and fucking great music. **Top track:** "Feathers"
+![Coheed and Cambria – Good Apollo, I'm Burning Star IV, Volume Two: No World For Tomorrow](/public/images/2020/06/coheed-and-cambria_no-world-for-tomorrow.jpg) This, the silver medal for "Longest Album Title" in my collection, marks the soundtrack to the chronological end of [the "Amory Wars" saga of comic books](http://en.wikipedia.org/wiki/The_Amory_Wars), as written by Claudio Sanchez. Who is also guitarist and singer of the band. Mental stuff - and awesome music. **Top track:** "Feathers"
 
 ### [Underworld](http://www.underworldlive.com/) - [Oblivion With Bells](http://www.amazon.co.uk/Oblivion-Bells-Underworld/dp/B000VM0A5W/)
 

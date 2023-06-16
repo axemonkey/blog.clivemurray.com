@@ -33,7 +33,7 @@ Referred to by those in the know at the time as "Britain's Satriani", *Jan* got 
 
 ### [Jamiroquai](http://www.jamiroquai.com/) - [Emergency on Planet Earth](https://www.amazon.co.uk/Emergency-Planet-Earth-Jamiroquai/dp/B00BLEI3HQ/)
 
-What? I don't care. La la la, I can't hear you. This is fucking great. Yes, even now. (Hint: make music that sounds 20 years old at the time, and it won't date any further…) **Top track:** "Too Young to Die"
+What? I don't care. La la la, I can't hear you. This is bloody great. Yes, even now. (Hint: make music that sounds 20 years old at the time, and it won't date any further…) **Top track:** "Too Young to Die"
 
 ### [Poison](http://www.poisonweb.com/) - [Native Tongue](https://www.amazon.co.uk/Native-Tongue-Poison/dp/B004U2GDIM/)
 
@@ -61,4 +61,4 @@ By turns moody ("It's Probably Me"), irreverant ("Love Is Stronger Than Justice"
 
 ### [Love/Hate](https://en.wikipedia.org/wiki/Love/Hate_(band)) - [Let's Rumble](https://www.amazon.co.uk/Lets-Rumble-Love/dp/B00004SEO4/)
 
-Aaaargh. Don't get me wrong, I adore *Love/Hate*. They were the first real band I ever saw live (opening for *Skid Row*) and my own [band](http://indigodown.com/) has supported them twice in the last few years. Their first two albums are utter rawk classics, and the first of those – **Blackout in the Red Room** – has been welded into my car CD player since I had one that worked (November 2014). But… this album just fucking flopped. Remember The Dark Times were upon us, and the musical landscape had changed. I assume there was some kind of falling out as lead guitarist Jon E. Love was replaced by wunderkind Darren Householder… and somehow all the magic was just gone. Stick with the first two L/H albums, and you won't go wrong. Those are brilliant.
+Aaaargh. Don't get me wrong, I adore *Love/Hate*. They were the first real band I ever saw live (opening for *Skid Row*) and my own [band](http://indigodown.com/) has supported them twice in the last few years. Their first two albums are utter rawk classics, and the first of those – **Blackout in the Red Room** – has been welded into my car CD player since I had one that worked (November 2014). But… this album just failed. Remember The Dark Times were upon us, and the musical landscape had changed. I assume there was some kind of falling out as lead guitarist Jon E. Love was replaced by wunderkind Darren Householder… and somehow all the magic was just gone. Stick with the first two L/H albums, and you won't go wrong. Those are brilliant.

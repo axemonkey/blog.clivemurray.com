@@ -45,7 +45,7 @@ Yes, I accept that. Of course not. No.
 
 Done?
 
-OK. Try to imagine you've never heard *Nickelback*, and there's very little decent rock music around. OK? Suddenly, "This Is How You Remind Me" is all over everything, guys with guitars are starting to be back in vogue, and you know what? This is a good album. It is. If you can forget everything that came after, the generic corporate-rock assclowns they turned out to be, the carbon copy albums they churned out after it, that fucking haircut, the lot… it's a good album. Sorry [Hrishi](http://twitter.com/hrishio), but it is.
+OK. Try to imagine you've never heard *Nickelback*, and there's very little decent rock music around. OK? Suddenly, "This Is How You Remind Me" is all over everything, guys with guitars are starting to be back in vogue, and you know what? This is a good album. It is. If you can forget everything that came after, the generic corporate-rock assclowns they turned out to be, the carbon copy albums they churned out after it, that haircut, the lot… it's a good album. Sorry [Hrishi](http://twitter.com/hrishio), but it is.
 
 I'm listening to it right now as I type this and **YOU CAN'T STOP ME**. **Top track:** "Never Again"
 
