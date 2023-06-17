@@ -37,7 +37,7 @@ I've lived with my 2013 shortlist for a full year now, and have thus decreed:
 
 ### [Plini](http://http://plini.bandcamp.com/)/[Sithu Aye](http://http://sithuayemusic.bandcamp.com/) - [I](http://http://plini.bandcamp.com/album/i)
 
-![Plini/Sithu Aye – I](/public/images/2020/05/plini_sithu-aye_i.jpg) Well. These guys. *Plini* from Sydney and *Sithu Aye* from somewhere in Scotland have between them reinvented what it is to be a young shit-hot solo guitar player, by having amazing production chops, great songwriting abilities, technique out the yin-yang, incredible musical sensibilities and a massive amount of fun releasing music. Or so it appears, anyway. Check out [both](http://plini.bandcamp.com/) of [their](http://sithuayemusic.bandcamp.com/) catalogues on Bandcamp while you're about it. **Top track:** "Rupture"
+![Plini/Sithu Aye – I](/public/images/2020/05/plini_sithu-aye_i.jpg) Well. These guys. *Plini* from Sydney and *Sithu Aye* from somewhere in Scotland have between them reinvented what it is to be a young blazing solo guitar player, by having amazing production chops, great songwriting abilities, technique out the yin-yang, incredible musical sensibilities and a massive amount of fun releasing music. Or so it appears, anyway. Check out [both](http://plini.bandcamp.com/) of [their](http://sithuayemusic.bandcamp.com/) catalogues on Bandcamp while you're about it. **Top track:** "Rupture"
 
 ## And the winner is…
 

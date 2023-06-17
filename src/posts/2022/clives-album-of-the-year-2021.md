@@ -132,7 +132,7 @@ So do that.
 
 ## Turkey of the Year
 
-I initially had **Liquid Tension Experiment 3** down as Turkey of the Year, but on reflection it is such an utterly unlistenable pile of absolute sonic horseshit, that it would be unfair to even include it as a contender. I wouldn’t rest even one of my drinks on the CD of it that I didn’t even buy.
+I initially had **Liquid Tension Experiment 3** down as Turkey of the Year, but on reflection it is such an utterly unlistenable bucket of total sonic diarrhea, that it would be unfair to even include it as a contender. I wouldn’t rest even one of my drinks on the CD of it that I didn’t even buy.
 
 Hurling that metaphorically—and had I bought it, literally—out of the window of a moving train, that leaves us with…
 

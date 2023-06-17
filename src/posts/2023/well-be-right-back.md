@@ -11,9 +11,9 @@ unsplash_post_image: photo-1636193535246-a07cd0aa6fcb
 
 This blog may disappear for a while.
 
-Why's that? Well don't worry, it's not another ~4000 word ramble, it's very simple. This is hosted on a Raspberry Pi in my house. I have other websites, including the one for [my band](indigodown.com), hosted somewhere else, with a commercial web hosting company. This company has always been good, reliable and trustworthy, until recently when they were acquired by Some Shitheads.
+Why's that? Well don't worry, it's not another ~4000 word ramble, it's very simple. This is hosted on a Raspberry Pi in my house. I have other websites, including the one for [my band](indigodown.com), hosted somewhere else, with a commercial web hosting company. This company has always been good, reliable and trustworthy, until recently when they were acquired by Some Bastards.
 
-These particular Shitheads are one of the big hosting conglomerates, and have a history of hiking prices. Sure enough, a week or two ago, I got an email from them telling me that email inboxes would no longer be included in the price, and the prices were all going up.
+These particular Bastards are one of the big hosting conglomerates, and have a history of hiking prices. Sure enough, a week or two ago, I got an email from them telling me that email inboxes would no longer be included in the price, and the prices were all going up.
 
 So, to quote the late Lionel Blair, "sod that for a game of soldiers". I am currently shopping around for a new web hosting company that allows nodejs applications, and isn't vastly expensive.
 

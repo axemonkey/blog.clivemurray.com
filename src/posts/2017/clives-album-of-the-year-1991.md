@@ -107,7 +107,7 @@ You know what's too much, particularly when people have been waiting for four ye
 
 "Shotgun Blues"? "Get in the Ring"? Are you kidding me? "Perfect Crime"? What even is that? It sounds like someone recorded Slash checking his guitar was in tune and then excreted vocals on it from 20 storeys up. "Garden of Eden"? "My World"? Oh just f\*\*\* the f\*\*\*ing f\*\*\* off.
 
-Look, you can make a really pretty good album out of this total shitshow if you throw away about 18-20 songs. Honestly, there's some great stuff here. "Yesterdays", "Bad Obsession", "Dust N' Bones", "Pretty Tied Up"? All really good.
+Look, you can make a really pretty good album out of this total mess if you throw away about 18-20 songs. Honestly, there's some great stuff here. "Yesterdays", "Bad Obsession", "Dust N' Bones", "Pretty Tied Up"? All really good.
 
 I know what this needs! A cover of "Knockin' On Heaven's Door!"
 

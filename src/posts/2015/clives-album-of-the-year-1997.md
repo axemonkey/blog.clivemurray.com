@@ -61,7 +61,7 @@ Well, screw 'em.
 
 Faithful *Dream Theater* fans are the kind of people who think Jordan Rudess was a good thing to happen to the band, so they can f\*\*\* right off. I lamented the departure of Kevin Moore like anyone else, but I thought Derek Sherinian was a splendid replacement, bringing a bluesier edge to the band's sound and dare I say it, some soul - something the more clinical musicians in the band (i.e. the rest of them) are often sorely lacking.
 
-I'm fully willing to go on the record saying that this is the last *DT* album that I properly enjoyed. Since then (and DO NOT start with any of that **Scenes From a Memory** bullshit, either) every single one of their albums has been around 70 mins of miscellaneous prog beige. You could start it at any point in the record, play it for a while, then turn it off. It just depends how much you want.
+I'm fully willing to go on the record saying that this is the last *DT* album that I properly enjoyed. Since then (and DO NOT start with any of that **Scenes From a Memory** garbage, either) every single one of their albums has been around 70 mins of miscellaneous prog beige. You could start it at any point in the record, play it for a while, then turn it off. It just depends how much you want.
 
 "How much *Dream Theater* do you want today, Gladys?"
 
@@ -69,7 +69,7 @@ I'm fully willing to go on the record saying that this is the last *DT* album th
 
 I mean yes, it's all incredibly executed and very clever, but I just find it all just so *so* soulless.
 
-Not so, **Falling Into Infinity**. I can actually sing you lines from several of the songs without having to look at the lyrics! I can recall more than four of the song titles without looking at the CD cover! This was truly the last time I could claim that, and I really tried with the later bollocks, I honestly did.
+Not so, **Falling Into Infinity**. I can actually sing you lines from several of the songs without having to look at the lyrics! I can recall more than four of the song titles without looking at the CD cover! This was truly the last time I could claim that, and I really tried with the later rubbish, I honestly did.
 
 This all sounds awfully apologetic - it shouldn't. **FII** is a really good album - and remember it's only the third full-length album they released (in the LaBrie era, let's pretend the Dominici stuff didn't happen, it's best for everyone), and it felt to me like a proper natural progression from **Awake** and the intervening (but patchily produced) EP **A Change of Seasons**.
 

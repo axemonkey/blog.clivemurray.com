@@ -33,7 +33,7 @@ It was a cracking year for music too, and shortlisted albums that didn't even ma
 
 ### [Mumford & Sons](http://www.mumfordandsons.com/) - [Sigh No More](http://www.amazon.co.uk/Sigh-No-More-Mumford-Sons/dp/B002PHYNRM/)
 
-![Mumford & Sons – Sigh No More](/public/images/2020/06/mumford-and-sons_sigh-no-more.jpg) Go on, get it out. You'll feel better. No, not *that*, put that away, that's disgusting. No, I mean get all the anti-*Mumford* bile out. Go on, bang on for a while about how twee and generic their songs are, and how there are a million better faux-lk (fauk folk, get it?) groups out there and the Mumfords are just knocking out recycled insipid shite. Go on, I'll wait. In fact I'll go and get a coffee. You probably want about 2 or 3 minutes on that yeah? Cool. Off you go.
+![Mumford & Sons – Sigh No More](/public/images/2020/06/mumford-and-sons_sigh-no-more.jpg) Go on, get it out. You'll feel better. No, not *that*, put that away, that's disgusting. No, I mean get all the anti-*Mumford* bile out. Go on, bang on for a while about how twee and generic their songs are, and how there are a million better faux-lk (fauk folk, get it?) groups out there and the Mumfords are just knocking out recycled insipid pish. Go on, I'll wait. In fact I'll go and get a coffee. You probably want about 2 or 3 minutes on that yeah? Cool. Off you go.
 
 ...
 

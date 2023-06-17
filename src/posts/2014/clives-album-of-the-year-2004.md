@@ -19,7 +19,7 @@ Those taking the Stairway or the Highway included [Peter Ustinov](http://en.wiki
 
 ### [Alter Bridge](http://www.alterbridge.com/) - [One Day Remains](http://www.amazon.co.uk/One-Day-Remains-Alter-Bridge/dp/B002LK0XIG/)
 
-![Alter Bridge – One Day Remains](/public/images/2020/06/alter-bridge_one-day-remains.jpg) Yep, *Alter Bridge* again. Honestly, one of the best heavy rock bands around, and this was their debut album. It's amazing from start to finish - one of the best debuts ever. Shits all over *Creed* from the greatest of heights. **Top track:** "One Day Remains"
+![Alter Bridge – One Day Remains](/public/images/2020/06/alter-bridge_one-day-remains.jpg) Yep, *Alter Bridge* again. Honestly, one of the best heavy rock bands around, and this was their debut album. It's amazing from start to finish - one of the best debuts ever. It craps all over *Creed* from the greatest of heights. **Top track:** "One Day Remains"
 
 ### [Green Day](http://www.greenday.com/) - [American Idiot](http://www.amazon.co.uk/American-Idiot-Green-Day/dp/B0002OERI0/)
 
@@ -51,7 +51,7 @@ It's not a joke. I don't like it because it's "so bad it's good". Irony is not i
 
 OK? Do you get it? Yes, William Shatner. No, not kidding.
 
-See, the music is co-written, produced and arranged by Ben Folds. In fact, I get the idea that in many cases Shatner has scribbled down some words and Folds has basically done the rest, but no matter. What you've got here (ignoring the attention-grabbing opener, a cover of *Pulp*'s "Common People") is a guy laying his soul bare to music. "That's Me Trying" is an open letter to Shatner's estranged daughter. "It Hasn't Happened Yet" is a chronicle of his trials and failings as he sees them. "Has Been" is a nod to the fact that perhaps his glory days are behind him. "You'll Have Time" is a knowing wink and a smile to his own mortality. "I Can't Get Behind That" is just Shatner and Henry Rollins cooped up in a studio and revelling in the joy of yelling about shit that annoys them. And "What Have You Done"… well I can't talk about that one - you should just listen to it and you'll see.
+See, the music is co-written, produced and arranged by Ben Folds. In fact, I get the idea that in many cases Shatner has scribbled down some words and Folds has basically done the rest, but no matter. What you've got here (ignoring the attention-grabbing opener, a cover of *Pulp*'s "Common People") is a guy laying his soul bare to music. "That's Me Trying" is an open letter to Shatner's estranged daughter. "It Hasn't Happened Yet" is a chronicle of his trials and failings as he sees them. "Has Been" is a nod to the fact that perhaps his glory days are behind him. "You'll Have Time" is a knowing wink and a smile to his own mortality. "I Can't Get Behind That" is just Shatner and Henry Rollins cooped up in a studio and revelling in the joy of yelling about stuff that annoys them. And "What Have You Done"… well I can't talk about that one - you should just listen to it and you'll see.
 
 Honestly. No guff, Chet.
 

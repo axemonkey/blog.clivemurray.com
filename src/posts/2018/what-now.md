@@ -13,7 +13,7 @@ So yeah, observant listeners may have realised that I have now completed my task
 
 Since some people might be interested to see it, I have compiled a master list of the runners and riders, the wailers and the failures, the winners and the sinners and the chicken dinners, and [made a permanent page for it](/aoty). I shall of course add to it once a year from now onwards.
 
-But what now I hear you cry? With what spurious bollocks will I pollute this blog now that my opinions and decrees upon what music was hot and what was not for the previous 44 years have been fully ascribed and transcribed?
+But what now I hear you cry? With what spurious bumwater will I pollute this blog now that my opinions and decrees upon what music was hot and what was not for the previous 44 years have been fully ascribed and transcribed?
 
 Fear not, gentle listener, for coming your way very soon, right here, in this very corner of the ee-lectrick hinternet, prepare your fragile eggshell minds for...
 
