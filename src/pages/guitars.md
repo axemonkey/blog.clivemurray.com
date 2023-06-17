@@ -48,7 +48,7 @@ Yeah, I know you didn’t come here to look at basses, but I own one, so tough. 
 
 *(Formerly known as BlacKat Ninja D7)*
 
-I first became aware of the work of [BlacKat Guitars](https://www.facebook.com/blackatguitars) through my good friend Ian, who happened across one in a music store in Germany and fell so in love he bought it. I ordered this guitar in **February 2014**, and through one thing and another it took until **December 2015** to actually get it. That said, it was worth every second of the wait.
+I first became aware of the work of [BlacKat Guitars](https://www.facebook.com/blackatguitars) through my guitar brother, who happened across one in a music store in Germany and fell so in love he bought it. I ordered this guitar in **February 2014**, and through one thing and another it took until **December 2015** to actually get it. That said, it was worth every second of the wait.
 
 F your I, the spec runs thus:
 
@@ -190,7 +190,7 @@ In the end though, it just wasn’t getting played. I have two other incredible 
 
 ![Ibanez RG7321](/public/images/2015/05/IMG_4534-600.jpg)
 
-One day in, oh about 2002 or so, I went out into London with my mates Ian and Steve. All three of us came home with new guitars that day - the other two bought Les Pauls, and I bought [this](http://ibanez.wikia.com/wiki/RG7321). It was £299 new, and it was all I needed in a 7-string at that time in that it had 7 strings. The pickups were... let’s say "not astounding", but the neck was solid and it played fine when all I needed from it was those 5 extra low notes.
+One day in, oh about 2002 or so, I went out into London with two guitar playing mates. All three of us came home with new guitars that day - the other two bought Les Pauls, and I bought [this](http://ibanez.wikia.com/wiki/RG7321). It was £299 new, and it was all I needed in a 7-string at that time in that it had 7 strings. The pickups were... let’s say "not astounding", but the neck was solid and it played fine when all I needed from it was those 5 extra low notes.
 
 I’ve recently revisited the world of seven (hence ordering the BlacKat mentioned above) and so this guitar has had a bit of a revamp. I switched the tuners for [Hipshot](https://www.hipshotproducts.com/)[Griplocks](http://store.hipshotproducts.com/cart.php?m=product_detail&amp;p=246) (which are excellent) and the awful stock pickups have stepped aside to make way for the [Seymour Duncan](http://www.seymourduncan.com/)[Sentient](http://www.seymourduncan.com/blog/product-news/introducing-the-sentient-78-string-neck-pickup/)/[Nazgûl](http://www.seymourduncan.com/blog/product-news/introducing-the-nazgul/) set so favoured by low-stringers of late, particularly [that Merrow chap](http://www.keithmerrow.com/).
 
@@ -238,7 +238,7 @@ Ah, of all of them, [this](http://ibanez.wikia.com/wiki/JEM77_%28Floral_Pattern%
 
 ![Ibanez RG750PN](/public/images/2014/Mar/ibanez_rg750pn-1.jpg)
 
-Now, [this](http://ibanez.wikia.com/wiki/RG750) was a fantastic machine, and one of my longest serving guitars. I discovered it on the wall of [Macari’s](http://www.macaris.co.uk/) in Charing Cross Road. It was out of place as that shop is generally filled with more traditional guitars like Strats and Teles and also acoustics, banjos and ukeleles and the like. I was out with mate Ian, who was doing well financially at a time when I wasn’t. He actually lent me the money to buy this guitar on the day and... well, I never did get round to paying him back. It was my main guitar for many years, having switched the humbuckers for a [DiMarzio](http://www.dimarzio.com/)[Humbucker From Hell](http://www.dimarzio.com/pickups/humbuckers/humbucker-hell) in the neck and a [FRED](http://www.dimarzio.com/pickups/humbuckers/fred) in the bridge, and it served me so well for ages. The only reason I let this go was... well, I needed money to buy an engagement ring. Personally I think that was a valid reason, but by god was it hard to let go of this one. Also, I still owe Ian a guitar.
+Now, [this](http://ibanez.wikia.com/wiki/RG750) was a fantastic machine, and one of my longest serving guitars. I discovered it on the wall of [Macari’s](http://www.macaris.co.uk/) in Charing Cross Road. It was out of place as that shop is generally filled with more traditional guitars like Strats and Teles and also acoustics, banjos and ukeleles and the like. I was out with my guitar brother, who was doing well financially at a time when I wasn’t. He actually lent me the money to buy this guitar on the day and... well, I never did get round to paying him back. It was my main guitar for many years, having switched the humbuckers for a [DiMarzio](http://www.dimarzio.com/)[Humbucker From Hell](http://www.dimarzio.com/pickups/humbuckers/humbucker-hell) in the neck and a [FRED](http://www.dimarzio.com/pickups/humbuckers/fred) in the bridge, and it served me so well for ages. The only reason I let this go was... well, I needed money to buy an engagement ring. Personally I think that was a valid reason, but by god was it hard to let go of this one. Also, I still owe my brother a guitar.
 
 ### Ibanez PGM30
 

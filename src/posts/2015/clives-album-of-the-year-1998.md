@@ -29,7 +29,7 @@ I think I missed the first *Garbage* album when it came out, mainly due to havin
 
 ### [David Gray](http://www.davidgray.com/) - [White Ladder](http://www.amazon.co.uk/White-Ladder-David-Gray/dp/B00004TFMN/)
 
-I remember reading a one-line review that said this was "an album that makes you feel better just for knowing it exists" and that was certainly the case for years. Saffron was in uni halls (a couple of years later), and I'd go to her place and we'd listen to this and then try and sleep in that tiny, tiny bed while her housemates got up to hi-jinx and inevitably someone set the fire alarm off. This got us through though. :) Some may find his singing nasal and his songs insipid, but I will always have a soft spot for this finely-crafted album. **Top track:** "Please Forgive Me"
+I remember reading a one-line review that said this was "an album that makes you feel better just for knowing it exists" and that was certainly the case for years. My girlfriend was in uni halls (a couple of years later), and I'd go to her place and we'd listen to this and then try and sleep in that tiny, tiny bed while her housemates got up to hi-jinx and inevitably someone set the fire alarm off. This got us through though. :) Some may find his singing nasal and his songs insipid, but I will always have a soft spot for this finely-crafted album. **Top track:** "Please Forgive Me"
 
 ### [The Offspring](http://www.offspring.com/) - [Americana](http://www.amazon.co.uk/Americana-Offspring/dp/B0000241F8/)
 
