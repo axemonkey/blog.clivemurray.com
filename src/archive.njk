@@ -8,49 +8,45 @@ pagination:
   reverse: true
 ---
 <article class="post-full post page">
+	<header class="post-full-header">
+		<h1 class="post-full-title">{{ title }}</h1>
+	</header>
 
-  <header class="post-full-header">
-    <h1 class="post-full-title">{{ title }}</h1>
-  </header>
+	<section class="post-full-content">
+		<div class="post-content">
 
-  <section class="post-full-content">
+			<!-- BEGIN ARCHIVE PAGE -->
 
-    <div class="post-content">
+			<h2>Archive</h2>
 
-      <!-- BEGIN ARCHIVE PAGE -->
+			<p>I've been blogging since before it was called blogging, but this archive only goes back to 2013. That's probably for the best.</p>
 
-      <h2>Archive</h2>
+			{% for year in posts %}
 
-      <p>I've been blogging since before it was called blogging, but this archive only goes back to 2013. That's probably for the best.</p>
+				<details>
+					<summary>
+						<span class="archive-year">{{ year }}</span>
+						{% include "separator.njk" %}
+						({{ collections.postsByYear[year].length }}) {{ 'post' if collections.postsByYear[year].length === 1 else 'posts' }}
+					</summary>
 
-      {% for year in posts %}
+					<ul class="archive-list">
+						{% for post in collections.postsByYear[year] | reverse %}
+							<li>
+								<a href="{{ post.url }}">{{ post.data.title }}</a>
+								{% include "separator.njk" %}
+								{{ post.data.date | dateComfortableShort }}
+								{% include "separator.njk" %}
+								{{  post.data.tags[1] }}
+							</li>
+						{% endfor %}
+					</ul>
+				</details>
 
-        <details>
-          <summary>
-          	<span class="archive-year">{{ year }}</span>
-          	{% include "separator.njk" %}
-          	({{ collections.postsByYear[year].length }}) {{ 'post' if collections.postsByYear[year].length === 1 else 'posts' }}
-          </summary>
+			{% endfor %}
 
-          <ul class="archive-list">
-            {% for post in collections.postsByYear[year] | reverse %}
-            <li>
-              <a href="{{ post.url }}">{{ post.data.title }}</a>
-              {% include "separator.njk" %}
-              {{ post.data.date | dateComfortableShort }}
-              {% include "separator.njk" %}
-              {{  post.data.tags[1] }}
-            </li>
-            {% endfor %}
-          </ul>
-        </details>
+			<!-- END ARCHIVE PAGE -->
 
-      {% endfor %}
-
-      <!-- END ARCHIVE PAGE -->
-
-    </div>
-
-  </section>
-
+		</div>
+	</section>
 </article>

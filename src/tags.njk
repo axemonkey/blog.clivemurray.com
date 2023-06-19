@@ -9,14 +9,13 @@ title: Tags
 		{% set theTags = (theTags.push(tag), theTags) %}
 	{% endif %}
 {% endfor %}
-<article class="post-full post page">
 
+<article class="post-full post page">
 	<header class="post-full-header">
 		<h1 class="post-full-title">{{ title }}</h1>
 	</header>
 
 	<section class="post-full-content">
-
 		<div class="post-content">
 
 			<!-- BEGIN ARCHIVE PAGE -->
@@ -34,7 +33,5 @@ title: Tags
 			<!-- END ARCHIVE PAGE -->
 
 		</div>
-
 	</section>
-
 </article>

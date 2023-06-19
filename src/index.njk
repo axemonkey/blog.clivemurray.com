@@ -12,7 +12,6 @@ pagination:
 	<h2>TODO:</h2>
 
 	<ul>
-		<li>* reindent everything, in the name of sanity</li>
 		<li>* create posts that were made since the export</li>
 		<li>* go through images and somehow prune files that aren't needed</li>
 		<li>* 404 page</li>
@@ -56,6 +55,7 @@ pagination:
 		<li>* read every single post - yes, every one - and sort out things like figcaptions, image orientation, etc.</li>
 		<li>* do another sweep for eff words and bowdlerise/replace them</li>
 		<li>* sweep for names: Ian, Saffron, Adam. remove them.</li>
+		<li>* reindent everything, in the name of sanity</li>
 	</ul>
 </section>
  #}
@@ -69,12 +69,12 @@ pagination:
 	{% if readingTime < 1 %}{% set readingTime = 1 %}{% endif %}
 
 	{% if (loop.index0 % 6) === 0 %}
-  	<article class="post post-card post-card-large">
+		<article class="post post-card post-card-large">
 	{% else %}
-  	<article class="post post-card">
-  {% endif %}
-    {% include "post-card.njk" %}
-  </article>
+		<article class="post post-card">
+	{% endif %}
+		{% include "post-card.njk" %}
+	</article>
 {% endfor %}
 
 <section class="post-support">

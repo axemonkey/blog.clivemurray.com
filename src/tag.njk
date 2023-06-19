@@ -11,35 +11,28 @@ permalink: "/tag/{{ tags | slugify }}/"
 {% include "tag-header.njk" %}
 
 <main id="site-main" class="site-main outer">
+	<div class="inner posts">
+		<div class="post-feed">
 
-  <div class="inner posts">
+			<!-- BEGIN TAG PAGE -->
 
-    {# <h1>XXX {{ tags }} ≈≈≈</h1> #}
+			{% for post in collections[tags] | reverse %}
 
-    <div class="post-feed">
+				{% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
+				{% set fixedContent = post.content | replace(regExpCode, "") | striptags %}
+				{% set wordCount = fixedContent | wordcount %}
+				{% set readingRate = 225 %}
+				{% set readingTime = (wordCount/readingRate) | round %}
+				{% if readingTime < 1 %}{% set readingTime = 1 %}{% endif %}
 
+				<article class="post post-card">
+					{% include "post-card.njk" %}
+				</article>
 
-      <!-- BEGIN TAG PAGE -->
+			{% endfor %}
 
-      {% for post in collections[tags] | reverse %}
+			<!-- END TAG PAGE -->
 
-        {% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
-        {% set fixedContent = post.content | replace(regExpCode, "") | striptags %}
-        {% set wordCount = fixedContent | wordcount %}
-        {% set readingRate = 225 %}
-        {% set readingTime = (wordCount/readingRate) | round %}
-        {% if readingTime < 1 %}{% set readingTime = 1 %}{% endif %}
-
-        <article class="post post-card">
-          {% include "post-card.njk" %}
-        </article>
-
-      {% endfor %}
-
-      <!-- END TAG PAGE -->
-
-    </div>
-
-  </div>
-
+		</div>
+	</div>
 </main>
