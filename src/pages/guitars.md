@@ -20,7 +20,7 @@ The current arsenal, stretching backwards from the most recently procured.
 
 ### “Ibanez” JEM77WMC Clone (2022)
 
-![“Ibanez” JEM77WMC Clone](/public/images/2022/11/IMG_9045-copy-1.jpg)
+![“Ibanez” JEM77WMC Clone](/public/images/2022/11/IMG_9045-copy.jpg)
 
 It’s not a real Ibanez, but it is a real guitar, and it’s absolutely amazing. It’s built from Ibanez parts and a custom made neck and body, and it took nine years. (You can read [the full story](/how-to-get-a-custom-guitar-in-just-9-years-and-lose-thousands-in-the-process/) if you like.)
 
