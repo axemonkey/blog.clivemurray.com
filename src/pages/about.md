@@ -14,10 +14,10 @@ I released a [solo instrumental album called "Earthman"](https://www.amazon.co.u
 
 I live in Hemel Hempstead with my family and cats.
 
-This blog lives on a [Raspberry Pi](http://www.raspberrypi.org/) in my house, and is powered by [Ghost](https://ghost.org/).
+This blog used to live on a [Raspberry Pi](http://www.raspberrypi.org/) in my house, and used to be powered by [Ghost](https://ghost.org/). Since June 2023 however, this site now lives on [Github Pages](https://pages.github.com/) and is powered by the mighty [Eleventy](https://www.11ty.dev/). Hurrah!
 
 You can email me on [hi@clivemurray.com](mailto:hi@clivemurray.com) if the desire so takes you.
 
-I used to Twitter as [@axemonkey](https://www.twitter.com/axemonkey), but Elongated Muskrat ruined all that. (I still maintain my account, but don’t post there any more. If you really need to get hold of my via Twitter, I might still get it.)
+I used to Twitter as [@axemonkey](https://www.twitter.com/axemonkey), but Elongated Muskrat ruined all that. (I still maintain my account, but don’t post there any more. If you really need to get hold of me via Twitter, I might still get it.)
 
 But now I am on a splendid instance of Mastodon instead, so feel free to toot me at [@axemonkey@metalhead.club](https://metalhead.club/@axemonkey).
