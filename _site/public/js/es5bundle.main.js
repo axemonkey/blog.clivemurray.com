@@ -187,7 +187,8 @@
   };
   var initStrapline = function initStrapline() {
     var strapSelector = document.querySelector('.site-description');
-    if (strapSelector) {
+    var isHomepage = document.body.classList.contains('home-template');
+    if (strapSelector && isHomepage) {
       strapSelector.innerHTML = getStrapline();
     }
   };

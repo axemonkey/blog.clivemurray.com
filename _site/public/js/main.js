@@ -141,8 +141,9 @@ const getStrapline = () => {
 
 const initStrapline = () => {
 	const strapSelector = document.querySelector('.site-description');
+	const isHomepage = document.body.classList.contains('home-template');
 
-	if (strapSelector) {
+	if (strapSelector && isHomepage) {
 		strapSelector.innerHTML = getStrapline();
 	}
 };
