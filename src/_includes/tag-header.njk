@@ -7,26 +7,26 @@
 
 	<style type="text/css">
 		.responsive-header-img {
-			background-image: url(/public/images/size/w2000/tag-{{ tags | slugify }}.jpg);
+			background-image: url(/public/images/size/w2000/tag-{{ tags | lower | slugify }}.jpg);
 		}
 
 		@media(max-width: 1000px) {
 			.responsive-header-img {
-				background-image: url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg);
-				background-image: -webkit-image-set(url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 1x,
-					url(/public/images/size/w2000/tag-{{ tags | slugify }}.jpg) 2x);
-				background-image: image-set(url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 1x,
-					url(/public/images/size/w2000/tag-{{ tags | slugify }}.jpg) 2x);
+				background-image: url(/public/images/size/w1000/tag-{{ tags | lower | slugify }}.jpg);
+				background-image: -webkit-image-set(url(/public/images/size/w1000/tag-{{ tags | lower | slugify }}.jpg) 1x,
+					url(/public/images/size/w2000/tag-{{ tags | lower | slugify }}.jpg) 2x);
+				background-image: image-set(url(/public/images/size/w1000/tag-{{ tags | lower | slugify }}.jpg) 1x,
+					url(/public/images/size/w2000/tag-{{ tags | lower | slugify }}.jpg) 2x);
 			}
 		}
 
 		@media(max-width: 600px) {
 			.responsive-header-img {
-				background-image: url(/public/images/size/w600/tag-{{ tags | slugify }}.jpg);
-				background-image: -webkit-image-set(url(/public/images/size/w600/tag-{{ tags | slugify }}.jpg) 1x,
-					url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 2x);
-				background-image: image-set(url(/public/images/size/w600/tag-{{ tags | slugify }}.jpg) 1x,
-					url(/public/images/size/w1000/tag-{{ tags | slugify }}.jpg) 2x);
+				background-image: url(/public/images/size/w600/tag-{{ tags | lower | slugify }}.jpg);
+				background-image: -webkit-image-set(url(/public/images/size/w600/tag-{{ tags | lower | slugify }}.jpg) 1x,
+					url(/public/images/size/w1000/tag-{{ tags | lower | slugify }}.jpg) 2x);
+				background-image: image-set(url(/public/images/size/w600/tag-{{ tags | lower | slugify }}.jpg) 1x,
+					url(/public/images/size/w1000/tag-{{ tags | lower | slugify }}.jpg) 2x);
 			}
 		}
 	</style>

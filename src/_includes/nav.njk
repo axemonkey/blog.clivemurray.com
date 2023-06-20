@@ -8,7 +8,7 @@
 					<li class="nav-home"><a href="/">Home</a></li>
 					{% set navpages = ['About', 'Guitars', 'AotY', 'A-Z', 'Archive'] %}
 					{% for page in navpages %}
-						<li class="nav-{{ page | slugify }}"><a href="/{{ page | slugify }}/">{{ page }}</a></li>
+						<li class="nav-{{ page | lower | slugify }}"><a href="/{{ page | lower | slugify }}/">{{ page }}</a></li>
 					{% endfor %}
 				</ul>
 

@@ -1,6 +1,6 @@
 {% for tag in tags %}
 	{% if tag !== 'post' %}
-		<a href="/tag/{{ tag | slugify }}">{{ tag }}</a>
+		<a href="/tag/{{ tag | lower | slugify }}">{{ tag }}</a>
 		{% if not loop.last %}
 			{% include "separator.njk" %}
 		{% endif %}

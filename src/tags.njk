@@ -18,19 +18,19 @@ title: Tags
 	<section class="post-full-content">
 		<div class="post-content">
 
-			<!-- BEGIN ARCHIVE PAGE -->
+			<!-- BEGIN TAGS PAGE -->
 
 			<h2>Tags ({{ theTags.length }})</h2>
 
 			<ul>
 				{% for tag in theTags | sort %}
 					{% if tag !== 'post' %}
-						<li><a href="/tag/{{ tag | slugify }}">{{ tag | capitalize }}</a></li>
+						<li><a href="/tag/{{ tag | lower | slugify }}">{{ tag | title }}</a></li>
 					{% endif %}
 				{% endfor %}
 			</ul>
 
-			<!-- END ARCHIVE PAGE -->
+			<!-- END TAGS PAGE -->
 
 		</div>
 	</section>
