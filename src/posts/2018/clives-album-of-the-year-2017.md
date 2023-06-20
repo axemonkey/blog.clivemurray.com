@@ -83,7 +83,7 @@ Wilson says that this album was inspired by the prog-pop albums of his youth suc
 
 It is a gorgeous album, this, and while not every single track is a perfect ten, overall it's indispensable stuff.
 
-FUN FACT: Steven Wilson's home studio "No Man's Land" is ten minutes walk from my house, right here in Camel Humpstead. I passed it last night on the way home from the pub. So there you go.
+FUN FACT: Steven Wilson's original home studio "No Man's Land" is ten minutes walk from my house, right here in Camel Humpstead. I passed it last night on the way home from the pub. So there you go.
 
 **Top tracks:** "Pariah", "The Same Asylum as Before", "To the Bone"
 

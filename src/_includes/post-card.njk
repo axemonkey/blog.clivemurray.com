@@ -13,13 +13,13 @@
 
 		<header class="post-card-header">
 			<div class="post-card-primary-tag">{{ post.data.tags[1] }}</div>
+
 			<h2 class="post-card-title">{{ post.data.title }}</h2>
 		</header>
 
 		<section class="post-card-excerpt">
 			<p>{{ post.data.excerpt }}</p>
 		</section>
-
 	</a>
 
 	<footer class="post-card-meta">
@@ -33,10 +33,13 @@
 				</a>
 			</li>
 		</ul>
+
 		<div class="post-card-byline-content">
 				<span><a href="/about">Clive Murray</a></span>
+
 				<span class="post-card-byline-date">
 					<time datetime="{{ post.date | dateHyphenated }}">{{ post.date | dateReadable }}</time>
+
 					<span class="bull">•</span> {{ readingTime }} min read
 				</span>
 		</div>

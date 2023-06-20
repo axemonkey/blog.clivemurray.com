@@ -37,6 +37,7 @@ layout: content
 	<section class="post-full-content">
 
 		<div class="post-content">
+
 <!-- BEGIN MARKDOWN OUTPUT -->
 {{ content | safe }}
 <!-- END MARKDOWN OUTPUT -->
@@ -46,19 +47,21 @@ layout: content
 	</section>
 
 	<section class="support post-support">
-	            	<a href="https://ko-fi.com/X8X120MQ6" target="_blank"><img style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="36" border="0"></a>
-	            </section>
-{#
-	            <section class="post-pagination">
-	            <h3>PAGINATION</h3>
-	            	<ul>
-	            		{% if postsForPagination.href.previous %}
-	            			<li><a href="{{ postsForPagination.href.previous }}">Previous</a></li>
-	            		{% endif %}
-	            		{% if postsForPagination.href.next %}
-	            			<li><a href="{{ postsForPagination.href.next }}">Next</a></li>
-	            		{% endif %}
-	            	</ul>
-	            </section>
- #}
+		<a href="https://ko-fi.com/X8X120MQ6" target="_blank"><img style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="36" border="0"></a>
+	</section>
+
+	{#
+	<section class="post-pagination">
+	<h3>PAGINATION</h3>
+		<ul>
+			{% if postsForPagination.href.previous %}
+				<li><a href="{{ postsForPagination.href.previous }}">Previous</a></li>
+			{% endif %}
+			{% if postsForPagination.href.next %}
+				<li><a href="{{ postsForPagination.href.next }}">Next</a></li>
+			{% endif %}
+		</ul>
+	</section>
+	 #}
+
 </article>
