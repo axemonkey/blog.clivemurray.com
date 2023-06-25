@@ -28,7 +28,7 @@ It’s not a real Ibanez, but it is a real guitar, and it’s absolutely amazing
 - Maple neck and fretboard with black "tree of life" inlay and rolled edges courtesy of [ET Guitars](https://www.etguitars.com/)
 - Stainless steel frets
 - Genuine Ibanez hardware including Lo-Pro Edge tremolo
-- [Bare Knuckle](https://www.bareknucklepickups.co.uk/)[Silo](https://www.bareknucklepickups.co.uk/pickup/humbucker/silo) humbuckers and [Slow Hand](https://www.bareknucklepickups.co.uk/pickup/strat/slow-hand-single-coil) single-coil.
+- [Bare Knuckle](https://www.bareknucklepickups.co.uk/) [Silo](https://www.bareknucklepickups.co.uk/pickup/humbucker/silo) humbuckers and [Slow Hand](https://www.bareknucklepickups.co.uk/pickup/strat/slow-hand-single-coil) single-coil.
 
 This is hands-down the best guitar I own, and that is saying a hell of a lot. My eternal gratitude goes out to *almost* everyone involved in its creation.
 
@@ -64,7 +64,7 @@ F your I, the spec runs thus:
 
 ![Ibanez RG7620](/public/images/2016/03/IMG_5260.jpg)
 
-You see... the thing was, I’d been waiting for the BlacKat for over a year. I’d played the RG7321 with the band once or twice, and knew that I was starting to get into 7. But... there’s a certain fluidity to the way I feel I have to play in the band that just feels like I need a trem. So, the hunt for a reasonably priced whammy-equipped seven string began, and this popped up in Germany. A friend kindly did the honours, I paid him back, and he even fitted the [Bare Knuckle](https://bareknucklepickups.co.uk)[Aftermaths](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=aftermath) for me.
+You see... the thing was, I’d been waiting for the BlacKat for over a year. I’d played the RG7321 with the band once or twice, and knew that I was starting to get into 7. But... there’s a certain fluidity to the way I feel I have to play in the band that just feels like I need a trem. So, the hunt for a reasonably priced whammy-equipped seven string began, and this popped up in Germany. A friend kindly did the honours, I paid him back, and he even fitted the [Bare Knuckle](https://bareknucklepickups.co.uk) [Aftermaths](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=aftermath) for me.
 
 I can’t stand plain unadorned black guitars, though, so white trimmings all round and everyone’s a winner.
 
@@ -78,7 +78,7 @@ I’ve actually owned this guitar twice, but this time I’m keeping it.
 
 I can’t peg the exact year of this guitar, since its serial number doesn’t conform to usual Washburn numbering, but I believe it to be early-mid 1990s. A friend - and ex-owner of this guitar - believes this to be one of a short run of Japanese made N2s, as the body shape is apparently closer to the guitars that Nuno Bettencourt actually plays, though of course those are N4s. I don’t know. What I do know is that this is one of the most fun guitars to play I’ve ever owned.
 
-I’ve switched out the stock pickups for a [Seymour Duncan](http://www.seymourduncan.com/)[’59](http://www.seymourduncan.com/products/electric/humbucker/vintage-output/59_model_sh1_an/) in the neck and a [Bill and Becky L500XL](http://www.wildepickups.com/Wilde_Bill_s_Twin_Blades.html) in the bridge, in tasteful zebra stylings with cream surrounds. Annoyingly the guy who did the wiring got the pickup selector backwards, so in the picture that’s actually the bridge pickup selected. It won’t turn round in the hole, and I can’t be arsed to rewire it. Ho hum.
+I’ve switched out the stock pickups for a [Seymour Duncan](http://www.seymourduncan.com/) [’59](http://www.seymourduncan.com/products/electric/humbucker/vintage-output/59_model_sh1_an/) in the neck and a [Bill and Becky L500XL](http://www.wildepickups.com/Wilde_Bill_s_Twin_Blades.html) in the bridge, in tasteful zebra stylings with cream surrounds. Annoyingly the guy who did the wiring got the pickup selector backwards, so in the picture that’s actually the bridge pickup selected. It won’t turn round in the hole, and I can’t be arsed to rewire it. Ho hum.
 
 Observant listeners will note that one of the bridge saddles is black. The G saddle cracked when I was restringing it one day, and the only replacement I could find was on a ’for parts’ Washburn 600S trem on ebay, which was black. It’s not even the right height saddle either, I had to shim it to get it to the right height.
 
@@ -96,7 +96,7 @@ Ahhhhh, how long have I waited! As mentioned below, I used to play a two-humbuck
 
 Strangely, I can find no record of the [540PII-SH](http://ibanez.wikia.com/wiki/540PII-SH) ever being released in orange. The [1989 Ibanez catalogue](http://www.ibanezrules.com/catalogs/us/1989/) does list it as being released in FA—Five Alarm Red—and on [the following page](http://www.ibanezrules.com/catalogs/us/1989/rg7.jpg), there is an RG750FA which looks suspiciously orange... so maybe it’s just that, and it’s faded a little.
 
-I’ve swapped the stock pickups for a [Bare Knuckle](https://bareknucklepickups.co.uk/main/)[Juggernaut](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=juggernaut) in the bridge, and a [Cobra single coil](https://bareknucklepickups.co.uk/main/pickups.php?cat=strats&amp;sub=contemporary&amp;pickup=cobra) in the neck and it sounds absolutely killer. Both those pickups are astounding.
+I’ve swapped the stock pickups for a [Bare Knuckle](https://bareknucklepickups.co.uk/main/) [Juggernaut](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=juggernaut) in the bridge, and a [Cobra single coil](https://bareknucklepickups.co.uk/main/pickups.php?cat=strats&amp;sub=contemporary&amp;pickup=cobra) in the neck and it sounds absolutely killer. Both those pickups are astounding.
 
 Observant listeners may also note that the original pearloid scratchplate has been replaced with a custom black one courtesy of [Jack’s Instrument Services](https://www.facebook.com/jacksinstrumentservices?fref=ts). Great job, Jack!
 
@@ -118,7 +118,7 @@ Thanks, Mum. I love it. RIP.
 
 ![Ibanez JEM90HAM](/public/images/2016/03/IMG_5256.jpg)
 
-[This](http://ibanez.wikia.com/wiki/JEM90HAM) is my goto 6-string for live work, particularly with [Indigo Down](http://indigodown.com/). It plays like butter, sounds great and looks absolutely killer. The current pickups are [DiMarzio](http://www.dimarzio.com/)[Evolutions](http://www.dimarzio.com/pickups/humbuckers/high-power/evolution-bridge), but as of March 2016 I have ordered replacements from—who else?—[Bare Knuckle](https://bareknucklepickups.co.uk)!
+[This](http://ibanez.wikia.com/wiki/JEM90HAM) is my goto 6-string for live work, particularly with [Indigo Down](http://indigodown.com/). It plays like butter, sounds great and looks absolutely killer. The current pickups are [DiMarzio](http://www.dimarzio.com/) [Evolutions](http://www.dimarzio.com/pickups/humbuckers/high-power/evolution-bridge), but as of March 2016 I have ordered replacements from—who else?—[Bare Knuckle](https://bareknucklepickups.co.uk)!
 
 A set of [Nailbombs](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=nailbomb) and a [Trilogy middle](https://bareknucklepickups.co.uk/main/pickups.php?cat=strats&amp;sub=contemporary&amp;pickup=trilogy_suite) are even now being fashioned deep in the wilds of Truro by Tim the Enchanter and his horde of goblin winders.
 
@@ -130,7 +130,7 @@ A set of [Nailbombs](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbu
 
 It was early 2004, and I had just joined [Claytown Troupe](http://en.wikipedia.org/wiki/Claytown_Troupe). My main guitar at the time was the Blackmachine, but I felt a yearning for something more traditional. The added popularity of [The Darkness](http://en.wikipedia.org/wiki/The_Darkness_%28band%29) at the time probably helped steer me towards a white one, and this splendid Alpine White [Custom](http://en.wikipedia.org/wiki/Gibson_Les_Paul_Custom) popped up on eBay at just the time I was looking. White Customs usually have gold hardware, but some apparently were released with nickel/silver, or so I’m told. It wouldn’t surprise me if some of the bits aren’t original though.
 
-I’ve replaced the pickups with a set of [Bare Knuckle](https://bareknucklepickups.co.uk)[Rebel Yells](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=rebel_yell), and had the whole thing rewired as of 2014 since the Gibson pots were rubbish. They basically had two settings: off, and full-on. That’s rubbish. Now it’s as it should be.
+I’ve replaced the pickups with a set of [Bare Knuckle](https://bareknucklepickups.co.uk) [Rebel Yells](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=rebel_yell), and had the whole thing rewired as of 2014 since the Gibson pots were rubbish. They basically had two settings: off, and full-on. That’s rubbish. Now it’s as it should be.
 
 I’ve also, as you may notice, replaced the knobs, scratchplate (from [Jack’s Instrument Services](https://www.facebook.com/jacksinstrumentservices?fref=ts) again) and poker chip with white versions. I rather like the look of it that way, thanks.
 
@@ -142,7 +142,7 @@ I’ve also, as you may notice, replaced the knobs, scratchplate (from [Jack’s
 
 Yep. This is... just an amazing guitar. I first met Doug at [Blackmachine](http://www.blackmachine.net/) at the London Guitar show in 2002 or 2003, and I fell in love with his guitars immediately. Right there and then I decided I was going to buy one, and I became his first commercial customer. **FACT**.
 
-My B2 is 30mm thick, mahogany, with a Brazilian rosewood neck and fretboard. At the time of ordering it was unique in being the only Blackmachine B2 with no tone control (as I specified) and 24 frets (most of his guitars at that time were 22 fretters). In March 2016 I replaced the original DiMarzio pickups with [Bare Knuckle](https://bareknucklepickups.co.uk/)[Black Hawks](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=black_hawk) which are absolutely amazing. I just cannot say enough good things about these guys and their pickups. Believe the hype.
+My B2 is 30mm thick, mahogany, with a Brazilian rosewood neck and fretboard. At the time of ordering it was unique in being the only Blackmachine B2 with no tone control (as I specified) and 24 frets (most of his guitars at that time were 22 fretters). In March 2016 I replaced the original DiMarzio pickups with [Bare Knuckle](https://bareknucklepickups.co.uk/) [Black Hawks](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=black_hawk) which are absolutely amazing. I just cannot say enough good things about these guys and their pickups. Believe the hype.
 
 I see that in the decade since Doug made this guitar for me Blackmachine guitars have skyrocketed in value and cachet, but this is one I will never sell. You will have to prise this guitar out of my cold, dead fingers and even then I don’t fancy your chances.
 
@@ -154,9 +154,9 @@ I see that in the decade since Doug made this guitar for me Blackmachine guitars
 
 This guitar started life as a [JEM777DY](http://ibanez.wikia.com/wiki/JEM777), and was sold to me by a friend in need of cash in around 2001. It was in quite a state cosmetically at that point, with several large dings and chips down to the wood. This led me to think about customising the finish, and the results were... divisive. Personally I love the thing - it’s my trusty workhorse guitar, but it still plays like a dream and I love its "modified" look. ;-)
 
-For more about how its unique finish was achieved, see [YouTube](http://www.youtube.com/watch?v=NVOa5CVgP-Q)[videos](http://www.youtube.com/watch?v=6c6KSAQIivM) curated by my friend [James](http://en.wikipedia.org/wiki/James_McIlroy_%28musician%29). Be warned, the internet did not approve of my methods and has left comments to that effect.
+For more about how its unique finish was achieved, see [YouTube](http://www.youtube.com/watch?v=NVOa5CVgP-Q) [videos](http://www.youtube.com/watch?v=6c6KSAQIivM) curated by my friend [James](http://en.wikipedia.org/wiki/James_McIlroy_%28musician%29). Be warned, the internet did not approve of my methods and has left comments to that effect.
 
-I have also swapped out the pickups for (of course) a [Bare Knuckle](https://bareknucklepickups.co.uk/)[Miracle Man](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=miracle_man) matched set (with push-me/pull-you coil-splitting option on the tone knob) and now it absolutely roars.
+I have also swapped out the pickups for (of course) a [Bare Knuckle](https://bareknucklepickups.co.uk/) [Miracle Man](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=miracle_man) matched set (with push-me/pull-you coil-splitting option on the tone knob) and now it absolutely roars.
 
 *Serial number: 882181*
 
@@ -182,7 +182,7 @@ Sometimes you have to let guitars go. It’s always hard, but that’s life.
 
 ![Ibanez Iceman ICT700WH](/public/images/2014/Mar/ibanez_ict700wh-1.jpg)
 
-I bought this because [ICEMAN](http://ibanez.wikia.com/wiki/ICT700). Just look at the damned thing. How cool is that? Wacky body shape, hard tail, reverse headstock... Even the pickups are awesome - a matched set of [DiMarzio](http://www.dimarzio.com/)[D-Activators](http://www.dimarzio.com/pickups/humbuckers/high-power/d-activator-bridge).
+I bought this because [ICEMAN](http://ibanez.wikia.com/wiki/ICT700). Just look at the damned thing. How cool is that? Wacky body shape, hard tail, reverse headstock... Even the pickups are awesome - a matched set of [DiMarzio](http://www.dimarzio.com/) [D-Activators](http://www.dimarzio.com/pickups/humbuckers/high-power/d-activator-bridge).
 
 In the end though, it just wasn’t getting played. I have two other incredible 6-string hardtail guitars, and this was simply surplus to requirements.
 
@@ -192,7 +192,7 @@ In the end though, it just wasn’t getting played. I have two other incredible 
 
 One day in, oh about 2002 or so, I went out into London with two guitar playing mates. All three of us came home with new guitars that day - the other two bought Les Pauls, and I bought [this](http://ibanez.wikia.com/wiki/RG7321). It was £299 new, and it was all I needed in a 7-string at that time in that it had 7 strings. The pickups were... let’s say "not astounding", but the neck was solid and it played fine when all I needed from it was those 5 extra low notes.
 
-I’ve recently revisited the world of seven (hence ordering the BlacKat mentioned above) and so this guitar has had a bit of a revamp. I switched the tuners for [Hipshot](https://www.hipshotproducts.com/)[Griplocks](http://store.hipshotproducts.com/cart.php?m=product_detail&amp;p=246) (which are excellent) and the awful stock pickups have stepped aside to make way for the [Seymour Duncan](http://www.seymourduncan.com/)[Sentient](http://www.seymourduncan.com/blog/product-news/introducing-the-sentient-78-string-neck-pickup/)/[Nazgûl](http://www.seymourduncan.com/blog/product-news/introducing-the-nazgul/) set so favoured by low-stringers of late, particularly [that Merrow chap](http://www.keithmerrow.com/).
+I’ve recently revisited the world of seven (hence ordering the BlacKat mentioned above) and so this guitar has had a bit of a revamp. I switched the tuners for [Hipshot](https://www.hipshotproducts.com/) [Griplocks](http://store.hipshotproducts.com/cart.php?m=product_detail&amp;p=246) (which are excellent) and the awful stock pickups have stepped aside to make way for the [Seymour Duncan](http://www.seymourduncan.com/) [Sentient](http://www.seymourduncan.com/blog/product-news/introducing-the-sentient-78-string-neck-pickup/)/[Nazgûl](http://www.seymourduncan.com/blog/product-news/introducing-the-nazgul/) set so favoured by low-stringers of late, particularly [that Merrow chap](http://www.keithmerrow.com/).
 
 I had to let this go once I had the BlacKat and the RG7620 mentioned above. There was just no way it was going to get played with not one but two superior sevens in the rack.
 
@@ -226,7 +226,7 @@ I don’t have any pics of [this](http://www.ultimate-guitar.com/reviews/electri
 
 ![Ibanez RG550DY](/public/images/2014/Mar/ibanez_rg550dy-1.jpg)
 
-[This](http://ibanez.wikia.com/wiki/RG550) was a real workhorse guitar. I obviously stickered it up, but also I switched out the original - fairly naff - humbuckers for a [DiMarzio](http://www.dimarzio.com/)[Air Norton](http://www.dimarzio.com/pickups/humbuckers/air-norton) in the neck and an [X2N](http://www.dimarzio.com/pickups/humbuckers/high-power/x2n) in the bridge, and that made it *very* interesting to play. :-)
+[This](http://ibanez.wikia.com/wiki/RG550) was a real workhorse guitar. I obviously stickered it up, but also I switched out the original - fairly naff - humbuckers for a [DiMarzio](http://www.dimarzio.com/) [Air Norton](http://www.dimarzio.com/pickups/humbuckers/air-norton) in the neck and an [X2N](http://www.dimarzio.com/pickups/humbuckers/high-power/x2n) in the bridge, and that made it *very* interesting to play. :-)
 
 ### Ibanez JEM77FP (1989)
 
@@ -238,19 +238,19 @@ Ah, of all of them, [this](http://ibanez.wikia.com/wiki/JEM77_%28Floral_Pattern%
 
 ![Ibanez RG750PN](/public/images/2014/Mar/ibanez_rg750pn-1.jpg)
 
-Now, [this](http://ibanez.wikia.com/wiki/RG750) was a fantastic machine, and one of my longest serving guitars. I discovered it on the wall of [Macari’s](http://www.macaris.co.uk/) in Charing Cross Road. It was out of place as that shop is generally filled with more traditional guitars like Strats and Teles and also acoustics, banjos and ukeleles and the like. I was out with my guitar brother, who was doing well financially at a time when I wasn’t. He actually lent me the money to buy this guitar on the day and... well, I never did get round to paying him back. It was my main guitar for many years, having switched the humbuckers for a [DiMarzio](http://www.dimarzio.com/)[Humbucker From Hell](http://www.dimarzio.com/pickups/humbuckers/humbucker-hell) in the neck and a [FRED](http://www.dimarzio.com/pickups/humbuckers/fred) in the bridge, and it served me so well for ages. The only reason I let this go was... well, I needed money to buy an engagement ring. Personally I think that was a valid reason, but by god was it hard to let go of this one. Also, I still owe my brother a guitar.
+Now, [this](http://ibanez.wikia.com/wiki/RG750) was a fantastic machine, and one of my longest serving guitars. I discovered it on the wall of [Macari’s](http://www.macaris.co.uk/) in Charing Cross Road. It was out of place as that shop is generally filled with more traditional guitars like Strats and Teles and also acoustics, banjos and ukeleles and the like. I was out with my guitar brother, who was doing well financially at a time when I wasn’t. He actually lent me the money to buy this guitar on the day and... well, I never did get round to paying him back. It was my main guitar for many years, having switched the humbuckers for a [DiMarzio](http://www.dimarzio.com/) [Humbucker From Hell](http://www.dimarzio.com/pickups/humbuckers/humbucker-hell) in the neck and a [FRED](http://www.dimarzio.com/pickups/humbuckers/fred) in the bridge, and it served me so well for ages. The only reason I let this go was... well, I needed money to buy an engagement ring. Personally I think that was a valid reason, but by god was it hard to let go of this one. Also, I still owe my brother a guitar.
 
 ### Ibanez PGM30
 
 ![Ibanez PGM30](/public/images/2014/Mar/ibanez_pgm30-1.jpg)
 
-I have mixed feeling about [this guitar](http://ibanez.wikia.com/wiki/PGM30). On the one hand it served me well during the heaviest gigging period of my life (I had no other job and was gigging with band Iguanahead 2-4 times a week), but on the other hand I should never have bought it. Or rather, PXed it.
+I have mixed feelings about [this guitar](http://ibanez.wikia.com/wiki/PGM30). On the one hand it served me well during the heaviest gigging period of my life (I had no other job and was gigging with band Iguanahead 2-4 times a week), but on the other hand I should never have bought it. Or rather, PXed it.
 
 It was during the Dark Times (more on that another day) in the mid 90s. I wasn’t playing that much (this was before Iguanahead), and I’d become bored of both my sound and my (far superior) guitar (next on the list, the 540PII-HH) when I happened across this on the wall of a music shop in Eastbourne. I’d been out of the loop for a while, and wasn’t properly aware of the PGM30 "budget Paul Gilbert" range, and on some level thought I was getting a top-of-the-range PGM when in fact I was seriously trading down.
 
 Not long after that dark day, I realised what I’d done, and the search began for another 540PII (they only made them from 1988 to 1990), a search which ended in February 2014 (see above).
 
-At time of selling it had a [DiMarzio](http://www.dimarzio.com/)[Megadrive](https://www.google.co.uk/search?q=dimarzio+megadrive&amp;safe=off&amp;client=firefox-a&amp;hs=gWz&amp;rls=org.mozilla:en-GB:official&amp;channel=sb&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=TZIuU6e2HIiphAftvoDQBQ&amp;ved=0CCwQsAQ&amp;biw=1920&amp;bih=1038) in the bridge and, I think, a [PAF Pro](http://www.dimarzio.com/pickups/humbuckers/paf-pro) in the neck position.
+At time of selling it had a [DiMarzio](http://www.dimarzio.com/) [Megadrive](https://www.google.co.uk/search?q=dimarzio+megadrive&amp;safe=off&amp;client=firefox-a&amp;hs=gWz&amp;rls=org.mozilla:en-GB:official&amp;channel=sb&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=TZIuU6e2HIiphAftvoDQBQ&amp;ved=0CCwQsAQ&amp;biw=1920&amp;bih=1038) in the bridge and, I think, a [PAF Pro](http://www.dimarzio.com/pickups/humbuckers/paf-pro) in the neck position.
 
 ### Ibanez 540PII-HH
 
