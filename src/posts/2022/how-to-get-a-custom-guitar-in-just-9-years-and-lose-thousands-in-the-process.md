@@ -28,13 +28,13 @@ Yes, **nine *years***.
 
 Here are the spec details:
 
-- Alder Jem-style rear-routed body with all-access neck joint (AANJ), with stunning black and white swirl by someone who shall not be named, for reasons we will come to shortly later
+- Alder Jem-style rear-routed body with all-access neck joint (AANJ), with stunning black and white swirl by someone who shall not be named, for reasons we will come to ~~shortly~~ later
 - Maple 5-piece neck (with wenge fillets), Jem neck profile – 19mm thick at 1st fret, 21mm at 12th fret, 43mm wide at the nut, 56mm at the heel – 430mm radius maple fretboard with black “tree of life” style inlay, reverse goddamn headstock, 24 stainless steel frets, rolled edges, scalloped at top 4 frets, created by [ET Guitars](https://www.etguitars.com/) (more on this later)
 - Genuine Ibanez hardware in cosmo black, including [Lo-Pro Edge trem](https://ibanez.fandom.com/wiki/Lo-Pro_Edge)
 - [Bareknuckle](https://www.bareknucklepickups.co.uk/) pickups – matched set of [Silo](https://www.bareknucklepickups.co.uk/pickup/humbucker/silo) ([Rabea Massaad](https://www.youtube.com/user/rabeaafro) signature) humbuckers and a [Slow Hand](https://www.bareknucklepickups.co.uk/pickup/strat/slow-hand-single-coil) single-coil in the middle
 - Pull-push tone pot for coil-splitting and alternative configs (more on this later also)
 
-And thirdly, grab a coffee/beer/whatever and strap in, sit down, and gird your loins, because this is probably going to be a long one.
+And thirdly, grab a coffee/beer/whatever and strap in, sit down, and gird your loins, because this is ~~probably~~ going to be a long one.
 
 — ☕️ —
 
@@ -83,7 +83,7 @@ Anyway, we reassembled it with its new (cosmetic!) customisation, and I still ha
 	</figcaption>
 </figure>
 
-At one point I had 6 or 7 very similar Ibanez guitars – all Jem or RG shape, all 6-string, all in standard tuning, all with locking trems. Eventually some rationalisation had to happen and I shed a few, and even branched out into owning [a Gibson](/guitars/#gibsonlespaulcustom2001). Absolute scenes! I played that Gibbo solidly for a few years, in [Claytown Troupe](https://www.youtube.com/watch?v=9nJ8LkOAuh0) and in [Little Monkeys](https://www.youtube.com/watch?v=JP1kdYJrasg), and it’s a great guitar. It’s just over there. **points**
+At one point I had 6 or 7 very similar Ibanez guitars – all Jem or RG shape, all 6-string, all in standard tuning, all with locking trems. Eventually some rationalisation had to happen and I shed a few, and even branched out into owning [a Gibson](/guitars/#gibsonlespaulcustom2001). Absolute scenes! I played that Gibbo solidly for a few years, in [Claytown Troupe](https://www.youtube.com/watch?v=9nJ8LkOAuh0) and in [Little Monkeys](https://www.youtube.com/watch?v=JP1kdYJrasg), and it’s a great guitar. It’s just over there. _(points)_
 
 The Ibanez lust never left, though, and in 2011-ish I bagged a [JEM90HAM](https://ibanez.fandom.com/wiki/JEM90HAM) to add to the roster, and maybe a year later I even tracked down [a replacement 540PII](/guitars/#ibanez540piish1989). You’d think I’d be done there, wouldn’t you? I did. I definitely thought “right, that’s enough now.”
 
@@ -132,7 +132,7 @@ Dispirited, depressed, stressed, and frankly exhausted, I gave up. That was that
 
 Or was it? Well, no.
 
-18 months later, in September 2016, I received an email from a name I didn’t recognise, but who it turned out had also commissioned a guitar from M, and been similarly ripped off. This person, this angel, this... avenger—Dave is his name—had taken to the forums and to eBay rather than giving up, and was keeping a keen eye out for *his* guitars in case they turned up. As far as I know, they never did… but *mine***did**, and Dave spotted it. Or at least, the body did. It was attached to a crappy neck and had crappy hardware and pickups attached, but it was 100% definitely my swirled body. Incredibly, Dave then *bought* the cut-and-shut guitar (having already informed eBay that it was basically a stolen item, to no avail), and then said he would let me have it purely at cost. Wow. Unfortunately, at this time, I was involved in a very complicated and incredibly stressful house purchase and just had zero time and even less money. It was another 14 months before I could amass the energy, motivation and money to revisit even the thought of this guitar, but it did eventually happen and it got shipped it to my friend in MD in February 2018.
+18 months later, in September 2016, I received an email from a name I didn’t recognise, but who it turned out had also commissioned a guitar from M, and been similarly ripped off. This person, this angel, this... avenger—Dave is his name—had taken to the forums and to eBay rather than giving up, and was keeping a keen eye out for *his* guitars in case they turned up. As far as I know, they never did… but *mine* **did**, and Dave spotted it. Or at least, the body did. It was attached to a crappy neck and had crappy hardware and pickups attached, but it was 100% definitely my swirled body. Incredibly, Dave then *bought* the cut-and-shut guitar (having already informed eBay that it was basically a stolen item, to no avail), and then said he would let me have it purely at cost. Wow. Unfortunately, at this time, I was involved in a very complicated and incredibly stressful house purchase and just had zero time and even less money. It was another 14 months before I could amass the energy, motivation and money to revisit even the thought of this guitar, but it did eventually happen and it got shipped it to my friend in MD in February 2018.
 
 Well. What a turn-up. Now, the body of the guitar (plus some cheapo hardware and pickups) was at my pal’s house. This meant there was light at the end of the (by now, 5-year long) tunnel, but I was still not enthused at the idea of figuring out what to do with a guitar body, nor at replacing the neck, hardware, pickups and trem, all of which were expensive. I agreed with my pal in MD that he would basically remove the neck and then some time in the future we would figure out how to get the body to me, and then I pretty much forgot about it again. My son was nearly 4, [my band](https://indigodown.com/) was on hiatus, I had hardly played in a year or two… there was just too much else going on to worry about it right then.
 
@@ -144,7 +144,7 @@ They stayed with us for a few days, and then on the morning they were about to l
 
 I looked at my buddy, who is a fantastic guitar tweaker, wirer, assembler… just about everything barring actually making the wood itself… and he looked at me. 45 seconds later we were in my car, tearing up the A41.
 
-We met my pal’s brother, we got the guitar body, we tore back down the A41, and my buddy from Europe got into his car with the body (and his family, he didn’t leave them behind) and returned home to Europe. I had it in my actual possession for a total of about an hour, for 50 minutes of which I was driving.
+We met my pal’s brother, we got the guitar body, we tore back down the A41, and my buddy from Europe got into his car with the body (and his family, he didn’t leave them behind) and returned home to Europe. I had it in my actual possession for a total of about 45 minutes, for 30 of which I was driving.
 
 So, we entered 2019 with the body in Europe, the rest of the previous parts long gone, never to be seen again, and so began the process of starting anew.
 
@@ -173,9 +173,9 @@ And here it is.
 </figure>
 
 Here’s a few minutes of me noodling around on it. Note, for this whole video, I am plugged into the wonderful [Archetype: Rabea](https://neuraldsp.com/news/introducing-archetype-rabea) plugin from [Neural DSP](https://neuraldsp.com/), and nothing else, and at no point do I change the settings on the plugin. I picked a high gain patch and left it alone. All the sound variance and control comes from the guitar.
-A few minutes of widdling to show how versatile this guitar is.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rtLfEhbZ8e0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption>A few minutes of widdling to show how versatile this guitar is.</figcaption>
 
 I’m looking at it right now. In a few minutes I’m going to play it. It is **the best guitar I own**, and that is saying **a lot**.
 

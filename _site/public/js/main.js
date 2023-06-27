@@ -159,6 +159,11 @@ const fitVids = () => {
 		const frameParent = frame.parentNode;
 		const frameWidth = frame.width;
 		const frameHeight = frame.height;
+		let vidCaption;
+
+		if (frame.nextElementSibling && frame.nextElementSibling.tagName.toLowerCase() === 'figcaption') {
+			vidCaption = frame.nextElementSibling;
+		}
 
 		const vidFigure = document.createElement('figure');
 		vidFigure.classList.add('kg-card');
@@ -169,6 +174,9 @@ const fitVids = () => {
 		vidFigure.append(vidDiv);
 		frameParent.insertBefore(vidFigure, frame);
 		vidDiv.append(frame);
+		if (vidCaption) {
+			vidFigure.append(vidCaption);
+		}
 		frame.setAttribute('name', `fitvid${currentVid}`);
 
 		currentVid++;

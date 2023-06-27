@@ -204,6 +204,10 @@
         var frameParent = frame.parentNode;
         var frameWidth = frame.width;
         var frameHeight = frame.height;
+        var vidCaption = void 0;
+        if (frame.nextElementSibling && frame.nextElementSibling.tagName.toLowerCase() === 'figcaption') {
+          vidCaption = frame.nextElementSibling;
+        }
         var vidFigure = document.createElement('figure');
         vidFigure.classList.add('kg-card');
         vidFigure.classList.add('kg-embed-card');
@@ -213,6 +217,9 @@
         vidFigure.append(vidDiv);
         frameParent.insertBefore(vidFigure, frame);
         vidDiv.append(frame);
+        if (vidCaption) {
+          vidFigure.append(vidCaption);
+        }
         frame.setAttribute('name', "fitvid".concat(currentVid));
         currentVid++;
       }
