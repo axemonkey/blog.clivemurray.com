@@ -4,7 +4,7 @@ slug: aoty
 date_published: 2018-05-11T09:19:11.000Z
 date: 2018-05-11T09:19:11.000Z
 date_updated: 2022-10-19T08:47:03.000Z
-main_image_filename: albums-2.JPG
+main_image_filename: albums-2.jpg
 ---
 
 When I started this blog on my little Raspberry Pi, I wanted something that would keep me coming back to write. I knew from experience that just blogging for the sake of it would soon peter out, and the whole thing would just wither and die.
