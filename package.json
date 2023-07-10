@@ -58,7 +58,7 @@
     "rollup": "^3.23.0",
     "sass": "^1.62.1",
     "sharp": "^0.32.1",
-    "stylelint": "^15.6.2",
+    "stylelint": "15.10.1",
     "stylelint-config-prettier": "9.0.4",
     "stylelint-config-standard-scss": "9.0.0",
     "stylelint-scss": "4.6.0",
