@@ -6,6 +6,7 @@ moment.locale('en-gb');
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addGlobalData('titlePrepend', 'insincere :: ');
 	eleventyConfig.addPassthroughCopy('src/public');
+	eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
 	eleventyConfig.setUseGitIgnore(false);
 	eleventyConfig.setServerOptions({
 		// liveReload: false,
