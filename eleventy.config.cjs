@@ -1,5 +1,6 @@
 const collections = require("./collections.cjs");
 const moment = require('moment');
+const pluginRss = require('@11ty/eleventy-plugin-rss');
 
 moment.locale('en-gb');
 
@@ -43,6 +44,8 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('dateHyphenated', date => {
 		return moment(date).utc().format('YYYY-MM-DD');
 	});
+
+	eleventyConfig.addPlugin(pluginRss);
 
 	return {
 		// markdownTemplateEngine: "hbs",
