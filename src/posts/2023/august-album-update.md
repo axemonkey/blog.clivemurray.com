@@ -12,7 +12,12 @@ I’m working on [an album](https://loveandpainkillers.com/). I might have [ment
 
 It’s still ongoing, and I’m quite some way through the mixing process now. Two of my guest contributors have sent in their parts and those have been mixed in, and I’m finalising the sounds for the synth parts before squaring up to the final phase of mixing, the main mix/automation for each track.
 
-![The mixing board, August 2023](/public/images/size/w2000/mixing-board-aug2023.jpg)
+<figure class="kg-card kg-image-card kg-card-hascaption">
+	<img class="kg-image" src="/public/images/size/w2000/mixing-board-aug2023.jpg" alt="The mixing board, August 2023, showing that the mixing of the lead guitars is complete and I am halfway through mixing the 'other' tracks." loading="lazy">
+	<figcaption>
+		Lead guitars mixed, and I’m halfway through the &ldquo;other&rdquo; tracks; synths, strings, sound effects, etc.
+	</figcaption>
+</figure>
 
 Once that’s done and I’m happy with what I have, the tracks will be sent off for mastering by [His Holiness John Mitchell](https://outhousestudios.co.uk/), and then barring the artwork and liner notes, it will be in the bag.
 
