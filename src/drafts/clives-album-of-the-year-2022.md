@@ -90,4 +90,4 @@ Lorem?
 
 ### [Star One](https://www.arjenlucassen.com/content/arjens-projects/star-one/) - [Revel In Time](https://www.amazon.co.uk/Revel-Time-Standard-CD-Jewelcase/dp/B0BYR7SMGG/)
 
-![Star One – Revel In Time](/public/images/2024/02/revel-600x600bb.jpg) Look, I know this is hallowed ground, and I’m playing with fire just by mentioning the sainted *Iron Maiden*… but the fact is that this just bored me to tears. I don’t think I even managed to bear the whole 82m running time before binning it. Or maybe I did… or maybe I fell asleep. Don’t know. What I will say is that’s nearly enough time to listen to **Piece of Mind** and **Powerslave** back to back, so maybe do that instead?
+![Star One – Revel In Time](/public/images/2024/02/revel-600x600bb.jpg) Lorem.
