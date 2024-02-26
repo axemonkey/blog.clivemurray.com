@@ -67,7 +67,7 @@ So. Onward.
 
 ### [Skid Row](https://skidrow.com/) - [The Gang’s All Here](https://www.amazon.co.uk/Gangs-All-Here-Skid-Row/dp/B09VZH5B2R/)
 
-![Skid Row – The Gang’s All Here](/public/images/2024/02/gang-600x600bb.jpg) Lorem. **Top track:** “[Resurrected](https://www.youtube.com/watch?v=nbecB3A0fnc&list=RDnbecB3A0fnc&start_radio=1)”
+![Skid Row – The Gang’s All Here](/public/images/2024/02/gang-600x600bb.jpg) If you’re anything like me—and I know *I* am—then you were well into *Skid Row* back in their heyday of the late 80s/early 90s. In fact the first proper gig I went to was the Skids at London Docklands, supported by both *Love/Hate* and *L.A. Guns*, as they launched their magnificent octopus **Slave to the Grind**. Well, that was in 1991 and they’ve been through a hefty batch of singers since then, including ZP Theart off of *DragonForce* for a bit, and are now fronted by the excellent Erik Grönwall. Erik made his name by [winning Swedish Idol 2009, singing *Skid Row* tunes among others](https://loudwire.com/new-skid-row-singer-erik-gronwall-competed-swedish-idol-18-and-life/), and now he’s their lead singer. Awesome. **Top track:** “[Resurrected](https://www.youtube.com/watch?v=nbecB3A0fnc&list=RDnbecB3A0fnc&start_radio=1)”
 
 ### [Taylor Swift](https://www.taylorswift.com/) - [Midnights](https://www.amazon.co.uk/Midnights-Taylor-Swift/dp/B0BFFB1G2R)
 
