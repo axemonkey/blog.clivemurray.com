@@ -9,9 +9,11 @@ excerpt: LOREM IPSUM SOMETHING
 ghost_header_image: aoty2022.jpg
 ---
 
-Lorem intro
+2022 was a while back now, I realise, but I’ve had other things on my mind in 2023 than ranking my favourite albums of the previous year. 2023 has, in fact, sucked. Maybe one day I’ll talk about that. But not now.
 
-Lorem events
+In 2022 I finally got to go to two arena gigs that were postponed from 2020, *Lady Gaga* and *My Chemical Romance*. They were both amazing shows, and I went to both on my own, as the people who were to come with me couldn’t make the new dates. The Gaga show was an incredible spectacle that I won’t forget, but the MCR show was an absolutely awesome gig and probably the highlight of my year. I just hope they put out an album. 🙏
+
+The [world population reached the 8 billion mark](https://en.wikipedia.org/wiki/Day_of_Eight_Billion) in 2022. Eight billion. [Russia invaded Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine) beginning a war which is still ongoing at time of writing and which has been [condemned internationally](https://en.wikipedia.org/wiki/Reactions_to_the_Russian_invasion_of_Ukraine), particularly in the west. [Q-Tip](https://en.wikipedia.org/wiki/Elizabeth_II) celebrated her [Platty Joobs](https://en.wikipedia.org/wiki/Platinum_Jubilee_of_Elizabeth_II), which was only the second most significant event in her calendar that year, as she then went on to [die in September](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II). A mixed bag there. [Space Karen](https://en.wikipedia.org/wiki/Elon_Musk) bought Twitter for $44bn, [BogJob](https://en.wikipedia.org/wiki/Boris_Johnson) resigned, [someone had another go at killing Salman Rushdie](https://en.wikipedia.org/wiki/Stabbing_of_Salman_Rushdie), [floods devastated Pakistan](https://en.wikipedia.org/wiki/2022_Pakistan_floods), [Liz Truss](https://en.wikipedia.org/wiki/Liz_Truss) became Prime Minister of the UK, [Rishi Sunak](https://en.wikipedia.org/wiki/Rishi_Sunak) became Prime Minister of the UK, and [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) was birthed.
 
 Lorem deaths
 
@@ -107,8 +109,6 @@ For some reason that eludes me, YouTube won’t let me embed [the video for the 
 
 ## Turkey of the Year
 
-Lorem?
-
 ### [Star One](https://www.arjenlucassen.com/content/arjens-projects/star-one/) - [Revel In Time](https://www.amazon.co.uk/Revel-Time-Standard-CD-Jewelcase/dp/B0BYR7SMGG/)
 
-![Star One – Revel In Time](/public/images/2024/02/revel-600x600bb.jpg) Lorem.
+![Star One – Revel In Time](/public/images/2024/02/revel-600x600bb.jpg) Good god, no.
