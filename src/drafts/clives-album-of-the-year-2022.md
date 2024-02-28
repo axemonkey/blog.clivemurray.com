@@ -77,11 +77,33 @@ So. Onward.
 ### [Reckless Love](https://en.wikipedia.org/wiki/Reckless_Love) - [Turborider](https://www.amazon.co.uk/dp/B09M57Y8CB/)
 ![Reckless Love - Turborider](/public/images/2024/02/turbo-600x600bb.jpg)
 
-[Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) has a lot to answer for.
+[Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) has a lot to answer for. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jdWhJcrrjQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Is that fair? Perhaps not. 80s revivals come around every now and then, and there’s nothing new under the sun, so it’s only natural that once in a while there will be a sudden resurgence of pink and blue neon album covers and a rush to download synthwave plugins and LinnDrum sample packs.
 
-**Top tracks:** “Animals”, “[Black Lungs](https://www.youtube.com/watch?v=W69ow97hqbI)”, “Discourse Is Dead”
+Back in [2019](/clives-album-of-the-year-2019/), album of the year went to the mighty [*McRocklin & Hutch*](https://mcrocklinhutch.bandcamp.com/) with their genius shredwave album [**Riding Out**](https://mcrocklinhutch.bandcamp.com/album/riding-out), which remains the high water mark for 80s-movie-and-video-game-styled-synth-and-shred-guitar albums. Honestly, it’s brilliant, and still sounds just as fresh five years later.
+
+Anyway, they weren’t the only ones catching the retro wave. [Gus G had a go](https://www.youtube.com/watch?v=96Dp00ut24Y), [so did Muse](https://en.wikipedia.org/wiki/Simulation_Theory_(album)), and I’m sure there have been a whole load more that I haven’t noticed, and I do feel that a fair amount of this is thanks to the specific brand of 80s nostalgia that Stranger Things conjures.
+
+Enter stage left, *Reckless Love*.
+
+I became aware of these Finnish glamsters some time in the early 2010s during one of my (many) “glam metal is the only true music” phases. I think I’d just discovered *Crashdïet*, *Gemini Five*, *Babylon Bombs* and a bunch of other Scandi-rock outfits, and *RL* fit right in with them all. And then, like a lot of these bands, I discovered that once I sobered up and gave them a proper listen, there wasn’t much to them. A few decent riffs, a (not always) decent-ish singer, a lot of hairspray, and not a great deal else. Oh well. I moved on and didn’t listen to them again for some time.
+
+Until 2022, in fact, when I was made aware of **TurboRider**. Have a little look at that album cover again, won’t you? What does that say to you? What does that subtly hint at, in such a deft way that you almost didn’t spot it at first, but once you do, it’s there for sure, and it’s really clever?
+
+Nothing. But what it screeches at you is “GET YOUR 80S ROCK HERE, BIG BOY!”
+
+But this is where it does actually get clever. This is not just a modern glam metal album with some synth chucked at it. By which I mean, it definitely *is* that, but there is a lot more to it, thanks to producer Joonas Parkkonen (who was one of the guitarists in [*Santa Cruz*](https://en.wikipedia.org/wiki/Santa_Cruz_(band)) and has produced albums for many other Scandi rock and metal bands such as [*Lost Society*](https://en.wikipedia.org/wiki/Lost_Society) and [*Apocalyptica*](https://en.wikipedia.org/wiki/Apocalyptica)).
+
+For one thing, **TurboRider** is extremely hard-rock-literate. In almost every song there are references and nods to 80s classics. In the lyrics, the production, the riffs, even the guitar sounds. For example, “Kids of the Arcade” features the line “we ain’t the worst that you’ve seen” which is lifted directly from “Jump” by *Van Halen* (1984). The one that kept leaping out at me in the car (my son loves this album and it’s often the soundtrack to the school-run) is the guitar lick at 0:52 in “Outrun”. That comes straight out of *David Lee Roth*’s “Just Like Paradise” (1988). It’s even the same guitar tone. The pre-solo lick from “Beat It” (1983) is buried in “Like a Cobra”… there are plenty more for those with but the ears to find them.
+
+There is even a (well executed but *maaaaaybe* superfluous) cover of *Ozzy Osbourne*’s “Bark at the Moon” (1983), in case you weren’t getting the point.
+
+So, one thing should be pretty clear by now – if you don’t dig 80s glam/hard rock, then this album probably won’t ring your fire or light your bell. But if that does sound like something you might enjoy, then you won’t find a better-executed example of retro-focussed glamrockwave out there. The lyrics are exactly what you would expect (in fact, while they aren’t perfect, they’re perhaps less misogynistic than the songs and/or albums to which homage is paid, this is 2022 after all), the musicianship is solid, the vocals and the solos all do exactly what you hope they would, and the production is absolutely spot on. All of this executed with one foot in 1985 and the other in 2022, with a knowing nod and a wink to the classics without ever slavishly copying them, and somehow it all just works.
+
+For some reason that eludes me, YouTube won’t let me embed [the video for the title track “TurboRider” here](https://www.youtube.com/watch?v=Mqv9rfMQuL8). 🤷‍♀️
+
+**Top tracks:** “Eyes of a Maniac”, “Kids of the Arcade”, “[Outrun](https://www.youtube.com/watch?v=L4mQ1IVGTCY)”
 
 ## Turkey of the Year
 
