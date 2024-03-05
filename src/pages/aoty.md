@@ -17,6 +17,21 @@ Enjoy.
 
 ---
 
+- [2022](/clives-album-of-the-year-2022)
+	- Winner
+		- Reckless Love – TurboRider
+	- Honourable mentions
+		- Amorphis – Halo
+		- Architects – The Classic Symptoms of a Broken Spirit
+		- Coheed and Cambria – Vaxis II: A Window of the Waking Mind
+		- Crashdïet – Automaton
+		- Polyphia – Remember That You Will Die
+		- Michael Romeo – War of the Worlds pt. 2
+		- Joe Satriani – The Elephants of Mars
+		- Skid Row – The Gang’s All Here
+		- Taylor Swift – Midnights
+	- Turkey of the year
+		- Star One – Revel in Time
 - [2021](/clives-album-of-the-year-2021)
 	- Winner
 		- Architects – For Those That Wish to Exist
@@ -69,7 +84,7 @@ Enjoy.
 - [2018 (tie)](/clives-album-of-the-year-2018)
 	- Winners
 		- Greta Van Fleet – Anthem of the Peaceful Army
-		- Michael Romeo – War of the Worlds Pt.1
+		- Michael Romeo – War of the Worlds pt. 1
 		- Mika Tyyskä – Night Overdrive
 	- Honourable mentions
 		- Alice in Chains – Rainier Fog
