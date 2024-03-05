@@ -98,6 +98,7 @@
 	  straps.push('Web stuff since 1997');
 	  straps.push('Disinformation superlayby');
 	  straps.push('At the forefront of the retreat');
+	  straps.push('Humour may have settled during transit');
 	  straps.push('More harmonies');
 	  straps.push('Do you have any grey poupon?');
 	  straps.push('He’s beginning to believe');
