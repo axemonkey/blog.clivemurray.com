@@ -1,15 +1,15 @@
 ---
 title: Clive’s Album of the Year, 2022
 slug: clives-album-of-the-year-2022
-date_published: 2024-03-05T18:00:00.000Z
-date: 2024-03-05T18:00:00.000Z
-date_updated: 2024-03-05T18:00:00.000Z
+date_published: 2024-03-05T17:00:00.000Z
+date: 2024-03-05T17:00:00.000Z
+date_updated: 2024-03-05T17:00:00.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2023 did, in fact, suck. Maybe one day I’ll talk about that. But not now.
 ghost_header_image: aoty2022.jpg
 ---
 
-2022 was a while back now, I realise, but I’ve had other things on my mind in 2023 than ranking my favourite albums of the previous year. 2023 did, in fact, suck. Maybe one day I’ll talk about that. But not now.
+2022 was a while back now, I realise, but I’ve had other things on my mind in 2023 besides ranking my favourite albums of the previous year. 2023 did, in fact, suck. Maybe one day I’ll talk about that. But not now.
 
 In 2022 I finally got to go to two arena gigs that were postponed from 2020, *Lady Gaga* and *My Chemical Romance*. They were both amazing shows, and I went to both on my own, as the people who were to come with me couldn’t make the new dates. The Gaga show was an incredible spectacle that I won’t forget, but the MCR show was an absolutely awesome gig and probably the highlight of my year. I just hope they put out an album. 🙏
 
@@ -25,13 +25,13 @@ Those patting down their pockets to find their ethereal keys and then heading ou
 - [*King’s X*](http://kingsxrocks.com/) – [**Three Sides of One**](https://www.amazon.co.uk/Three-Sides-One-Ltd-Digipak/dp/B0B4K28L88/). (Rock.) Dug Pinnick is 73. He still sounds amazing.
 - [*MASTER BOOT RECORD*](https://masterbootrecord.bandcamp.com/) - [**PERSONAL COMPUTER**](https://masterbootrecord.bandcamp.com/album/personal-computer). (Electronic metal). Entirely electronic, but more like heavy metal than a lot of heavy metal. Allegedly “the artist claims that a computer itself has made all of the music as if it is sentient”. So, there’s that. Reminds me of the original soundtrack to [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game)).
 - [*Megadeth*](https://megadeth.com/) – [**The Sick, the Dying… and the Dead!**](https://www.amazon.co.uk/Sick-Dying-Dead-Megadeth/dp/B0B1QXJ93D/). (Metal/thrash.) Yes, Dave Mustaine is still sneering down the mic at us all and he still doesn’t like the government. Kiko’s solos are worth the price of admission alone.
-* [*Mr. Fastfinger*](http://mrfastfinger.net/) - [**Flight Mode**](https://www.amazon.co.uk/dp/B0BK2X7W6K). (Instrumental.) The sprightly Finn returns with ten more tracks of his wonderful compositions. Always fun.
+- [*Mr. Fastfinger*](http://mrfastfinger.net/) - [**Flight Mode**](https://www.amazon.co.uk/dp/B0BK2X7W6K). (Instrumental.) The sprightly Finn returns with ten more tracks of his wonderful compositions. Always fun.
 - [*Placebo*](http://placeboworld.co.uk/) – [**Never Let Me Go**](https://www.amazon.co.uk/NEVER-AMAZON-EXCLUSIVE-LENTICULAR-DELUXE/dp/B09L3ZVX8D/). (Alt-rock.) I’d never really gotten into *Placebo* but when I saw them supporting *My Chemical Romance* live in 2022 they were great. This is a good record. Moody.
 - [*Porcupine Tree*](https://porcupinetree.com/) – [**Closure/Continuation**](https://www.amazon.co.uk/Closure-Continuation-Porcupine-Tree/dp/B09KP4H13H/). (Prog rock.) Brit-prog god Steven Wilson returns to his band format for their 11th long-player. Good stuff.
 - [*Queensrÿche*](http://queensrycheofficial.com/) – [**Digital Noise Alliance**](https://www.amazon.co.uk/Digital-Noise-Alliance-Queensryche/dp/B0B2423WX3/). (Hard rock.) I still can’t get over how much Todd sounds like Geoff, if I’m honest.
 - [*Shinedown*](http://shinedown.com/) – [**Planet Zero**](https://www.amazon.co.uk/Planet-Zero-Shinedown/dp/B09R6LW4D9/). (Rock.) I mean, if you like that sort of thing then it’s fine. Concepty too, if that helps?
 - [*Devin Townsend*](https://hevydevy.com/) – [**Lightwork**](https://www.amazon.co.uk/Lightwork-Devin-Townsend/dp/B0BBGQY3XZ/). (Prog metal, maybe?) Not quite as mad as **Empath**, but up that end of the wackometer. Some utterly beautiful moments on this one. Recommend.
-- [*Steve Vai*](https://vai.com/) – [**Inviolate**](https://www.amazon.co.uk/Inviolate-Steve-Vai/dp/B09M545FMY/). (Instrumental rock.) Not sure how many more Vai albums I’m going to go for. Where *Joe Satriani* seems to have found a lot more mojo lately, Steve seems to be wandering more esoteric paths.
+- [*Steve Vai*](https://vai.com/) – [**Inviolate**](https://www.amazon.co.uk/Inviolate-Steve-Vai/dp/B09M545FMY/). (Instrumental rock.) Not sure how many more Vai albums I’m going to go for. Where *Joe Satriani* seems to have found a lot more mojo lately, Steve seems to be wandering more esoteric paths. Noodly.
 - [*Ed Wynne & Gre Vanderloo*](http://www.ozrics.com/) – [**Tumbling Through the Floativerse**](https://www.amazon.co.uk/Tumbling-Through-Floativerse-Wynne-Tentacles/dp/B0B1621YMB/). (Psychedelic instrumental rock.) Remember when Ed released a solo album that was basically just like *Ozric Tentacles*? Quite like that. As in, exactly like that.
 
 So. Onward.
@@ -79,7 +79,7 @@ So. Onward.
 ### [Reckless Love](https://en.wikipedia.org/wiki/Reckless_Love) - [Turborider](https://www.amazon.co.uk/dp/B09M57Y8CB/)
 ![Reckless Love - Turborider](/public/images/2024/02/turbo-600x600bb.jpg)
 
-[Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) has a lot to answer for. 
+[Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) has a lot to answer for.
 
 Is that fair? Perhaps not. 80s revivals come around every now and then, and there’s nothing new under the sun, so it’s only natural that once in a while there will be a sudden resurgence of pink and blue neon album covers and a rush to download synthwave plugins and LinnDrum sample packs.
 
