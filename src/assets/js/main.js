@@ -1,3 +1,5 @@
+import {lapBanner} from './modules/lap-banner.js';
+
 const checkPulse = () => {
 	console.log('it loads...');
 };
@@ -98,6 +100,8 @@ window.addEventListener('load', function() {
 			activeClass: 'nav-post-title-active'
 		});
 	}
+
+	lapBanner.init();
 });
 
 
