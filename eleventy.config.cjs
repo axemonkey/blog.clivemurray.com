@@ -1,4 +1,4 @@
-const collections = require("./collections.cjs");
+const collections = require('./collections.cjs');
 const moment = require('moment');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 
@@ -48,7 +48,6 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginRss);
 
 	return {
-		// markdownTemplateEngine: "hbs",
 		dir: {
 			includes: "_includes",
 			layouts: "_layouts",
