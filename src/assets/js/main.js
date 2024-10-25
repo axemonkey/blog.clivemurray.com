@@ -134,6 +134,7 @@ const getStrapline = () => {
 	straps.push('Never put jam on a magnet');
 	straps.push('Thou shalt not question Stephen Fry');
 	straps.push('Cough drop and roll');
+	straps.push('R Tape loading error, 0:1');
 
 	if (month === 5) { // it's june
 		straps.push('HAPPY PRIDE');

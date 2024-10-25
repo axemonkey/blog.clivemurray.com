@@ -1,5 +1,4 @@
 $headingFont: "Atkinson-Hyperlegible";
-// $bodyCopyFont: "Spectral";
 $bodyCopyFont: $headingFont;
 
 @import "fonts";
@@ -31,7 +30,6 @@ summary span.archive-year {
 
 details[open] summary span.archive-year {
 	text-decoration: none;
-	// font-weight: bold;
 	font-style: italic;
 }
 
