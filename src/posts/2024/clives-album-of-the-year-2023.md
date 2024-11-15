@@ -38,58 +38,58 @@ So. Onward.
 
 ### [Black Stone Cherry](https://www.blackstonecherry.com/) - [Screamin’ at the Sky](https://www.amazon.co.uk/Screamin-Sky-Black-Stone-Cherry/dp/B0C4RR66GL)
 
-![Black Stone Cherry – Screamin’ at the Sky](/public/images/2024/02/halo-600x600bb.jpg) Lorem. **Top track:** “[On the Dark Waters](https://www.youtube.com/watch?v=T8aH5HVx_0c)”
+![Black Stone Cherry – Screamin’ at the Sky](/public/images/2024/11/bsc-screamin.jpg) Lorem. **Top track:** “[Screamin’ at the Sky](https://www.youtube.com/watch?v=BPmgZhksgjo)”
 
 ### [Buckcherry](http://buckcherry.com/) - [Vol. 10](https://www.amazon.co.uk/Vol-10-Buckcherry/dp/B0BW3458BQ)
 
-![Buckcherry – Vol. 10](/public/images/2024/02/architects-symptoms-600x600bb.jpg) Lorem. **Top track:** “[When We Were Young](https://www.youtube.com/watch?v=1yOaxGQ-CYI)”
+![Buckcherry – Vol. 10](/public/images/2024/11/bc-vol10.jpg) Lorem. **Top track:** “Keep On Fighting”
 
 ### [Peter Gabriel](https://petergabriel.com/) - [i/o](https://www.amazon.co.uk/i-Peter-Gabriel/dp/B0CJ9TZLYM)
 
-![Peter Gabriel – i/o](/public/images/2024/02/vaxis2-600x600bb.jpg) Lorem. **Top track:** “[A Disappearing Act](https://www.youtube.com/watch?v=qmMI6fEpxns)”
+![Peter Gabriel – i/o](/public/images/2024/11/pg-io.jpg) Lorem. **Top track:** “[Panopticom](https://www.youtube.com/watch?v=VMJGV7GWC5I)”
 
 ### [McRocklin & Hutch](https://mcrocklinhutch.bandcamp.com/) - [Press Start](https://mcrocklinhutch.bandcamp.com/album/press-start)
 
-![McRocklin & Hutch – Press Start](/public/images/2024/02/automaton-600x600bb.jpg) Lorem. **Top track:** “[No Man’s Land](https://www.youtube.com/watch?v=eidua-3li_Q&list=OLAK5uy_lBevSvIqc_bPg9ZdU-U90SFArBTmQIxws&index=4)”
+![McRocklin & Hutch – Press Start](/public/images/2024/11/mch-pressstart.jpg) Lorem. **Top track:** “Distorted Dreams”
 
 ### [Metallica](https://metallica.com/) - [72 Seasons](https://www.amazon.co.uk/72-Seasons-Metallica/dp/B0BNJNS3FH)
 
-![Metallica – 72 Seasons](/public/images/2024/02/rtywd-600x600bb.jpg) Lorem. **Top track:** “[Ego Death](https://www.youtube.com/watch?v=1JNmz17gnMw&list=PLN0q19AZLbSf-2Q4-2jKzmhs6whjnITud&index=13)”
+![Metallica – 72 Seasons](/public/images/2024/11/m-72s.jpg) Lorem. **Top track:** “[72 Seasons](https://www.youtube.com/watch?v=1OeC9CGtWcM)”
 
 ### [Nuclear Power Trio](https://www.metalblade.com/us/artists/nuclear-power-trio/) - [Wet Ass Plutonium](https://nuclearpowertrio.bandcamp.com/album/wet-ass-plutonium)
 
-![Nuclear Power Trio – Wet Ass Plutonium](/public/images/2024/02/wotw2-600x600bb.jpg) Lorem. **Top track:** “[Metamorphosis](https://www.youtube.com/watch?v=V0vu7Ah6pfo)”
+![Nuclear Power Trio – Wet Ass Plutonium](/public/images/2024/11/np3-wap.jpg) Lorem. **Top track:** “[Nyetflix and Chill](https://www.youtube.com/watch?v=8MVWtHRrMjM)”
 
 ### [Paramore](https://paramoreisaband.com/) - [This Is Why](https://www.amazon.co.uk/This-Why-Paramore/dp/B0BGMSM2YK)
 
-![Paramore – This Is Why](/public/images/2024/02/heffalumps-600x600bb.jpg) Lorem. **Top track:** “[Sailing the Seas of Ganymede](https://www.youtube.com/watch?v=EZ5qpu-O4ws&list=PLY90ZuSuNbRgkUWST4v7vw6wC2C88gnaS&index=26)”
+![Paramore – This Is Why](/public/images/2024/11/p-tiw.jpg) Lorem. **Top track:** “[Running Out of Time](https://www.youtube.com/watch?v=toKJP3luQbI)”
 
 ### [The Totemist](https://rabeamassaad.bandcamp.com/) - [Less We Know](https://rabeamassaad.bandcamp.com/album/less-we-know)
 
-![The Totemist – Less We Know](/public/images/2024/02/gang-600x600bb.jpg) Lorem. **Top track:** “[Resurrected](https://www.youtube.com/watch?v=nbecB3A0fnc&list=RDnbecB3A0fnc&start_radio=1)”
+![The Totemist – Less We Know](/public/images/2024/11/tt-lwk.jpg) Lorem. **Top track:** “[Dos Huevos](https://www.youtube.com/watch?v=AcKSBkYXKOE)”
 
 ### [Voyager](http://voyagerau.com/) - [Fearless in Love](https://www.amazon.co.uk/Fearless-Love-Ltd-Digipak-Voyager/dp/B0C43R93BV)
 
-![Voyager – Fearless in Love](/public/images/2024/02/taytay-600x600bb.jpg) Lorem. **Top track:** “[Lavender Haze](https://www.youtube.com/watch?v=h8DLofLM7No)”
+![Voyager – Fearless in Love](/public/images/2024/11/v-fil.jpg) Lorem. **Top track:** “[Submarine](https://www.youtube.com/watch?v=BWrcdYp7W-0)”
 
 ### [Steven Wilson](https://stevenwilsonhq.com/) - [The Harmony Codex](https://www.amazon.co.uk/Harmony-Codex-Steven-Wilson/dp/B0CCC8VMHK)
 
-![Steven Wilson – The Harmony Codex](/public/images/2024/02/taytay-600x600bb.jpg) Lorem. **Top track:** “[Lavender Haze](https://www.youtube.com/watch?v=h8DLofLM7No)”
+![Steven Wilson – The Harmony Codex](/public/images/2024/11/sw-thc.jpg) Lorem. **Top track:** “[Rock Bottom](https://www.youtube.com/watch?v=eRaspkaqR8o)”
 
 ### [You Me At Six](http://youmeatsix.co.uk/) - [Truth Decay](https://www.amazon.co.uk/TRUTH-DECAY-YOU-ME-SIX/dp/B0BJLPPKTR)
 
-![You Me At Six – Truth Decay](/public/images/2024/02/taytay-600x600bb.jpg) Lorem. **Top track:** “[Lavender Haze](https://www.youtube.com/watch?v=h8DLofLM7No)”
+![You Me At Six – Truth Decay](/public/images/2024/11/ymas-td.jpg) Lorem. **Top track:** “[No Future? Yeah Right](https://www.youtube.com/watch?v=yteelFOrFLk)”
 
 ## And the winner is…
 
 ### [Sleep Token](http://sleep-token.com/) - [Take Me Back to Eden](https://www.amazon.co.uk/Take-Back-Eden-Sleep-Token/dp/B0BVTFSWSW)
-![Sleep Token - Take Me Back to Eden](/public/images/2024/02/turbo-600x600bb.jpg)
+![Sleep Token - Take Me Back to Eden](/public/images/2024/11/st-tmbte.jpg)
 
 Lorem.
 
-Video.
+Granite Video.
 
-**Top tracks:** “Eyes of a Maniac”, “Kids of the Arcade”, “[Outrun](https://www.youtube.com/watch?v=L4mQ1IVGTCY)”
+**Top tracks:** “Ascensionism”, “[Chokehold](https://www.youtube.com/watch?v=-UUSUrr6zyo)”, “[The Summoning](https://www.youtube.com/watch?v=wJNbtYdr-Hg)”
 
 ## Turkey of the Year
 
@@ -97,7 +97,7 @@ Short preamble about the Extreme album.
 
 ### [The Banishment](https://www.velvetthunder.co.uk/the-banishment-machine-and-bone-debut-album-of-industrial-rock-and-dream-punk-by-trio-that-includes-guitarist-george-lynch-out-10-march-2023-via-frontiers/) - [The Banishment](https://music.apple.com/us/album/machine-and-bone/1658382639)
 
-![The Banishment – The Banishment](/public/images/2024/02/revel-600x600bb.jpg) Lorem.
+![The Banishment – The Banishment](/public/images/2024/11/tb-mab.jpg) Lorem.
 
 
 
