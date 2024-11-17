@@ -23,7 +23,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
 	eleventyConfig.setUseGitIgnore(false);
 	eleventyConfig.setServerOptions({
-		// liveReload: false,
+		liveReload: true,
 		watch: [
 			'src/public/**/*',
 		],
