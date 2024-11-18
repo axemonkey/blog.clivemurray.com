@@ -30,7 +30,7 @@ Honestly. What a load of old shit that year was. I only made it through thanks t
 - [*Plini*](https://plini.co/) - [**Mirage**](https://plini.bandcamp.com/album/mirage). (Instrumental.) Ol’ Plinners is beginning to go a little more fusiony than I usually like, but I’m still sticking with it. Musicianship *sans pareil*.
 - [*Queens of the Stone Age*](https://qotsa.com/) – [**In Times New Roman…**](https://www.amazon.co.uk/Times-New-Roman-Queens-Stone/dp/B0C3WS78NX). (Rock.) I can’t quite tell if I like this or not.
 - [*Nita Strauss*](https://nitastrauss.com/) – [**Call of the Void**](https://www.amazon.co.uk/dp/B0BZK6WXTD). (Metal.) Nita absolutely shreds, no doubt, but apparently (like Slash and myself) she does not do the singing, so she has recruited some guest warblers here (Alice Cooper, David Draiman and Lzzy Hale among them), plus a smattering of instrumental metal tracks. Inconsistent, but good overall.
-- [*Jakub Zytecki*](https://jakubzytecki.bandcamp.com/) – [**Remind Me**](https://jakubzytecki.bandcamp.com/album/remind-me). (Ambient shred.) Lo-fi ambient heavy shred-gaze. I’m coining that here and now. It’s good, also.
+- [*Jakub Zytecki*](https://jakubzytecki.bandcamp.com/) – [**Remind Me**](https://jakubzytecki.bandcamp.com/album/remind-me). (Ambient shred.) Lo-fi ambient heavy dream-shred-gaze. I’m coining that here and now. It’s good, also.
 
 OK, ready? Please keep your arms and legs inside the vehicle at all times.
 
