@@ -42,23 +42,23 @@ OK, ready? Please keep your arms and legs inside the vehicle at all times.
 
 ### [Buckcherry](http://buckcherry.com/) - [Vol. 10](https://www.amazon.co.uk/Vol-10-Buckcherry/dp/B0BW3458BQ)
 
-![Buckcherry – Vol. 10](/public/images/2024/11/bc-vol10.jpg) Lorem. **Top track:** “Keep On Fighting”
+![Buckcherry – Vol. 10](/public/images/2024/11/bc-vol10.jpg) It’s Josh and the gang’s tenth outing, and you should know what you’re going to get by now. Josh’s voice and Stevie D’s riffage are on point for 37 tight minutes of hard rocking that never leaves you in any doubt. Even the cover of “Summer of ’69” works surprisingly well. Cracking. **Top track:** “Keep On Fighting”
 
 ### [Peter Gabriel](https://petergabriel.com/) - [i/o](https://www.amazon.co.uk/i-Peter-Gabriel/dp/B0CJ9TZLYM)
 
-![Peter Gabriel – i/o](/public/images/2024/11/pg-io.jpg) Lorem. **Top track:** “[Panopticom](https://www.youtube.com/watch?v=VMJGV7GWC5I)”
+![Peter Gabriel – i/o](/public/images/2024/11/pg-io.jpg) Here’s a chewy one… this is Gabs’s first album of new material since 2002’s excellent **Up**, and yes he has been working on it all that time[^twentyyears]. Gabriel is something of a perfectionist and has been tweaking and meddling with these songs for two decades… for so long in fact that even now, when the album is released, he still couldn’t decide on how the overall mix should sound. For this reason, you get the whole album twice – the same twelve songs in the same order, first in their “Bright-Side Mix” configuration, followed by the “Dark-Side Mix”. Fair enough. It does feel a bit like “Oh… I don’t know… YOU decide! Here, have both versions!” but… you know, this is *Peter Gabriel*. I can forgive him that. For what it’s worth, I prefer the “Dark-Side” overall. It feels a bit more like a cohesive album production than the “Bright-Side” versions. YMMV, of course. What’s in no doubt is septuagenarian Gabriel’s vocal ability. He sounds as good as he ever has (which is very good indeed). **Top track:** “[Four Kinds of Horses](https://www.youtube.com/watch?v=dQgct-j6snc)”
 
 ### [McRocklin & Hutch](https://mcrocklinhutch.bandcamp.com/) - [Press Start](https://mcrocklinhutch.bandcamp.com/album/press-start)
 
-![McRocklin & Hutch – Press Start](/public/images/2024/11/mch-pressstart.jpg) Lorem. **Top track:** “Distorted Dreams”
+![McRocklin & Hutch – Press Start](/public/images/2024/11/mch-pressstart.jpg) Thomas McRocklin and Tim Hutchinson absolutely blew me away in [2019](/clives-album-of-the-year-2019/) with their gangbuster shredwave debut **Riding Out** – an absolutely holy marriage of 80s vaporwave retro electronica and blistering lead guitar, and an unabashed homage to 80s rock and cult movies. Does the gag work a second time? Yes, it sure does. Most of the tracks on this second album were released as singles in the wake of **Riding Out**, so if you’re a fan like me, you may already have most of them, but if not then you’re in for another treat. **Top track:** “Distorted Dreams”
 
 ### [Metallica](https://metallica.com/) - [72 Seasons](https://www.amazon.co.uk/72-Seasons-Metallica/dp/B0BNJNS3FH)
 
-![Metallica – 72 Seasons](/public/images/2024/11/m-72s.jpg) Lorem. **Top track:** “[72 Seasons](https://www.youtube.com/watch?v=1OeC9CGtWcM)”
+![Metallica – 72 Seasons](/public/images/2024/11/m-72s.jpg) Cards on the table, I’m not fussed about a lot of *Metallica*’s catalogue. I dig **The Black Album**, I like some tracks off the old stuff, and **St. Anger** was utter tripe. Didn’t much care for **Death Magnetic** either, and I pretty much stopped caring around then. My mate, see, he’s a *’tallica* old-skooler, right. He reckons that **Master of Puppets** is the high-water-mark for Bay Area thrash, and who am I to say he’s wrong? That’s his opinion and he’s welcome to it. Turns out we both like this one, though. Thrashy! **Top track:** “[72 Seasons](https://www.youtube.com/watch?v=1OeC9CGtWcM)”
 
 ### [Nuclear Power Trio](https://www.metalblade.com/us/artists/nuclear-power-trio/) - [Wet Ass Plutonium](https://nuclearpowertrio.bandcamp.com/album/wet-ass-plutonium)
 
-![Nuclear Power Trio – Wet Ass Plutonium](/public/images/2024/11/np3-wap.jpg) Lorem. **Top track:** “[Nyetflix and Chill](https://www.youtube.com/watch?v=8MVWtHRrMjM)”
+![Nuclear Power Trio – Wet Ass Plutonium](/public/images/2024/11/np3-wap.jpg) It was back in 2020 when this absolutely barking trio dropped their EP **A Clear and Present Rager** and generally dropped jaws all round with their incredible musicianship, wrapped in over-the-top bombast and pomp, and on top of it all shrouding their real identities behind masks[^masks] so that we are presented with what appears to be Trump, Putin and Kim all giving it absolutely six-nowt shred-wise. Novelty, for sure, but the musicality speaks for itself and this is a really fun album even when you aren’t watching the goons in the suits. **Top track:** “[Nyetflix and Chill](https://www.youtube.com/watch?v=8MVWtHRrMjM)”
 
 ### [Paramore](https://paramoreisaband.com/) - [This Is Why](https://www.amazon.co.uk/This-Why-Paramore/dp/B0BGMSM2YK)
 
@@ -103,3 +103,5 @@ Short preamble about the Extreme album.
 
 [^chris]: My father-in-law.
 [^molly]: Molly note lorem.
+[^twentyyears]: Thing about how love and painkillers took me nearly as long
+[^masks]: masks - sleep token, ghost, slipknot, etc
