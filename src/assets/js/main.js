@@ -93,12 +93,13 @@ window.addEventListener('load', function() {
 	if (bodyEl.classList.contains('home-template')) {
 		initHomepageNav();
 	} else if (bodyEl.classList.contains('post-template')) {
-		initStickyNav(window, document);
-		Casper.stickyNavTitle({
-			navSelector: '.site-nav-main',
-			titleSelector: '.post-full-title',
-			activeClass: 'nav-post-title-active'
-		});
+		console.log('about to init sticky nav');
+		// initStickyNav(window, document);
+		// Casper.stickyNavTitle({
+		// 	navSelector: '.site-nav-main',
+		// 	titleSelector: '.post-full-title',
+		// 	activeClass: 'nav-post-title-active'
+		// });
 	}
 
 	lapBanner.init();
