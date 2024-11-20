@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --input=./src --serve",
+    "up": "npm-run-all --parallel start watch",
     "debug": "DEBUG=* npx @11ty/eleventy --input=./src",
     "lint-tooling": "npx eslint '*.js' 'tooling/**/*.js'",
     "build": "node tooling/clean.js src && npm-run-all build:*",

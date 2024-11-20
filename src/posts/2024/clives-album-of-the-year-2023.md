@@ -62,19 +62,19 @@ OK, ready? Please keep your arms and legs inside the vehicle at all times.
 
 ### [Paramore](https://paramoreisaband.com/) - [This Is Why](https://www.amazon.co.uk/This-Why-Paramore/dp/B0BGMSM2YK)
 
-![Paramore – This Is Why](/public/images/2024/11/p-tiw.jpg) Lorem. **Top track:** “[Running Out of Time](https://www.youtube.com/watch?v=toKJP3luQbI)”
+![Paramore – This Is Why](/public/images/2024/11/p-tiw.jpg) *Paramore* are a lot like *DragonForce*, when you think about it. Well, actually no they aren’t at all, but what they do have in common is that my first exposure to them was when playing *Guitar Hero* on my old Xbox 360. I always meant to go back and check out *Paramore* properly, because I very much enjoyed the cut of their jib, but never got around to it until 2023 (some 15 years after their songs appeared in *Guitar Hero: World Tour*). From the moment I put **This Is Why** on to play, I had a smile on my face and I still do whenever it comes up. Lovely album, this. **Top track:** “[Running Out of Time](https://www.youtube.com/watch?v=toKJP3luQbI)”
 
 ### [The Totemist](https://rabeamassaad.bandcamp.com/) - [Less We Know](https://rabeamassaad.bandcamp.com/album/less-we-know)
 
-![The Totemist – Less We Know](/public/images/2024/11/tt-lwk.jpg) Lorem. **Top track:** “[Dos Huevos](https://www.youtube.com/watch?v=AcKSBkYXKOE)”
+![The Totemist – Less We Know](/public/images/2024/11/tt-lwk.jpg) In [2021](/clives-album-of-the-year-2021/) the wonder that is *Rabea Massaad* graced us with a side-project called *The Totemist* and dropped a crushing three-song EP from a great height. It was solid, but brief. This time we get four tracks which are, if anything, even more brootz than last time. Absolute slab. **Top track:** “[Dos Huevos](https://www.youtube.com/watch?v=AcKSBkYXKOE)”
 
 ### [Voyager](http://voyagerau.com/) - [Fearless in Love](https://www.amazon.co.uk/Fearless-Love-Ltd-Digipak-Voyager/dp/B0C43R93BV)
 
-![Voyager – Fearless in Love](/public/images/2024/11/v-fil.jpg) Lorem. **Top track:** “[Submarine](https://www.youtube.com/watch?v=BWrcdYp7W-0)”
+![Voyager – Fearless in Love](/public/images/2024/11/v-fil.jpg) Every time I think about *Voyager* it’s Danny Estrin’s astounding clean vocals that leap to the fore of what I laughably call my mind, but that’s a disservice to the rest of the band and also their songwriting prowess. To my mind no-one does heavy pop-prog as well as this, save perhaps the mighty *Devin Townsend*, which is no faint praise. Also, with *Voyager*, you’re less likely to encounter the sometimes neck-breaking genre shifts that Devin is fond of. You’re in with a pretty good bet that if you like a couple of tracks on a Voyager album, you’ll likely enjoy them all (not something I can confidently say about the undeniably amazing Mr. Townsend). **Top track:** “[Submarine](https://www.youtube.com/watch?v=BWrcdYp7W-0)”
 
 ### [Steven Wilson](https://stevenwilsonhq.com/) - [The Harmony Codex](https://www.amazon.co.uk/Harmony-Codex-Steven-Wilson/dp/B0CCC8VMHK)
 
-![Steven Wilson – The Harmony Codex](/public/images/2024/11/sw-thc.jpg) Lorem. **Top track:** “[Rock Bottom](https://www.youtube.com/watch?v=eRaspkaqR8o)”
+![Steven Wilson – The Harmony Codex](/public/images/2024/11/sw-thc.jpg) I opined back in [2017](/clives-album-of-the-year-2017/) that we are lucky to live in the era of *Steven Wilson*, when he romped home with the top prize for his arresting album **To the Bone**, and I stand by that. The man is a giant of the British prog scene, whether with his band *Porcupine Tree*, his outstanding solo ouvre, or his various side projects. All of this quite aside from being a top-notch producer, mixer and audio engineer, and of late building a reputation for being one of the best remixers/remasterers in the business, specialising in spatial audio remixes. That’s quite a lot of talent for one guy from Hemel Hempstead, really. I personally found his 2021 disc **The Future Bites** to be good, but not as good as I wanted it to be. This heinous crime is rectified here on **The Harmony Codex**, which is fabulous. By turns lush and dense, sparse and haunting, uplifting, and occasionally unsettling. Great stuff, and as always, a guest spot from *Ninet Tayeb* does no harm whatsoever. **Top track:** “[Rock Bottom](https://www.youtube.com/watch?v=eRaspkaqR8o)”
 
 ### [You Me At Six](http://youmeatsix.co.uk/) - [Truth Decay](https://www.amazon.co.uk/TRUTH-DECAY-YOU-ME-SIX/dp/B0BJLPPKTR)
 
