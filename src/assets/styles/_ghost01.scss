@@ -710,7 +710,7 @@ body {
 }
 
 .site-nav-main {
-	position: fixed;
+	// position: fixed;
 	top: 0;
 	right: 0;
 	left: 0;
@@ -2405,6 +2405,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	padding-bottom: 10vh;
 }
 
 .post-full-content .kg-image {

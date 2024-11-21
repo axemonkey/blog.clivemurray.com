@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --input=./src --serve",
+    "up": "npm-run-all --parallel start watch",
     "debug": "DEBUG=* npx @11ty/eleventy --input=./src",
     "lint-tooling": "npx eslint '*.js' 'tooling/**/*.js'",
     "build": "node tooling/clean.js src && npm-run-all build:*",
@@ -51,6 +52,8 @@
     "eslint-plugin-no-use-extend-native": "0.5.0",
     "eslint-plugin-promise": "4.3.1",
     "eslint-plugin-unicorn": "28.0.2",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-footnote": "^4.0.0",
     "moment": "^2.29.4",
     "npm-run-all": "^4.1.5",
     "onchange": "^7.1.0",
@@ -58,14 +61,11 @@
     "prettier": "^2.8.8",
     "rollup": "^3.29.5",
     "sass": "^1.62.1",
-    "sharp": "^0.32.6",
+    "sharp": "^0.33.5",
     "stylelint": "15.10.1",
     "stylelint-config-prettier": "9.0.4",
     "stylelint-config-standard-scss": "9.0.0",
     "stylelint-scss": "4.6.0",
     "svgo": "^3.0.2"
-  },
-  "dependencies": {
-    "@11ty/eleventy-upgrade-help": "^3.0.1"
   }
 }

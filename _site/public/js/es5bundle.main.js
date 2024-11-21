@@ -101,30 +101,6 @@
 	  console.log('it loads...');
 	};
 	window.addEventListener('load', checkPulse);
-
-	// from casper theme
-
-	// sticky nav
-	const initStickyNav = function (s, a) {
-	  console.log('init sticky nav');
-	  s.Casper || (s.Casper = {}), s.Casper.stickyNavTitle = function (e) {
-	    var t = a.querySelector(e.navSelector),
-	      i = a.querySelector(e.titleSelector),
-	      r = s.scrollY,
-	      n = !1;
-	    function o() {
-	      i.getBoundingClientRect().top + s.scrollY + (i.offsetHeight + 35) <= r ? t.classList.add(e.activeClass) : t.classList.remove(e.activeClass), n = !1;
-	    }
-	    s.addEventListener("scroll", function () {
-	      r = s.scrollY, function () {
-	        n || requestAnimationFrame(o);
-	        n = !0;
-	      }();
-	    }, {
-	      passive: !0
-	    }), o();
-	  };
-	};
 	const initHomepageNav = function () {
 	  var nav = document.querySelector('.site-nav-main .site-nav');
 	  var feed = document.querySelector('.post-feed');
@@ -173,13 +149,15 @@
 	  if (bodyEl.classList.contains('home-template')) {
 	    initHomepageNav();
 	  } else if (bodyEl.classList.contains('post-template')) {
-	    initStickyNav(window, document);
-	    Casper.stickyNavTitle({
-	      navSelector: '.site-nav-main',
-	      titleSelector: '.post-full-title',
-	      activeClass: 'nav-post-title-active'
-	    });
+	    console.log('about to init sticky nav');
+	    // initStickyNav(window, document);
+	    // Casper.stickyNavTitle({
+	    // 	navSelector: '.site-nav-main',
+	    // 	titleSelector: '.post-full-title',
+	    // 	activeClass: 'nav-post-title-active'
+	    // });
 	  }
+
 	  lapBanner.init();
 	});
 	const getStrapline = () => {

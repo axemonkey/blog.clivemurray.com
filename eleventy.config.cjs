@@ -1,16 +1,29 @@
 const collections = require('./collections.cjs');
 const moment = require('moment');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
+const markdownIt = require('markdown-it');
+const markdownItAnchor = require('markdown-it-anchor');
+const markdownItFootNote = require('markdown-it-footnote');
 
 moment.locale('en-gb');
 
 module.exports = function (eleventyConfig) {
+	const markdownLib = markdownIt({
+		html: true,
+		linkify: false,
+		typographer: true,
+		xhtmlOut: false,
+	}).use(markdownItAnchor).use(markdownItFootNote);
+
+	eleventyConfig.setLibrary('md', markdownLib);
+
+
 	eleventyConfig.addGlobalData('titlePrepend', 'insincere :: ');
 	eleventyConfig.addPassthroughCopy('src/public');
 	eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
 	eleventyConfig.setUseGitIgnore(false);
 	eleventyConfig.setServerOptions({
-		// liveReload: false,
+		liveReload: true,
 		watch: [
 			'src/public/**/*',
 		],
