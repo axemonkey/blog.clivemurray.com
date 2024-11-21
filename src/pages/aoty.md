@@ -17,6 +17,23 @@ Enjoy.
 
 ---
 
+- [2023](/clives-album-of-the-year-2023)
+  - Winner
+    - Sleep Token – Take Me Back to Eden
+  - Honourable mentions
+    - Black Stone Cherry – Screamin’ At the Sky
+    - Buckcherry – Vol. 10
+    - Peter Gabriel – i/o
+    - McRocklin & Hutch – Press Start
+    - Metallica – 72 Seasons
+    - Nuclear Power Trio – Wet Ass Plutonium
+    - Paramore – This Is Why
+    - The Totemist – Less We Know
+    - Voyager – Fearless in Love
+    - Steven Wilson – The Harmony Codex
+    - You Me At Six – Truth Decay
+  - Turkey of the year
+    - The Banishment – Machine and Bone
 - [2022](/clives-album-of-the-year-2022)
 	- Winner
 		- Reckless Love – TurboRider
