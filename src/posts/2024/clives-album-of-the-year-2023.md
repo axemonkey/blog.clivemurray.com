@@ -1,9 +1,9 @@
 ---
 title: Clive’s Album of the Year, 2023
 slug: clives-album-of-the-year-2023
-date_published: 2024-11-15T17:09:00.000Z
-date: 2024-11-15T17:09:00.000Z
-date_updated: 2024-11-15T17:09:00.000Z
+date_published: 2024-11-21T17:09:00.000Z
+date: 2024-11-21T17:09:00.000Z
+date_updated: 2024-11-21T17:09:00.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: On the positive side, I did play a lot of guitar.
 ghost_header_image: aoty2023.jpg
@@ -42,7 +42,7 @@ OK, ready? Please keep your arms and legs inside the vehicle at all times.
 
 ### [Buckcherry](http://buckcherry.com/) - [Vol. 10](https://www.amazon.co.uk/Vol-10-Buckcherry/dp/B0BW3458BQ)
 
-![Buckcherry – Vol. 10](/public/images/2024/11/bc-vol10.jpg) It’s Josh and the gang’s tenth outing, and you should know what you’re going to get by now. Josh T’s voice and Stevie D’s riffage are on point for 37 tight minutes of hard rocking that never leaves you in any doubt. Even the cover of “Summer of ’69” works surprisingly well. Cracking. **Top track:** “Keep On Fighting”
+![Buckcherry – Vol. 10](/public/images/2024/11/bc-vol10.jpg) It’s Josh Todd and the gang’s tenth outing, and you should know what you’re going to get by now. Josh’s voice and Stevie D’s riffage are on point for 37 tight minutes of hard rocking that never leaves you in any doubt. Even the cover of “Summer of ’69” works surprisingly well. Cracking. **Top track:** “Keep On Fighting”
 
 ### [Peter Gabriel](https://petergabriel.com/) - [i/o](https://www.amazon.co.uk/i-Peter-Gabriel/dp/B0CJ9TZLYM)
 

@@ -25,8 +25,10 @@ You can email me on [hi@clivemurray.com](mailto:hi@clivemurray.com) if the desir
 
 I used to Twitter as [@axemonkey](https://www.twitter.com/axemonkey), but Elongated Muskrat ruined all that. (I still maintain my account, but don’t post there any more. If you really need to get hold of me via Twitter, I might still get it.)
 
-But now I am on a splendid instance of Mastodon instead, so feel free to toot me at [@axemonkey@metalhead.club](https://metalhead.club/@axemonkey).
+But now I am on a splendid instance of Mastodon instead, so [feel free to toot me at @axemonkey@metalhead.club](https://metalhead.club/@axemonkey).
+
+[I have also recently joined BlueSky, so you can also get me there](https://bsky.app/profile/axemonkey.bsky.social).
 
 I live in Hemel Hempstead with my family and cats.
 
---Clive, March 2024.
+--Clive, November 2024.

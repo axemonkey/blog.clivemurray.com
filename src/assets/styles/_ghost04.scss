@@ -79,8 +79,18 @@ body.home-template section.post-support a {
 
 body.post-template section.post-support {
 	display: block;
-	margin: 30vh 0 40vh;
+	padding: 20vh 0 20vh;
 	text-align: center;
+	border-top: 2px dashed rgba(200 200 200 / 50%);
+	border-bottom: 2px dashed rgba(200 200 200 / 50%);
+}
+
+body.post-template section.post-support p {
+	text-align: left;
+}
+
+body.post-template section.post-support img {
+	box-shadow: none;
 }
 
 body.post-template section.post-support .btn-container {
