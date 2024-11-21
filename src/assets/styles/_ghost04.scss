@@ -92,6 +92,9 @@ body.post-template section.post-support p {
 body.post-template section.post-support img {
 	box-shadow: none;
 	width: initial;
+	border: none;
+	width: 100%;
+	max-width: 200px;
 }
 
 body.post-template section.post-support .btn-container {
