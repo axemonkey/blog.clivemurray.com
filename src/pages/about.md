@@ -8,7 +8,7 @@ date_updated: 2024-03-15T11:05:00.000Z
 
 I’m Clive. Rock guitarist and gentleman adventurer from a land before time. I am also at [clivemurray.com](https://clivemurray.com/).
 
-I’m a web developer by day, currently working at [Springer Nature](https://www.springernature.com/) and rock guitarist by night. My band is [Indigo Down](http://indigodown.com/).
+I’m a web developer by day, currently working at a wonderful publishing company, and rock guitarist by night. My band is [Indigo Down](http://indigodown.com/).
 
 In 2024 I finally finished and released [my second solo album, "Love and Painkillers"](https://loveandpainkillers.com/), of which I am extremely proud. It isn’t perfect, but it is as good as I could make it, and took me a very long time. [My first album ("Earthman", 2002)](https://clivemurray.bandcamp.com/album/earthman) is also still available.
 
