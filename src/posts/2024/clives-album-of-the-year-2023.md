@@ -146,7 +146,7 @@ Bollocks, more like.
 
 
 [^chris]: My father-in-law.
-[^molly]: In the mid 2000s I went to quite a few web development conferences in London. In case you didn't know, that's what I do for a job, and these conferences were always a great way to keep up with what was going on at the bleeding edge, and stay abreast of the industry. Molly was one of the original people who inspired me to become not just someone who makes/programs web stuff, but to be a creative web developer. She was a fierce advocate of the open web and web standards, she was a CSS sorceror, and she was possessed of a fiery wit, as my boss and I discovered one night out drinking with her after one of these conferences.
+[^molly]: In the mid 2000s I went to quite a few web development conferences in London. In case you didn't know, that's what I do for a job, and these conferences were always a great way to keep up with what was going on at the bleeding edge, and stay abreast of the industry. Molly was one of the original people who inspired me to become not just someone who makes/programs web stuff, but to be a creative web developer. She was a fierce advocate of the open web and web standards, she was a CSS sorceror, and she was possessed of a fiery wit, as my boss and I discovered one night out drinking with her after one of these conferences. RIP.
 [^twentyyears]: Twenty years? Two whole decades? To make one album? Loser. Honestly. [Some people](https://loveandpainkillers.com/).
 [^masks]: There's a lot of this about at the moment – more on that later.
 [^genres]: Yes, many bands do this, that's not so remarkable. What I didn't realise at the time was that they meant several different genres *in the same song*.
