@@ -2,6 +2,7 @@ const collections = require('./collections.cjs');
 const moment = require('moment');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const markdownIt = require('markdown-it');
+const markdownItAbbr = require('markdown-it-abbr');
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItFootNote = require('markdown-it-footnote');
 
@@ -13,7 +14,7 @@ module.exports = function (eleventyConfig) {
 		linkify: false,
 		typographer: true,
 		xhtmlOut: false,
-	}).use(markdownItAnchor).use(markdownItFootNote);
+	}).use(markdownItAnchor).use(markdownItFootNote).use(markdownItAbbr);
 
 	eleventyConfig.setLibrary('md', markdownLib);
 
