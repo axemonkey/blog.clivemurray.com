@@ -14,7 +14,7 @@ header_image_caption: 'KXM – Left to right: Ray Luzier, Doug Pinnick, George L
 
 *Photo borrowed from unsungmelody.com, credit: [Sebastien Paquet](https://www.sebastienpaquet.net/)[^photo].*
 
-Yeah yeah, supergroups. It’s a mixed bag of hot weasels, really. 
+Yeah yeah, supergroups. It’s a mixed bag of hot weasels, really.
 
 You do get a few that fit the cliché, where they’re a big disappointment and nothing quite works like it should because of all the egos getting in the way, but I struggle to think of any at the moment.
 
@@ -22,11 +22,11 @@ Then you get the “meh” ones where it all sort of works, but doesn’t exactl
 
 Well, *KXM* are really very good indeed[^category]. Drummer Ray Luzier brings the “K” from *KoRn*, guitarist and friend of the show, the omnipresent hardest-working-rock-star-in-America George Lynch brings the “M” from *Lynch Mob*; and the “X” is lovingly provided by Doug Pinnick – bassist, vocalist and creative powerhouse behind *King’s X*.
 
-With the “super” credentials established and out of the way, and an average age (at time of writing) of 65.667, these are clearly musicians who have been round the block a few times, so does it work when they get together? Is there chemistry? This is, after all, what a band needs to generate music that works, and the lack of which can lead to supergroups ailing, failing and flailing.
+With the “super” credentials established and out of the way, and an average age (at time of writing) of 65.667, these are clearly musicians who have been round the block a few times, so does it work when they get together? Is there chemistry? This is, after all, what a band must have in order to generate music that works, and the lack of which can lead to supergroups ailing, failing and flailing.
 
 It sure does. Doug has such a distinctive sound both on bass and vocals that there was a potential danger of this sounding like a *King’s X* knock-off, but with Lynch on guitar that was never going to happen. I’ve said a thousand times that George has such a distinctive style, you can tell it’s him with one note. How many rock guitarists can you really say that about?[^george] Ray is absolutely excellent on drums, also. I’ve never really dug *KoRn*, but his playing on the *KXM* records is tight and fresh, leaving plenty of room for George to sprinkle his Lynchy noodles.
 
-Best power trio since *Primus*? Controversial… but perhaps… yes? 
+Best power trio since *Primus*? Controversial… but perhaps… yes?
 
 Get on it.
 
