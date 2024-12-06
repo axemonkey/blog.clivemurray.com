@@ -7,6 +7,7 @@ date_updated: 2024-11-21T17:09:00.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: On the positive side, I did play a lot of guitar.
 ghost_header_image: aoty2023.jpg
+header_image_caption: 'Top row: Sleep Token – Take Me Back to Eden; Metallica – 72 Seasons; Buckcherry – Vol. 10. Bottom row: Black Stone Cherry – Screamin’ at the Sky; Paramore – This Is Why; Peter Gabriel – i/o'
 ---
 
 2023 was one of the worst years of my life, and you can take that to the bank. I still don’t know if I will talk about that in public… probably not, as it involves idiocies and failings on my part, and is generally a period I wish to put firmly in my rear view. Suffice to say it was a dark chapter, and it is behind me now. On the positive side, I did play a lot of guitar, finish the writing and recording for [my second solo album](https://loveandpainkillers.com/), and spent a good long time learning about mixing and production. So it wasn’t a total bust.

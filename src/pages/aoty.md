@@ -19,36 +19,36 @@ Enjoy.
 
 - [2023](/clives-album-of-the-year-2023)
   - Winner
-    - Sleep Token – Take Me Back to Eden
+    - [Sleep Token – Take Me Back to Eden](/clives-album-of-the-year-2023/#sleep-token---take-me-back-to-eden)
   - Honourable mentions
-    - Black Stone Cherry – Screamin’ At the Sky
-    - Buckcherry – Vol. 10
-    - Peter Gabriel – i/o
-    - McRocklin & Hutch – Press Start
-    - Metallica – 72 Seasons
-    - Nuclear Power Trio – Wet Ass Plutonium
-    - Paramore – This Is Why
-    - The Totemist – Less We Know
-    - Voyager – Fearless in Love
-    - Steven Wilson – The Harmony Codex
-    - You Me At Six – Truth Decay
+    - [Black Stone Cherry – Screamin’ At the Sky](/clives-album-of-the-year-2023/#black-stone-cherry---screamin%E2%80%99-at-the-sky)
+    - [Buckcherry – Vol. 10](/clives-album-of-the-year-2023/#buckcherry---vol.-10)
+    - [Peter Gabriel – i/o](/clives-album-of-the-year-2023/#peter-gabriel---i%2Fo)
+    - [McRocklin & Hutch – Press Start](/clives-album-of-the-year-2023/#mcrocklin-%26-hutch---press-start)
+    - [Metallica – 72 Seasons](/clives-album-of-the-year-2023/#metallica---72-seasons)
+    - [Nuclear Power Trio – Wet Ass Plutonium](/clives-album-of-the-year-2023/#nuclear-power-trio---wet-ass-plutonium)
+    - [Paramore – This Is Why](/clives-album-of-the-year-2023/#paramore---this-is-why)
+    - [The Totemist – Less We Know](/clives-album-of-the-year-2023/#the-totemist---less-we-know)
+    - [Voyager – Fearless in Love](/clives-album-of-the-year-2023/#voyager---fearless-in-love)
+    - [Steven Wilson – The Harmony Codex](/clives-album-of-the-year-2023/#steven-wilson---the-harmony-codex)
+    - [You Me At Six – Truth Decay](/clives-album-of-the-year-2023/#you-me-at-six---truth-decay)
   - Turkey of the year
-    - The Banishment – Machine and Bone
+    - [The Banishment – Machine and Bone](/clives-album-of-the-year-2023/#the-banishment---machine-and-bone)
 - [2022](/clives-album-of-the-year-2022)
 	- Winner
-		- Reckless Love – TurboRider
+		- [Reckless Love – TurboRider](/clives-album-of-the-year-2022#reckless-love---turborider)
 	- Honourable mentions
-		- Amorphis – Halo
-		- Architects – The Classic Symptoms of a Broken Spirit
-		- Coheed and Cambria – Vaxis II: A Window of the Waking Mind
-		- Crashdïet – Automaton
-		- Polyphia – Remember That You Will Die
-		- Michael Romeo – War of the Worlds pt. 2
-		- Joe Satriani – The Elephants of Mars
-		- Skid Row – The Gang’s All Here
-		- Taylor Swift – Midnights
+		- [Amorphis – Halo](/clives-album-of-the-year-2022#amorphis---halo)
+		- [Architects – The Classic Symptoms of a Broken Spirit](/clives-album-of-the-year-2022#architects---the-classic-symptoms-of-a-broken-spirit)
+		- [Coheed and Cambria – Vaxis II: A Window of the Waking Mind](/clives-album-of-the-year-2022#coheed-and-cambria---vaxis-ii%3A-a-window-of-the-waking-mind)
+		- [Crashdïet – Automaton](/clives-album-of-the-year-2022#crashd%C3%AFet---automaton)
+		- [Polyphia – Remember That You Will Die](/clives-album-of-the-year-2022#polyphia---remember-that-you-will-die)
+		- [Michael Romeo – War of the Worlds pt. 2](/clives-album-of-the-year-2022#michael-romeo---war-of-the-worlds-pt.-2)
+		- [Joe Satriani – The Elephants of Mars](/clives-album-of-the-year-2022#joe-satriani---the-elephants-of-mars)
+		- [Skid Row – The Gang’s All Here](/clives-album-of-the-year-2022#skid-row---the-gang%E2%80%99s-all-here)
+		- [Taylor Swift – Midnights](/clives-album-of-the-year-2022#taylor-swift---midnights)
 	- Turkey of the year
-		- Star One – Revel in Time
+		- [Star One – Revel in Time](/clives-album-of-the-year-2022#star-one---revel-in-time)
 - [2021](/clives-album-of-the-year-2021)
 	- Winner
 		- Architects – For Those That Wish to Exist

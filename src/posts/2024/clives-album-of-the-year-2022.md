@@ -7,6 +7,7 @@ date_updated: 2024-03-05T17:00:00.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2023 did, in fact, suck. Maybe one day I’ll talk about that. But not now.
 ghost_header_image: aoty2022.jpg
+header_image_caption: 'Top row: Reckless Love – Turborider; Joe Satriani – The Elephants of Mars; Taylor Swift – Midnights. Bottom row: Skid Row – The Gang’s All Here; Polyphia – Remember That You Will Die; Coheed and Cambria – Vaxis II: A Window of the Waking Mind'
 ---
 
 2022 was a while back now, I realise, but I’ve had other things on my mind in 2023 besides ranking my favourite albums of the previous year. 2023 did, in fact, suck. Maybe one day I’ll talk about that. But not now.
