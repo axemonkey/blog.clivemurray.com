@@ -1,18 +1,18 @@
 ---
 title: K is for...
 slug: k-is-for
-date_published: 2024-12-05T16:00:00.000Z
-date: 2024-12-05T16:00:00.000Z
-date_updated: 2024-12-05T16:00:00.000Z
+date_published: 2024-12-06T12:00:00.000Z
+date: 2024-12-06T12:00:00.000Z
+date_updated: 2024-12-06T12:00:00.000Z
 tags: ['post', 'A-Z', 'Music', 'Guitar']
 excerpt: ...KXM
 ghost_header_image: a-z_kxm.jpg
-header_image_caption: 'KXM – Left to right: Ray Luzier, Doug Pinnick, George Lynch'
+header_image_caption: 'KXM – Left to right: Ray Luzier, Doug Pinnick, George Lynch. Photo by Sebastien Paquet.'
 ---
 
 ## K is for… [KXM](https://www.ratpakrecordsamerica.com/kxm)
 
-*Photo borrowed from Loudwire.com, credit: Sebastien Paquet[^photo]*
+*Photo borrowed from unsungmelody.com, credit: [Sebastien Paquet](https://www.sebastienpaquet.net/)[^photo].*
 
 Yeah yeah, supergroups. It’s a mixed bag of hot weasels, really. 
 
@@ -48,7 +48,7 @@ Like what you read? Want a taste right now? Got your eyes and ears on you? Here 
 - *[Korpiklaani](https://korpiklaani.com/)* (Finnish folk metal)
 - *[Richie Kotzen](http://richiekotzen.com/)* (Rock)
 
-[^photo]: I can’t find any obviously royalty-free images of KXM to use, so I have used image search to find this one and am using it without permission. I am at least giving credit.
+[^photo]: I can’t find any obviously royalty-free images of KXM to use, so I have used image search to find this one and am using it without permission. I am at least giving credit. I’ll take it down on request.
 [^category]: I shall let you decide which category they belong in.
 [^george]: One. It’s George Lynch.
 [^egos]: OK, this one did implode because of egos, it’s true. But they put out two of the best rock records ever made before that happened.
