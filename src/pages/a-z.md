@@ -3,7 +3,7 @@ title: Clive’s A-Z of Artists/Bands Of Which You May Not Have Heard
 slug: a-z
 date_published: 2018-06-14T14:26:18.000Z
 date: 2018-06-14T14:26:18.000Z
-date_updated: 2022-05-13T14:45:44.000Z
+date_updated: 2024-12-05T12:00:00.000Z
 main_image_filename: a-z-header.jpg
 ---
 
@@ -21,3 +21,4 @@ Anyway. Here’s who we have so far:
 - H is for... [*Daniel Hope*](/h-is-for)
 - I is for... [*It Bites*](/i-is-for)
 - J is for... [*Al Joseph*](/j-is-for)
+- K is for... [*KXM*](/k-is-for)

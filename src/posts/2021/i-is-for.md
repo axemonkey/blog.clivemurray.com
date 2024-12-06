@@ -49,5 +49,5 @@ Marvellous. Aren’t you?
 
 ### I is also for…
 
-- *[Indigo Down](https://indigodown.com/)* (Hard rock)
+- *[Indigo Down](https://indigodown.com/)* (Executive rock)
 - *[Intervals](https://en.wikipedia.org/wiki/Intervals_(band))* (Instrumental metal)

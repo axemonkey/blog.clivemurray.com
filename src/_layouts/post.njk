@@ -30,7 +30,9 @@ layout: content
 		{% else %}
 			{% include "ghost_post_image_holder.njk" %}
 		{% endif %}
-
+		{% if header_image_caption %}
+			<figcaption>{{ header_image_caption | safe }}</figcaption>
+		{% endif %}
 	</figure>
 	{% endif %}
 
