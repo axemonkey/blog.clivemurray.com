@@ -157,7 +157,6 @@
 	    // 	activeClass: 'nav-post-title-active'
 	    // });
 	  }
-
 	  lapBanner.init();
 	});
 	const getStrapline = () => {
