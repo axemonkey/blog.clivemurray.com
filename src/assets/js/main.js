@@ -1,4 +1,4 @@
-import {lapBanner} from './modules/lap-banner.js';
+// import {lapBanner} from './modules/lap-banner.js';
 
 const checkPulse = () => {
 	console.log('it loads...');
@@ -102,7 +102,7 @@ window.addEventListener('load', function() {
 		// });
 	}
 
-	lapBanner.init();
+	// lapBanner.init();
 });
 
 
