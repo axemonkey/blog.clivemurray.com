@@ -6,6 +6,16 @@
 	/* eslint no-sequences: 0 */
 	/* eslint no-unused-vars: 0 */
 
+	/*
+
+	All the hard stuff here was inspired (i.e. copied) from a
+	CodePen by Cooper Goeke here:
+	https://codepen.io/coopergoeke/pen/wvaYMbJ
+
+	Thanks for that Cooper!
+
+	*/
+
 	const cc = {}; // confetti config
 	cc.canvases = [];
 
