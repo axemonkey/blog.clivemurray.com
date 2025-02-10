@@ -94,6 +94,10 @@ window.addEventListener('load', function() {
 		initHomepageNav();
 	} else if (bodyEl.classList.contains('post-template')) {
 		console.log('about to init sticky nav');
+
+		// commented this out, as decided not to use sticky nav.
+		// it should just work again by uncommenting the initStickyNav() call
+
 		// initStickyNav(window, document);
 		// Casper.stickyNavTitle({
 		// 	navSelector: '.site-nav-main',
@@ -191,3 +195,22 @@ const fitVids = () => {
 };
 
 window.addEventListener('load', fitVids);
+
+const initImageEffects = () => {
+	console.log(`initImageEffects`);
+	const target = document.querySelector('.aoty');
+	const opt = {
+		threshold: 1,
+	};
+	const callback = (entries, observer) => {
+		if (entries[0].isIntersecting) {
+			console.log('AotY image visible');
+			observer.unobserve(entries[0].target);
+		}
+	};
+	const observer = new IntersectionObserver(callback, opt);
+
+	observer.observe(target);
+};
+
+window.addEventListener('load', initImageEffects);
