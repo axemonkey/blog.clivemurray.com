@@ -71,7 +71,7 @@ As the Cove himself is wont to say, 'Here's a song for ya'. In fact, here's ten,
 
 ### [Aerosmith](http://www.aerosmith.com/) - [Pump](https://www.amazon.co.uk/Pump-Aerosmith/dp/B000000ORO/)
 
-![Aerosmith - Pump](/public/images/2017/03/pump.jpg)
+![Aerosmith - Pump](/public/images/2017/03/pump.jpg){.aoty .aoty-winner}
 
 OK, before we start - yes, **Permanent Vacation** is fine. Not much wrong with it at all. But this knocks it into a cocked chimp from a mile away.
 

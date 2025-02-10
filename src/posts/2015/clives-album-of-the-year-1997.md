@@ -51,7 +51,7 @@ Yeeeeeah. So. About that. Post **The Bends**, I fell out of love with *Radiohead
 
 ### [Dream Theater](http://www.dreamtheater.net/) - [Falling Into Infinity](http://www.amazon.co.uk/Falling-Into-Infinity-Dream-Theater/dp/B000002HPT/)
 
-![Dream Theater - Falling Into Infinity](/public/images/2018/03/Dream_Theater_-_Falling_into_Infinity_Album_Cover.jpg)
+![Dream Theater - Falling Into Infinity](/public/images/2018/03/Dream_Theater_-_Falling_into_Infinity_Album_Cover.jpg){.aoty .aoty-winner}
 
 Yep, I'm the one who likes it.
 

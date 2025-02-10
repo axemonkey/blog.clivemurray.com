@@ -97,7 +97,7 @@ Wow, the preamble is almost as long as the actual post these days. I suppose tha
 ## And the winner is…
 
 ### [McRocklin & Hutch](https://mcrocklin.com/mcrocklin-hutch/) - [Riding Out](https://mcrocklinhutch.bandcamp.com/album/riding-out)
-![McRocklin & Hutch - Riding Out](/public/images/2020/04/riding-out.jpg)
+![McRocklin & Hutch - Riding Out](/public/images/2020/04/riding-out.jpg){.aoty .aoty-winner}
 I’ve been yelling from the rooftops about this since I heard it, waaaaayyyyyyyyy back in April 2019. Thomas McRocklin appeared in [last year’s list](/clives-album-of-the-year-2018/#mcrocklinnewbeginnings) when he suddenly reappeared after many years with a 6-track instrumental rock EP that had a great fresh feel to it. I dug it, and hoped for more. Well, listener, I got it.
 
 In early 2019 Tommy started showing up on [Instagram](https://www.instagram.com/mcrocklin/) a whole bunch with little promo videos and an excellently British sense of humour, and I thought “Oh great, last year’s EP wasn’t just a flash in the pan, he’s properly back on the scene” and a couple of weeks later he posted about an album being out. Listener, I clicked so fast my mouse exploded and minutes later I was listening to this sublime, spacious, catchy, soothing, 80s-influenced yet also ultramodern-sounding album, from *McRocklin & Hutch*.

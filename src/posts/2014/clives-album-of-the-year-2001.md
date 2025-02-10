@@ -52,7 +52,7 @@ I'm listening to it right now as I type this and **YOU CAN'T STOP ME**. **Top tr
 ## And the winner is…
 
 ### [Buckcherry](http://www.buckcherry.com/) - [Time Bomb](http://www.amazon.co.uk/Time-Bomb-Buckcherry/dp/B00005B7E4/)
-![Buckcherry - Time Bomb](/public/images/2020/06/buckcherry_time-bomb.jpeg)
+![Buckcherry - Time Bomb](/public/images/2020/06/buckcherry_time-bomb.jpeg){.aoty .aoty-winner}
 I've described the impact this album had on me [before](/the-dark-times/), but it bears repeating. Having been brought up on *Guns N' Roses*, *Mötley Crüe*, *Skid Row*, *L.A. Guns* and all the other sleazesters of the late 80s, I was just laying there begging for *Buckcherry* to come along, and when I first heard **Time Bomb** (late one night, having imbibed more than one small sherry, in the company of [Rory Dale](http://twitter.com/rorydale) and Dave To The Grind, if memory serves) something in me - thought long dead - stirred. The all-consuming antipathy I felt towards grunge had dissipated along with most of that music itself, the waves of Britpop and Madchester had finally broken, and it turned out that Hard Rock was pulling its boots on and thinking about finding a beer and trying to find a ride to the next party after all.
 
 Thank you, *Buckcherry*, from the bottom of my arrhythmic heart. I really can't thank you enough.

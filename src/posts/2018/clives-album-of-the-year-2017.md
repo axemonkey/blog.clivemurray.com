@@ -74,7 +74,7 @@ So forget about *Zeppelin* if you can, and listen to this with open ears, in you
 **Top tracks:** "Talk on the Street", "Edge of Darkness", "Black Smoke Rising"
 
 ### [Steven Wilson](http://stevenwilsonhq.com/) - [To the Bone](https://www.amazon.co.uk/Bone-Steven-Wilson/dp/B072HR5LTT/)
-![Steven Wilson - To the Bone](/public/images/2018/03/tothebone.jpg)
+![Steven Wilson - To the Bone](/public/images/2018/03/tothebone.jpg){.aoty .aoty-winner}
 We are blessed to live in the era of *Steven Wilson*. Whether you are a fan of *Porcupine Tree* or not (and if you're anything like me – and I know *I* am – you are) the man's impact on British prog music is undeniable. A disgustingly talented multi-instrumentalist, singer, songwriter, producer, engineer, lyricist, all-round musical demigod and apparently a very nice chap to boot, Steven has also worked with acts like *Opeth*, *King Crimson*, *Pendulum*, *Jethro Tull*, *Yes*, *Tears for Fears* and even *Marillion* over the last three decades, and the chances are that you've heard some of his work even if you don't know it.
 
 It shames me to note that this is the only *SW* solo album I possess, despite all the rave reviews I saw of the predecessors **Hand. Cannot. Erase** and **The Raven That Refused to Sing (And Other Stories)**, though rest assured I intend to rectify that at my very earliest.

@@ -47,7 +47,7 @@ Ah well, now. You have to realise that *Vai* was the biggest thing in guitar at 
 
 ### [Sting](http://www.sting.com/) - [Ten Summoner's Tales](https://www.amazon.co.uk/Ten-Summoners-Tales-Sting/dp/B00000744Y/)
 
-![Sting - Ten Summoner's Tales](/public/images/2016/11/tensum400.jpg)
+![Sting - Ten Summoner's Tales](/public/images/2016/11/tensum400.jpg){.aoty .aoty-winner}
 
 So yeah, it's cool to think that *Sting* is a twat. So what? It's probably the norm to dismiss all his music as poncey pop garbage. With some of it I agree, but not this album. This album is sublime.
 

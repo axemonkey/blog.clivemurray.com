@@ -44,7 +44,7 @@ Mortal-coil-shuffler of the year awards go to (oh boy… here we go… *grits te
 ## And the winner is…
 
 ### [Plini](http://www.plini.co/) - [Handmade Cities](https://plini.bandcamp.com/album/handmade-cities)
-![Plini - Handmade Cities](/public/images/2017/08/plini-hc.jpg)
+![Plini - Handmade Cities](/public/images/2017/08/plini-hc.jpg){.aoty .aoty-winner}
 Oh, be still my fluttering heart, this album. I'll be honest with you, I hadn't even finished listening to this for the first time (on release day, 26th August) and I knew it was going to be the 2016 winner.
 
 By now regular readers of this column will doubtless be sick of my clanking on about *Plini*, but tough. Strap in. When I first heard *Joe Satriani* in 1988/9 I was blown away. In 1990 when I heard *Steve Vai*'s **Passion and Warfare** everything changed again. In 1992 John Petrucci's playing on **Images and Words** by *Dream Theater* floored me. It was a good 14 years or so before I was as impressed by a player again, and that was *Guthrie Govan*.

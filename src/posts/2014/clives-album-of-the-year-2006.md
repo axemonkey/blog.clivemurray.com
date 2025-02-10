@@ -42,7 +42,7 @@ And there was some music.
 ## And the winner is...
 
 ### [My Chemical Romance](http://www.mychemicalromance.com/) - [The Black Parade](http://www.amazon.co.uk/Black-Parade-My-Chemical-Romance/dp/B000I5Y8ZU/)
-![My Chemical Romance - The Black Parade](/public/images/2020/06/my-chemical-romance_the-black-parade.jpeg)
+![My Chemical Romance - The Black Parade](/public/images/2020/06/my-chemical-romance_the-black-parade.jpeg){.aoty .aoty-winner}
 See [previous](/clives-album-of-the-year-2010/) re *MCR* being emo. Whether they were or weren't, I honestly couldn't care less, as underneath there was a damned excellent hard rock band. I've checked out their first two albums and the quality isn't quite there to be honest, but this - their third studio album - is utterly flawless from start to finish.
 
 So come one - come all - to this tragic affair, and make sure you play it loud.

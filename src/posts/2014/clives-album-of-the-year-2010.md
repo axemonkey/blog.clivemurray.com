@@ -46,7 +46,7 @@ New-releases-wise it was a cracking year for metal ([*The Damned Things*](http:/
 ## And the winner is...
 
 ### [Furyon](http://www.furyon.net/) - [Gravitas](http://www.amazon.co.uk/Gravitas-Furyon/dp/B006ZEZ4F6)
-![Furyon - Gravitas](/public/images/2020/05/furyon_gravitas.jpg)
+![Furyon - Gravitas](/public/images/2020/05/furyon_gravitas.jpg){.aoty .aoty-winner}
 Good god, yes. These metallers from Brighton are yet to achieve the recognition they deserve, in my opinion. I hadn't had my socks so completely rocked off since hearing **Images and Words** back in 1992 or so. This is some properly hooky metal, with grooves and riffs like you wouldn't believe, and oh my days, the guitar solos... Personally I cannot wait for the followup album, but in the meantime stick **Gravitas** on, pin back your ears, and do nothing else for 55 minutes. You can thank me later.
 
 **Top tracks:** "Disappear Again", "Voodoo Me", "Souvenirs"

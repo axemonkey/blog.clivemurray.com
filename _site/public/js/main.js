@@ -1,4 +1,9 @@
 // import {lapBanner} from './modules/lap-banner.js';
+import {
+	confettiSetti,
+	// render,
+	initBurst,
+} from './modules/confetti.js';;
 
 const checkPulse = () => {
 	console.log('it loads...');
@@ -198,19 +203,25 @@ window.addEventListener('load', fitVids);
 
 const initImageEffects = () => {
 	console.log(`initImageEffects`);
-	const target = document.querySelector('.aoty');
-	const opt = {
-		threshold: 1,
-	};
-	const callback = (entries, observer) => {
-		if (entries[0].isIntersecting) {
-			console.log('AotY image visible');
-			observer.unobserve(entries[0].target);
+	const aotyWinners = document.querySelectorAll('.aoty-winner');
+	if (aotyWinners.length > 0) {
+		for (let index = 0; index < aotyWinners.length; index++) {
+			console.log(`winner found, init confetti canvas ${index}`);
+			confettiSetti(index);
+			const opt = {
+				threshold: 1,
+			};
+			const callback = (entries, observer) => {
+				if (entries[0].isIntersecting) {
+					console.log(`AotY winner ${index} visible`);
+					initBurst(index);
+					observer.unobserve(entries[0].target);
+				}
+			};
+			const observer = new IntersectionObserver(callback, opt);
+			observer.observe(aotyWinners[index]);
 		}
-	};
-	const observer = new IntersectionObserver(callback, opt);
-
-	observer.observe(target);
+	}
 };
 
 window.addEventListener('load', initImageEffects);

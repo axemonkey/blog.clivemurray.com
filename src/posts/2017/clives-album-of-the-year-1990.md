@@ -61,7 +61,7 @@ OK, yes. Po-faced poodle-y hair metal that took itself too seriously could perha
 
 ### [Steve Vai](http://www.vai.com/) - [Passion and Warfare](https://www.amazon.co.uk/Passion-Warfare-Steve-Vai/dp/B000025I5U/)
 
-![Steve Vai - Passion and Warfare](/public/images/2017/03/rsz_f80d5e3152f34fc17e980471a1b2926fe35c2e0a37476f321e153c0b4fcc7992.jpg)
+![Steve Vai - Passion and Warfare](/public/images/2017/03/rsz_f80d5e3152f34fc17e980471a1b2926fe35c2e0a37476f321e153c0b4fcc7992.jpg){.aoty .aoty-winner}
 
 Whooo-whee. OK.
 

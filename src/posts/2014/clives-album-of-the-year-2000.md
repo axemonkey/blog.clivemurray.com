@@ -42,7 +42,7 @@ I'd pretty much just about landed what later turned into a career in web develop
 ## And the winner is…
 
 ### [Paul Gilbert](http://www.paulgilbert.com/) - [Alligator Farm](http://www.amazon.co.uk/Alligator-Farm-Paul-Gilbert/dp/B00004TIL3/)
-![Paul Gilbert - Alligator Farm](/public/images/2018/03/71-7vuvgsbL.jpg)
+![Paul Gilbert - Alligator Farm](/public/images/2018/03/71-7vuvgsbL.jpg){.aoty .aoty-winner}
 Pablo Gilberto! Yayyyy!
 
 When PG split from *Mr. Big* to go solo, I hoovered up his albums with religious fervour, but for me it wasn't until this - his third - that he really clicked into gear. A splendid assemblage of tunes with Paul's omnipresent sense of fun running throughout, and of course a lot of insane guitar licks. But you really don't need to even be a rock-head to dig this album. His music isn't impenetrably widdly, it's if anything more pop-friendly than *Mr. Big*'s stuff, and somehow manages to fold his insane guitar playing into a collection of tunes you'd happily play to your mum.

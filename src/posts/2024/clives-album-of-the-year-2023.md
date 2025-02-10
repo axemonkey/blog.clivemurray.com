@@ -85,7 +85,7 @@ OK, ready? Please keep your arms and legs inside the vehicle at all times.
 
 ### [Sleep Token](http://sleep-token.com/) - [Take Me Back to Eden](https://www.amazon.co.uk/Take-Back-Eden-Sleep-Token/dp/B0BVTFSWSW)
 
-<img class="aoty aoty-winner" src="/public/images/2024/11/st-tmbte.jpg" alt="Sleep Token - Take Me Back to Eden">
+![Sleep Token - Take Me Back to Eden](/public/images/2024/11/st-tmbte.jpg){.aoty .aoty-winner}
 
 Allllllll righty, then.
 

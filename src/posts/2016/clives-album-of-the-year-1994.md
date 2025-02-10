@@ -41,7 +41,7 @@ It was a difficult old time, the mid 90s. Brit-pop was just finding out where it
 
 ### [Jeff Buckley](http://jeffbuckley.com/) - [Grace](https://www.amazon.co.uk/Grace-Jeff-Buckley/dp/B004C01PCG/)
 
-![Jeff Buckley - Grace](/public/images/2018/03/518pL7GgW5L.jpg)
+![Jeff Buckley - Grace](/public/images/2018/03/518pL7GgW5L.jpg){.aoty .aoty-winner}
 
 I'd heard about the guy, you know? People on guitar forums – people who knew what they were talking about – would say things like "Such a shame", "Died so young", "What a talent" and "Imagine what he could have done", but I'd simply never actually heard anything by him, and was still mourning the loss of my beloved hair-metal.
 

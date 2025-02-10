@@ -23,7 +23,7 @@ When *Van Halen* burst onto the scene they undeniably took it apart (more on tha
 
 ### [AC/DC](http://www.acdc.com/) - [Back in Black](https://www.amazon.co.uk/Back-Black-AC-DC/dp/B00O6YCV80/)
 
-![AC/DC - Back in Black](/public/images/2018/01/bib-300.jpg)
+![AC/DC - Back in Black](/public/images/2018/01/bib-300.jpg){.aoty .aoty-winner}
 
 Well. I know I'm going to get into trouble in some quarters, but for me *AC/DC* has a Geordie singer with a flat cap. I know, I know, and all you O.G. Bon Scott loving fans can go right ahead and tell me how wrong I am, but I'll just smile and stick this album on again. Of course it's a tragedy how BS died, of course he was taken too early, naturally he was a huge part of how the band achieved their success to begin with. I'm not arguing with any of that. But for me, this is THE *AC/DC* album, and no amount of "Beating Around the Bush", "Big Balls" or "TNT" is going to change that.
 
@@ -45,7 +45,7 @@ Ah, *Van Halen*, you say? Well yes. Their second album has some crackers on it, 
 
 ### [Pink Floyd](http://www.pinkfloyd.com/) - [The Wall](https://www.amazon.co.uk/Wall-2011-Remastered-Version/dp/B005NNYL54/)
 
-![Pink Floyd - The Wall](/public/images/2018/01/wall-300.jpg)
+![Pink Floyd - The Wall](/public/images/2018/01/wall-300.jpg){.aoty .aoty-winner}
 
 So you thought you might like to go to the show?
 
@@ -69,7 +69,7 @@ Ambient music is not for everyone, but if it is even mildly your bag then you ne
 
 ### [Van Halen](http://www.van-halen.com/) - [Van Halen](https://www.amazon.co.uk/Van-Halen/dp/B00UZTL04Q/)
 
-![Van Halen - Van Halen](/public/images/2018/01/Van_Halen_300.jpg)
+![Van Halen - Van Halen](/public/images/2018/01/Van_Halen_300.jpg){.aoty .aoty-winner}
 
 Are you kidding me? I frequently wax lyrical about the greatest debut album of all time being **Appetite For Destruction** in 1987, which it is, but this has to be right behind it.
 
@@ -89,7 +89,7 @@ I was never into punk, not even a little bit, but it definitely happened, of tha
 
 ### [Fleetwood Mac](https://www.fleetwoodmac.com/) - [Rumours](https://www.amazon.co.uk/Rumours-Fleetwood-Mac/dp/B00AI3UW2K/)
 
-![Fleetwood Mac - Rumours](/public/images/2018/01/rsz_rumours.jpg)
+![Fleetwood Mac - Rumours](/public/images/2018/01/rsz_rumours.jpg){.aoty .aoty-winner}
 
 Retroactively, for sure, though many of the *Mac* tracks I grew up loving seem to have come from this album, so why not? [Wikipedia tells me](https://en.wikipedia.org/wiki/Rumours_(album)) that following the previous eponymous album the band's two couples – Christine & John McVie and Buckingham/Nicks – had split up (as well as drummer Mick Fleetwood going through a divorce of his own), lending a certain frisson to the writing process for this, later claimed to be their most important album of all time (and the band's 11th overall).
 

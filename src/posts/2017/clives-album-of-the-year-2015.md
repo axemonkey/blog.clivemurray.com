@@ -40,7 +40,7 @@ Off to Valhalla (or their designated equivalent) went (as always, etc.) [Leonard
 ## And the winner is…
 
 ### [Coheed and Cambria](http://www.coheedandcambria.com/) - [The Color Before the Sun](https://www.amazon.co.uk/Color-Before-Sun-Explicit/dp/B013ZDVDQI/)
-![Coheed and Cambria - The Color Before the Sun](/public/images/2017/01/color-before-sun.jpg)
+![Coheed and Cambria - The Color Before the Sun](/public/images/2017/01/color-before-sun.jpg){.aoty .aoty-winner}
 Well, now. What can I say about **C&C** that hasn't been said copiously elsewhere? If you like prog, or even just interesting rock music, you've probably heard of them. If you're anything like me (and I know I am\*) you've probably got every one of their CDs and don't plan on stopping any time soon.
 
 Unusually, this is their eighth full length album, yet their first non-concept album. Again, if you know anything about them you'll know that their previous output is effectively the soundtrack to [The Amory Wars](https://en.wikipedia.org/wiki/The_Amory_Wars), a series of sci-fi comics and graphic novels written by the band's frontman Claudio Sanchez, and is extraordinarily good taken with or without that alongside.

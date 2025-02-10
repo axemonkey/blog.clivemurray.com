@@ -78,7 +78,8 @@ So. Onward.
 ## And the winner is…
 
 ### [Reckless Love](https://en.wikipedia.org/wiki/Reckless_Love) - [Turborider](https://www.amazon.co.uk/dp/B09M57Y8CB/)
-![Reckless Love - Turborider](/public/images/2024/02/turbo-600x600bb.jpg)
+
+![Reckless Love - Turborider](/public/images/2024/02/turbo-600x600bb.jpg){.aoty .aoty-winner}
 
 [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) has a lot to answer for.
 

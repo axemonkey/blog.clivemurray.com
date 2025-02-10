@@ -105,7 +105,9 @@ Still here? Great. Now, as alluded to in previous years, my musical tastes have 
 ## And the winner is…
 
 ### [Architects](https://architectsofficial.com/) - [For Those That Wish to Exist](https://smile.amazon.co.uk/Those-That-Wish-Exist/dp/B08LJZLPXG/)
-![Architects - For Those That Wish to Exist](/public/images/2022/10/forthosethatwishtoexist600x600bb.jpg)
+
+![Architects - For Those That Wish to Exist](/public/images/2022/10/forthosethatwishtoexist600x600bb.jpg){.aoty .aoty-winner}
+
 I think it was my friend in Germany who alerted me to the mighty *Architects*, who hail from Brighton OF ALL PLACES, and for that I thank him enormously.
 
 Let me tell you this right up front: *Architects* absolutely **slam**.

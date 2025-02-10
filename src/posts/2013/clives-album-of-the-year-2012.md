@@ -40,7 +40,7 @@ excerpt: '"technical instrumental djent-y metal-y stuff"'
 ## And the winner is...
 
 ### [Flying Colors](http://flyingcolorsmusic.com/) - [Flying Colors](http://www.amazon.co.uk/Flying-Colors-Limited/dp/B006Z9DJ94)
-![Flying Colors - Flying Colors](/public/images/2018/03/rsz_mp3-cover-fc.jpg)
+![Flying Colors - Flying Colors](/public/images/2018/03/rsz_mp3-cover-fc.jpg){.aoty .aoty-winner}
 Supergroups often end up somehow not quite equalling the sum of their parts, be it due to ego clashes, overhype, production nightmares or whatever. But sometimes it does in fact work out - see *Velvet Revolver*, *Audioslave*, *Them Crooked Vultures* and even the *David Lee Roth* band of the late 80s for details. And so it is with *Flying Colors*.
 
 The pedigree of the lineup is unquestionable: on lead guitar we have Steve Morse - solo artist and main axeman for *The Dixie Dregs* and latterly *Deep Purple*, he is an absolute star in the six-string heavens and would be considered "most valuable player" in any normal band lucky enough to have him. Versatile, tasteful, and - like Bruce Dickinson of *Iron Maiden* - can take over flying the plane on tour if the pilot has a heart attack.
