@@ -2,32 +2,27 @@
 @font-face {
 	font-family: Atkinson-Hyperlegible;
 	src: url("/public/fonts/Atkinson-Hyperlegible-Regular-102.woff2")
-			format("woff2"),
-		url("/public/fonts/Atkinson-Hyperlegible-Regular-102.woff") format("woff");
+			format("woff2");
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: Atkinson-Hyperlegible;
-	src: url("/public/fonts/Atkinson-Hyperlegible-Bold-102.woff2") format("woff2"),
-		url("/public/fonts/Atkinson-Hyperlegible-Bold-102.woff") format("woff");
+	src: url("/public/fonts/Atkinson-Hyperlegible-Bold-102.woff2") format("woff2");
 	font-weight: bold;
 	font-style: normal;
 }
 @font-face {
 	font-family: Atkinson-Hyperlegible;
 	src: url("/public/fonts/Atkinson-Hyperlegible-Italic-102.woff2")
-			format("woff2"),
-		url("/public/fonts/Atkinson-Hyperlegible-Italic-102.woff") format("woff");
+			format("woff2");
 	font-weight: normal;
 	font-style: italic;
 }
 @font-face {
 	font-family: Atkinson-Hyperlegible;
 	src: url("/public/fonts/Atkinson-Hyperlegible-BoldItalic-102.woff2")
-			format("woff2"),
-		url("/public/fonts/Atkinson-Hyperlegible-BoldItalic-102.woff")
-			format("woff");
+			format("woff2");
 	font-weight: bold;
 	font-style: italic;
 }
@@ -35,29 +30,39 @@
 // Spectral
 @font-face {
 	font-family: Spectral;
-	src: url("/public/fonts/Spectral-Regular.woff2") format("woff2"),
-		url("/public/fonts/Spectral-Regular.woff") format("woff");
+	src: url("/public/fonts/Spectral-Regular.woff2") format("woff2");
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: Spectral;
-	src: url("/public/fonts/Spectral-Bold.woff2") format("woff2"),
-		url("/public/fonts/Spectral-Bold.woff") format("woff");
+	src: url("/public/fonts/Spectral-Bold.woff2") format("woff2");
 	font-weight: bold;
 	font-style: normal;
 }
 @font-face {
 	font-family: Spectral;
-	src: url("/public/fonts/Spectral-Italic.woff2") format("woff2"),
-		url("/public/fonts/Spectral-Italic.woff") format("woff");
+	src: url("/public/fonts/Spectral-Italic.woff2") format("woff2");
 	font-weight: normal;
 	font-style: italic;
 }
 @font-face {
 	font-family: Spectral;
-	src: url("/public/fonts/Spectral-BoldItalic.woff2") format("woff2"),
-		url("/public/fonts/Spectral-BoldItalic.woff") format("woff");
+	src: url("/public/fonts/Spectral-BoldItalic.woff2") format("woff2");
 	font-weight: bold;
+	font-style: italic;
+}
+
+// Inclusive Sans
+@font-face {
+	font-family: InclusiveSans;
+	src: url("/public/fonts/InclusiveSans-VariableFont_wght.woff2") format("woff2");
+	font-weight: normal bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: InclusiveSans;
+	src: url("/public/fonts/InclusiveSans-Italic-VariableFont_wght.woff2") format("woff2");
+	font-weight: normal bold;
 	font-style: italic;
 }
