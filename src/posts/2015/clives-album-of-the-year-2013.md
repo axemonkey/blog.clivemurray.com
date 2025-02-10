@@ -42,7 +42,7 @@ I've lived with my 2013 shortlist for a full year now, and have thus decreed:
 ## And the winner is…
 
 ### [Jon Gomm](http://jongomm.com) - [Secrets Nobody Keeps](http://http://jongomm.com/cds)
-![Jon Gomm - Secrets Nobody Keeps](/public/images/2018/03/26622225_500_500.jpg)
+![Jon Gomm - Secrets Nobody Keeps](/public/images/2018/03/26622225_500_500.jpg){.aoty .aoty-winner}
 Jon is flat-out one of the most incredible musicians I can name, and if you've never heard of him I urge you to stop here and spend the next 7 minutes watching his incredible [Passionflower](https://www.youtube.com/watch?v=nY7GnAq6Znw).
 
 Yes, he really is doing all that live, at once. He pretty damned good, n'est-ce pas? I confess to not really digging his previous album **Don't Panic** - I'm not sure why, really, I think I just didn't get on with the production, or his vocals at the time, or something like that. But this album is flawless from start to finish.

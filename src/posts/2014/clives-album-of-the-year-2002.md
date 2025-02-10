@@ -44,7 +44,7 @@ We lost (as always, among many others) [Chuck Jones](http://en.wikipedia.org/wik
 ## And the winner is…
 
 ### [Damien Rice](http://www.damienrice.com) - [O](http://www.amazon.co.uk/O-Damien-Rice/dp/B0000AXKRB/)
-![Damien Rice - O](/public/images/2020/06/damien-rice_o.jpeg)
+![Damien Rice - O](/public/images/2020/06/damien-rice_o.jpeg){.aoty .aoty-winner}
 Oh god, this album.
 
 It took me a while to get down into it, having been played it a few times at a friend's flat, but a few more repeat listens and a heart-rending live gig at the Union Chapel later and I was a *Damien Rice* convert. This album…

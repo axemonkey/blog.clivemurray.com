@@ -43,7 +43,7 @@ As has been mentioned before I was a little late picking up on the Essex outfit'
 
 ### [The Presidents of the USA](http://www.presidentsrock.com/) - [The Presidents of the USA II](http://www.amazon.co.uk/Presidents-United-States-America-II/dp/B000002BIN/)
 
-![The Presidents of the USA - The Presidents of the USA II](/public/images/2018/03/515KJ2EEJAL.jpg)
+![The Presidents of the USA - The Presidents of the USA II](/public/images/2018/03/515KJ2EEJAL.jpg){.aoty .aoty-winner}
 
 *PUSA!*
 

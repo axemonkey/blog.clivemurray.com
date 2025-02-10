@@ -38,13 +38,13 @@ Those taking the Stairway or the Highway included [Peter Ustinov](http://en.wiki
 I couldn’t separate the top two for this year - so it’s a tie!
 
 ### [Max Richter](http://www.maxrichtermusic.com/) - [The Blue Notebooks](http://www.amazon.co.uk/Blue-Notebooks-Richter-Max-Audio/dp/B00G2IZKU4/)
-![Max Richter - The Blue Notebooks](/public/images/2020/06/max-richter_the-blue-notebooks.jpg)
+![Max Richter - The Blue Notebooks](/public/images/2020/06/max-richter_the-blue-notebooks.jpg){.aoty .aoty-winner}
 I first encountered the neoclassical stylings of *Max Richter* on Classic FM a few years ago. I was returning home late one evening and as I parked outside my house I was transfixed by the short piece playing on the radio - it turned out to be "H In New England" from Richter's 2008 album **24 Postcards In Full Colour**. I immediately sought out more information and promptly bought all the CDs I could find, the pinnacle of which being this one. Utterly sublime.
 
 **Top tracks:** "On The Nature Of Daylight", "The Trees", "Arboretum"
 
 ### [William Shatner](http://www.williamshatner.com/) - [Has Been](http://www.amazon.co.uk/Has-Been-William-Shatner/dp/B0002XK4CO/)
-![William Shatner - Has Been](/public/images/2020/06/william-shatner_has-been.jpeg)
+![William Shatner - Has Been](/public/images/2020/06/william-shatner_has-been.jpeg){.aoty .aoty-winner}
 I've tried before to tell people about this album, and I know I've failed. So I'm going to have one more go.
 
 It's not a joke. I don't like it because it's "so bad it's good". Irony is not involved, though intentional comedy is, on occasion.

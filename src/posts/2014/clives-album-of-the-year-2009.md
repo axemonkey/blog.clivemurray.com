@@ -42,7 +42,7 @@ All done? Good. Now piss off, I'm going to curl up on the sofa with this cuppa a
 ## And the winner is...
 
 ### [Amorphis](http://amorphis.net/) - [Skyforger](http://www.amazon.co.uk/Skyforger-Amorphis/dp/B0024G4ZEK/)
-![Amorphis - Skyforger](/public/images/2020/06/amorphis_skyforger.jpeg)
+![Amorphis - Skyforger](/public/images/2020/06/amorphis_skyforger.jpeg){.aoty .aoty-winner}
 Ah yes, *Amorphis*. This was in fact the first folk-metal album I ever heard, and it's still one of the best. It doesn't use the overtly folkish elements the way that *Eluveitie* do (no hurdy-gurdies or penny whistles here) but it does draw on folk elements in the sound and you always feel like you're being told a story. Of course, for the most part that's exactly what's happening, since *Amorphis* (like some other Finnish folk metal bands) often draw from the [Kalevala](http://en.wikipedia.org/wiki/Kalevala), the Epic Poem of Finland, as a source for their lyrics.
 
 The thing that really holds my attention here is the huge magnetic presence of Tomi Joutsen's vocals filling every corner of the band's sound. Don't get me wrong - the band are all excellent - but the character and depth of Tomi's voice as he weaves these tales just transports me to some campfire in the wilderness, wrapped in a sheepskin and sipping brandy from a flask.

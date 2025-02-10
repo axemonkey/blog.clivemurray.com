@@ -43,7 +43,7 @@ The *'phonics* were everywhere in 1999. You couldn't move for "The Bartender and
 
 ### [Underworld](http://www.underworldlive.com/) - [Beaucoup Fish](http://www.amazon.co.uk/Beaucoup-Fish-Underworld/dp/B000023Y31/)
 
-![Underworld - Beaucoup Fish](/public/images/2018/03/u.jpg)
+![Underworld - Beaucoup Fish](/public/images/2018/03/u.jpg){.aoty .aoty-winner}
 
 King of Snake, King of Snake.
 

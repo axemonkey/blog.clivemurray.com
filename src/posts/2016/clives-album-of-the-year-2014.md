@@ -42,7 +42,7 @@ Resting in pieces (among, as ever, many more) were [Eusébio](https://en.wikiped
 ## And the winner is…
 
 ### [You Me At Six](http://www.youmeatsix.co.uk/) - [Cavalier Youth](https://www.amazon.co.uk/Cavalier-Youth-Explicit-You-Six/dp/B00HW4LIMG/)
-![You Me At Six - Cavalier Youth](/public/images/2016/11/41FG2erTmaL._SS500.jpg)
+![You Me At Six - Cavalier Youth](/public/images/2016/11/41FG2erTmaL._SS500.jpg){.aoty .aoty-winner}
 I honestly don't think these lads from Surrey can do anything wrong. Not a thing. I adore every track on all four of their albums, and await the forthcoming fifth one with bated credit card.
 
 I was enamoured with their sound as soon as I heard their first two albums – produced by friend of the show, [Mr. John Mitchell](https://en.wikipedia.org/wiki/John_Mitchell_(musician)) – and their songwriting chops have grown and matured heaps since then. There is always a level of dynamics in their songs that I find missing in so much new music. I can't recommend them enough.

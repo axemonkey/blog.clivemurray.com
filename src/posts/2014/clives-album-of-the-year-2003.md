@@ -40,7 +40,7 @@ Among many others we lost [Maurice Gibb](http://en.wikipedia.org/wiki/Maurice_Gi
 ## And the winner is…
 
 ### [The Darkness](http://www.theactualdarkness.com) - [Permission To Land](http://www.amazon.co.uk/Permission-Land-Darkness/dp/B0000A0C4U/)
-![The Darkness - Permission To Land](/public/images/2020/06/the-darkness_permission-to-land.jpeg)
+![The Darkness - Permission To Land](/public/images/2020/06/the-darkness_permission-to-land.jpeg){.aoty .aoty-winner}
 Absolutely! You couldn't move in 2003 for stripey spandex catsuits, and Justin climbing up on Jools' piano to play a solo during their first appearance on Later is something I'll remember for a while.
 
 The thing is, it's not just a joke - the songs are incredibly well written, especially the lyrics. Yes there is humour involved, but under that there is a damned fine rock band playing great rock songs. And Justin has a knack for writing a song that initially seems to be about one thing but when you actually stop and listen to what he's saying, it's totally something else.

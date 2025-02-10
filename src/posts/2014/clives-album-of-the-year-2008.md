@@ -48,7 +48,7 @@ Yes it is. **Top track:** "Better"
 ## And the winner is...
 
 ### [You Me At Six](http://www.youmeatsix.co.uk/) - [Take Off Your Colours](http://www.amazon.co.uk/Take-Off-Your-Colours-2CD/dp/B002IKK8PM/)
-![You Me At Six - Take Off Your Colours](/public/images/2020/06/you-me-at-six_take-off-your-colours.jpg)
+![You Me At Six - Take Off Your Colours](/public/images/2020/06/you-me-at-six_take-off-your-colours.jpg){.aoty .aoty-winner}
 Again, I've written a little about *You Me At Six*[before](/clives-album-of-the-year-2011/), and it pleases me greatly to say that this - their debut - doesn't have a bad track on it. Catchy rocky tunes that will lodge in your mind, great choruses and lovely raw production (recorded at His Holiness John Mitchell's Outhouse Studios, and co-produced by HHJM too, funnily enough)... what's not to love?
 
 Get it.

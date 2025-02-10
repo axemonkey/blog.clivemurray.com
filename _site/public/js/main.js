@@ -1,4 +1,9 @@
 // import {lapBanner} from './modules/lap-banner.js';
+import {
+	confettiSetti,
+	// render,
+	initBurst,
+} from './modules/confetti.js';;
 
 const checkPulse = () => {
 	console.log('it loads...');
@@ -94,6 +99,10 @@ window.addEventListener('load', function() {
 		initHomepageNav();
 	} else if (bodyEl.classList.contains('post-template')) {
 		console.log('about to init sticky nav');
+
+		// commented this out, as decided not to use sticky nav.
+		// it should just work again by uncommenting the initStickyNav() call
+
 		// initStickyNav(window, document);
 		// Casper.stickyNavTitle({
 		// 	navSelector: '.site-nav-main',
@@ -191,3 +200,28 @@ const fitVids = () => {
 };
 
 window.addEventListener('load', fitVids);
+
+const initImageEffects = () => {
+	console.log(`initImageEffects`);
+	const aotyWinners = document.querySelectorAll('.aoty-winner');
+	if (aotyWinners.length > 0) {
+		for (let index = 0; index < aotyWinners.length; index++) {
+			console.log(`winner found, init confetti canvas ${index}`);
+			confettiSetti(index);
+			const opt = {
+				threshold: 1,
+			};
+			const callback = (entries, observer) => {
+				if (entries[0].isIntersecting) {
+					console.log(`AotY winner ${index} visible`);
+					initBurst(index);
+					observer.unobserve(entries[0].target);
+				}
+			};
+			const observer = new IntersectionObserver(callback, opt);
+			observer.observe(aotyWinners[index]);
+		}
+	}
+};
+
+window.addEventListener('load', initImageEffects);

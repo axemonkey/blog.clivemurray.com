@@ -102,7 +102,9 @@ Ready? OK. Here are the contenders for the top spot from 2020, a blighted year t
 ## And the winner is…
 
 ### [Lady Gaga](https://ladygaga.com/) - [Chromatica](https://smile.amazon.co.uk/Chromatica-Deluxe-CD-Lady-Gaga/dp/B0857C2CBG/)
-![Lady Gaga - Chromatica](/public/images/2021/09/_ladygaga-chromatica.jpg)
+
+![Lady Gaga - Chromatica](/public/images/2021/09/_ladygaga-chromatica.jpg){.aoty .aoty-winner}
+
 I was converted to the Church of Gaga via a friend in late 2019, and her music got me through some very **very** dark teatimes of the soul indeed. You may find that just the idea of listening to *Lady Gaga* leaves you cold, and that’s fair enough, I won’t try to change your mind. What I’ll say is that I’m a different person to the one I was two or three years ago, and listening to something other than constant rock has helped me to get out of a personal rut and feel less stagnant in my mind.
 
 Something like that, anyway.

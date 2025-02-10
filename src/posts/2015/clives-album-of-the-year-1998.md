@@ -43,7 +43,7 @@ Having been a Satch fan for about a decade at the time, I thought this was a fin
 
 ### [Barenaked Ladies](http://www.barenakedladies.com/) - [Stunt](http://www.amazon.co.uk/Stunt-Barenaked-Ladies/dp/B000007NDA/)
 
-![Barenaked Ladies - Stunt](/public/images/2018/03/511QB-LD8cL.jpg)
+![Barenaked Ladies - Stunt](/public/images/2018/03/511QB-LD8cL.jpg){.aoty .aoty-winner}
 
 I'd not long been acquainted with the fabulousness of *BNL* in 1998. Some friends played a few of their tracks in their band's set, and I liked those well enough, but I hadn't really gotten into them properly. Then this album came out with its vanguard single, the tongue-twistingly delightful "One Week", and I had to have the CD, which then led to a (pre-torrent, pre-Amazon) hoovering up of all their previous works (every one of which I recommend highly).
 

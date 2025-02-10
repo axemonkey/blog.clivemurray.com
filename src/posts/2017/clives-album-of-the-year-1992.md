@@ -63,7 +63,7 @@ I spent ages on this. Weeks. I agonised. I fretted. I consulted with my longest 
 
 ### [Dream Theater](http://www.dreamtheater.net/) - [Images and Words](https://www.amazon.co.uk/Images-Words-Dream-Theater/dp/B002HVLDSS/)
 
-![Dream Theater - Images and Words](/public/images/2017/01/Images_and_Words.jpg)
+![Dream Theater - Images and Words](/public/images/2017/01/Images_and_Words.jpg){.aoty .aoty-winner}
 
 You have to remember, it was 1992. Shred had existed for years (Malmsteen, Becker, Gilbert, all the Shrapnel label fellas) and prog had for decades, though I’d never really listened to any of it. And then one day someone showed up with a tape of **Images and Words**, and it blew my mind clean off. I’m aware that it wasn’t their debut album, but it was the first with singer James LaBrie and it was, I think, the first to get proper label backing and promotion. Anyway, I knew nothing about it.
 
@@ -75,7 +75,7 @@ I’d never heard musicianship like it from a whole band at once before – perh
 
 ### [Pantera](http://pantera.com/) - [Vulgar Display of Power](https://www.amazon.co.uk/Vulgar-Display-Power-Explicit-Pantera/dp/B001F4W1M0/)
 
-![Pantera - Vulgar Display of Power](/public/images/2017/01/vulgar500.jpg)
+![Pantera - Vulgar Display of Power](/public/images/2017/01/vulgar500.jpg){.aoty .aoty-winner}
 
 F*** me. This is how you do metal. OK, so it turns out that vocalist Phil Anselmo might be at best a bit of a tool and at worst some kind of white supremacist, but you can’t deny his output on this album is nothing short of mindbending. Gone are the Rob-Halford-esque high squeals that date the previous album **Cowboys From Hell** so much, and here is a voice that commands and delivers power from start to finish.
 
@@ -91,7 +91,7 @@ So then, “Dimebag” Darrell Abbott on guitar. So much has been said about him
 
 ### [Joe Satriani](http://www.satriani.com/) - [The Extremist](https://www.amazon.co.uk/Extremist-Joe-Satriani/dp/B00JN52E9I/)
 
-![Joe Satriani - The Extremist](/public/images/2017/01/extremist.jpg)
+![Joe Satriani - The Extremist](/public/images/2017/01/extremist.jpg){.aoty .aoty-winner}
 
 It was *Satch*’s 1987 release **Surfing With the Alien** that earned him his first grammy nomination and which blew the world of instrumental guitar wide open, and rightly so. His 1989 follow-up **Flying in a Blue Dream** trod some new, slightly shaky ground, with Joe taking lead vocals on some songs in between the instrumentals with (if I’m honest) mixed results.
 
@@ -107,7 +107,7 @@ But anyway, balls to that, we’re not here to read the titles are we? We’re h
 
 ### [T-Ride](https://en.wikipedia.org/wiki/T-Ride) - [T-Ride](https://www.amazon.co.uk/T-ride/dp/B0032N17AY/)
 
-![T-Ride - T-Ride](/public/images/2017/01/t-ride-1.jpg)
+![T-Ride - T-Ride](/public/images/2017/01/t-ride-1.jpg){.aoty .aoty-winner}
 
 People fall into two categories: people who have never heard of *T-Ride*, and people who absolutely loved them and still to this day cannot work out why they weren’t the biggest band of their time.
 

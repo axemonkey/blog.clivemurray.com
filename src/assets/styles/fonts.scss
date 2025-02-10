@@ -2,7 +2,7 @@
 @font-face {
 	font-family: Atkinson-Hyperlegible;
 	src: url("/public/fonts/Atkinson-Hyperlegible-Regular-102.woff2")
-			format("woff2");
+		format("woff2");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -15,14 +15,14 @@
 @font-face {
 	font-family: Atkinson-Hyperlegible;
 	src: url("/public/fonts/Atkinson-Hyperlegible-Italic-102.woff2")
-			format("woff2");
+		format("woff2");
 	font-weight: normal;
 	font-style: italic;
 }
 @font-face {
 	font-family: Atkinson-Hyperlegible;
 	src: url("/public/fonts/Atkinson-Hyperlegible-BoldItalic-102.woff2")
-			format("woff2");
+		format("woff2");
 	font-weight: bold;
 	font-style: italic;
 }
@@ -56,13 +56,15 @@
 // Inclusive Sans
 @font-face {
 	font-family: InclusiveSans;
-	src: url("/public/fonts/InclusiveSans-VariableFont_wght.woff2") format("woff2");
+	src: url("/public/fonts/InclusiveSans-VariableFont_wght.woff2")
+		format("woff2");
 	font-weight: normal bold;
 	font-style: normal;
 }
 @font-face {
 	font-family: InclusiveSans;
-	src: url("/public/fonts/InclusiveSans-Italic-VariableFont_wght.woff2") format("woff2");
+	src: url("/public/fonts/InclusiveSans-Italic-VariableFont_wght.woff2")
+		format("woff2");
 	font-weight: normal bold;
 	font-style: italic;
 }

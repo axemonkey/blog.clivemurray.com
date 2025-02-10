@@ -62,7 +62,9 @@ So, twelve releases that rank higher on the playlist at Murray Towers than every
 Yeah, it's happened again. With so much awesome music out these days it's getting impossible not only to prune the shortlist down to 6, but also to separate my favourites. So 2018 has provided us with **a three-way tie**, I'm afraid. Not my fault, honest.
 
 ### [Greta Van Fleet](http://gretavanfleet.com/) - [Anthem of the Peaceful Army](https://www.amazon.co.uk/Anthem-Peaceful-Army-Greta-Fleet/dp/B07H57DNVV)
-![Greta Van Fleet – Anthem of the Peaceful Army](/public/images/2019/05/peacefularmy-1.jpg)
+
+![Greta Van Fleet – Anthem of the Peaceful Army](/public/images/2019/05/peacefularmy-1.jpg){.aoty .aoty-winner}
+
 Well. It’s true that last year’s [winner](/clives-album-of-the-year-2017/#gretavanfleetfromthefires) **From the Fires** was in fact two EPs bolted together to make an album in order to get *GVF* out into the world, but it never felt like it. It felt like a cohesive album, though maybe one that could have used another month or two in the studio (two covers out of eight songs (one of them by sodding *Fairport Convention* for cock’s sake) could be seen as meriting a black mark). Nonetheless, it was with a little trepidation that I received their first proper full-length studio album and put the zeros and ones into the player and lowered the virtual needle.
 
 I needn’t have worried – it’s a belter from soup to finish. The kids (I’m allowed to call them that – I’m twice the age of their eldest member) from Michigan have absolutely stuck the landing with this one. I’ve seen them live twice too (it would have been three times had singer Josh not gone down with a chest infection and had to postpone the 2019 tour) and they are absolutely electric in the flesh. This is a brilliant rock album, full of heart and sincerity, and if you can’t get past the comparisons to *Led Zeppelin* then the problem lies with you, not them. These guys are something new and inspiring.
@@ -70,7 +72,9 @@ I needn’t have worried – it’s a belter from soup to finish. The kids (I’
 **Top tracks:** "When the Curtain Falls", "The Cold Wind", "Brave New World"
 
 ### [Michael Romeo](http://michaelromeomusic.com/) - [War of the Worlds / Pt. 1](https://www.amazon.co.uk/War-Worlds-Pt-Michael-Romeo/dp/B07CZ9S8W6/)
-![Michael Romeo - War of the Worlds / Pt. 1](/public/images/2019/05/wotwp1-1.jpg)
+
+![Michael Romeo - War of the Worlds / Pt. 1](/public/images/2019/05/wotwp1-1.jpg){.aoty .aoty-winner}
+
 It was another particularly foamy [AMG review](https://www.angrymetalguy.com/michael-romeo-war-worlds-review/) that tipped me off to *Michael Romeo*, and knowing absolutely nothing of his previous work (his daytime gig is apparently *Symphony X* of whom I know nothing) I went into this with virgin ears wide open. That sounds wrong.
 
 Anyway, what I found in my ears was one of the best heavy metal albums I have ever heard. Romeo’s arrangements and orchestrations really carry along the concept-y feel of the album (it is apparently inspired by [the H. G. Wells novel](https://en.wikipedia.org/wiki/The_War_of_the_Worlds) but is not a full concept album in the literal sense) and the guitar work is flawless and pyrotechnic throughout. Romeo even manages to work in some elements of dance music and even dubstep without it feeling out of place – no mean feat in what is on the face of it a straight-up metal album.
@@ -82,7 +86,9 @@ If you like metal – and you **do** like metal, by the way – then you will li
 **Top tracks:** "Fear the Unknown", "F\*cking Robots", "Oblivion"
 
 ### [Mika Tyyskä](http://mrfastfinger.net/) - [Night Overdrive](https://www.amazon.co.uk/Night-Overdrive-Mika-Tyysk%C3%A4/dp/B07H5JFXJD/)
-![Mika Tyyskä - Night Overdrive](/public/images/2019/05/nightoverdrive-1.jpg)
+
+![Mika Tyyskä - Night Overdrive](/public/images/2019/05/nightoverdrive-1.jpg){.aoty .aoty-winner}
+
 This Finnish virtuoso was first known as [*Mr. Fastfinger*](https://en.wikipedia.org/wiki/Mr._Fastfinger) – an animated ([Flash](https://en.wikipedia.org/wiki/Adobe_Flash), remember that?) web character who ran his own [online guitar school](http://guitarshredshow.com/) back in 2005. Behind the gimmicky character and animation was in fact a great guitarist running real guitar courses, and that was *Mika Tyyskä*. (Incidentally, he did all the animation and stuff himself – talented bugger.) The more the site gained popularity, the more the mythical mystical Fastfinger was asked to share and teach in the real world, and so Mika stepped out from behind the computer and began running guitar clinics in Europe and Japan.
 
 Inevitably there had to be output, and so the debut Fastfinger album **The Way of the Exploding Guitar** was released in 2009, and excellent it is too. It might have been in the shortlist had I known about Tyyskä when I compiled that year's list. (The same goes for 2012's **In Motion**, 2015's **Spirit Rising**, and the 2013 and 2016 EPs **Stringweaver** and **Neon Alchemist**, actually. They're all excellent.)

@@ -40,7 +40,7 @@ Also the new [Wembley Stadium](http://en.wikipedia.org/wiki/Wembley_Stadium) ope
 ## And the winner is...
 
 ### [Turisas](http://www.turisas.com/) - [The Varangian Way](http://www.amazon.co.uk/The-Varangian-Way-Turisas/dp/B000PHW0FQ/)
-![Turisas - The Varangian Way](/public/images/2020/06/turisas_the-varangian-way.jpeg)
+![Turisas - The Varangian Way](/public/images/2020/06/turisas_the-varangian-way.jpeg){.aoty .aoty-winner}
 "I WAS CONWINCED!"
 
 Yes, another folkish metal winner this year, this time from Finnish battle metallers *Turisas* with this truly magnificent album. It's a concept journey (of course it is) and tells the story of a group of Vikings (or [Varangians](http://en.wikipedia.org/wiki/Varangian), natch) travelling the rivers of medieval Russia (obviously) down to the Byzantine Empire. The sound on this album is really focussed and the songs perfectly executed yet with such an atmosphere that you can almost hear the creak of the oars and feel the wind in the sails.

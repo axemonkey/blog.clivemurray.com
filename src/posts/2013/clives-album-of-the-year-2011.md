@@ -54,7 +54,7 @@ A lot of great music came my way in 2011. There were comeback albums from *Anthr
 ## And the winner is...
 
 ### [You Me At Six](http://www.youmeatsix.co.uk/) - [Sinners Never Sleep](http://www.amazon.co.uk/Sinners-Never-Sleep-You-Six/dp/B005FEE7NC/)
-![You Me At Six - Sinners Never Sleep](/public/images/2019/04/sinnersneversleep.jpg)
+![You Me At Six - Sinners Never Sleep](/public/images/2019/04/sinnersneversleep.jpg){.aoty .aoty-winner}
 These guys are so great it's sickening. Oh and they're probably really young, and good at sports or something too. [Checks...] Yeah the singer was born in 1990 for Christ's sake. That's just rude. I've no idea what to call the genre of rock they play, but Wikipedia gives me three: alternative rock, pop punk, and post-hardcore. Make of that what you will - it's loud and I love it.
 
 **Top tracks:** "Loverboy", "This Is The First Thing", "Reckless"

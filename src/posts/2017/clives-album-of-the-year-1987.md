@@ -47,7 +47,7 @@ Yes, I like Sting (up to a point, and **Mercury Falling** was that point – aft
 
 ### [Guns N’ Roses](http://www.gunsnroses.com/) - [Appetite For Destruction](https://www.amazon.co.uk/Appetite-Destruction-Guns-N-Roses/dp/B000026E3O/)
 
-![Guns N’ Roses - Appetite For Destruction](/public/images/2017/05/afd.jpg)
+![Guns N’ Roses - Appetite For Destruction](/public/images/2017/05/afd.jpg){.aoty .aoty-winner}
 
 In some ways, this entire series has been leading up to this point. (I'm certainly not going much further back than '87… perhaps another year or two if I can find enough good stuff…)
 
