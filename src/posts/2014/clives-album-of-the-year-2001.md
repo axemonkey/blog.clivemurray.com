@@ -23,23 +23,23 @@ And so, to business.
 
 ### [Backyard Babies](http://www.backyardbabies.com/) - [Making Enemies Is Good](http://www.amazon.co.uk/Making-Enemies-Good-Backyard-Babies/dp/B00005EBSZ/)
 
-![Backyard Babies – Making Enemies Is Good](/public/images/2020/06/backyard-babies_making-enemies-is-good.jpg) I've mentioned these Swedish sleaze pioneers before, and this was the first work of theirs to grace my ears. It grabbed me immediately, and was one of the first lights to truly go on in [the darkness](/the-dark-times). Still great 13 years later. Raw and punky, but slick enough to enjoy on a daily basis. **Top track:** "The Clash"
+![Backyard Babies – Making Enemies Is Good](/public/images/2020/06/backyard-babies_making-enemies-is-good.jpg){.aoty .aoty-mention} I've mentioned these Swedish sleaze pioneers before, and this was the first work of theirs to grace my ears. It grabbed me immediately, and was one of the first lights to truly go on in [the darkness](/the-dark-times). Still great 13 years later. Raw and punky, but slick enough to enjoy on a daily basis. **Top track:** "The Clash"
 
 ### [Beautiful Creatures](http://en.wikipedia.org/wiki/Beautiful_Creatures_%28band%29) - [Beautiful Creatures](http://www.amazon.co.uk/Beautiful-Creatures/dp/B00005N82Q/)
 
-![Beautiful Creatures – Beautiful Creatures](/public/images/2020/06/beautiful-creatures_beautiful-creatures-1.jpg) Around the time I first heard of *Backyard Babies*, it also came to my attention that Joe LeSte (previously of *Bang Tango*) had a new outfit on the scene, and I checked out the record. It's great - but it's dated far worse than the Babies' record has. Still has its moments, though. **Top track:** "1 A.M."
+![Beautiful Creatures – Beautiful Creatures](/public/images/2020/06/beautiful-creatures_beautiful-creatures-1.jpg){.aoty .aoty-mention} Around the time I first heard of *Backyard Babies*, it also came to my attention that Joe LeSte (previously of *Bang Tango*) had a new outfit on the scene, and I checked out the record. It's great - but it's dated far worse than the Babies' record has. Still has its moments, though. **Top track:** "1 A.M."
 
 ### [John Butler Trio](http://johnbutlertrio.com/) - [Three](http://www.amazon.co.uk/Three-John-Butler-Trio/dp/B0041HU3UU/)
 
-![John Butler Trio – Three](/public/images/2020/06/john-butler-trio_three.jpg) Yes! It's not *all* about hard rock! I had never heard of Mr. Butler or his trio, until my wife's (then girlfriend's) cousin [Roland So Real](http://twitter.com/rolandsoreal) came all the way from Australia to stay with us for a bit and brought a couple of CDs as a gift. This was one of them, and it remains a solid favourite. Real hard, dirty, acoustic grooving with a top soulful voice. Thanks heaps, Rols. **Top track:** "Betterman"
+![John Butler Trio – Three](/public/images/2020/06/john-butler-trio_three.jpg){.aoty .aoty-mention} Yes! It's not *all* about hard rock! I had never heard of Mr. Butler or his trio, until my wife's (then girlfriend's) cousin [Roland So Real](http://twitter.com/rolandsoreal) came all the way from Australia to stay with us for a bit and brought a couple of CDs as a gift. This was one of them, and it remains a solid favourite. Real hard, dirty, acoustic grooving with a top soulful voice. Thanks heaps, Rols. **Top track:** "Betterman"
 
 ### [Muse](http://www.muse.mu) - [Origin Of Symmetry](http://www.amazon.co.uk/Origin-Symmetry-Muse/dp/B0000CG3K6/)
 
-![Muse – Origin Of Symmetry](/public/images/2020/06/muse_origin-of-symmetry.jpg) The Devon mega-trio really broke through with this one - not a bad tune on there. I originally had "Bliss" down as top track, but who am I kidding? **Top track:** "Plug In Baby"
+![Muse – Origin Of Symmetry](/public/images/2020/06/muse_origin-of-symmetry.jpg){.aoty .aoty-mention} The Devon mega-trio really broke through with this one - not a bad tune on there. I originally had "Bliss" down as top track, but who am I kidding? **Top track:** "Plug In Baby"
 
 ### [Nickelback](http://www.nickelback.com/) - [Silver Side Up](http://www.amazon.co.uk/Silver-Side-Up-Nickelback/dp/B00005NY53/)
 
-![Nickelback – Silver Side Up](/public/images/2020/06/nickelback_silver-side-up.jpg) OK. Yes. Yes, you're right. Yes, they are. I know. No please, go on.
+![Nickelback – Silver Side Up](/public/images/2020/06/nickelback_silver-side-up.jpg){.aoty .aoty-mention} OK. Yes. Yes, you're right. Yes, they are. I know. No please, go on.
 
 Yes, I accept that. Of course not. No.
 

@@ -21,23 +21,23 @@ Unfortunately, even though [The Dark Times](/the-dark-times/) had ended by 2005,
 
 ### [Crashdïet](http://www.crashdiet.org/) - [Rest in Sleaze](http://www.amazon.co.uk/Rest-In-Sleaze-Crashdiet/dp/B000B6TRQ6/)
 
-![Crashdïet – Rest in Sleaze](/public/images/2020/06/crashdiet_rest-in-sleaze.jpg) These Swedish glamsters were at the forefront of the new wave of sleaze and glam metal, and this - their debut - is their best album to date, featuring as it does the vocal stylings of the late Dave Lepard. Nothing outstandingly original here, but delivered with flair and conviction at a time when it was sorely needed. **Top track:** "It's a Miracle"
+![Crashdïet – Rest in Sleaze](/public/images/2020/06/crashdiet_rest-in-sleaze.jpg){.aoty .aoty-mention} These Swedish glamsters were at the forefront of the new wave of sleaze and glam metal, and this - their debut - is their best album to date, featuring as it does the vocal stylings of the late Dave Lepard. Nothing outstandingly original here, but delivered with flair and conviction at a time when it was sorely needed. **Top track:** "It's a Miracle"
 
 ### [Forty Deuce](http://en.wikipedia.org/wiki/Nothing_to_Lose_%28Forty_Deuce_album%29) - [Nothing to Lose](http://www.amazon.co.uk/Nothing-Lose-Forty-Deuce/dp/B000H9I0Z6/)
 
-![Forty Deuce – Nothing to Lose](/public/images/2020/06/forty-deuce_nothing-to-lose.jpg) I've been a *Richie Kotzen* fan for a long time, but always wished he would record more hard rock - it's been a while since **Fever Dream**, after all - so this (recorded, I assume, when he reached age 42) was a welcome find. **Top track:** "Oh My God"
+![Forty Deuce – Nothing to Lose](/public/images/2020/06/forty-deuce_nothing-to-lose.jpg){.aoty .aoty-mention} I've been a *Richie Kotzen* fan for a long time, but always wished he would record more hard rock - it's been a while since **Fever Dream**, after all - so this (recorded, I assume, when he reached age 42) was a welcome find. **Top track:** "Oh My God"
 
 ### [Hardcore Superstar](http://www.hardcoresuperstar.com/) - [Hardcore Superstar](http://www.amazon.co.uk/Hardcore-Superstar/dp/B000GIWSA6/)
 
-![Hardcore Superstar – Hardcore Superstar](/public/images/2020/06/hardcore-superstar_hardcore-superstar.jpg) It's Swedish glamster time again. These guys have been banging it out since the late 90s and while their earlier efforts were somewhat naïve to say the least, their writing has matured over time and this eponymous release (their fourth album) is a really good cohesive listen. Bung it on and crack a beer. **Top track:** "We Don't Celebrate Sundays"
+![Hardcore Superstar – Hardcore Superstar](/public/images/2020/06/hardcore-superstar_hardcore-superstar.jpg){.aoty .aoty-mention} It's Swedish glamster time again. These guys have been banging it out since the late 90s and while their earlier efforts were somewhat naïve to say the least, their writing has matured over time and this eponymous release (their fourth album) is a really good cohesive listen. Bung it on and crack a beer. **Top track:** "We Don't Celebrate Sundays"
 
 ### [John 5](http://www.john-5.com/) - [Songs For Sanity](http://www.amazon.co.uk/Songs-Sanity-John-5/dp/B000A87WOE/)
 
-![John 5 – Songs For Sanity](/public/images/2020/06/john-5_songs-for-sanity.jpg) When I first heard Señor Cinco's debut solo album **Vertigo** I thought to myself, "Wow, that's really something, even if the production isn't quite what it could be. I bet his next album will be a cracker." It is. **Top track:** "Perineum"
+![John 5 – Songs For Sanity](/public/images/2020/06/john-5_songs-for-sanity.jpg){.aoty .aoty-mention} When I first heard Señor Cinco's debut solo album **Vertigo** I thought to myself, "Wow, that's really something, even if the production isn't quite what it could be. I bet his next album will be a cracker." It is. **Top track:** "Perineum"
 
 ### [John Petrucci](http://www.johnpetrucci.com/) - [Suspended Animation](http://www.amazon.co.uk/Suspended-Animation-Import-JOHN-PETRUCCI/dp/B0009ZEC2I/)
 
-![John Petrucci – Suspended Animation](/public/images/2020/06/john-petrucci_suspended-animation.jpg) Warning: contains notes. I was all set to write off Petrucci's solo album as a dull shredwankfest, but it's actually pretty damn good. Some of the melodies are downright catchy. Really good to hear what he gets up to outside of *Dream Theater*. Reminiscent of *Steve Morse* in places too, which is never a bad thing. **Top track:** "Glasgow Kiss"
+![John Petrucci – Suspended Animation](/public/images/2020/06/john-petrucci_suspended-animation.jpg){.aoty .aoty-mention} Warning: contains notes. I was all set to write off Petrucci's solo album as a dull shredwankfest, but it's actually pretty damn good. Some of the melodies are downright catchy. Really good to hear what he gets up to outside of *Dream Theater*. Reminiscent of *Steve Morse* in places too, which is never a bad thing. **Top track:** "Glasgow Kiss"
 
 ## And the winner is...
 

@@ -23,23 +23,23 @@ New-releases-wise it was a cracking year for metal ([*The Damned Things*](http:/
 
 ### [Cloudkicker](http://cloudkickermusic.com/) - [Beacons](http://cloudkickermusic.com/album/beacons)
 
-![Cloudkicker – Beacons](/public/images/2020/05/cloudkicker_beacons.jpeg)*Cloudkicker* is the recording monicker of one Ben Sharp, and aside from that not a great deal more is known. He's a one-man show that creates wonderful music, and pretty much gives it away - which in the end is probably as much as you need to know. Great stuff. **Top track:** "Oh, god."
+![Cloudkicker – Beacons](/public/images/2020/05/cloudkicker_beacons.jpeg){.aoty .aoty-mention} *Cloudkicker* is the recording monicker of one Ben Sharp, and aside from that not a great deal more is known. He's a one-man show that creates wonderful music, and pretty much gives it away - which in the end is probably as much as you need to know. Great stuff. **Top track:** "Oh, god."
 
 ### [The Damned Things](http://www.thedamnedthings.com/) - [Ironiclast](http://www.amazon.co.uk/Ironiclast-The-Damned-Things/dp/B0047A87OK)
 
-![The Damned Things – Ironiclast](/public/images/2020/05/the-damned-things_ironiclast.jpeg) I know nothing about *Fall Out Boy*, *Every Time I Die*, or *Volbeat*, which puts me at a disadvantage here as I am unfamiliar with the work of 5 out of 6 of the members of this metal supergroup. The one member I do know is Scott Ian of *Anthrax*, and it was on his presence alone that I took a gamble on this album. It's bloody excellent. **Top track:** "Bad Blood"
+![The Damned Things – Ironiclast](/public/images/2020/05/the-damned-things_ironiclast.jpeg){.aoty .aoty-mention} I know nothing about *Fall Out Boy*, *Every Time I Die*, or *Volbeat*, which puts me at a disadvantage here as I am unfamiliar with the work of 5 out of 6 of the members of this metal supergroup. The one member I do know is Scott Ian of *Anthrax*, and it was on his presence alone that I took a gamble on this album. It's bloody excellent. **Top track:** "Bad Blood"
 
 ### [Eluveitie](http://eluveitie.ch/) - [Everything Remains As It Never Was](http://www.amazon.com/Everything-Remains-As-Never-Was/dp/B002ZCD8Z0)
 
-![Eluveitie – Everything Remains As It Never Was](/public/images/2020/05/eluveitie_everything-remains-as-it-never-was.jpg) Power metal riffs, death metal vocals, penny whistles and hurdy-gurdies. Smashing. **Top track:** "Thousandfold"
+![Eluveitie – Everything Remains As It Never Was](/public/images/2020/05/eluveitie_everything-remains-as-it-never-was.jpg){.aoty .aoty-mention} Power metal riffs, death metal vocals, penny whistles and hurdy-gurdies. Smashing. **Top track:** "Thousandfold"
 
 ### [My Chemical Romance](http://www.mychemicalromance.com/) - [Danger Days: The True Lives of the Fabulous Killjoys](http://www.amazon.co.uk/Danger-Days-Lives-Fabulous-Killjoys/dp/B0044KU7KU)
 
-![My Chemical Romance – Danger Days: The True Lives of the Fabulous Killjoys](/public/images/2020/05/my-chemical-romance_danger-days.jpg) No, shut up. Shut your hole, dammit. I know you, and you were thinking about saying something like "But aren't they emo?" Stop it. This is a fantastic album of pop/rock tunes, and even if the pseudo-post-apocalyptic concept schtick can feel a little forced, songs like "Sing", "Summertime", "The Kids From Yesterday", and the sublime "The Only Hope For Me Is You" are proof that *MCR* were never some sub-genre fad, but a damned decent rock band. Shame this was their last album, as it turned out. **Top track:** "The Kids From Yesterday"
+![My Chemical Romance – Danger Days: The True Lives of the Fabulous Killjoys](/public/images/2020/05/my-chemical-romance_danger-days.jpg){.aoty .aoty-mention} No, shut up. Shut your hole, dammit. I know you, and you were thinking about saying something like "But aren't they emo?" Stop it. This is a fantastic album of pop/rock tunes, and even if the pseudo-post-apocalyptic concept schtick can feel a little forced, songs like "Sing", "Summertime", "The Kids From Yesterday", and the sublime "The Only Hope For Me Is You" are proof that *MCR* were never some sub-genre fad, but a damned decent rock band. Shame this was their last album, as it turned out. **Top track:** "The Kids From Yesterday"
 
 ### [Pendulum](http://www.pendulum.com/) - [Immersion](http://www.amazon.co.uk/Immersion-Pendulum/dp/B003GEDLW6)
 
-![Pendulum – Immersion](/public/images/2020/05/pendulum_immersion.jpg) I'd not heard of *Pendulum* before this, but when I did I loved them. An excellent mix of drum 'n' bass styles and real instruments, plus some cracking tunes. Lovely stuff. **Top track:** "Crush"
+![Pendulum – Immersion](/public/images/2020/05/pendulum_immersion.jpg){.aoty .aoty-mention} I'd not heard of *Pendulum* before this, but when I did I loved them. An excellent mix of drum 'n' bass styles and real instruments, plus some cracking tunes. Lovely stuff. **Top track:** "Crush"
 
 ---
 

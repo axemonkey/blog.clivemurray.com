@@ -19,19 +19,19 @@ Those taking the Stairway or the Highway included [Peter Ustinov](http://en.wiki
 
 ### [Alter Bridge](http://www.alterbridge.com/) - [One Day Remains](http://www.amazon.co.uk/One-Day-Remains-Alter-Bridge/dp/B002LK0XIG/)
 
-![Alter Bridge – One Day Remains](/public/images/2020/06/alter-bridge_one-day-remains.jpg) Yep, *Alter Bridge* again. Honestly, one of the best heavy rock bands around, and this was their debut album. It's amazing from start to finish - one of the best debuts ever. It craps all over *Creed* from the greatest of heights. **Top track:** "One Day Remains"
+![Alter Bridge – One Day Remains](/public/images/2020/06/alter-bridge_one-day-remains.jpg){.aoty .aoty-mention} Yep, *Alter Bridge* again. Honestly, one of the best heavy rock bands around, and this was their debut album. It's amazing from start to finish - one of the best debuts ever. It craps all over *Creed* from the greatest of heights. **Top track:** "One Day Remains"
 
 ### [Green Day](http://www.greenday.com/) - [American Idiot](http://www.amazon.co.uk/American-Idiot-Green-Day/dp/B0002OERI0/)
 
-![Green Day – American Idiot](/public/images/2020/06/green-day_american-idiot.jpg) You've always known what you're going to get with a *Green Day* album - well delivered straight-ahead punky rock with plenty of attitude - but for me this was where they took it up a notch and really felt like they had something to say. **Top track:** "Boulevard of Broken Dreams"
+![Green Day – American Idiot](/public/images/2020/06/green-day_american-idiot.jpg){.aoty .aoty-mention} You've always known what you're going to get with a *Green Day* album - well delivered straight-ahead punky rock with plenty of attitude - but for me this was where they took it up a notch and really felt like they had something to say. **Top track:** "Boulevard of Broken Dreams"
 
 ### [The Streets](http://the-streets.co.uk/) - [A Grand Don’t Come For Free](http://www.amazon.co.uk/Grand-Dont-Come-For-Free/dp/B0001XARU4/)
 
-![The Streets – A Grand Don’t Come For Free](/public/images/2020/06/the-streets_a-grand-dont-come-for-free.jpg) I really don't do the hippety-hop, save for the mighty *Scroobius Pip*, but when I gave this "rap opera" concept album a crack I couldn't get enough. Skinner is properly clever with his lyrics and the tunes are engaging. Plus I've totally been that guy in the club in "Blinded By The Lights" once or twice. **Top track:** "Blinded By The Lights"
+![The Streets – A Grand Don’t Come For Free](/public/images/2020/06/the-streets_a-grand-dont-come-for-free.jpg){.aoty .aoty-mention} I really don't do the hippety-hop, save for the mighty *Scroobius Pip*, but when I gave this "rap opera" concept album a crack I couldn't get enough. Skinner is properly clever with his lyrics and the tunes are engaging. Plus I've totally been that guy in the club in "Blinded By The Lights" once or twice. **Top track:** "Blinded By The Lights"
 
 ### [Velvet Revolver](http://www.velvetrevolver.com/) - [Contraband](http://www.amazon.co.uk/Contraband-Velvet-Revolver/dp/B0001Z2Q74/)
 
-![Velvet Revolver – Contraband](/public/images/2020/06/velvet-revolver_contraband.jpg) I love *Slash* and everything he does, so when he reunited with Duff McKagan and Matt Sorum of *Guns N' Roses* to form a supergroup with Scott Weiland of *Stone Temple Pilots* on vocals, I was sure the resulting album would be stellar. You know what? It is. **Top track:** "Headspace"
+![Velvet Revolver – Contraband](/public/images/2020/06/velvet-revolver_contraband.jpg){.aoty .aoty-mention} I love *Slash* and everything he does, so when he reunited with Duff McKagan and Matt Sorum of *Guns N' Roses* to form a supergroup with Scott Weiland of *Stone Temple Pilots* on vocals, I was sure the resulting album would be stellar. You know what? It is. **Top track:** "Headspace"
 
 ## And the winners are…
 

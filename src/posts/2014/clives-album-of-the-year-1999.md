@@ -51,7 +51,7 @@ Tina lives in Berlin, her voice so seldom on my machine.
 
 Etc.
 
-Again, I was late to the **Underworld** party, but my mate trying hard to get me to listen to something that didn't at least feature a fast lead guitarist must have finally broken through because one day I saw the light. I won't lie to you, drugs probably played a part. This is *splendid* music to get at least partially out of your face to. In fact I think I'd been listening to this album for a number of years before I realised that the lyrics to "Push Upstairs" and "Push Downstairs" are the same, and that one is a downtempo moody version of the other. Which is quite clever, though I obviously wasn't.
+Again, I was late to the **Underworld** party, but my mate trying hard to get me to listen to something that didn't at least feature a fast lead guitarist must have finally broken through because one day I saw the light. I won't lie to you, alcohol probably played a part. This is *splendid* music to get at least partially off your ordinary face to. In fact I think I'd been listening to this album for a number of years before I realised that the lyrics to "Push Upstairs" and "Push Downstairs" are the same, and that one is a downtempo moody version of the other. Which is quite clever, though I obviously wasn't.
 
 Intelligent, dancey electronica that isn't afraid to go dark occasionally all carried along by Karl Hyde's swirling stream-of-consciousness lyrics.
 

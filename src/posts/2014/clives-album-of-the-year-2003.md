@@ -19,23 +19,23 @@ Among many others we lost [Maurice Gibb](http://en.wikipedia.org/wiki/Maurice_Gi
 
 ### [Backyard Babies](http://www.backyardbabies.com/) - [Stockholm Syndrome](http://www.amazon.co.uk/Stockholm-Syndrome-Backyard-Babies/dp/B0000TAPM4/)
 
-![Backyard Babies – Stockholm Syndrome](/public/images/2020/06/backyard-babies_stockholm-syndrome.jpg) These Swedish glam/sleazesters really know their way around a riff. Cracking stuff packed with attitude. **Top track:** "A Song For The Outcast"
+![Backyard Babies – Stockholm Syndrome](/public/images/2020/06/backyard-babies_stockholm-syndrome.jpg){.aoty .aoty-mention} These Swedish glam/sleazesters really know their way around a riff. Cracking stuff packed with attitude. **Top track:** "A Song For The Outcast"
 
 ### [Larry Carlton](http://www.larrycarlton.com/) - [Sapphire Blue](http://www.amazon.co.uk/Sapphire-Blue-Larry-Carlton/dp/B00012FX54/)
 
-![Larry Carlton – Sapphire Blue](/public/images/2020/06/larry-carlton_sapphire-blue.jpg) I went to see Larry play at the Camden Jazz Cafe with a couple of guitar playing buddies, and was wowed. Bought the CD that night, I think. But is it blues-tinged jazz or jazz-tinged blues? **Top track:** "Night Sweats"
+![Larry Carlton – Sapphire Blue](/public/images/2020/06/larry-carlton_sapphire-blue.jpg){.aoty .aoty-mention} I went to see Larry play at the Camden Jazz Cafe with a couple of guitar playing buddies, and was wowed. Bought the CD that night, I think. But is it blues-tinged jazz or jazz-tinged blues? **Top track:** "Night Sweats"
 
 ### [Elbow](http://elbow.co.uk/) - [Cast of Thousands](http://www.amazon.co.uk/Cast-Thousands-Elbow/dp/B00009NQZC/)
 
-![Elbow – Cast of Thousands](/public/images/2020/06/elbow_cast-of-thousands.jpg) I was late to the *Elbow* party, but since discovering them they've become one of my favourite bands of all time, and this is my favourite album of theirs. Just wonderful. **Top track:** "Fugitive Motel"
+![Elbow – Cast of Thousands](/public/images/2020/06/elbow_cast-of-thousands.jpg){.aoty .aoty-mention} I was late to the *Elbow* party, but since discovering them they've become one of my favourite bands of all time, and this is my favourite album of theirs. Just wonderful. **Top track:** "Fugitive Motel"
 
 ### [Evanescence](http://www.evanescence.com/) - [Fallen](http://www.amazon.co.uk/Fallen-Evanescence/dp/B00019GG1M/)
 
-![Evanescence – Fallen](/public/images/2020/06/evanescence_fallen.jpg) If you don't love Amy Lee's voice, you might be doing it wrong. **Top track:** "Everybody's Fool"
+![Evanescence – Fallen](/public/images/2020/06/evanescence_fallen.jpg){.aoty .aoty-mention} If you don't love Amy Lee's voice, you might be doing it wrong. **Top track:** "Everybody's Fool"
 
 ### [Skid Row](http://www.skidrow.com/) - [Thickskin](http://www.amazon.co.uk/Thickskin-Skid-Row/dp/B0000AP6KG/)
 
-![Skid Row – Thickskin](/public/images/2020/06/skid-row_thickskin.jpg) A reformed *Skid Row* without Sebastian Bach was always going to be a bit of a tricky proposition, but I think this album really works. The one after is pretty bad, but this one's fab. Just skip the horrible, unnecessary punk reworking of "I Remember You". **Top track:** "Born A Beggar"
+![Skid Row – Thickskin](/public/images/2020/06/skid-row_thickskin.jpg){.aoty .aoty-mention} A reformed *Skid Row* without Sebastian Bach was always going to be a bit of a tricky proposition, but I think this album really works. The one after is pretty bad, but this one's fab. Just skip the horrible, unnecessary punk reworking of "I Remember You". **Top track:** "Born A Beggar"
 
 ## And the winner is…
 

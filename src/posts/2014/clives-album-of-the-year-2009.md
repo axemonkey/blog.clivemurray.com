@@ -17,23 +17,23 @@ It was a cracking year for music too, and shortlisted albums that didn't even ma
 
 ### [Alestorm](http://www.alestorm.net) - [Black Sails at Midnight](http://www.amazon.co.uk/Black-Sails-At-Midnight-Alestorm/dp/B0021UDJM8/)
 
-![Alestorm – Black Sails at Midnight](/public/images/2020/06/alestorm_black-sails-at-midnight.jpg) YARRR! In 2009 I was deep in the grip of my folk-metal obsession and completely unaware that Pirate Metal was even a thing, when along came *Alestorm* and fair shivered me timbers, so they did. Some people I know just can't get on with the singer, but for me that's proper pirate vocals. **Top track:** "That Famous Ol' Spiced"
+![Alestorm – Black Sails at Midnight](/public/images/2020/06/alestorm_black-sails-at-midnight.jpg){.aoty .aoty-mention} YARRR! In 2009 I was deep in the grip of my folk-metal obsession and completely unaware that Pirate Metal was even a thing, when along came *Alestorm* and fair shivered me timbers, so they did. Some people I know just can't get on with the singer, but for me that's proper pirate vocals. **Top track:** "That Famous Ol' Spiced"
 
 ### [Florence + the Machine](http://florenceandthemachine.net/) - [Lungs](http://www.amazon.co.uk/Lungs-Florence-The-Machine/dp/B001PB3RU8)
 
-![Florence + the Machine – Lungs](/public/images/2020/06/florence-and-the-machine_lungs.jpg) Another amazing voice, Florence Welch and her popular beat combo took the charts by storm in 2009, and I for one applauded. This aptly named album is chock full of great pop songs, and she really can belt them out. Beezer. **Top track:** "Rabbit Heart (Raise It Up)"
+![Florence + the Machine – Lungs](/public/images/2020/06/florence-and-the-machine_lungs.jpg){.aoty .aoty-mention} Another amazing voice, Florence Welch and her popular beat combo took the charts by storm in 2009, and I for one applauded. This aptly named album is chock full of great pop songs, and she really can belt them out. Beezer. **Top track:** "Rabbit Heart (Raise It Up)"
 
 ### [Halestorm](http://www.halestormrocks.com/) - [Halestorm](http://www.amazon.co.uk/Halestorm/dp/B001SGEUNI/)
 
-![Halestorm – Halestorm](/public/images/2020/06/halestorm_halestorm.jpg) Yep, *Alestorm***and***Halestorm*. Crazy, right? I only got into *Halestorm* recently (2014), but this, their debut album, is a total corker and Lzzy Hale's voice is one of the best female voices in rock. **Top track:** "It's Not You"
+![Halestorm – Halestorm](/public/images/2020/06/halestorm_halestorm.jpg){.aoty .aoty-mention} Yep, *Alestorm***and***Halestorm*. Crazy, right? I only got into *Halestorm* recently (2014), but this, their debut album, is a total corker and Lzzy Hale's voice is one of the best female voices in rock. **Top track:** "It's Not You"
 
 ### [The Last Vegas](http://thelastvegas.com/) - [Whatever Gets You Off](http://www.amazon.co.uk/Whatever-Gets-You-Last-Vegas/dp/B001TD1XV2/)
 
-![The Last Vegas – Whatever Gets You Off](/public/images/2020/06/the-last-vegas_whatever-gets-you-off.jpg) I do like the sleaze, it must be said. A cracking collection of proper old-fashioned sleazy rock songs from Chicago, this was *TLV*'s major label debut and it's ace. **Top track:** "Whatever Gets You Off"
+![The Last Vegas – Whatever Gets You Off](/public/images/2020/06/the-last-vegas_whatever-gets-you-off.jpg){.aoty .aoty-mention} I do like the sleaze, it must be said. A cracking collection of proper old-fashioned sleazy rock songs from Chicago, this was *TLV*'s major label debut and it's ace. **Top track:** "Whatever Gets You Off"
 
 ### [Mumford & Sons](http://www.mumfordandsons.com/) - [Sigh No More](http://www.amazon.co.uk/Sigh-No-More-Mumford-Sons/dp/B002PHYNRM/)
 
-![Mumford & Sons – Sigh No More](/public/images/2020/06/mumford-and-sons_sigh-no-more.jpg) Go on, get it out. You'll feel better. No, not *that*, put that away, that's disgusting. No, I mean get all the anti-*Mumford* bile out. Go on, bang on for a while about how twee and generic their songs are, and how there are a million better faux-lk (fauk folk, get it?) groups out there and the Mumfords are just knocking out recycled insipid pish. Go on, I'll wait. In fact I'll go and get a coffee. You probably want about 2 or 3 minutes on that yeah? Cool. Off you go.
+![Mumford & Sons – Sigh No More](/public/images/2020/06/mumford-and-sons_sigh-no-more.jpg){.aoty .aoty-mention} Go on, get it out. You'll feel better. No, not *that*, put that away, that's disgusting. No, I mean get all the anti-*Mumford* bile out. Go on, bang on for a while about how twee and generic their songs are, and how there are a million better faux-lk (fauk folk, get it?) groups out there and the Mumfords are just knocking out recycled insipid pish. Go on, I'll wait. In fact I'll go and get a coffee. You probably want about 2 or 3 minutes on that yeah? Cool. Off you go.
 
 ...
 
