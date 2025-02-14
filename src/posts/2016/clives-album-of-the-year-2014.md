@@ -55,7 +55,7 @@ I can try though.
 
 ### [Winger](https://www.wingertheband.com/) - [Better Days Comin'](https://smile.amazon.co.uk/Better-Days-Comin-Winger/dp/B00I4582E4/)
 
-![Winger – Better Days Comin'](/public/images/2021/09/winger-betterdayscomin.jpg) Oh no.
+![Winger – Better Days Comin'](/public/images/2021/09/winger-betterdayscomin.jpg){.aoty .aoty-mention .aoty-turkey} Oh no.
 
 See, *Winger* were one of the hairspray and spandex brigade back in the day, but their USP was that their guitarist and drummer could really play, and their singer could hold his own with the best and poodliest of the day. Their 1990 release **In the Heart of the Young** is a classic of the genre (though slightly hard to listen to now, because DATED). They disappeared during the [Dark Times](/the-dark-times), but came back in the 2000s with a couple of pretty good, if po-faced, albums, and it seemed like they would bounce back and ride the resurgence like many others. But… this is just awful. It pains me to write that, but it is. OK, check this - the opening track is called "Midnight Driver of a Love Machine". I'll just leave that there.
 

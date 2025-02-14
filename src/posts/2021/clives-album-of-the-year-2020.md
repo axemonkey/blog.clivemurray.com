@@ -129,6 +129,6 @@ But no. No no no. That dubious honour goes to…
 
 ### [Reb Beach](http://rebbeach.com/) - [A View from the Inside](https://smile.amazon.co.uk/View-Inside-Reb-Beach/dp/B08HRTYKZK/)
 
-![Reb Beach –A View from the Inside](/public/images/2021/09/Reb-Beach-A-View-From-The-Inside.jpg) I really wanted this to be good, and it really isn’t. I love Reb’s playing, from back in the day with *Winger* up to his newer stuff with *Whitesnake*, he’s always great and original-sounding. But this record is just… bad. It starts strong, with a remake of “Black Magic”–Reb’s track for the 1991 compilation album **Guitars That Ruled The World**–but unfortunately it goes rapidly downhill from there.
+![Reb Beach –A View from the Inside](/public/images/2021/09/Reb-Beach-A-View-From-The-Inside.jpg){.aoty .aoty-mention .aoty-turkey} I really wanted this to be good, and it really isn’t. I love Reb’s playing, from back in the day with *Winger* up to his newer stuff with *Whitesnake*, he’s always great and original-sounding. But this record is just… bad. It starts strong, with a remake of “Black Magic”–Reb’s track for the 1991 compilation album **Guitars That Ruled The World**–but unfortunately it goes rapidly downhill from there.
 
 Avoid.

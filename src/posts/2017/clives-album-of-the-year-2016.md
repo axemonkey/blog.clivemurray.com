@@ -63,7 +63,7 @@ Try it though. If you like instrumental guitar music of any stripe, there's a st
 
 ### [Dream Theater](http://dreamtheater.net/) - [The Astonishing](https://www.amazon.co.uk/Astonishing-Dream-Theater/dp/B018H6M7CW)
 
-![Dream Theater – The Astonishing](/public/images/2021/09/dreamtheater-theastonishing.jpg) Oh dear Satan, no. I'm on record as saying that the rot set in with DT when Rudess joined, and that **Scenes From a Memory** is rubbish, and that it only got worse from there. Well, I seriously SRSLY hope that it can't get any worse from *here*. This is one of the worst things I have ever done to my ears. Utterly utterly execrable. A double concept album based on a world in which "the Ravenskill Rebel Militia […] defy the Great Northern Empire of the Americas using the magical power of music". Jesus. With Gabriel and Princess Faythe on one side and Emperor Nafaryus on the other? Oh good god. Faythe. Nafaryus. Right.
+![Dream Theater – The Astonishing](/public/images/2021/09/dreamtheater-theastonishing.jpg){.aoty .aoty-mention .aoty-turkey} Oh dear Satan, no. I'm on record as saying that the rot set in with DT when Rudess joined, and that **Scenes From a Memory** is rubbish, and that it only got worse from there. Well, I seriously SRSLY hope that it can't get any worse from *here*. This is one of the worst things I have ever done to my ears. Utterly utterly execrable. A double concept album based on a world in which "the Ravenskill Rebel Militia […] defy the Great Northern Empire of the Americas using the magical power of music". Jesus. With Gabriel and Princess Faythe on one side and Emperor Nafaryus on the other? Oh good god. Faythe. Nafaryus. Right.
 
 *facepalm*
 

@@ -95,4 +95,4 @@ FUN FACT: Steven Wilson's original home studio "No Man's Land" is ten minutes wa
 
 ### [Lynch Mob](https://www.ratpakrecordsamerica.com/lynchmob) - [The Brotherhood](https://www.amazon.co.uk/Brotherhood-Lynch-Mob/dp/B073ZKTPG2/)
 
-![Lynch Mob – The Brotherhood](/public/images/2021/09/lynchmob-thebrotherhood.jpg) It pains me to say it because I love *George Lynch*, but this is utter crap. I wish I could unlisten to it. Scroll back up to *KXM* and get some *good* Lynch down your soundtubes.
+![Lynch Mob – The Brotherhood](/public/images/2021/09/lynchmob-thebrotherhood.jpg){.aoty .aoty-mention .aoty-turkey} It pains me to say it because I love *George Lynch*, but this is utter crap. I wish I could unlisten to it. Scroll back up to *KXM* and get some *good* Lynch down your soundtubes.

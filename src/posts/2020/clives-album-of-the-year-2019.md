@@ -120,4 +120,4 @@ Jesus. Effing. Crisps.
 
 ### [Yngwie Malmsteen](https://www.yngwiemalmsteen.com/) - [Blue Lightning](https://smile.amazon.co.uk/Blue-Lightning-Yngwie-Malmsteen/dp/B07MXRLM3Y/)
 
-![Yngwie Malmsteen – Blue Lightning](/public/images/2021/09/malmsteen-bluelightning.jpg) I’m going to be 100% honest with you, I’m giving this the Turkey of the Year award, and I haven’t even heard all of it. I can’t. I just can’t. Please, don’t ask. It’s so bad. *So* bad. So so so SO bad.
+![Yngwie Malmsteen – Blue Lightning](/public/images/2021/09/malmsteen-bluelightning.jpg){.aoty .aoty-mention .aoty-turkey} I’m going to be 100% honest with you, I’m giving this the Turkey of the Year award, and I haven’t even heard all of it. I can’t. I just can’t. Please, don’t ask. It’s so bad. *So* bad. So so so SO bad.

@@ -113,4 +113,4 @@ For some reason that eludes me, YouTube won’t let me embed [the video for the 
 
 ### [Star One](https://www.arjenlucassen.com/content/arjens-projects/star-one/) - [Revel in Time](https://www.amazon.co.uk/Revel-Time-Standard-CD-Jewelcase/dp/B0BYR7SMGG/)
 
-![Star One – Revel in Time](/public/images/2024/02/revel-600x600bb.jpg) Good god, no.
+![Star One – Revel in Time](/public/images/2024/02/revel-600x600bb.jpg){.aoty .aoty-mention .aoty-turkey} Good god, no.

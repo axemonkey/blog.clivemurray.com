@@ -59,4 +59,6 @@ He's also a really nice bloke. Sickening, really.
 
 ### [Johnny Flynn](http://www.johnny-flynn.com) - [Country Mile](http://www.amazon.co.uk/Country-Mile-Johnny-Flynn/dp/B00ECW9TOK/)
 
+![Johnny Flynn – Country Mile](/public/images/2025/02/johnny-flynn-country-mile.jpg){.aoty .aoty-mention .aoty-turkey}
+
 Meh.
