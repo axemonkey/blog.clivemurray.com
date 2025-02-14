@@ -35,13 +35,13 @@ I know, right? I’ve never been the most rabid *Floyd* fan alive (though I did 
 
 In any other year, blah blah blah. But wow, it is hard to overstate the importance of this album to rock guitar. *Satriani* had self produced and released a weird home-grown EP in 1984 and then released his label debut **Not of This Earth** in 1986 to limited acclaim, but when **Surfing** came out in 1987 it changed the game completely. This took instrumental guitar out of the realms of "Apache" and "Telstar" and sent it soaring into the space age with its stellar technique, melodic sensibility, and finely honed production. Even moreso than hearing *Van Halen* for the first time, hearing this was what made me want to play real rock guitar. Thanks, Joe. **Top track:** “Circles”
 
-### [Whitesnake](http://www.whitesnake.com/) - [1987](https://www.amazon.co.uk/1987-Whitesnake/dp/B000026BDY/)
-
-The *’Snake* have had many incarnations, but predictably it’s the hard rock version I dig. This album features the incomparable John Sykes on guitar and while some of the tracks don’t quite gel for me, it’s a belter overall. **Top track:** “Still of the Night”
-
 ### [Sting](http://www.sting.com/) - [Nothing Like the Sun](https://www.amazon.co.uk/Nothing-Like-Sun-Sting/dp/B000026H0L/)
 
 Yes, I like Sting (up to a point, and **Mercury Falling** was that point – after that, no ta) and while I didn't get into this album until relatively recently it does contain some of his crackers, most notably "Englishman in New York" which I think I was aware of and liked even in 1987, but see also "They Dance Alone", "Fragile", "Straight to My Heart" and "Sister Moon". Hell, I even quite like his cover of "Little Wing". **Top track:** “Englishman in New York”
+
+### [Whitesnake](http://www.whitesnake.com/) - [Whitesnake](https://www.amazon.co.uk/1987-Whitesnake/dp/B000026BDY/)
+
+The *’Snake* have had many incarnations, but predictably it’s the hard rock version I dig. This album features the incomparable John Sykes on guitar and while some of the tracks don’t quite gel for me, it’s a belter overall. **Top track:** “Still of the Night”
 
 ## And the winner is…
 

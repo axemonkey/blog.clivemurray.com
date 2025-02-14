@@ -14,6 +14,7 @@ In 2024 I finally finished and released [my second solo album, "Love and Painkil
 
 I also make little web tools and toys. Feel free to have a play with:
 
+* [Flipper](https://flipper.clivemurray.com/)
 * [The Wheel of Things](https://wot.clivemurray.com/)
 * [Project Codename Generator](https://codenames.clivemurray.com/)
 * [Cubist – a speedcubing timer](https://cubi.st/) (not quite finished)

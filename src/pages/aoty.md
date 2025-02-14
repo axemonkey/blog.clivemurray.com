@@ -146,8 +146,8 @@ Enjoy.
 		- Furyon – Lost Salvation
 		- Lonely Robot – Please Come Home
 		- Mumford & Sons – Wilder Mind
-	- Plini – The End of Everything
-		- Teramaze – Her Halo
+    - Plini – The End of Everything
+  	- Teramaze – Her Halo
 - [2014](/clives-album-of-the-year-2014)
 	- Winner
 		- You Me At Six – Cavalier Youth
@@ -183,11 +183,11 @@ Enjoy.
 	- Winner
 		- You Me at Six – Sinners Never Sleep
 	- Honourable mentions
+		- Evanescence – Evanescence
 		- Hugh Laurie – Let Them Talk
 		- Mr. Big – What If...
 		- Myrath – Tales of the Sands
 		- Scroobius Pip – Distraction Pieces
-		- Evanescence – Evanescence
 - [2010](/clives-album-of-the-year-2010)
 	- Winner
 		- Furyon – Gravitas
@@ -448,9 +448,9 @@ Enjoy.
 	- Honourable mentions
 		- Iron Maiden – Seventh Son of a Seventh Son
 		- It Bites – Once Around the World
+		- Jean-Michel Jarre – Revolutions
 		- Ozzy Osbourne – No Rest For the Wicked
 		- Queensrÿche – Operation: Mindcrime
-		- Jean-Michel Jarre – Revolutions
 	- Turkey of the year
 		- Van Halen – OU812
 - [1987](/clives-album-of-the-year-1987)
@@ -460,8 +460,8 @@ Enjoy.
 		- Aerosmith – Permanent Vacation
 		- Pink Floyd – A Momentary Lapse of Reason
 		- Joe Satriani – Surfing With the Alien
-		- Whitesnake – 1987
 		- Sting – Nothing Like the Sun
+		- Whitesnake – Whitesnake
 	- Turkey of the year
 		- Mötley Crüe – Girls Girls Girls
 - [1986](/clives-album-of-the-year-1986)
