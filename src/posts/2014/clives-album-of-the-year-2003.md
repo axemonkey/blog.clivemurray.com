@@ -39,8 +39,8 @@ Among many others we lost [Maurice Gibb](http://en.wikipedia.org/wiki/Maurice_Gi
 
 ## And the winner is…
 
-### [The Darkness](http://www.theactualdarkness.com) - [Permission To Land](http://www.amazon.co.uk/Permission-Land-Darkness/dp/B0000A0C4U/)
-![The Darkness - Permission To Land](/public/images/2020/06/the-darkness_permission-to-land.jpeg){.aoty .aoty-winner}
+### [The Darkness](http://www.theactualdarkness.com) - [Permission to Land](http://www.amazon.co.uk/Permission-Land-Darkness/dp/B0000A0C4U/)
+![The Darkness - Permission to Land](/public/images/2020/06/the-darkness_permission-to-land.jpeg){.aoty .aoty-winner}
 Absolutely! You couldn't move in 2003 for stripey spandex catsuits, and Justin climbing up on Jools' piano to play a solo during their first appearance on Later is something I'll remember for a while.
 
 The thing is, it's not just a joke - the songs are incredibly well written, especially the lyrics. Yes there is humour involved, but under that there is a damned fine rock band playing great rock songs. And Justin has a knack for writing a song that initially seems to be about one thing but when you actually stop and listen to what he's saying, it's totally something else.
@@ -51,6 +51,8 @@ Plus, the album and the band really were absolutely *everywhere* in the Summer o
 
 ## Turkey of the Year
 
-### [The Coral](http://www.thecoral.co.uk/) - [Magic And Medicine](http://www.amazon.co.uk/Magic-Medicine-Coral/dp/B0000A0UB1/)
+### [The Coral](http://www.thecoral.co.uk/) - [Magic and Medicine](http://www.amazon.co.uk/Magic-Medicine-Coral/dp/B0000A0UB1/)
+
+![The Coral – Magic and Medicine](/public/images/2025/02/the-coral-magic-and-medicine.jpg){.aoty .aoty-mention .aoty-turkey}
 
 I loved the first *Coral* album, but this one was balls. Balls, I tell you.

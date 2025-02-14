@@ -25,7 +25,7 @@ It was a cracking year for music too, and shortlisted albums that didn't even ma
 
 ### [Halestorm](http://www.halestormrocks.com/) - [Halestorm](http://www.amazon.co.uk/Halestorm/dp/B001SGEUNI/)
 
-![Halestorm – Halestorm](/public/images/2020/06/halestorm_halestorm.jpg){.aoty .aoty-mention} Yep, *Alestorm***and***Halestorm*. Crazy, right? I only got into *Halestorm* recently (2014), but this, their debut album, is a total corker and Lzzy Hale's voice is one of the best female voices in rock. **Top track:** "It's Not You"
+![Halestorm – Halestorm](/public/images/2020/06/halestorm_halestorm.jpg){.aoty .aoty-mention} Yep, *Alestorm* **and** *Halestorm*. Crazy, right? I only got into *Halestorm* recently (2014), but this, their debut album, is a total corker and Lzzy Hale's voice is one of the best female voices in rock. **Top track:** "It's Not You"
 
 ### [The Last Vegas](http://thelastvegas.com/) - [Whatever Gets You Off](http://www.amazon.co.uk/Whatever-Gets-You-Last-Vegas/dp/B001TD1XV2/)
 

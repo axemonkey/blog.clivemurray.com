@@ -29,23 +29,23 @@ Still… there were a couple of shiny-ish flecks in the swathes of aural dung…
 
 ### [Ben Folds Five](http://www.benfolds.com/) - [Whatever and Ever Amen](http://www.amazon.co.uk/Whatever-Ever-Amen-Folds-Five/dp/B000024IHS/)
 
-I only got into *Ben Folds Five* through a friend, and only then into a few choice tracks. Turns out most of them are on this album, and on listening back to it again, it's cracking. **Top track:** "The Battle of Who Could Care Less"
+![Ben Folds Five – Whatever and Ever Amen](/public/images/2025/02/bff-whatever.jpg){.aoty .aoty-mention} I only got into *Ben Folds Five* through a friend, and only then into a few choice tracks. Turns out most of them are on this album, and on listening back to it again, it's cracking. **Top track:** "The Battle of Who Could Care Less"
 
 ### [Mansun](http://en.wikipedia.org/wiki/Mansun) - [Attack of the Grey Lantern](http://www.amazon.co.uk/Attack-Grey-Lantern-Mansun/dp/B0000071WJ/)
 
-Can't remember where I heard of *Mansun*, but once I did I grabbed this album (their debut) and really dug it. Weird UK alt-rock with a really immersive feel. **Top track:** "Wide Open Space"
+![Mansun – Attack of the Grey Lantern](/public/images/2025/02/mansun-lantern.jpg){.aoty .aoty-mention} Can't remember where I heard of *Mansun*, but once I did I grabbed this album (their debut) and really dug it. Weird UK alt-rock with a really immersive feel. **Top track:** "Wide Open Space"
 
 ### [Primus](http://primusville.com/) - [The Brown Album](http://www.amazon.co.uk/Brown-Album-Primus/dp/B000001Y47/)
 
-*Primus*. If you don't know, then I really can't tell you. I wouldn't recommend this as your first *Primus* album either, if you're a virgin. But if you know them and love them then you should get this. Mind you, you probably already have it. I'll stop now. **Top track:** "Shake Hands With Beef"
+![Primus – The Brown Album](/public/images/2025/02/brown.jpg){.aoty .aoty-mention} *Primus*. If you don't know, then I really can't tell you. I wouldn't recommend this as your first *Primus* album either, if you're a virgin. But if you know them and love them then you should get this. Mind you, you probably already have it. I'll stop now. **Top track:** "Shake Hands With Beef"
 
 ### [The Prodigy](http://www.theprodigy.co.uk/) - [Fat of the Land](http://www.amazon.co.uk/Fat-Land-Prodigy/dp/B000006TNS/)
 
-As has been intimated previously, I've never been much of a dance head. But throughout the late 90s *The Prodge* were ubiquitous and the very block-rockingest of their beats are all right here (and yes, I'm fully aware that's a *Chemical Brothers*, not *Prodigy* reference, thanks). Still bitch-up-smackingly good, if I may. **Top track:** "Breathe"
+![The Prodigy – Fat of the Land](/public/images/2025/02/prod-fat.jpg){.aoty .aoty-mention} As has been intimated previously, I've never been much of a dance head. But throughout the late 90s *The Prodge* were ubiquitous and the very block-rockingest of their beats are all right here (and yes, I'm fully aware that's a *Chemical Brothers*, not *Prodigy* reference, thanks). Still bitch-up-smackingly good, if I may. **Top track:** "Breathe"
 
 ### [Radiohead](http://www.radiohead.co.uk/) - [OK Computer](http://www.amazon.co.uk/OK-Computer-Radiohead/dp/B000002UJQ/)
 
-Yeeeeeah. So. About that. Post **The Bends**, I fell out of love with *Radiohead*. In truth, I'm still in two minds about this album. One thing you can't deny is its impact on the music of the time - if *The Prodigy* were everywhere in the late 90s, then *Radiohead* were even everywherer. I will say I've gradually warmed to it over the last 18 years. **Top track:** "Paranoid Android"
+![Radiohead – OK Computer](/public/images/2025/02/rh-okc.jpg){.aoty .aoty-mention} Yeeeeeah. So. About that. Post **The Bends**, I fell out of love with *Radiohead*. In truth, I'm still in two minds about this album. One thing you can't deny is its impact on the music of the time - if *The Prodigy* were everywhere in the late 90s, then *Radiohead* were even everywherer. I will say I've gradually warmed to it over the last 18 years. **Top track:** "Paranoid Android"
 
 ## And the winner is…
 
@@ -81,4 +81,4 @@ It's great. Bung it on and stop being lame. Or don't. The choice is almost liter
 
 ### [Mötley Crüe](http://www.motley.com/) - [Generation Swine](http://www.amazon.co.uk/Generation-Swine-M%C3%B6tley-Cr%C3%BCe/dp/B005SN9RPI/)
 
-Oh good lord, no. If you read [the wiki page for this album](http://en.wikipedia.org/wiki/Generation_Swine) it's easy to see why it's so bad… but that doesn't make it any better. Gah.
+![Mötley Crüe – Generation Swine](/public/images/2025/02/mc-swine.jpg){.aoty .aoty-mention .aoty-turkey} Oh good lord, no. If you read [the wiki page for this album](http://en.wikipedia.org/wiki/Generation_Swine) it's easy to see why it's so bad… but that doesn't make it any better. Gah.

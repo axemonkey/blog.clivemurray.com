@@ -53,4 +53,6 @@ Just stick it on and enjoy it.
 
 ### [Nickelback](http://www.nickelback.com/) - [All the Right Reasons](http://www.amazon.co.uk/All-Right-Reasons-Nickelback/dp/B000ASATO4/)
 
+![Nickelback – All the Right Reasons](/public/images/2025/02/nickelback-all-the-right-reasons.jpg){.aoty .aoty-mention .aoty-turkey}
+
 No. Just no.

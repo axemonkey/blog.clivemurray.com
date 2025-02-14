@@ -55,4 +55,6 @@ New feature! If there was really an album that stuck out to me as being a low mo
 
 ### [Joe Satriani](http://www.satriani.com/) - [Super Colossal](http://www.amazon.co.uk/Super-Colossal-Joe-Satriani/dp/B000EF5MRW/)
 
+![Joe Satriani – Super Colossal](/public/images/2025/02/joe-satriani-super-colossal.jpg){.aoty .aoty-mention .aoty-turkey}
+
 This was the last Satriani album I bought, though he's released several more since. I just couldn't keep doing it. I couldn't keep going back to the same well and drinking the same dull sugary water any longer. He's still an incredible musician, but this was a bridge too far. Too many predictable ballads, too many mid-tempo groovers that go on for 4? 7? 10? minutes or basically until you rip the CD out and put something fun on. If you want to listen to some cracking Satch, stick on **Crystal Planet** and avoid this at all costs.

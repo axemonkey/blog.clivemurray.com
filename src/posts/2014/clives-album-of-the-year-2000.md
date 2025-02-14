@@ -59,6 +59,8 @@ No, really.
 
 ### [Radiohead](http://www.radiohead.co.uk/) - [Kid A](http://www.amazon.co.uk/Kid-Radiohead/dp/B000025558/)
 
-I didn't like the change in *Radiohead*'s sound from **The Bends** to **OK Computer**, so when they did this, I really couldn't hang. I'm not saying it's bad—how could a billion Chinese people be wrong?\*—it's just not for me.
+![Radiohead – Kid A](/public/images/2025/02/radiohead-kid-a.jpg){.aoty .aoty-mention .aoty-turkey}
 
-\* [Don't like rice, Michael](http://en.wikiquote.org/wiki/The_Lost_Boys)?
+I didn't like the change in *Radiohead*'s sound from **The Bends** to **OK Computer**, so when they did this, I really couldn't hang. I'm not saying it's bad—how could a billion Chinese people be wrong?[^rice]—it's just not for me.
+
+[^rice]: [Don't like rice, Michael](http://en.wikiquote.org/wiki/The_Lost_Boys)?

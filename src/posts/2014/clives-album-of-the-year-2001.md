@@ -61,6 +61,8 @@ Thank you, *Buckcherry*, from the bottom of my arrhythmic heart. I really can't 
 
 ## Turkey of the Year
 
-### [Stereophonics](http://www.stereophonics.com/) - [Just Enough Education To Perform](http://www.amazon.co.uk/Just-Enough-Education-Perform-Stereophonics/dp/B00005RT80/)
+### [Stereophonics](http://www.stereophonics.com/) - [Just Enough Education to Perform](http://www.amazon.co.uk/Just-Enough-Education-Perform-Stereophonics/dp/B00005RT80/)
+
+![Stereophonics – Just Enough Education to Perform](/public/images/2025/02/stereophonics-just-enough-education-to-perform.jpg){.aoty .aoty-mention .aoty-turkey}
 
 Awww, no. I loved the previous one, **Performance and Cocktails**, but this really missed the mark in my opinion. Too self-indulgent. Too introspective, not enough crowd-pleasing. Sorry guys, but this is where I tuned out.

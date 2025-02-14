@@ -21,23 +21,23 @@ Most of the **Resident Evil** video games were set in 1998. Musically, meanwhile
 
 ### [Fatboy Slim](http://www.fatboyslim.net/) - [You've Come A Long Way, Baby](http://www.amazon.co.uk/Youve-Come-Long-Way-Baby/dp/B0000252VB/)
 
-OK, let's not dress it up, this thing hasn't aged well. It was fine up until a few years ago I guess, but now it tends to be a "Oh that? [skip]" moment when it comes up on shuffle. Undeniably massive and genre-busting at the time though. **Top track:** "Praise You"
+![Fatboy Slim – You've Come A Long Way, Baby](/public/images/2025/02/fbs-ycalwb.jpg){.aoty .aoty-mention} OK, let's not dress it up, this thing hasn't aged well. It was fine up until a few years ago I guess, but now it tends to be a "Oh that? [skip]" moment when it comes up on shuffle. Undeniably massive and genre-busting at the time though. **Top track:** "Praise You"
 
 ### [Garbage](http://www.garbage.com/) - [Version 2.0](http://www.amazon.co.uk/Version-2-0-Garbage/dp/B000024ZRL/)
 
-I think I missed the first *Garbage* album when it came out, mainly due to having my fingers in my ears and pretending that [The Dark Times](/the-dark-times) weren't happening, but when I heard the follow-up that all changed. Wonderful pop/punk/rock tunes with a sultry yet powerful voice over the top and some wonderful production. Still fresh. **Top track:** "Hammering In My Head"
+![Garbage – Version 2.0](/public/images/2025/02/garb-v2.jpg){.aoty .aoty-mention} I think I missed the first *Garbage* album when it came out, mainly due to having my fingers in my ears and pretending that [The Dark Times](/the-dark-times) weren't happening, but when I heard the follow-up that all changed. Wonderful pop/punk/rock tunes with a sultry yet powerful voice over the top and some wonderful production. Still fresh. **Top track:** "Hammering In My Head"
 
 ### [David Gray](http://www.davidgray.com/) - [White Ladder](http://www.amazon.co.uk/White-Ladder-David-Gray/dp/B00004TFMN/)
 
-I remember reading a one-line review that said this was "an album that makes you feel better just for knowing it exists" and that was certainly the case for years. My girlfriend was in uni halls (a couple of years later), and I'd go to her place and we'd listen to this and then try and sleep in that tiny, tiny bed while her housemates got up to hi-jinx and inevitably someone set the fire alarm off. This got us through though. :) Some may find his singing nasal and his songs insipid, but I will always have a soft spot for this finely-crafted album. **Top track:** "Please Forgive Me"
+![David Gray – White Ladder](/public/images/2025/02/dg-wl.jpg){.aoty .aoty-mention} I remember reading a one-line review that said this was "an album that makes you feel better just for knowing it exists" and that was certainly the case for years. My girlfriend was in uni halls (a couple of years later), and I'd go to her place and we'd listen to this and then try and sleep in that tiny, tiny bed while her housemates got up to hi-jinx and inevitably someone set the fire alarm off. This got us through though. :) Some may find his singing nasal and his songs insipid, but I will always have a soft spot for this finely-crafted album. **Top track:** "Please Forgive Me"
 
 ### [The Offspring](http://www.offspring.com/) - [Americana](http://www.amazon.co.uk/Americana-Offspring/dp/B0000241F8/)
 
-Like (I suspect) many, the first I heard of *The Offspring* was "Pretty Fly (For a White Guy)", despite them being around for years beforehand. Having heard it, though, I loved it, and grabbed the album and have never regretted it. Classic. **Top track:** "Staring At The Sun"
+![The Offspring – Americana](/public/images/2025/02/to-a.jpg){.aoty .aoty-mention} Like (I suspect) many, the first I heard of *The Offspring* was "Pretty Fly (For a White Guy)", despite them being around for years beforehand. Having heard it, though, I loved it, and grabbed the album and have never regretted it. Classic. **Top track:** "Staring At The Sun"
 
 ### [Joe Satriani](http://www.satriani.com/) - [Crystal Planet](http://www.amazon.co.uk/Crystal-Planet-Joe-Satriani/dp/B000024YDV/)
 
-Having been a Satch fan for about a decade at the time, I thought this was a fine return to form after the patchy **Strange Beautiful Music** a couple of years before and the disappointing self-titled album before that. I'll also say this though: it's been downhill since here. **Top track:** "Crystal Planet"
+![Joe Satriani – Crystal Planet](/public/images/2025/02/js-cp.jpg){.aoty .aoty-mention} Having been a Satch fan for about a decade at the time, I thought this was a fine return to form after the patchy **Strange Beautiful Music** a couple of years before and the disappointing self-titled album before that. I'll also say this though: it's been downhill since here. **Top track:** "Crystal Planet"
 
 ## And the winner is…
 
@@ -55,4 +55,4 @@ As with the Satriani album though, I reckon this was the high point. The subsequ
 
 ### [Pulp](http://www.pulppeople.com/) - [This Is Hardcore](http://www.amazon.co.uk/This-Hardcore-Pulp/dp/B000025EP3/)
 
-I wanted to like this, but no. No no no.
+![Pulp – This Is Hardcore](/public/images/2025/02/pulp-hardcore.jpg){.aoty .aoty-mention .aoty-turkey} I wanted to like this, but no. No no no.

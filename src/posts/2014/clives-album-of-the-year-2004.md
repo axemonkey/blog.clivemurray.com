@@ -61,4 +61,6 @@ Honestly. No guff, Chet.
 
 ### [Razorlight](http://www.razorlight.co.uk/) - [Up All Night](http://www.amazon.co.uk/Up-All-Night-Razorlight/dp/B0009353JQ/)
 
+![Razorlight – Up All Night](/public/images/2025/02/razorlight-up-all-night.jpg){.aoty .aoty-mention .aoty-turkey}
+
 F\*\*\* **all** of that noise.

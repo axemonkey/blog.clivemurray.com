@@ -15,7 +15,7 @@ ghost_header_image: 2020/05/aoty2011.jpg
 
 **2019-04-04**
 
-Originally I had a different album of the year for 2011, it was **Balls Out** by *Steel Panther*. While I still get the *SP* joke, it is wearing thin over the years, and looking back I feel more and more embarrassed by that choice. The irony has burned a hole through which I can now see the woke. So guess what? I've changed it!
+Originally I had a different album of the year for 2011, which was **Balls Out** by *Steel Panther*. While I still get the *SP* joke, it is wearing thin over the years, and looking back I feel more and more embarrassed by that choice. The irony has burned a hole through which I can now see the woke. So guess what? I've changed it!
 
 OK, as you were...
 
