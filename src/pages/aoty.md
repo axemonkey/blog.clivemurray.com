@@ -18,22 +18,22 @@ Enjoy.
 ---
 
 - [2023](/clives-album-of-the-year-2023)
-  - Winner
-    - [Sleep Token – Take Me Back to Eden](/clives-album-of-the-year-2023/#sleep-token---take-me-back-to-eden)
-  - Honourable mentions
-    - [Black Stone Cherry – Screamin’ At the Sky](/clives-album-of-the-year-2023/#black-stone-cherry---screamin%E2%80%99-at-the-sky)
-    - [Buckcherry – Vol. 10](/clives-album-of-the-year-2023/#buckcherry---vol.-10)
-    - [Peter Gabriel – i/o](/clives-album-of-the-year-2023/#peter-gabriel---i%2Fo)
-    - [McRocklin & Hutch – Press Start](/clives-album-of-the-year-2023/#mcrocklin-%26-hutch---press-start)
-    - [Metallica – 72 Seasons](/clives-album-of-the-year-2023/#metallica---72-seasons)
-    - [Nuclear Power Trio – Wet Ass Plutonium](/clives-album-of-the-year-2023/#nuclear-power-trio---wet-ass-plutonium)
-    - [Paramore – This Is Why](/clives-album-of-the-year-2023/#paramore---this-is-why)
-    - [The Totemist – Less We Know](/clives-album-of-the-year-2023/#the-totemist---less-we-know)
-    - [Voyager – Fearless in Love](/clives-album-of-the-year-2023/#voyager---fearless-in-love)
-    - [Steven Wilson – The Harmony Codex](/clives-album-of-the-year-2023/#steven-wilson---the-harmony-codex)
-    - [You Me At Six – Truth Decay](/clives-album-of-the-year-2023/#you-me-at-six---truth-decay)
-  - Turkey of the year
-    - [The Banishment – Machine and Bone](/clives-album-of-the-year-2023/#the-banishment---machine-and-bone)
+	- Winner
+		- [Sleep Token – Take Me Back to Eden](/clives-album-of-the-year-2023/#sleep-token---take-me-back-to-eden)
+	- Honourable mentions
+		- [Black Stone Cherry – Screamin’ At the Sky](/clives-album-of-the-year-2023/#black-stone-cherry---screamin%E2%80%99-at-the-sky)
+		- [Buckcherry – Vol. 10](/clives-album-of-the-year-2023/#buckcherry---vol.-10)
+		- [Peter Gabriel – i/o](/clives-album-of-the-year-2023/#peter-gabriel---i%2Fo)
+		- [McRocklin & Hutch – Press Start](/clives-album-of-the-year-2023/#mcrocklin-%26-hutch---press-start)
+		- [Metallica – 72 Seasons](/clives-album-of-the-year-2023/#metallica---72-seasons)
+		- [Nuclear Power Trio – Wet Ass Plutonium](/clives-album-of-the-year-2023/#nuclear-power-trio---wet-ass-plutonium)
+		- [Paramore – This Is Why](/clives-album-of-the-year-2023/#paramore---this-is-why)
+		- [The Totemist – Less We Know](/clives-album-of-the-year-2023/#the-totemist---less-we-know)
+		- [Voyager – Fearless in Love](/clives-album-of-the-year-2023/#voyager---fearless-in-love)
+		- [Steven Wilson – The Harmony Codex](/clives-album-of-the-year-2023/#steven-wilson---the-harmony-codex)
+		- [You Me At Six – Truth Decay](/clives-album-of-the-year-2023/#you-me-at-six---truth-decay)
+	- Turkey of the year
+		- [The Banishment – Machine and Bone](/clives-album-of-the-year-2023/#the-banishment---machine-and-bone)
 - [2022](/clives-album-of-the-year-2022)
 	- Winner
 		- [Reckless Love – TurboRider](/clives-album-of-the-year-2022#reckless-love---turborider)
@@ -146,8 +146,8 @@ Enjoy.
 		- Furyon – Lost Salvation
 		- Lonely Robot – Please Come Home
 		- Mumford & Sons – Wilder Mind
-    - Plini – The End of Everything
-  	- Teramaze – Her Halo
+		- Plini – The End of Everything
+		- Teramaze – Her Halo
 - [2014](/clives-album-of-the-year-2014)
 	- Winner
 		- You Me At Six – Cavalier Youth
