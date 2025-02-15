@@ -15,6 +15,8 @@
 	--darkmode: #1a1c20;
 }
 
+$nav-item-shadow: 0 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000, -1px 0 0 #000;
+
 a,
 abbr,
 acronym,
@@ -820,7 +822,7 @@ body {
 	padding: 0;
 	font-weight: bold;
 	font-size: 1.6rem;
-	text-shadow: 0 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000, -1px 0 0 #000;
+	text-shadow: $nav-item-shadow;
 }
 
 .nav li a {
