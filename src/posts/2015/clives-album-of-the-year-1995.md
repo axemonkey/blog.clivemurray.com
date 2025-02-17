@@ -17,19 +17,19 @@ Bon voyage was bid to (as always, etc.) [Larry Grayson](http://en.wikipedia.org/
 
 ### [Faith No More](http://www.fnm.com/) - [King For a Day… Fool For a Lifetime](http://www.amazon.co.uk/King-Day-Faith-No-More/dp/B000024HFL/)
 
-When my mate Justin came round with this album, I had no idea what to make of it. It's about 50% what I expected from *FNM*, about 10% unlistenable screaming that sounded like *Mr. Bungle* having a bad day, and the rest… weird lounge crooning. Fascinating for the most part. **Top track:** "The Gentle Art of Making Enemies"
+![Faith No More – King For a Day… Fool For a Lifetime](/public/images/2025/02/fnm-king.jpg){.aoty .aoty-mention} When my mate Justin came round with this album, I had no idea what to make of it. It's about 50% what I expected from *FNM*, about 10% unlistenable screaming that sounded like *Mr. Bungle* having a bad day, and the rest… weird lounge crooning. Fascinating for the most part. **Top track:** "The Gentle Art of Making Enemies"
 
 ### [Garbage](http://www.garbage.com/) - [Garbage](http://www.amazon.co.uk/Garbage/dp/B000005ROC/)
 
-I think I first saw *Garbage* live on TFI Friday back in the day, and while I liked what I heard well enough, it was years later I went back and really appreciated their catalogue. Superbly crafted songs. **Top track:** "Stupid Girl"
+![Garbage – Garbage](/public/images/2025/02/garb.jpg){.aoty .aoty-mention} I think I first saw *Garbage* live on TFI Friday back in the day, and while I liked what I heard well enough, it was years later I went back and really appreciated their catalogue. Superbly crafted songs. **Top track:** "Stupid Girl"
 
 ### [The Presidents of the USA](http://www.presidentsrock.com/) - [The Presidents of the USA](http://www.amazon.co.uk/Presidents-United-States-America/dp/B000024JDX/)
 
-*PUSA!* If you don't know then I can't tell you, etc., but here is where it all started. Worth the price of admission for "Lump" alone, obviously. **Top track:** "Body"
+![The Presidents of the USA – The Presidents of the USA](/public/images/2025/02/pusa.jpg){.aoty .aoty-mention} *PUSA!* If you don't know then I can't tell you, etc., but here is where it all started. Worth the price of admission for "Lump" alone, obviously. **Top track:** "Body"
 
 ### [Steve Vai](http://www.vai.com/) - [Alien Love Secrets](http://www.amazon.co.uk/Alien-Love-Secrets-Steve-Vai/dp/B000025TBT/)
 
-This 7-track EP benefits hugely from Mr. Vai keeping his gob shut, and aside from the truly unlistenable "Ya-Yo Gakk", everything else here is absolutely top-drawer Vai. **Top track:** "Tender Surrender"
+![Steve Vai – Alien Love Secrets](/public/images/2025/02/vai-als.jpg){.aoty .aoty-mention} This 7-track EP benefits hugely from Mr. Vai keeping his gob shut, and aside from the truly unlistenable "Ya-Yo Gakk", everything else here is absolutely top-drawer Vai. **Top track:** "Tender Surrender"
 
 ## And the winners are…
 
@@ -63,4 +63,4 @@ It's actually hard to pick, there were so many misfires this year - the [Dark Ti
 
 ### [Extreme](http://www.extreme-band.com/) - [Waiting For the Punchline](http://www.amazon.co.uk/Waiting-Punchline-Extreme/dp/B000024GFT/)
 
-Oof. No. Awful.
+![Extreme – Waiting For the Punchline](/public/images/2025/02/extreme-waiting.jpg){.aoty .aoty-mention .aoty-turkey} Oof. No. Awful.
