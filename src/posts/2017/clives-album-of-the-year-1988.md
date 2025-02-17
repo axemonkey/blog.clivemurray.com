@@ -21,23 +21,23 @@ In exchange we were graced with [Skrillex](https://en.wikipedia.org/wiki/Skrille
 
 ### [Iron Maiden](http://ironmaiden.com/) - [Seventh Son of a Seventh Son](https://www.amazon.co.uk/dp/B00QO3D98C/)
 
-I was definitely late to the *Maiden* party. My good friend Nick was way into them at school – logo scrawled on exercise books, patch on the back of jacket, that kind of thing – but I hadn't even gotten properly into rock yet. Later on, of course, that all changed and for a while I was in a band that was planning to do a whole set of *Maiden* covers. For my money, **Seventh Son** is a fair way from *IM*'s best, but it's undeniably still a fabulous album. **Top track:** "The Evil That Men Do"
+![Iron Maiden – Seventh Son of a Seventh Son](/public/images/2025/02/7thson.jpg){.aoty .aoty-mention} I was definitely late to the *Maiden* party. My good friend Nick was way into them at school – logo scrawled on exercise books, patch on the back of jacket, that kind of thing – but I hadn't even gotten properly into rock yet. Later on, of course, that all changed and for a while I was in a band that was planning to do a whole set of *Maiden* covers. For my money, **Seventh Son** is a fair way from *IM*'s best, but it's undeniably still a fabulous album. **Top track:** "The Evil That Men Do"
 
 ### [It Bites](http://www.itbites.com/) - [Once Around the World](https://www.amazon.co.uk/d/Digital-Music/Once-Around-World-Bites/B001I5QO9M/)
 
-*It Bites* were a strange confluence of odd prog throwbacks among the plastic pop of the 80s and being oddly ahead of their time. There's no doubt that Francis Dunnery is a hell of a musician and songwriter, though. When I got into them, I really loved them, but then fell completely out of love with them for years – until their recent relaunch (featuring His Holiness John Mitchell) in fact. So if you like poppy prog with a tendency towards, shall we say, esoteric lyrics ("Plastic Dreamer"? Errr… no), then the old *IB* albums are worth a listen. (Otherwise stick to the newer ones, they're in fact better.) **Top track:** "Kiss Like Judas"
+![It Bites – Once Around the World](/public/images/2025/02/once.jpg){.aoty .aoty-mention} *It Bites* were a strange confluence of odd prog throwbacks among the plastic pop of the 80s and being oddly ahead of their time. There's no doubt that Francis Dunnery is a hell of a musician and songwriter, though. When I got into them, I really loved them, but then fell completely out of love with them for years – until their recent relaunch (featuring His Holiness John Mitchell) in fact. So if you like poppy prog with a tendency towards, shall we say, esoteric lyrics ("Plastic Dreamer"? Errr… no), then the old *IB* albums are worth a listen. (Otherwise stick to the newer ones, they're in fact better.) **Top track:** "Kiss Like Judas"
 
 ### [Jean-Michel Jarre](https://jeanmicheljarre.com/) - [Revolutions](https://www.amazon.co.uk/Revolutions-Jean-Michel-Jarre/dp/B013J5N28E/)
 
-What? Not all music is rock, you know. Before I got into rock music I was quite a *JMJ* fan, and this is a really good album. Get over it. **Top track:** "Revolutions"
+![Jean-Michel Jarre – Revolutions](/public/images/2025/02/jmj-rev.jpg){.aoty .aoty-mention} What? Not all music is rock, you know. Before I got into rock music I was quite a *JMJ* fan, and this is a really good album. Get over it. **Top track:** "Revolutions"
 
 ### [Ozzy Osbourne](http://www.ozzy.com/) - [No Rest For the Wicked](https://www.amazon.co.uk/Rest-Wicked-Bonus-Track-Version/dp/B001GTJM4O/)
 
-A friend of mine does not dig the Ozzy at all, saying "I like singers to be able to." I get that. Another friend was complaining about Vince Neil, saying that he doesn't like Vince's voice. I queried "Yet Ozzy is fine?" "Funnily enough, yes" was the reply. It's on odd one alright. No-one is going to put Ozzy on a list of greatest singers of all time. As a frontman and general force for music, his influence and contribution is undeniable (and I don't even like *Black Sabbath*. What? Say something.) This was the first appearance of the pyrotechnic Zakk Wylde on guitar, and this is an absolute CORKER. Get it. **Top track:** "Devil's Daughter"
+![Ozzy Osbourne – No Rest For the Wicked](/public/images/2025/02/oo-nrftw.jpg){.aoty .aoty-mention} A friend of mine does not dig the Ozzy at all, saying "I like singers to be able to." I get that. Another friend was complaining about Vince Neil, saying that he doesn't like Vince's voice. I queried "Yet Ozzy is fine?" "Funnily enough, yes" was the reply. It's on odd one alright. No-one is going to put Ozzy on a list of greatest singers of all time. As a frontman and general force for music, his influence and contribution is undeniable (and I don't even like *Black Sabbath*. What? Say something.) This was the first appearance of the pyrotechnic Zakk Wylde on guitar, and this is an absolute CORKER. Get it. **Top track:** "Devil's Daughter"
 
 ### [Queensrÿche](http://www.queensrycheofficial.com/) - [Operation: Mindcrime](https://www.amazon.co.uk/d/Digital-Music/Operation-Mindcrime-Deluxe-Queensryche/B001IN7GQ4/)
 
-It was **Empire**, the followup to this album, that really lit the *Queensrÿche* fire for me, but of course I had to go back and do the required reading, and this is definitely a great album. Concept albums that bang on about conspiracies, the New World Order, and WAKE UP SHEEPLE can grate (yes Bellamy, I'm talking to you) after a while, but this is a superb rock opera from start to finish and the twin-guitar force of Chris DeGarmo and Michael Wilton is in full effect throughout. Shame Geoff Tate has become such a toolbag of late though. **Top track:** "Revolution Calling"
+![Queensrÿche – Operation: Mindcrime](/public/images/2025/02/mindcrime.jpg){.aoty .aoty-mention} It was **Empire**, the followup to this album, that really lit the *Queensrÿche* fire for me, but of course I had to go back and do the required reading, and this is definitely a great album. Concept albums that bang on about conspiracies, the New World Order, and WAKE UP SHEEPLE can grate (yes Bellamy, I'm talking to you) after a while, but this is a superb rock opera from start to finish and the twin-guitar force of Chris DeGarmo and Michael Wilton is in full effect throughout. Shame Geoff Tate has become such a toolbag of late though. **Top track:** "Revolution Calling"
 
 ## And the winner is…
 
@@ -51,13 +51,11 @@ Really.
 
 I don't know if I'm going to try and make a Clive's Top 10 Albums of All Time, but if I did, this would be in the top half of that list.
 
-A little background: *DLR* was of course the frontman for *Van Halen* from their seismic launch in 1977 right up to releasing the seminal **1984** in 1984. Roth left *VH* in 1985 due to natural causes\*, and started a solo career which kicked off properly with the 1986 release **Eat 'Em And Smile**. For this Dave assembled a band the like of which has not been seen before or since – Steve Vai, fresh from his stints with *Frank Zappa* and *Alcatrazz* on guitar, the inhuman Billy Sheehan on bass and Gregg Bissonette on drums, along with a host of guest musicians. **EEaS** is a terrifyingly good record, but it's not without its problems – 3 out of 10 songs are covers, two of which are more or less in the lounge style, and the sound is occasionally not as cohesive as one might like. Don't get me wrong, it's brilliant…
+A little background: *DLR* was of course the frontman for *Van Halen* from their seismic launch in 1977 right up to releasing the seminal **1984** in 1984. Roth left *VH* in 1985 due to natural causes[^differences], and started a solo career which kicked off properly with the 1986 release **Eat 'Em and Smile**. For this Dave assembled a band the like of which has not been seen before or since – Steve Vai, fresh from his stints with *Frank Zappa* and *Alcatrazz* on guitar, the inhuman Billy Sheehan on bass and Gregg Bissonette on drums, along with a host of guest musicians. **EEaS** is a terrifyingly good record, but it's not without its problems – 3 out of 10 songs are covers, two of which are more or less in the lounge style, and the sound is occasionally not as cohesive as one might like. Don't get me wrong, it's brilliant…
 
 …but it isn't **Skyscraper**. On this record all those problems were gone, and you can hear the songwriting gel in a way it didn't on its predecessor. Radio smashes "Just Like Paradise" and "Damn Good" nestle comfortably alongside punchy rockers like "Hot Dog and a Shake" and the sublime "Knucklebones" and the moodier tracks "Skyscraper" and "Hina". The production is first class, and Vai and Sheehan are on absolutely unstoppable fire.
 
 If I had to pick something I didn't like, it would be the album cover. Dave climbing a mountain? Don't care. But that's my only beef. (Aside from the CD release getting two extra crappy tracks from Dave's first EP shoehorned onto it…)
-
-\* It's more usually called "creative differences", which is a well-known euphemism for "two or more members of the band despised each other and could no longer work together".
 
 **Top tracks:** "Knucklebones", "Skyscraper", "Damn Good"
 
@@ -65,13 +63,13 @@ If I had to pick something I didn't like, it would be the album cover. Dave clim
 
 ### [Van Halen](http://www.van-halen.com/) - [OU812](https://www.amazon.co.uk/OU812-Van-Halen/dp/B003TD7X3W/)
 
-Relatedly, after Roth left *Van Halen*, they carried on with a new singer, one Sammy Hagar. The first album he sang on came out in 1986, and I loved it. It was one of my first rock records ever. **OU812** was the followup… and I can't stand it. It's just so dull and lifeless. Nah.
+![Van Halen – OU812](/public/images/2025/02/ou812.jpg){.aoty .aoty-turkey} Relatedly, after Roth left *Van Halen*, they carried on with a new singer, one Sammy Hagar. The first album he sang on came out in 1986, and I loved it. It was one of my first rock records ever. **OU812** was the followup… and I can't stand it. It's just so dull and lifeless. Nah.
 
 ## Glaring omission
 
 ### [Guns N' Roses](http://www.gunsnroses.com/) - [GN'R Lies](https://www.amazon.co.uk/G-N-Lies-Guns-Roses/dp/B001KULBCA/)
 
-"But Clive," you say, "didn't *Guns N' Roses* release **GN'R Lies** in 1988? That's awesome too, isn't it?"
+![Guns N' Roses – GN'R Lies](/public/images/2025/02/lies-lies-lies.jpg){.aoty .aoty-mention} "But Clive," you say, "didn't *Guns N' Roses* release **GN'R Lies** in 1988? That's awesome too, isn't it?"
 
 Well. The clue is in the question. That album is a lie.
 
@@ -82,3 +80,5 @@ But here's the thing – [that EP was not recorded live at all](https://en.wiki
 The acoustic songs I like more, although "One in a Million" does have its own problems, lyrically speaking.
 
 But it's the fake live thing that irritates me enough to discount **GN'R Lies** from the 1988 shortlist. So there you are.
+
+[^differences]: It's more usually called "creative differences", which is a well-known euphemism for "two or more members of the band despised each other and could no longer work together".
