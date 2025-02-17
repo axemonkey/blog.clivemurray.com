@@ -37,7 +37,7 @@ Meanwhile, in the land of rock, things had started to [go very wrong indeed](/th
 
 ### [Poison](http://www.poisonweb.com/) - [Native Tongue](https://www.amazon.co.uk/Native-Tongue-Poison/dp/B004U2GDIM/)
 
-![Poison – Native Tongue](/public/images/2025/02/native-tongue.jpg){.aoty .aoty-mention} So, as documented elsewhere, the hair metal scene was collapsing like a hairspray flan in a grunge cupboard (or something). Instead of jacking it all in *Poison* recruited hotshot guitar wizard Richie Kotzen to replace the frankly dodgy C.C DeVille, and turned out the best thing to ever bear the Poison name. This is a stonker of an album, that could just possibly be improved by leaving a couple of the 15 tracks off. **Top track:** "Blind Faith"
+![Poison – Native Tongue](/public/images/2025/02/native-tongue.jpg){.aoty .aoty-mention} So, as documented [elsewhere](/the-dark-times/), the hair metal scene was collapsing like a hairspray flan in a grunge cupboard (or something). Instead of jacking it all in *Poison* recruited hotshot guitar wizard Richie Kotzen to replace the frankly dodgy C.C DeVille, and turned out the best thing to ever bear the Poison name. This is a stonker of an album, that could just possibly be improved by leaving a couple of the 15 tracks off. **Top track:** "Blind Faith"
 
 ### [Steve Vai](http://www.vai.com/) - [Sex & Religion](https://www.amazon.co.uk/Sex-Religion-Steve-Vai/dp/B001GVX1BW/)
 
