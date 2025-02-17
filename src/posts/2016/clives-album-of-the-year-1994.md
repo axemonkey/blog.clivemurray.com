@@ -19,23 +19,23 @@ For rock music, [the Dark Times](/the-dark-times/) were upon us, and all around 
 
 ### [Dream Theater](http://www.dreamtheater.net/) - [Awake](https://www.amazon.co.uk/Awake-Dream-Theater/dp/B002LPVR2M/)
 
-When *DT* first came to my attention in 1992 with the incomparable **Images and Words**, that attention was fully grabbed. That, of course, is another story to which we will come in the fullness of wossname. This was the follow-up, the attempt to fully capitalise on the proggy geist of the zeit, and it's absolutely amazing. Some of Petrucci's and Moore's finest work. If prog you can, then this you must. **Top track:** "6:00"
+![Dream Theater – Awake](/public/images/2025/02/dt-awake.jpg){.aoty .aoty-mention} When *DT* first came to my attention in 1992 with the incomparable **Images and Words**, that attention was fully grabbed. That, of course, is another story to which we will come in the fullness of wossname. This was the follow-up, the attempt to fully capitalise on the proggy geist of the zeit, and it's absolutely amazing. Some of Petrucci's and Moore's finest work. If prog you can, then this you must. **Top track:** "6:00"
 
 ### [Gun](http://gunofficial.co.uk/) - [Swagger](https://www.amazon.co.uk/Swagger-Gun/dp/B001KWDXG0/)
 
-Well yes, actually. These relatively unknown Scottish rockers had some mild success with their previous release **Gallus** but for my folding this was their sweet spot. Worth it for their magnificent cover of *Cameo*'s "Word Up" (a full decade before *Korn* would come along with the same idea) alone, this is a solid 41 minutes of good old-fashioned rock songs, just like Mama used to make. **Top track:** "Don't Say It's Over"
+![Gun – Swagger](/public/images/2025/02/swagger.jpg){.aoty .aoty-mention} Well yes, actually. These relatively unknown Scottish rockers had some mild success with their previous release **Gallus** but for my folding this was their sweet spot. Worth it for their magnificent cover of *Cameo*'s "Word Up" (a full decade before *Korn* would come along with the same idea) alone, this is a solid 41 minutes of good old-fashioned rock songs, just like Mama used to make. **Top track:** "Don't Say It's Over"
 
 ### [Megadeth](http://www.megadeth.com/) - [Youthanasia](https://www.amazon.co.uk/Youthanasia-Megadeth/dp/B001J74MG6/)
 
-Again, this was perhaps overshadowed by the monumental success of its predecessor **Symphony of Destruction**, but now that I come back to them over a decade later I can't honestly peg which I think is the better album. Yes, this has mis-steps like most *Megadeth* albums (ignore the last track, it's for the best) but pound for pound, riff for riff, this delivers right up there alongside any of Mustaine's gang's releases. **Top track:** "Train of Consequences"
+![Megadeth – Youthanasia](/public/images/2025/02/youthanasia.jpg){.aoty .aoty-mention} Again, this was perhaps overshadowed by the monumental success of its predecessor **Symphony of Destruction**, but now that I come back to them over a decade later I can't honestly peg which I think is the better album. Yes, this has mis-steps like most *Megadeth* albums (ignore the last track, it's for the best) but pound for pound, riff for riff, this delivers right up there alongside any of Mustaine's gang's releases. **Top track:** "Train of Consequences"
 
-### [Mike Oldfield](http://mikeoldfieldofficial.com/) - [Songs of Distant Earth](https://www.amazon.co.uk/Songs-Distant-Earth-Mike-Oldfield/dp/B001LBUX90/)
+### [Mike Oldfield](http://mikeoldfieldofficial.com/) - [The Songs of Distant Earth](https://www.amazon.co.uk/Songs-Distant-Earth-Mike-Oldfield/dp/B001LBUX90/)
 
-I am not going to apologise for this. You can say what you like. I love it, and I always will. I went to sleep to this album every single night for years and years and still find it to be one of the most calming and grounding pieces of music I have ever experienced. **Top track:** "Only Time Will Tell"
+![Mike Oldfield – The Songs of Distant Earth](/public/images/2025/02/mo-tsode.jpg){.aoty .aoty-mention} I am not going to apologise for this. You can say what you like. I love it, and I always will. I went to sleep to this album every single night for years and years and still find it to be one of the most calming and grounding pieces of music I have ever experienced. **Top track:** "Only Time Will Tell"
 
 ### [Portishead](http://www.portishead.co.uk/) - [Dummy](https://www.amazon.co.uk/Dummy-Portishead/dp/B001KEBFLI/)
 
-It was a difficult old time, the mid 90s. Brit-pop was just finding out where it had left its knackered Gibson 335, hard rock was laying in the gutter having had one too many lines of spandex (as [documented](/the-dark-times/) elsewhere), and industrial rock and nu-metal were still getting their hobnail boots and baggy shorts on. *Portishead*, then, were a breath of fresh - if melancholy - air. And Beth Gibbons' voice is unlike any other, so goddamn help me. **Top track:** "Roads" or "Glory Box"
+![Portishead – Dummy](/public/images/2025/02/dummy.jpg){.aoty .aoty-mention} It was a difficult old time, the mid 90s. Brit-pop was just finding out where it had left its knackered Gibson 335, hard rock was laying in the gutter having had one too many lines of spandex (as [documented](/the-dark-times/) elsewhere), and industrial rock and nu-metal were still getting their hobnail boots and baggy shorts on. *Portishead*, then, were a breath of fresh - if melancholy - air. And Beth Gibbons' voice is unlike any other, so goddamn help me. **Top track:** "Roads" or "Glory Box"
 
 ## And the winner is…
 
@@ -57,4 +57,4 @@ I don't really have a Turkey nomination for 1994, so much of it was just purely 
 
 ### [Oasis](https://en.wikipedia.org/wiki/Oasis_(band)) - [Definitely Maybe](https://www.amazon.co.uk/Definitely-Maybe-Oasis/dp/B00KB979G8/)
 
-For f\*\*\*'s sake, no.
+![Oasis – Definitely Maybe](/public/images/2025/02/christ-i-hate-oasis.jpg){.aoty .aoty-mention .aoty-turkey} For f\*\*\*'s sake, no.
