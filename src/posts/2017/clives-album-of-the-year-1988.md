@@ -79,6 +79,6 @@ Side one of **Lies** is four songs (three of which were covers) played 'live' in
 
 But here's the thing – [that EP was not recorded live at all](https://en.wikipedia.org/wiki/Live_%3F!*@_Like_a_Suicide). It was recorded in a studio and then they dubbed on a huge stadium crowd afterwards. The songs also just aren't very good.
 
-The acoustic songs I like more, but "One in a Million" does have its own problems, lyrically speaking.
+The acoustic songs I like more, although "One in a Million" does have its own problems, lyrically speaking.
 
 But it's the fake live thing that irritates me enough to discount **GN'R Lies** from the 1988 shortlist. So there you are.
