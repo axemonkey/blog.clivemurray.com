@@ -29,11 +29,11 @@ One of the few artists I got into when I was young (not in 1976, obviously) and 
 
 ### [Led Zeppelin](https://www.ledzeppelin.com/) - [Physical Graffitti](https://www.amazon.co.uk/Physical-Graffiti-Led-Zeppelin/dp/B00RUT3D5S/)
 
-Remember "the double album rule"? Well, this is not another exception I'm afraid – there's a bunch of filler on here, as *Zep* slid inexorably into the Valley of Diminishing Returns after **Houses of the Holy**, but when it's good it's very very good. **Top track**: "Kashmir", as well you know.
+![Led Zeppelin - Physical Graffitti](/public/images/2025/02/lz-pg.jpg){.aoty .aoty-mention} Remember "the double album rule"? Well, this is not another exception I'm afraid – there's a bunch of filler on here, as *Zep* slid inexorably into the Valley of Diminishing Returns after **Houses of the Holy**, but when it's good it's very very good. **Top track**: "Kashmir", as well you know.
 
 ### [Queen](http://www.queenonline.com/) - [A Night at the Opera](https://www.amazon.co.uk/Night-At-Opera-2011-Remaster/dp/B004M17ITY/)
 
-Early *Queen* is a mixed bag, but this one gave us lifelong classics "You're My Best Friend" and "Love of My Life" as well as overlooked gems like "Death on Two Legs" and "'39", and that's before you even get to track 11, a little ditty called "Bohemian Rhapsody" of which you may have heard. **Top track**: "Bohemian Rhapsody", like, duh.
+![Queen - A Night at the Opera](/public/images/2025/02/opera.jpg){.aoty .aoty-mention} Early *Queen* is a mixed bag, but this one gave us lifelong classics "You're My Best Friend" and "Love of My Life" as well as overlooked gems like "Death on Two Legs" and "'39", and that's before you even get to track 11, a little ditty called "Bohemian Rhapsody" of which you may have heard. **Top track**: "Bohemian Rhapsody", like, duh.
 
 ## Winner
 
@@ -51,7 +51,7 @@ Worth the price of admission several times over for the title track alone, **Wis
 
 ### [Deep Purple](http://www.deeppurple.com/) - [Burn](https://www.amazon.co.uk/Burn-Deep-Purple/dp/B0007ZEO4G/)
 
-*Deep Purple* have had as many lineup changes as any band you can mention, and are still going today. In fact, their 2017 album **Infinite** is on the longlist for that year, though I need more time with it to see if it makes the shortlist. **Burn**, however, was "the first *Deep Purple* album to feature then-unknown David Coverdale on vocals", and doesn't it just? Blackmore is on fire, Coverdale and Glenn Hughes smash the vocals out of the park, and mainstays Lord and Paice do what they do best. I hadn't properly consumed this album until recently, only really being familiar with the title track, but it is indeed a cracker. **Top track**: "Burn", natch.
+![xxx - xxx](/public/images/2025/02/burn.jpg){.aoty .aoty-mention} *Deep Purple* have had as many lineup changes as any band you can mention, and are still going today. In fact, their 2017 album **Infinite** is on the longlist for that year, though I need more time with it to see if it makes the cut. **Burn**, however, was "the first *Deep Purple* album to feature then-unknown David Coverdale on vocals", and doesn't it just? Blackmore is on fire, Coverdale and Glenn Hughes smash the vocals out of the park, and mainstays Lord and Paice do what they do best. I hadn't properly consumed this album until recently, only really being familiar with the title track, but it is indeed a cracker. **Top track**: "Burn", natch.
 
 ## Winner
 

@@ -29,11 +29,11 @@ Possibly the first album I properly enjoyed. My mate next door, Craig, had it on
 
 ### [Steve Vai](http://www.vai.com/) - [Flex-Able](https://www.amazon.co.uk/Flex-Able-Steve-Vai/dp/B0000001EE/)
 
-My first experience of *Steve Vai* was hearing *David Lee Roth*'s **Skyscraper**, and not long after that Vai's magnificent octopus **Passion and Warfare** came out to enormous acclaim, but going back to his debut album is a mixed bag of nuts and weasels. There are moments of unalloyed genius, heartbreakingly tender musicality, off-the-wall tinfoil-hat nutbaggery, ill-advised singing, and utterly unlistenable nonsense. In summary then – Steve Vai. (Overall, it's excellent.) **Top track**: "Call It Sleep"
+![Steve Vai - Flex-Able](/public/images/2025/02/flex-able.jpg){.aoty .aoty-mention} My first experience of *Steve Vai* was hearing *David Lee Roth*'s **Skyscraper**, and not long after that Vai's magnificent octopus **Passion and Warfare** came out to enormous acclaim, but going back to his debut album is a mixed bag of nuts and weasels. There are moments of unalloyed genius, heartbreakingly tender musicality, off-the-wall tinfoil-hat nutbaggery, ill-advised singing, and utterly unlistenable nonsense. In summary then – Steve Vai. (Overall, it's excellent.) **Top track**: "Call It Sleep"
 
 ### [Van Halen](http://van-halen.com/) - [1984](https://www.amazon.co.uk/1984-Van-Halen/dp/B00UZU0ASW/)
 
-Natch, and in any other year this may well have wombled off with the prize. In fact, if it wasn't for a couple of conspicuous duddos ("House of Pain" and "Drop Dead Legs" leap to mind) it may still have. On balance though, it's a cracker. **Top track**: "Panama"
+![Van Halen - 1984](/public/images/2025/02/1984.jpg){.aoty .aoty-mention} Natch, and in any other year this may well have wombled off with the prize. In fact, if it wasn't for a couple of conspicuous duddos ("House of Pain" and "Drop Dead Legs" leap to mind) it may still have. On balance though, it's a cracker. **Top track**: "Panama"
 
 ## Winner
 
@@ -51,11 +51,11 @@ And now you see why *Van Halen* had to forego the crown. Honestly. If you're sti
 
 ### [David Bowie](http://www.davidbowie.com/) - [Let's Dance](https://www.amazon.co.uk/Lets-Dance-David-Bowie/dp/B002JAWOC6/)
 
-Little can be written here about *Bowie* that has not already been written elsewhere, but what I will say is that you will never hear a more perfectly crafted piece of pop music than the title track. You also get *Stevie Ray Vaughan* thrown in for free. Not bad. **Top track**: "China Girl"
+![David Bowie - Let's Dance](/public/images/2025/02/bowie-dance.jpg){.aoty .aoty-mention} Little can be written here about *Bowie* that has not already been written elsewhere, but what I will say is that you will never hear a more perfectly crafted piece of pop music than the title track. You also get *Stevie Ray Vaughan* thrown in for free. Not bad. **Top track**: "China Girl"
 
 ### [Stevie Ray Vaughan](http://www.srvofficial.com/) - [Texas Flood](https://www.amazon.co.uk/Texas-Stevie-Vaughan-Double-Trouble/dp/B001GTE3XY/)
 
-Speaking of the boy from Seattle, this is an essential album. Essential. DO YOU HEAR ME? ESSENTIAL. GET IT. NOW. **Top track**: "Texas Flood"
+![Stevie Ray Vaughan - Texas Flood](/public/images/2025/02/texas-flood.jpg){.aoty .aoty-mention} Speaking of the boy from Seattle, this is an essential album. Essential. DO YOU HEAR ME? ESSENTIAL. GET IT. NOW. **Top track**: "Texas Flood"
 
 ## Winner
 
@@ -73,7 +73,7 @@ If 1984's **Powerslave** was *Maiden* at the very height of their powers, then 1
 
 ### [Dire Straits](https://en.wikipedia.org/wiki/Dire_Straits) - [Love Over Gold](https://www.amazon.co.uk/Love-Over-Gold-Remastered-Straits/dp/B001KV6OQ2/)
 
-Once I'd fallen for *Dire Straits* I had to track back through their discography, which contains some gems and some plums. This is the former, and the ~15m first song "Telegraph Road" still makes the hairs on my arms stand on end. Look. They're doing it now. **Top track**: "Telegraph Road"
+![Dire Straits - Love Over Gold](/public/images/2025/02/ds-log.jpg){.aoty .aoty-mention} Once I'd fallen for *Dire Straits* I had to track back through their discography, which contains some gems and some plums. This is the former, and the ~15m first song "Telegraph Road" still makes the hairs on my arms stand on end. Look. They're doing it now. **Top track**: "Telegraph Road"
 
 ## Winner
 

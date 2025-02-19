@@ -17,7 +17,7 @@ On we go, come on come on, keep up, I haven't got all day, you know.
 
 ### [Van Halen](http://www.van-halen.com/) - [Women and Children First](https://www.amazon.co.uk/Women-Children-First-Remastered-Halen/dp/B00UZTTHTG/)
 
-When *Van Halen* burst onto the scene they undeniably took it apart (more on that later), and they were still pretty much at the top of their game by the third album. Punchy. **Top track**: "Everybody Wants Some!!"
+![Van Halen - Women and Children First](/public/images/2025/02/vh-women.jpg){.aoty .aoty-mention} When *Van Halen* burst onto the scene they undeniably took it apart (more on that later), and they were still pretty much at the top of their game by the third album. Punchy. **Top track**: "Everybody Wants Some!!"
 
 ## Winner
 
@@ -35,11 +35,11 @@ Well. I know I'm going to get into trouble in some quarters, but for me *AC/DC* 
 
 ### [AC/DC](http://www.acdc.com/) - [Highway to Hell](https://www.amazon.co.uk/Highway-Hell-AC-DC/dp/B00O71X5YG/)
 
-Now that's not to say that I don't like Bon Scott, by the way… I just prefer Johnson. But on this, Scott's final album, he was pretty damned amazing and Angus is absolutely out of control. **Top track**: "Highway to Hell"
+![AC/DC - Highway to Hell](/public/images/2025/02/hth.jpg){.aoty .aoty-mention} Now that's not to say that I don't like Bon Scott, by the way… I just prefer Johnson. But on this, Scott's final album, he was pretty damned amazing and Angus is absolutely out of control. **Top track**: "Highway to Hell"
 
 ### [Van Halen](http://www.van-halen.com/) - [Van Halen II](https://www.amazon.co.uk/Van-Halen-II/dp/B00UZTWEVO/)
 
-Ah, *Van Halen*, you say? Well yes. Their second album has some crackers on it, and the musical pyrotechnics of EVH are if anything a little more harnessed than on the debut. Just a little filler here, but mostly killer. **Top track**: "Light Up the Sky"
+![Van Halen - Van Halen II](/public/images/2025/02/vhii.jpg){.aoty .aoty-mention} Ah, *Van Halen*, you say? Well yes. Their second album has some crackers on it, and the musical pyrotechnics of EVH are if anything a little more harnessed than on the debut. Just a little filler here, but mostly killer. **Top track**: "Light Up the Sky"
 
 ## Winner
 
@@ -59,11 +59,11 @@ If you're going to concept album, this is how you do it. (I'm looking at you, *D
 
 ### [Dire Straits](https://en.wikipedia.org/wiki/Dire_Straits) - [Dire Straits](https://www.amazon.co.uk/Dire-Straits-Remastered/dp/B001KVLPMK/)
 
-This may in fact be my favourite *Dire Straits* album. There's a prowling moodiness to the lyrics and Mark Knopfler's lead guitar crackles throughout. "Sultans of Swing" indeed. **Top track**: "Down to the Waterline"
+![Dire Straits - Dire Straits](/public/images/2025/02/ds-ds.jpg){.aoty .aoty-mention} This may in fact be my favourite *Dire Straits* album. There's a prowling moodiness to the lyrics and Mark Knopfler's lead guitar crackles throughout. "Sultans of Swing" indeed. **Top track**: "Down to the Waterline"
 
 ### [Brian Eno](http://www.brian-eno.net/) - [Ambient 1: Music for Airports](https://www.amazon.co.uk/Ambient-Music-Airports-Brian-Eno/dp/B001I3DUQO/)
 
-Ambient music is not for everyone, but if it is even mildly your bag then you need this. High water mark. **Top track**: "1/1"
+![Brian Eno - Ambient 1: Music for Airports](/public/images/2025/02/airports.jpg){.aoty .aoty-mention} Ambient music is not for everyone, but if it is even mildly your bag then you need this. High water mark. **Top track**: "1/1"
 
 ## Winner
 
@@ -83,7 +83,7 @@ I can't imagine being the rock music industry when this thing hit it. I imagine 
 
 ### [The Sex Pistols](https://en.wikipedia.org/wiki/Sex_Pistols) - [Never Mind the Bollocks…](https://www.amazon.co.uk/Never-Mind-Bollocks-Heres-Pistols/dp/B00860FD9O/)
 
-I was never into punk, not even a little bit, but it definitely happened, of that much we can be sure. It transpires that this is actually pretty good, even now. **Top track**: "Pretty Vacant"
+![The Sex Pistols - Never Mind the Bollocks…](/public/images/2025/02/bollocks.jpg){.aoty .aoty-mention} I was never into punk, not even a little bit, but it definitely happened, of that much we can be sure. It transpires that this is actually pretty good, even now. **Top track**: "Pretty Vacant"
 
 ## Winner
 
