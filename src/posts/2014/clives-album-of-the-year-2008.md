@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:04:34.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2008 was a year.
 ghost_header_image: 2020/06/aoty2008.jpg
+header_image_caption: 'Top row: You Me at Six – Take Off Your Colours; Johnny Flynn – A Larum; It Bites – The Tall Ships. Bottom row: Dan le Sac vs. Scroobius Pip – Angles; Black Stone Cherry – Folklore and Superstition; Guns N’ Roses – Chinese Democracy'
 ---
 
 2008 was a year.

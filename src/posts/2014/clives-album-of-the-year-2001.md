@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:09:18.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2001 was of course released in 1968, and what's up with that monolith? Amirite?
 ghost_header_image: 2001aoty.jpg
+header_image_caption: 'Top row: Buckherry – Time Bomb; Backyard Babies – Making Enemies Is Good; Beautiful Creatures – Beautiful Creatures. Bottom row: John Butler Trio – Three; Muse – Origin of Symmetry; Nickelback – Silver Side Up'
 ---
 
 [2001](http://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28film%29) was of course released in 1968, and what's up with that monolith? Amirite?

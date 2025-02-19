@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:09:48.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Let's all meet up in the year 2000, won't it be strange when we're all fully grown?
 ghost_header_image: 2000aoty.jpg
+header_image_caption: 'Top row: Paul Gilbert – Alligator Farm; Coldplay – Parachutes; Danger Danger – The Return of the Great Gildersleeves. Bottom row: Slash’s Snakepit – Ain’t Life Grand; Transmission OK – The Sky, the Stars and the Great Beyond; Wheatus – Wheatus'
 ---
 
 MM. Let's all meet up in the year 2000, won't it be strange when we're all fully grown?
@@ -31,9 +32,9 @@ I'd pretty much just about landed what later turned into a career in web develop
 
 ![Slash's Snakepit – Ain't Life Grand](/public/images/2020/06/slashs-snakepit_aint-life-grand-1.jpg){.aoty .aoty-mention} Slash! He of the hat! There were only two *Snakepit* albums, and this is by far the superior. Utterly riffdactic, as you would imagine. **Top track:** "Mean Bone"
 
-### [Transmission OK](http://www.allmusic.com/artist/transmission-ok-mn0000014599/biography) - [The Sky, The Stars And The Great Beyond](http://www.amazon.co.uk/Sky-Stars-Great-Beyond-Transmission/dp/B00004X0BU/)
+### [Transmission OK](http://www.allmusic.com/artist/transmission-ok-mn0000014599/biography) - [The Sky, the Stars and the Great Beyond](http://www.amazon.co.uk/Sky-Stars-Great-Beyond-Transmission/dp/B00004X0BU/)
 
-![Transmission OK – The Sky, The Stars And The Great Beyond](/public/images/2020/06/transmission-ok_the-sky-the-stars-and-the-great-beyond.jpg){.aoty .aoty-mention} Way back in the day, like 1990 or so, there were lots of up and coming young shredders, and they mostly got in bands, did a couple of albums, and disappeared when that kind of music fell out of favour a few years later. C'est la vie. One of them, Mr. [Blues Saraceno](http://en.wikipedia.org/wiki/Blues_Saraceno), suddenly reappeared in 2000 with a pop/rock band and album, and it's just great. **Top track:** "Fiberglass"
+![Transmission OK – The Sky, the Stars and the Great Beyond](/public/images/2020/06/transmission-ok_the-sky-the-stars-and-the-great-beyond.jpg){.aoty .aoty-mention} Way back in the day, like 1990 or so, there were lots of up and coming young shredders, and they mostly got in bands, did a couple of albums, and disappeared when that kind of music fell out of favour a few years later. C'est la vie. One of them, Mr. [Blues Saraceno](http://en.wikipedia.org/wiki/Blues_Saraceno), suddenly reappeared in 2000 with a pop/rock band and album, and it's just great. **Top track:** "Fiberglass"
 
 ### [Wheatus](http://www.wheatus.com/) - [Wheatus](http://www.amazon.co.uk/Wheatus/dp/B00004YZJS/)
 

@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:25:31.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2004 was a leap year starting on a Thursday, and soon after that I turned 30. It was also the International Year of Rice.
 ghost_header_image: 2004aoty.jpg
+header_image_caption: 'Top row: Max Richter – The Blue Notebooks; William Shatner – Has Been; Alter Bridge – One Day Remains. Bottom row: Green Day – American Idiot; The Streets – A Grand Don’t Come For Free; Velvet Revolver – Contraband'
 ---
 
 2004 was a leap year starting on a Thursday, and soon after that I turned 30. It was also the International Year of Rice.

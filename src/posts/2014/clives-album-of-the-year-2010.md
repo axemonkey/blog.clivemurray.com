@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:01:52.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2010 was the year in which I got married, the Burj Khalifa opened, Ronnie James Dio and Leslie Nielsen died, and Steve Coogan and Rob Brydon went on The Trip.
 ghost_header_image: 2020/05/aoty2010.jpg
+header_image_caption: 'Top row: Furyon – Gravitas; The Damned Things – Ironiclast; Pendulum – Immersion. Bottom row: Cloudkicker – Beacons; Eluveitie – Everything Remains As It Never Was; My Chemical Romance – Danger Days (The True Lives of the Fabulous Killjoys)'
 ---
 
 This post was lost in the ether after a server crash, until my pal and colleague [Mat Harden](http://www.twitter.com/matharden) dug it out of his Instapaper for me. Thanks Mat!

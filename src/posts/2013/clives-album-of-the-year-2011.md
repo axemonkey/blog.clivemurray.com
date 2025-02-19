@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:00:59.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: A lot of great music came my way in 2011.
 ghost_header_image: 2020/05/aoty2011.jpg
+header_image_caption: 'Top row: You Me at Six – Sinners Never Sleep; Evanescence – Evanescence; Hugh Laurie – Let Them Talk. Bottom row: Mr. Big – What If...; Myrath – Tales of the Sands; Scroobius Pip – Distraction Pieces'
 ---
 
 ---

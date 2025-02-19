@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:20:42.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: "I WAS CONWINCED!"
 ghost_header_image: 2019/05/aoty2007.jpg
+header_image_caption: 'Top row: Turisas – The Varangian Way; Airbourne – Runnin’ Wild; Alter Bridge – Blackbird. Bottom row: Coheed and Cambria – Good Apollo I’m Burning Star IV, Volume 2: No World For Tomorrow; Underworld – Oblivion With Bells; Vangelis – Blade Runner Trilogy'
 ---
 
 In 2007 the [Writers Guild of America went on strike](http://en.wikipedia.org/wiki/2007%E2%80%9308_Writers_Guild_of_America_strike), utterly buggering up the second series of [Heroes](http://en.wikipedia.org/wiki/Heroes_%28TV_series%29) and cutting short the annual season of many other shows. Oh, and winning a huge battle for the rights to residual payments or something, I guess.

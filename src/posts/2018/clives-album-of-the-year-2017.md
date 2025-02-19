@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:04:27.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: People have been banging on about how terrible 2017 was… and they're not wrong… but hey, did everyone forget about 2016?
 ghost_header_image: 2017aoty-l.jpg
+header_image_caption: 'Top row: Steven Wilson – To the Bone; Greta Van Fleet – From the Fires; Jonathan Coulton – Solid State. Bottom row: KXM – Scatterbrain; Lonely Robot – The Big Dream; David Maxim Micic – Who Bit the Moon?'
 ---
 
 OK, so I think I've sat with the albums of 2017 for long enough now to make the necessary judgement calls. 2017 was the year that came after the one before, and if anyone tries to tell you different, SLAP THEM. People have been banging on about how terrible 2017 was… and they're not wrong… but hey, did everyone forget about 2016? This was just more of the same but at least we had some idea of what to expect. Oh, and Prince and Bowie didn't die in 2017, so on that basis alone it *must* be better than 2016.

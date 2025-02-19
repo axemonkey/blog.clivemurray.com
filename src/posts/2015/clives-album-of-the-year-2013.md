@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:18:08.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2013 was the last year of my 30s, and was a pretty OK year for me all round.
 ghost_header_image: 2013aoty.jpg
+header_image_caption: 'Top row: Jon Gomm – Secrets Nobody Keeps; Alter Bridge – Fortress; Ólafur Arnalds – For Now I Am Winter. Bottom row: David Bowie – The Next Day; Hugh Laurie – Didn’t It Rain; Plini/Sithu Aye – I'
 ---
 
 2013 was the last year of my 30s, and was a pretty OK year for me all round. I didn't have to move house, no-one super-close to me died, my work situation was good, and I played a couple of gigs.

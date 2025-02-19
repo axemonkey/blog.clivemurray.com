@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:16:45.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2014 was the International Year of Crystallography, of Family Farming, of Solidarity with the Palestinian People, and of Small Island Developing States.
 ghost_header_image: 2014aoty.jpg
+header_image_caption: 'Top row: You Me at Six – Cavalier Youth; Sebastain Bach – Give ’Em Hell; Black Veil Brides – Black Veil Brides. Bottom row: Buckcherry – F***; Elbow – The Take-Off and Landing of Everything; Slash – World On Fire'
 ---
 
 2014 was the [International Year](https://en.wikipedia.org/wiki/International_observance#2010s) of Crystallography, of Family Farming, of Solidarity with the Palestinian People, and of Small Island Developing States. So now you know.

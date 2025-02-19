@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:00:26.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 ghost_header_image: 2020/05/aoty2012.jpg
 excerpt: '"technical instrumental djent-y metal-y stuff"'
+header_image_caption: 'Top row: Flying Colors – Flying Colors; Chimpspanner – All Roads Lead Here; Grand Magus – The Hunt. Bottom row: Max Richter – Vivaldi Recomposed: The Four Seasons; Tremonti – All I Was; Savage Messiah – Plague of Conscience'
 ---
 
 2012 was a jolly fine year for music - or at any rate, music that I like. It was also the year in which I discovered a genre that took my ears by storm for some while, and which I can only attempt to name something like "technical instrumental djent-y metal-y stuff". Since that's such a crap name, go away and listen to *Chimp Spanner*, *Cloudkicker*, *Scale the Summit* and *Intervals*, and you'll soon get the gist.

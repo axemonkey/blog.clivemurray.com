@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:29:32.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: On millennium night I played a covers gig in Hastings, where for the first half we partied like it was 1999, because it was. And then it wasn't. But we carried on anyway.
 ghost_header_image: 1999aoty.jpg
+header_image_caption: 'Top row: Underworld – Beaucoup Fish; Buckcherry – Buckcherry; Ludovico Einaudi – Eden Roc. Bottom row: Powerman 5000 – Tonight the Stars Revolt!; Red Hot Chili Peppers – Californication; Stereophonics – Performance and Cocktails'
 ---
 
 In Summer 1999 I met a girl. We hooked up for a bit and it didn’t really work out. But then in Autumn I met another girl. We hooked up and 15 years later I’m proud to call her my wife. :)
@@ -27,9 +28,9 @@ On millennium night I played a covers gig in Hastings, where for the first half 
 
 ![Ludovico Einaudi – Eden Roc](/public/images/2025/02/einaudi-edenroc.jpg){.aoty .aoty-mention} I've only quite recently discovered the minimalist stylings of *Ludo*, but when I heard him on Classic FM I rushed out and bought just about everything of his I could find. Minimal classical, nothing too challenging, perhaps a little anodyne for some, but I love it. **Top track:** "Due Tramonti"
 
-### [Powerman 5000](http://www.powerman5000.com/) - [Tonight The Stars Revolt!](http://www.amazon.co.uk/Tonight-Stars-Revolt-Powerman-5000/dp/B00000JMXV/)
+### [Powerman 5000](http://www.powerman5000.com/) - [Tonight the Stars Revolt!](http://www.amazon.co.uk/Tonight-Stars-Revolt-Powerman-5000/dp/B00000JMXV/)
 
-![Powerman 5000 – Tonight The Stars Revolt!](/public/images/2025/02/pm5k-stars.jpg){.aoty .aoty-mention} No idea where I first heard "Nobody's Real" but when I did it made me want more, and this is such a cracking album. Snarly punk-industrial-metal (nu, perhaps… shudder…) and great fun throughout. **Top track:** "Nobody's Real"
+![Powerman 5000 – Tonight the Stars Revolt!](/public/images/2025/02/pm5k-stars.jpg){.aoty .aoty-mention} No idea where I first heard "Nobody's Real" but when I did it made me want more, and this is such a cracking album. Snarly punk-industrial-metal (nu, perhaps… shudder…) and great fun throughout. **Top track:** "Nobody's Real"
 
 ### [Red Hot Chili Peppers](https://redhotchilipeppers.com/) - [Californication](https://www.amazon.co.uk/dp/B00000J7JO)
 

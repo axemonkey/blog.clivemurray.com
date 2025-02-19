@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:21:48.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: In 2006 a man named Mathias hired me for the second time, I moved from Leyton E10 to South Woodford E18, I turned 32 and my band Little Monkeys released a live album on 6th June (6/6/6).
 ghost_header_image: 2006aoty.jpg
+header_image_caption: 'Top row: My Chemical Romance – The Black Parade; Buckcherry – 15; DragonForce – Inhuman Rampage. Bottom row: Guthrie Govan – Erotic Cakes; The Killers – Sam’s Town; Muse – Black Holes and Revelations'
 ---
 
 In 2006 a man named Mathias hired me for the second time, I moved from Leyton E10 to South Woodford E18, I turned 32 and my band Little Monkeys released a [live album](http://www.amazon.co.uk/Live-At-Marquee-Little-Monkeys/dp/B00350WWU8/) on 6th June (6/6/6).

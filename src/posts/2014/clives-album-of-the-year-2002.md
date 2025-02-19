@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:08:18.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 2002 was the first palindromic year since 1991 and the last until 2112.
 ghost_header_image: 2002aoty.jpg
+header_image_caption: 'Top row: Damien Rice – O; A – Hi-Fi Serious; Freak Kitchen – Move. Bottom row: Paul Gilbert – Burning Organ; Porcupine Tree – In Absentia; Red Hot Chili Peppers – By the Way'
 ---
 
 2002 was the first palindromic year since 1991 and the last until 2112. It started on a Tuesday, which was the day [the Euro](http://en.wikipedia.org/wiki/Euro) first became legal tender.

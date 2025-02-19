@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:02:12.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: We appear to be smack-gob in the middle of another golden age of music, at least for the music I like.
 ghost_header_image: aoty2018.jpg
+header_image_caption: 'Top row: Greta Van Fleet – Anthem of the Peaceful Army; Michael Romeo – War of the Worlds pt. 1; Mika Tyyskä – Night Overdrive. Bottom row: Amorphis – Queen of Time; Nita Strauss – Controlled Chaos; Toska – Fire by the Silos'
 ---
 
 Those year things just keep on coming, don’t they? Jesus. I swear they’re getting more frequent, too…
@@ -53,9 +54,9 @@ So, twelve releases that rank higher on the playlist at Murray Towers than every
 
 ![Nita Strauss – Controlled Chaos](/public/images/2020/05/nita-strauss_controlled-chaos.jpeg){.aoty .aoty-mention} I first became aware of [Hurricane Nita](http://www.nitastrauss.com/) as one of the members of [*The Iron Maidens*](https://www.theironmaidens.com/) (the world’s only all female *Iron Maiden* tribute act), and figured I’d check them out. I did, and they’re great. Then she left them and toured with *Alice Cooper* before writing and releasing her own solo album, which is a shred masterpiece (if you ignore the extremely ill-advised *Queen* cover at the end) with neo-classical leanings. Lovely. **Top track:** "Mariana Trench"
 
-### [Toska](https://www.toska.tv/) - [Fire By the Silos](https://officialtoska.bandcamp.com/album/fire-by-the-silos)
+### [Toska](https://www.toska.tv/) - [Fire by the Silos](https://officialtoska.bandcamp.com/album/fire-by-the-silos)
 
-![Toska – Fire By the Silos](/public/images/2020/05/toska_fire-by-the-silos.jpeg){.aoty .aoty-mention} *Toska* are a funny one. Guitar-playing listeners may well be familiar with the name [Rob Chapman](http://www.robchapman.tv/), he of Chapman Guitars. Well he plays in a band called *Dorje* who are not really to my taste for some reason. But the rest of the band have an instrumental side band, and that is *Toska*. All the guitars in *Toska* are handled by none other than the absolutely blazing [*Rabea Massaad*](https://chapmanguitars.co.uk/artists/rabea-massaad/), one of my absolute favourite players of the moment (he also provides lead guitar for [*FrogLeap*](https://frogleapstudios.com/) when they play live). *Toska*'s music is moody dark instrumental prog, and while their first album **Ode to the Author** didn't really grab me, this one did. **Top track:** "Abomasum"
+![Toska – Fire by the Silos](/public/images/2020/05/toska_fire-by-the-silos.jpeg){.aoty .aoty-mention} *Toska* are a funny one. Guitar-playing listeners may well be familiar with the name [Rob Chapman](http://www.robchapman.tv/), he of Chapman Guitars. Well he plays in a band called *Dorje* who are not really to my taste for some reason. But the rest of the band have an instrumental side band, and that is *Toska*. All the guitars in *Toska* are handled by none other than the absolutely blazing [*Rabea Massaad*](https://chapmanguitars.co.uk/artists/rabea-massaad/), one of my absolute favourite players of the moment (he also provides lead guitar for [*FrogLeap*](https://frogleapstudios.com/) when they play live). *Toska*'s music is moody dark instrumental prog, and while their first album **Ode to the Author** didn't really grab me, this one did. **Top track:** "Abomasum"
 
 ## And the winners are…
 

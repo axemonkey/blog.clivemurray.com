@@ -7,6 +7,7 @@ date_updated: 2021-09-22T13:59:50.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Well, that was definitely a year.
 ghost_header_image: aoty2020.jpg
+header_image_caption: 'Top row: Lady Gaga – Chromatica; Jon Gomm – The Faintest Idea; Dua Lipa – Future Nostalgia. Bottom row: Protest the Hero – Palimpsest; Taylor Swift – Folklore; Plini – Impulse Voices'
 ---
 
 Well, that was definitely a year.

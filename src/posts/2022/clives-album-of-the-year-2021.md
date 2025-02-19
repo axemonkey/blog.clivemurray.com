@@ -7,6 +7,7 @@ date_updated: 2022-10-18T14:39:28.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Are you still out there? Hello? What’s going on?
 ghost_header_image: aoty2021.jpg
+header_image_caption: 'Top row: Architects – For Those That Wish to Exist; Black Veil Brides – The Phantom Tomorrow; Buckcherry – Hellbound. Bottom row: Billie Eilish – Happier Than Ever; Evanescence – The Bitter Truth; Frost* – Day and Age'
 ---
 
 Are you still out there? Hello? What’s going on?

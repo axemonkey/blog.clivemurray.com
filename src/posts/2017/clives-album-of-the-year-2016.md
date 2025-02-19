@@ -7,6 +7,7 @@ date_updated: 2021-09-23T10:04:49.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Unnnnnngh. Whoo. Ummm… yeah. 2016. OK. Damn. Right. Let’s do this.
 ghost_header_image: 2016aoty.jpg
+header_image_caption: 'Top row: Plini – Handmade Cities; David Bowie – Blackstar; The Dead Daisies – Make Some Noise. Bottom row: Frost* – Falling Satellites; Mandroid Echostar – Coral Throne; Sithu Aye – Set Course for Andromeda'
 ---
 
 Unnnnnngh. Whoo. Ummm… yeah. 2016. OK. Damn.
