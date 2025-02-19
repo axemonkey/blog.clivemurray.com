@@ -1,5 +1,5 @@
 ---
-title: Clive's Album of the Year, 1974-1976
+title: Clive’s Album of the Year, 1974-1976
 slug: clives-album-of-the-year-1974-1976
 date_published: 2018-01-31T09:29:45.000Z
 date: 2018-01-31T09:29:45.000Z
@@ -51,7 +51,7 @@ Worth the price of admission several times over for the title track alone, **Wis
 
 ### [Deep Purple](http://www.deeppurple.com/) - [Burn](https://www.amazon.co.uk/Burn-Deep-Purple/dp/B0007ZEO4G/)
 
-![xxx - xxx](/public/images/2025/02/burn.jpg){.aoty .aoty-mention} *Deep Purple* have had as many lineup changes as any band you can mention, and are still going today. In fact, their 2017 album **Infinite** is on the longlist for that year, though I need more time with it to see if it makes the cut. **Burn**, however, was "the first *Deep Purple* album to feature then-unknown David Coverdale on vocals", and doesn't it just? Blackmore is on fire, Coverdale and Glenn Hughes smash the vocals out of the park, and mainstays Lord and Paice do what they do best. I hadn't properly consumed this album until recently, only really being familiar with the title track, but it is indeed a cracker. **Top track**: "Burn", natch.
+![Deep Purple - Burn](/public/images/2025/02/burn.jpg){.aoty .aoty-mention} *Deep Purple* have had as many lineup changes as any band you can mention, and are still going today. In fact, their 2017 album **Infinite** is on the longlist for that year, though I need more time with it to see if it makes the cut. **Burn**, however, was "the first *Deep Purple* album to feature then-unknown David Coverdale on vocals", and doesn't it just? Blackmore is on fire, Coverdale and Glenn Hughes smash the vocals out of the park, and mainstays Lord and Paice do what they do best. I hadn't properly consumed this album until recently, only really being familiar with the title track, but it is indeed a cracker. **Top track**: "Burn", natch.
 
 ## Winner
 

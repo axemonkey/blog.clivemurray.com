@@ -141,7 +141,7 @@ However, metal's most prolific 70yo wins the race to the bottom this year with o
 
 ### [The Banishment](https://www.velvetthunder.co.uk/the-banishment-machine-and-bone-debut-album-of-industrial-rock-and-dream-punk-by-trio-that-includes-guitarist-george-lynch-out-10-march-2023-via-frontiers/) - [Machine and Bone](https://music.apple.com/us/album/machine-and-bone/1658382639)
 
-![The Banishment – Machine and Bone](/public/images/2024/11/tb-mab.jpg){.aoty .aoty-mention .aoty-turkey} It's no secret that we love us some *George Lynch* here at Clive's Album of the Year. He's usually somewhere in the runners and riders with at least one entry, be it a solo effort, a *Lynch Mob[^retirement]* or *KXM* album, or some other side project. This is one of the latter, and it claims to be an "industrial rock and dream punk" collaboration between Lynch, multi-instrumentalist Joe Haze, and artist and vocalist Devix Szell.
+![The Banishment – Machine and Bone](/public/images/2024/11/tb-mab.jpg){.aoty .aoty-mention .aoty-turkey} It's no secret that we love us some *George Lynch* here at Clive’s Album of the Year. He's usually somewhere in the runners and riders with at least one entry, be it a solo effort, a *Lynch Mob[^retirement]* or *KXM* album, or some other side project. This is one of the latter, and it claims to be an "industrial rock and dream punk" collaboration between Lynch, multi-instrumentalist Joe Haze, and artist and vocalist Devix Szell.
 
 Bollocks, more like.
 
