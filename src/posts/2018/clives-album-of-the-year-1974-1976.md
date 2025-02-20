@@ -7,6 +7,7 @@ date_updated: 2022-02-28T13:52:02.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: The end, or I suppose, the beginning. Back to 1974, the year of my birth.
 ghost_header_image: 1974-1976aoty.jpg
+header_image_caption: 'Top row: Jean-Michel Jarre – Oxygene; Led Zeppelin – Physical Graffiti; Pink Floyd – Wish You Were Here. Bottom row: Queen – Sheer Heart Attack; Deep Purple – Burn; Queen – A Night at the Opera'
 ---
 
 The final part. The end, or I suppose, the beginning. Back to 1974, the year of my birth. The best release of 1974 was clearly me and frankly I only get better every year, but musically…

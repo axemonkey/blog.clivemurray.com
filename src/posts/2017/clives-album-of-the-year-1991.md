@@ -7,6 +7,7 @@ date_updated: 2021-08-26T15:06:59.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: In 1991 I lost my virginity and got a 49cc moped. And the first Gulf War began. So, you know. A mixed bag there.
 ghost_header_image: 1991aoty.jpg
+header_image_caption: 'Top row: Mr. Big – Lean Into It; Metallica – Metallica; Ozzy Osbourne – No More Tears. Bottom row: Primus – Sailing the Seas of Cheese; David Lee Roth – A Little Ain’t Enough; Skid Row – Slave to the Grind'
 ---
 
 In 1991 I lost my virginity and got a 49cc moped. And the first [Gulf War](https://en.wikipedia.org/wiki/Gulf_War) began. So, you know. A mixed bag there.

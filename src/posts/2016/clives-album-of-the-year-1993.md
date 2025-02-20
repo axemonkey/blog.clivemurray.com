@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:21:01.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1993 was the last year of my teens. I'd been playing guitar long enough to think I was pretty good, although that was wrong.
 ghost_header_image: 1993aoty.jpg
+header_image_caption: 'Top row: Sting – Ten Summoner’s Tales; Anthrax – Sound of White Noise; Jan Cyrka – Spirit. Bottom row: Jamiroquai – Emergency on Planet Earth; Poison – Native Tongue; Steve Vai – Sex & Religion'
 ---
 
 1993 was the last year of my teens. I'd been playing guitar long enough to think I was pretty good, although that was wrong.

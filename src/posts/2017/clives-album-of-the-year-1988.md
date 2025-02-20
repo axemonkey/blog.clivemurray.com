@@ -7,6 +7,7 @@ date_updated: 2019-04-04T16:35:31.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: "1988 was the year in the 20th century that had the most digits when written as Roman numerals: MCMLXXXVIII. So there's that."
 ghost_header_image: 1988aoty.jpg
+header_image_caption: 'Top row: David Lee Roth – Skyscraper; Iron Maiden – Seventh Son of a Seventh Son; It Bites – Once Around the World. Bottom row: Jean-Michel Jarre – Revolutions; Ozzy Osbourne – No Rest for the Wicked; Queensrÿche – Operation: Mindcrime'
 ---
 
 1988 was the year in the 20th century that had the most digits when written as Roman numerals: MCMLXXXVIII. So there's that.

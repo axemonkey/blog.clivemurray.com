@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:46:50.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1986 was designated the International Year of Peace by the UN. Good-oh.
 ghost_header_image: 1986aoty.jpg
+header_image_caption: 'Top row: Peter Gabriel – So; Megadeth – Peace Sells... But Who’s Buying?; Queen – A Kind of Magic. Bottom row: David Lee Roth – Eat ’Em and Smile; Paul Simon – Graceland; Van Halen – 5150'
 ---
 
 1986\. I was 12, and had yet to develop any taste in music, so as before this is all retroactive. This is also as far back as I’m going with the whole “1 winner and 5 runners-up” thing. My original idea was to try and go right back to the year of my birth, 1974, but I just can’t find enough music that I like from all of those years. What we’ll have after this is a digest format with the best one of the year, and possibly an honourable mention or two. So now you know.

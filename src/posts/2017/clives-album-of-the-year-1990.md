@@ -7,6 +7,7 @@ date_updated: 2021-08-26T14:48:26.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: So, 1990. What happened in 1990? Um… I finished school, I suppose.
 ghost_header_image: 1990aoty.jpg
+header_image_caption: 'Top row: Steve Vai – Passion and Warfare; Extreme – Pornograffiti; Love/Hate – Blackout in the Red Room. Bottom row: Lynch Mob – Wicked Sensation; Pantera – Cowboys From Hell; Queensrÿche – Empire'
 ---
 
 So, 1990. What happened in 1990? Um… I finished school, I suppose. Passed all my GCSEs and waved goodbye to [Ratton](http://www.ratton.e-sussex.sch.uk/). Errrr. Oh, I think I got my first decent guitar – a [Fender HM Strat](https://en.wikipedia.org/wiki/Fender_HM_Strat) in Ice Blue. Nice.

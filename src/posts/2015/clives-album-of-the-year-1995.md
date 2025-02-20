@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:20:06.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: It's another tie for 1995. I just couldn't separate what are for me still to this day two perfect albums that have barely dated in two decades.
 ghost_header_image: 1995aoty.jpg
+header_image_caption: 'Top row: Radiohead – The Bends; Pulp – Different Class; Faith No More – King for a Day... Fool for a Lifetime. Bottom row: Garbage – Garbage; Presidents of the United States of America – Presidents of the United States of America; Steve Vai – Alien Love Secrets'
 ---
 
 In 1995 I reached legal USA drinking age, [ST:Voyager](http://en.wikipedia.org/wiki/Star_Trek:_Voyager) started, [Richey Edwards](http://en.wikipedia.org/wiki/Richey_Edwards) disappeared, [Kevin Mitnick](http://en.wikipedia.org/wiki/Kevin_Mitnick) was arrested, [Nick Leeson](http://en.wikipedia.org/wiki/Nick_Leeson) collapsed an entire banking firm, [Yahoo!](http://en.wikipedia.org/wiki/Yahoo!_Search), [sarin gas](http://en.wikipedia.org/wiki/Sarin_gas_attack_on_the_Tokyo_subway), the [Oklahoma bombing](http://en.wikipedia.org/wiki/Oklahoma_City_bombing), [Windows 95](http://en.wikipedia.org/wiki/Windows_95), the [DVD](http://en.wikipedia.org/wiki/DVD), [eBay](http://en.wikipedia.org/wiki/EBay), and [OJ Simpson](http://en.wikipedia.org/wiki/O._J._Simpson) was acquitted.

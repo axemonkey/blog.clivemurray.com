@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:31:45.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1998 marked the end of a few chapters for me, and the beginning of actually having a proper job and getting on with things.
 ghost_header_image: 1998aoty.jpg
+header_image_caption: 'Top row: Barenaked Ladies – Stunt; Fatboy Slim – You’ve Come a Long Way Baby; Garbage – Version 2.0. Bottom row: David Gray – White Ladder; The Offspring – Americana; Joe Satriani – Crystal Planet'
 ---
 
 1998 marked the end of a few chapters for me, and the beginning of actually having a proper job and getting on with things.

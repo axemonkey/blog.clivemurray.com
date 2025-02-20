@@ -7,6 +7,7 @@ date_updated: 2021-08-26T14:23:34.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: On we go, come on come on, keep up, I haven't got all day, you know.
 ghost_header_image: 1977-1980aoty.jpg
+header_image_caption: 'Top row: AC/DC – Back in Black; Van Halen – Van Halen II; Pink Floyd – The Wall. Bottom row: Van Halen – Van Halen; The Sex Pistols – Never Mind the Bollocks...; Fleetwood Mac – Rumours'
 ---
 
 On we go, come on come on, keep up, I haven't got all day, you know.

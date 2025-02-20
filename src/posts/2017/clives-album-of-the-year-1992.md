@@ -7,6 +7,7 @@ date_updated: 2021-10-22T12:22:12.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Right. This is going to be a long one, so strap in. Get a coffee, or a beer, or a whiskey, or a cigar. Or all of them if you think it'll help.
 ghost_header_image: 1992aoty.jpg
+header_image_caption: 'Top row: Barenaked Ladies – Gordon; Jan Cyrka – Beyond the Common Ground; Extreme – III Sides to Every Story; Faith No More – Angel Dust. Middle row: Dream Theater – Images and Words; Pantera – Vugar Display of Power; Joe Satriani – The Extremist; T-Ride – T-Ride. Bottom row: Peter Gabriel – Us; King’s X – King’s X; Love/Hate – Wasted in America; Megadeth – Countdown to Extinction'
 ---
 
 Right. This is going to be a long one, so strap in. Get a coffee, or a beer, or a whiskey, or a cigar. Or all of them if you think it'll help. But first, our usual business…

@@ -7,6 +7,7 @@ date_updated: 2022-10-19T09:35:28.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: 1996 was a leap year, and was designated as the International Year for the Eradication of Poverty. So that went well, then.
 ghost_header_image: 1996aoty.jpg
+header_image_caption: 'Top row: Presidents of the United States of America – Presidents of the United States of America II; Barenaked Ladies – Born on a Pirate Ship; Manic Street Preachers – Everything Must Go. Bottom row: Matchbox 20 – Yourself or Someone Like You; Ocean Colour Scene – Moseley Shoals; Underworld – Second Toughest in the Infants'
 ---
 
 1996 was a leap year, and was designated as the International Year for the Eradication of Poverty. So that went well, then.

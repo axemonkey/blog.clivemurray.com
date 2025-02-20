@@ -5,8 +5,9 @@ date_published: 2017-08-03T09:49:48.000Z
 date: 2017-08-03T09:49:48.000Z
 date_updated: 2022-10-19T09:44:53.000Z
 tags: ['post', 'Albums of the Years', 'Music']
-excerpt: I was at school with bad hair and short curly skin, choosing my subjects for GCSE, and in a deeply committed relationship with my ZX Spectrum.
+excerpt: I was at school with spotty hair and short curly skin, choosing my subjects for GCSE, and in a deeply committed relationship with my ZX Spectrum.
 ghost_header_image: 1987aoty.jpg
+header_image_caption: 'Top row: Guns N’ Roses – Appetite for Destruction; Aerosmith – Permanent Vacation; Pink Floyd – Momentary Lapse of Reason. Bottom row: Joe Satriani – Surfing With the Alien; Sting – Nothing Like the Sun; Whitesnake – Whitesnake'
 ---
 
 In 1987 I was 13, so what do you want? I was at school with spotty hair and short curly skin, choosing my subjects for GCSE, and in a deeply committed relationship with my ZX Spectrum.
