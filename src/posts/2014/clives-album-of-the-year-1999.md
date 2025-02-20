@@ -10,7 +10,7 @@ ghost_header_image: 1999aoty.jpg
 header_image_caption: 'Top row: Underworld – Beaucoup Fish; Buckcherry – Buckcherry; Ludovico Einaudi – Eden Roc. Bottom row: Powerman 5000 – Tonight the Stars Revolt!; Red Hot Chili Peppers – Californication; Stereophonics – Performance and Cocktails'
 ---
 
-In Summer 1999 I met a girl. We hooked up for a bit and it didn’t really work out. But then in Autumn I met another girl. We hooked up and 15 years later I’m proud to call her my wife. :)
+In Summer 1999 I met a girl. We hooked up for a bit and it didn’t really work out. But then in Autumn 1999 I met another girl. That went much better. :)
 
 [The Sopranos](http://en.wikipedia.org/wiki/The_Sopranos) and [Family Guy](http://en.wikipedia.org/wiki/Family_Guy) both debuted on US television, [Melissa](http://en.wikipedia.org/wiki/Melissa_worm) "attacked the internet", the [Columbine massacre](http://en.wikipedia.org/wiki/Columbine_High_School_massacre) happened, [Jill Dando](http://en.wikipedia.org/wiki/Jill_Dando) was shot dead on her doorstep, [The Phantom Menace](http://en.wikipedia.org/wiki/Star_Wars_Episode_I:_The_Phantom_Menace) um… happened, [Napster](http://en.wikipedia.org/wiki/Napster) debuted, we had a [total solar eclipse](http://en.wikipedia.org/wiki/Solar_eclipse_of_August_11,_1999) which I peered at through the clouds on a rooftop in Soho, having landed my first London job, Apple released the G4 and Sega released the Dreamcast.
 
