@@ -6,7 +6,7 @@ date: 2014-06-11T09:33:40.000Z
 date_updated: 2022-10-19T09:20:42.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: "I WAS CONWINCED!"
-ghost_header_image: 2019/05/aoty2007.jpg
+ghost_header_image: 2007aoty.jpg
 header_image_caption: 'Top row: Turisas – The Varangian Way; Airbourne – Runnin’ Wild; Alter Bridge – Blackbird. Bottom row: Coheed and Cambria – Good Apollo I’m Burning Star IV, Volume 2: No World For Tomorrow; Underworld – Oblivion With Bells; Vangelis – Blade Runner Trilogy'
 ---
 

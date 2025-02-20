@@ -91,7 +91,7 @@ Allllllll righty, then.
 
 I'll be honest with you, this one has been sewn up since the beginning of 2023.
 
-The scenario: it is mid-January, and I am not in a good mental state. For reasons I shan't go into, I have had a pretty stressful couple of months and then Christmas itself, and the wine is free-flowing to compensate. New year is out of the way, and the return to work plus the cold of winter are squashing what little spirit I have left.
+**The scenario**: it is mid-January, and I am not in a good mental state. For reasons I shan't go into, I have had a pretty stressful couple of months and then Christmas itself, and the wine is free-flowing to compensate. New year is out of the way, and the return to work plus the cold of winter are squashing what little spirit I have left.
 
 I find myself alone at the computer late one night, glass of wine in hand, wandering down social media, and notice that a number of people are suddenly talking about a band I have never heard of. The name is completely unfamiliar, and I cannot discern anything from what anyone is saying regarding what kind of music they play, what genre they are, where they're from, anything. All people are saying is:
 

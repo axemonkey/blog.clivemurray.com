@@ -23,6 +23,7 @@ const colors = [
 	{front: '#5c86ff', back: '#345dd1'}, // Darker Blue
 	{front: '#aa0000', back: '#330000'}, // Red
 	{front: '#dddd00', back: '#666600'}, // Yellow
+	{front: '#ffffff', back: '#cccccc'}, // White
 ];
 
 // helper function to pick a random number within a range
@@ -204,8 +205,8 @@ const render = canvasIndex => {
 
 const confettiSetti = index => {
 	// amount to add on each button press
-	cc.confettiCount = 50;
-	cc.sequinCount = 50;
+	cc.confettiCount = 150;
+	cc.sequinCount = 100;
 
 	// "physics" variables
 	cc.gravityConfetti = 0.3;
