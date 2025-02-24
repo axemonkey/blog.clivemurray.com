@@ -325,6 +325,10 @@
 
 	  // lapBanner.init();
 	});
+	const mentionEffect = element => {
+	  console.log(`hurrah`);
+	  element.classList.add('mention-visible');
+	};
 	const getStrapline = () => {
 	  const straps = [];
 	  const theDate = new Date();
@@ -417,6 +421,26 @@
 	      };
 	      const observer = new IntersectionObserver(callback, opt);
 	      observer.observe(aotyWinners[index]);
+	    }
+	  }
+	  const aotyMentions = document.querySelectorAll('.aoty-mention');
+	  console.log(`aotyMentions.length: ${aotyMentions.length}`);
+	  if (aotyMentions.length > 0) {
+	    for (let index = 0; index < aotyMentions.length; index++) {
+	      console.log(`mention found, number: ${index}`);
+	      const opt = {
+	        threshold: 1
+	      };
+	      const callback = (entries, observer) => {
+	        console.log(`mentions callback`);
+	        if (entries[0].isIntersecting) {
+	          console.log(`Mention ${index} visible`);
+	          mentionEffect(entries[0].target);
+	          observer.unobserve(entries[0].target);
+	        }
+	      };
+	      const observer = new IntersectionObserver(callback, opt);
+	      observer.observe(aotyMentions[index]);
 	    }
 	  }
 	};

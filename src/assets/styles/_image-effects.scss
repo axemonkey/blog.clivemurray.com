@@ -1,0 +1,15 @@
+.aoty-mention {
+	scale: 0.9;
+	opacity: 0.4;
+}
+
+.mention-visible {
+	animation: mention-effect ease-in forwards 0.3s;
+}
+
+@keyframes mention-effect {
+	100% {
+		scale: 1;
+		opacity: 1;
+	}
+}
