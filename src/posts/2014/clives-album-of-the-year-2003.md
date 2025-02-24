@@ -20,28 +20,28 @@ Among many others we lost [Maurice Gibb](http://en.wikipedia.org/wiki/Maurice_Gi
 
 ### [Backyard Babies](http://www.backyardbabies.com/) - [Stockholm Syndrome](http://www.amazon.co.uk/Stockholm-Syndrome-Backyard-Babies/dp/B0000TAPM4/)
 
-![Backyard Babies – Stockholm Syndrome](/public/images/2020/06/backyard-babies_stockholm-syndrome.jpg){.aoty .aoty-mention} These Swedish glam/sleazesters really know their way around a riff. Cracking stuff packed with attitude. **Top track:** "A Song For The Outcast"
+![Backyard Babies – Stockholm Syndrome](/public/images/2020/06/backyard-babies_stockholm-syndrome.jpg){.aoty .aoty-mention loading=lazy} These Swedish glam/sleazesters really know their way around a riff. Cracking stuff packed with attitude. **Top track:** "A Song For The Outcast"
 
 ### [Larry Carlton](http://www.larrycarlton.com/) - [Sapphire Blue](http://www.amazon.co.uk/Sapphire-Blue-Larry-Carlton/dp/B00012FX54/)
 
-![Larry Carlton – Sapphire Blue](/public/images/2020/06/larry-carlton_sapphire-blue.jpg){.aoty .aoty-mention} I went to see Larry play at the Camden Jazz Cafe with a couple of guitar playing buddies, and was wowed. Bought the CD that night, I think. But is it blues-tinged jazz or jazz-tinged blues? **Top track:** "Night Sweats"
+![Larry Carlton – Sapphire Blue](/public/images/2020/06/larry-carlton_sapphire-blue.jpg){.aoty .aoty-mention loading=lazy} I went to see Larry play at the Camden Jazz Cafe with a couple of guitar playing buddies, and was wowed. Bought the CD that night, I think. But is it blues-tinged jazz or jazz-tinged blues? **Top track:** "Night Sweats"
 
 ### [Elbow](http://elbow.co.uk/) - [Cast of Thousands](http://www.amazon.co.uk/Cast-Thousands-Elbow/dp/B00009NQZC/)
 
-![Elbow – Cast of Thousands](/public/images/2020/06/elbow_cast-of-thousands.jpg){.aoty .aoty-mention} I was late to the *Elbow* party, but since discovering them they've become one of my favourite bands of all time, and this is my favourite album of theirs. Just wonderful. **Top track:** "Fugitive Motel"
+![Elbow – Cast of Thousands](/public/images/2020/06/elbow_cast-of-thousands.jpg){.aoty .aoty-mention loading=lazy} I was late to the *Elbow* party, but since discovering them they've become one of my favourite bands of all time, and this is my favourite album of theirs. Just wonderful. **Top track:** "Fugitive Motel"
 
 ### [Evanescence](http://www.evanescence.com/) - [Fallen](http://www.amazon.co.uk/Fallen-Evanescence/dp/B00019GG1M/)
 
-![Evanescence – Fallen](/public/images/2020/06/evanescence_fallen.jpg){.aoty .aoty-mention} If you don't love Amy Lee's voice, you might be doing it wrong. **Top track:** "Everybody's Fool"
+![Evanescence – Fallen](/public/images/2020/06/evanescence_fallen.jpg){.aoty .aoty-mention loading=lazy} If you don't love Amy Lee's voice, you might be doing it wrong. **Top track:** "Everybody's Fool"
 
 ### [Skid Row](http://www.skidrow.com/) - [Thickskin](http://www.amazon.co.uk/Thickskin-Skid-Row/dp/B0000AP6KG/)
 
-![Skid Row – Thickskin](/public/images/2020/06/skid-row_thickskin.jpg){.aoty .aoty-mention} A reformed *Skid Row* without Sebastian Bach was always going to be a bit of a tricky proposition, but I think this album really works. The one after is pretty bad, but this one's fab. Just skip the horrible, unnecessary punk reworking of "I Remember You". **Top track:** "Born A Beggar"
+![Skid Row – Thickskin](/public/images/2020/06/skid-row_thickskin.jpg){.aoty .aoty-mention loading=lazy} A reformed *Skid Row* without Sebastian Bach was always going to be a bit of a tricky proposition, but I think this album really works. The one after is pretty bad, but this one's fab. Just skip the horrible, unnecessary punk reworking of "I Remember You". **Top track:** "Born A Beggar"
 
 ## And the winner is…
 
 ### [The Darkness](http://www.theactualdarkness.com) - [Permission to Land](http://www.amazon.co.uk/Permission-Land-Darkness/dp/B0000A0C4U/)
-![The Darkness - Permission to Land](/public/images/2020/06/the-darkness_permission-to-land.jpeg){.aoty .aoty-winner}
+![The Darkness - Permission to Land](/public/images/2020/06/the-darkness_permission-to-land.jpeg){.aoty .aoty-winner loading=lazy}
 Absolutely! You couldn't move in 2003 for stripey spandex catsuits, and Justin climbing up on Jools' piano to play a solo during their first appearance on Later is something I'll remember for a while.
 
 The thing is, it's not just a joke - the songs are incredibly well written, especially the lyrics. Yes there is humour involved, but under that there is a damned fine rock band playing great rock songs. And Justin has a knack for writing a song that initially seems to be about one thing but when you actually stop and listen to what he's saying, it's totally something else.
@@ -54,6 +54,6 @@ Plus, the album and the band really were absolutely *everywhere* in the Summer o
 
 ### [The Coral](http://www.thecoral.co.uk/) - [Magic and Medicine](http://www.amazon.co.uk/Magic-Medicine-Coral/dp/B0000A0UB1/)
 
-![The Coral – Magic and Medicine](/public/images/2025/02/the-coral-magic-and-medicine.jpg){.aoty .aoty-mention .aoty-turkey}
+![The Coral – Magic and Medicine](/public/images/2025/02/the-coral-magic-and-medicine.jpg){.aoty .aoty-mention .aoty-turkey loading=lazy}
 
 I loved the first *Coral* album, but this one was balls. Balls, I tell you.

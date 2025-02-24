@@ -18,19 +18,19 @@ Bon voyage was bid to (as always, etc.) [Larry Grayson](http://en.wikipedia.org/
 
 ### [Faith No More](http://www.fnm.com/) - [King For a Day… Fool For a Lifetime](http://www.amazon.co.uk/King-Day-Faith-No-More/dp/B000024HFL/)
 
-![Faith No More – King For a Day… Fool For a Lifetime](/public/images/2025/02/fnm-king.jpg){.aoty .aoty-mention} When my mate Justin came round with this album, I had no idea what to make of it. It's about 50% what I expected from *FNM*, about 10% unlistenable screaming that sounded like *Mr. Bungle* having a bad day, and the rest… weird lounge crooning. Fascinating for the most part. **Top track:** "The Gentle Art of Making Enemies"
+![Faith No More – King For a Day… Fool For a Lifetime](/public/images/2025/02/fnm-king.jpg){.aoty .aoty-mention loading=lazy} When my mate Justin came round with this album, I had no idea what to make of it. It's about 50% what I expected from *FNM*, about 10% unlistenable screaming that sounded like *Mr. Bungle* having a bad day, and the rest… weird lounge crooning. Fascinating for the most part. **Top track:** "The Gentle Art of Making Enemies"
 
 ### [Garbage](http://www.garbage.com/) - [Garbage](http://www.amazon.co.uk/Garbage/dp/B000005ROC/)
 
-![Garbage – Garbage](/public/images/2025/02/garb.jpg){.aoty .aoty-mention} I think I first saw *Garbage* live on TFI Friday back in the day, and while I liked what I heard well enough, it was years later I went back and really appreciated their catalogue. Superbly crafted songs. **Top track:** "Stupid Girl"
+![Garbage – Garbage](/public/images/2025/02/garb.jpg){.aoty .aoty-mention loading=lazy} I think I first saw *Garbage* live on TFI Friday back in the day, and while I liked what I heard well enough, it was years later I went back and really appreciated their catalogue. Superbly crafted songs. **Top track:** "Stupid Girl"
 
 ### [The Presidents of the USA](http://www.presidentsrock.com/) - [The Presidents of the USA](http://www.amazon.co.uk/Presidents-United-States-America/dp/B000024JDX/)
 
-![The Presidents of the USA – The Presidents of the USA](/public/images/2025/02/pusa.jpg){.aoty .aoty-mention} *PUSA!* If you don't know then I can't tell you, etc., but here is where it all started. Worth the price of admission for "Lump" alone, obviously. **Top track:** "Body"
+![The Presidents of the USA – The Presidents of the USA](/public/images/2025/02/pusa.jpg){.aoty .aoty-mention loading=lazy} *PUSA!* If you don't know then I can't tell you, etc., but here is where it all started. Worth the price of admission for "Lump" alone, obviously. **Top track:** "Body"
 
 ### [Steve Vai](http://www.vai.com/) - [Alien Love Secrets](http://www.amazon.co.uk/Alien-Love-Secrets-Steve-Vai/dp/B000025TBT/)
 
-![Steve Vai – Alien Love Secrets](/public/images/2025/02/vai-als.jpg){.aoty .aoty-mention} This 7-track EP benefits hugely from Mr. Vai keeping his gob shut, and aside from the truly unlistenable "Ya-Yo Gakk", everything else here is absolutely top-drawer Vai. **Top track:** "Tender Surrender"
+![Steve Vai – Alien Love Secrets](/public/images/2025/02/vai-als.jpg){.aoty .aoty-mention loading=lazy} This 7-track EP benefits hugely from Mr. Vai keeping his gob shut, and aside from the truly unlistenable "Ya-Yo Gakk", everything else here is absolutely top-drawer Vai. **Top track:** "Tender Surrender"
 
 ## And the winners are…
 
@@ -38,7 +38,7 @@ It's another tie for 1995. I just couldn't separate what are for me still to thi
 
 ### [Pulp](http://www.pulppeople.com/) - [Different Class](http://www.amazon.co.uk/Different-Class-Pulp/dp/B000001E8P/)
 
-![Pulp - Different Class](/public/images/2018/03/51lBaKp46rL.jpg){.aoty .aoty-winner}
+![Pulp - Different Class](/public/images/2018/03/51lBaKp46rL.jpg){.aoty .aoty-winner loading=lazy}
 
 Brit-pop and me didn't really get along for the most part, but this album is absolute perfection from start to finish. There's not a bad moment on it, from the anthemic "Mis-Shapes", the visceral "Pencil Skirt" and the outright venomous "I Spy" to the floor filling classics "Common People" and "Disco 2000" there's not a note out of place.
 
@@ -50,7 +50,7 @@ Bloody wonderful stuff.
 
 ### [Radiohead](http://www.radiohead.co.uk/) - [The Bends](http://www.amazon.co.uk/Bends-Radiohead/dp/B000002TQV/)
 
-![Radiohead - The Bends](/public/images/2018/03/cover_1813327122010.jpg){.aoty .aoty-winner}
+![Radiohead - The Bends](/public/images/2018/03/cover_1813327122010.jpg){.aoty .aoty-winner loading=lazy}
 
 I'm aware that I'm in the minority in thinking that *Radiohead* peaked here and everything they did after **OK Computer** was frankly dirge, but can we perhaps agree that when this album came out it was absolutely gobsmacking?
 
@@ -64,4 +64,4 @@ It's actually hard to pick, there were so many misfires this year - the [Dark Ti
 
 ### [Extreme](http://www.extreme-band.com/) - [Waiting For the Punchline](http://www.amazon.co.uk/Waiting-Punchline-Extreme/dp/B000024GFT/)
 
-![Extreme – Waiting For the Punchline](/public/images/2025/02/extreme-waiting.jpg){.aoty .aoty-mention .aoty-turkey} Oof. No. Awful.
+![Extreme – Waiting For the Punchline](/public/images/2025/02/extreme-waiting.jpg){.aoty .aoty-mention .aoty-turkey loading=lazy} Oof. No. Awful.

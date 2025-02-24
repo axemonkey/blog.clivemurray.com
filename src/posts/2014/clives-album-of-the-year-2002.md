@@ -24,28 +24,28 @@ We lost (as always, among many others) [Chuck Jones](http://en.wikipedia.org/wik
 
 ### [A](http://www.acommunication.co.uk/) - [Hi-Fi Serious](http://www.amazon.co.uk/Hi-Fi-Serious/dp/B00006349V/)
 
-![A – Hi-Fi Serious](/public/images/2020/06/a_hifi-serious.jpg){.aoty .aoty-mention} The least web-search-compatible band in the world, *A* had released two albums before this but my advice is to skip them - the songs and the production don't come anywhere near close to matching this cracker. Punchy as hell and great fun throughout. **Top track:** "Nothing"
+![A – Hi-Fi Serious](/public/images/2020/06/a_hifi-serious.jpg){.aoty .aoty-mention loading=lazy} The least web-search-compatible band in the world, *A* had released two albums before this but my advice is to skip them - the songs and the production don't come anywhere near close to matching this cracker. Punchy as hell and great fun throughout. **Top track:** "Nothing"
 
 ### [Freak Kitchen](http://www.freakkitchen.com/) - [Move](http://www.amazon.co.uk/Move-Freak-Kitchen/dp/B00008XVHY/)
 
-![Freak Kitchen – Move](/public/images/2020/06/freak-kitchen_move.jpg){.aoty .aoty-mention} In 2002 I became aware of many of my guitarist friends suddenly raving about this Swedish guy called [*Mattias Eklundh*](http://en.wikipedia.org/wiki/Mattias_Eklundh). I found his first solo album mind-blowing and impenetrable in equal measure, but when I heard his band this album became an instant favourite. Clever, sometimes heavy, always interesting. **Top track:** "Nobody's Laughing"
+![Freak Kitchen – Move](/public/images/2020/06/freak-kitchen_move.jpg){.aoty .aoty-mention loading=lazy} In 2002 I became aware of many of my guitarist friends suddenly raving about this Swedish guy called [*Mattias Eklundh*](http://en.wikipedia.org/wiki/Mattias_Eklundh). I found his first solo album mind-blowing and impenetrable in equal measure, but when I heard his band this album became an instant favourite. Clever, sometimes heavy, always interesting. **Top track:** "Nobody's Laughing"
 
 ### [Paul Gilbert](http://www.paulgilbert.com/) - [Burning Organ](http://www.amazon.co.uk/Burning-Organ-Paul-Gilbert/dp/B000084IP7/)
 
-![Paul Gilbert – Burning Organ](/public/images/2020/06/paul-gilbert_burning-organ.jpg){.aoty .aoty-mention} I've always dug *PG*'s solo albums, though due to his self-confessed "pop voice" they are sometimes a little ballad-laden. This one rocks out though - it even starts with a track called "I Like Rock".  **Top track:** "My Religion"
+![Paul Gilbert – Burning Organ](/public/images/2020/06/paul-gilbert_burning-organ.jpg){.aoty .aoty-mention loading=lazy} I've always dug *PG*'s solo albums, though due to his self-confessed "pop voice" they are sometimes a little ballad-laden. This one rocks out though - it even starts with a track called "I Like Rock".  **Top track:** "My Religion"
 
 ### [Porcupine Tree](http://www.porcupinetree.com/) - [In Absentia](http://www.amazon.co.uk/Absentia-European-Porcupine-Tree/dp/B00007J36G/)
 
-![Porcupine Tree – In Absentia](/public/images/2020/06/porcupine-tree_in-absentia.jpg){.aoty .aoty-mention} During my time in advertising, I made one of the best friends of my life - Mr [Mathias Hellquist](http://imakethingswork.com/) - and it was he who introduced me to this album, which proved to be a gateway drug to the whole *Porcupine Tree* back catalogue. This one is for my money the pinnacle of the oeuvre, though that may be because I haven't spent enough time with its successors. Either way, it's magnificent. **Top track:** "Blackest Eyes"
+![Porcupine Tree – In Absentia](/public/images/2020/06/porcupine-tree_in-absentia.jpg){.aoty .aoty-mention loading=lazy} During my time in advertising, I made one of the best friends of my life - Mr [Mathias Hellquist](http://imakethingswork.com/) - and it was he who introduced me to this album, which proved to be a gateway drug to the whole *Porcupine Tree* back catalogue. This one is for my money the pinnacle of the oeuvre, though that may be because I haven't spent enough time with its successors. Either way, it's magnificent. **Top track:** "Blackest Eyes"
 
 ### [Red Hot Chili Peppers](http://www.redhotchilipeppers.com/) - [By The Way](http://www.amazon.co.uk/Way-Red-Hot-Chili-Peppers/dp/B000067CPX/)
 
-![Red Hot Chili Peppers – By The Way](/public/images/2020/06/red-hot-chilli-peppers_by-the-way.jpg){.aoty .aoty-mention} You could not move for this album in 2002-2004 or so. You know why? It's *good*. **Top track:** "Can't Stop"
+![Red Hot Chili Peppers – By The Way](/public/images/2020/06/red-hot-chilli-peppers_by-the-way.jpg){.aoty .aoty-mention loading=lazy} You could not move for this album in 2002-2004 or so. You know why? It's *good*. **Top track:** "Can't Stop"
 
 ## And the winner is…
 
 ### [Damien Rice](http://www.damienrice.com) - [O](http://www.amazon.co.uk/O-Damien-Rice/dp/B0000AXKRB/)
-![Damien Rice - O](/public/images/2020/06/damien-rice_o.jpeg){.aoty .aoty-winner}
+![Damien Rice - O](/public/images/2020/06/damien-rice_o.jpeg){.aoty .aoty-winner loading=lazy}
 Oh god, this album.
 
 It took me a while to get down into it, having been played it a few times at a friend's flat, but a few more repeat listens and a heart-rending live gig at the Union Chapel later and I was a *Damien Rice* convert. This album…
@@ -62,6 +62,6 @@ I'll say this - go with it. You'll get back at least as much as you put in, thou
 
 ### [Rush](http://www.rush.com/) - [Vapor Trails](http://www.amazon.co.uk/Vapor-Trails-Rush/dp/B000065DTE/)
 
-![Rush – Vapor Trails](/public/images/2025/02/rush-vapor-trails.jpg){.aoty .aoty-mention .aoty-turkey}
+![Rush – Vapor Trails](/public/images/2025/02/rush-vapor-trails.jpg){.aoty .aoty-mention .aoty-turkey loading=lazy}
 
 Bleurch. Honestly. Wow. No. Don't do that.

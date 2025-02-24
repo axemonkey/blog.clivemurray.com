@@ -18,7 +18,7 @@ Right, I hadn't developed a real taste in music this far back, and a lot of what
 
 ### [Dire Straits](https://en.wikipedia.org/wiki/Dire_Straits) - [Brothers in Arms](https://www.amazon.co.uk/Brothers-Arms-Remastered-Dire-Straits/dp/B001KVSTHO/)
 
-![Dire Straits - Brothers in Arms](/public/images/2018/01/DS_Brothers_in_Arms-300.jpg){.aoty .aoty-winner}
+![Dire Straits - Brothers in Arms](/public/images/2018/01/DS_Brothers_in_Arms-300.jpg){.aoty .aoty-winner loading=lazy}
 
 Possibly the first album I properly enjoyed. My mate next door, Craig, had it on tape and we would play it over and over in the tape decks of the junk cars that forever occupied the bottom end of his family's garden. I think the video for "Money For Nothing" likely played a part in lodging this stuff firmly into my brain, though it was the start of a very long love affair with *Dire Straits* and I still credit Mark Knopfler as being the one who made me want to play guitar in the first place.
 
@@ -30,17 +30,17 @@ Possibly the first album I properly enjoyed. My mate next door, Craig, had it on
 
 ### [Steve Vai](http://www.vai.com/) - [Flex-Able](https://www.amazon.co.uk/Flex-Able-Steve-Vai/dp/B0000001EE/)
 
-![Steve Vai - Flex-Able](/public/images/2025/02/flex-able.jpg){.aoty .aoty-mention} My first experience of *Steve Vai* was hearing *David Lee Roth*'s **Skyscraper**, and not long after that Vai's magnificent octopus **Passion and Warfare** came out to enormous acclaim, but going back to his debut album is a mixed bag of nuts and weasels. There are moments of unalloyed genius, heartbreakingly tender musicality, off-the-wall tinfoil-hat nutbaggery, ill-advised singing, and utterly unlistenable nonsense. In summary then – Steve Vai. (Overall, it's excellent.) **Top track**: "Call It Sleep"
+![Steve Vai - Flex-Able](/public/images/2025/02/flex-able.jpg){.aoty .aoty-mention loading=lazy} My first experience of *Steve Vai* was hearing *David Lee Roth*'s **Skyscraper**, and not long after that Vai's magnificent octopus **Passion and Warfare** came out to enormous acclaim, but going back to his debut album is a mixed bag of nuts and weasels. There are moments of unalloyed genius, heartbreakingly tender musicality, off-the-wall tinfoil-hat nutbaggery, ill-advised singing, and utterly unlistenable nonsense. In summary then – Steve Vai. (Overall, it's excellent.) **Top track**: "Call It Sleep"
 
 ### [Van Halen](http://van-halen.com/) - [1984](https://www.amazon.co.uk/1984-Van-Halen/dp/B00UZU0ASW/)
 
-![Van Halen - 1984](/public/images/2025/02/1984.jpg){.aoty .aoty-mention} Natch, and in any other year this may well have wombled off with the prize. In fact, if it wasn't for a couple of conspicuous duddos ("House of Pain" and "Drop Dead Legs" leap to mind) it may still have. On balance though, it's a cracker. **Top track**: "Panama"
+![Van Halen - 1984](/public/images/2025/02/1984.jpg){.aoty .aoty-mention loading=lazy} Natch, and in any other year this may well have wombled off with the prize. In fact, if it wasn't for a couple of conspicuous duddos ("House of Pain" and "Drop Dead Legs" leap to mind) it may still have. On balance though, it's a cracker. **Top track**: "Panama"
 
 ## Winner
 
 ### [Iron Maiden](https://ironmaiden.com/) - [Powerslave](https://www.amazon.co.uk/Powerslave-1998-Remastered-Iron-Maiden/dp/B00QO35VX8/)
 
-![Iron Maiden - Powerslave](/public/images/2018/01/Iron_Maiden_-_Powerslave-300.jpg){.aoty .aoty-winner}
+![Iron Maiden - Powerslave](/public/images/2018/01/Iron_Maiden_-_Powerslave-300.jpg){.aoty .aoty-winner loading=lazy}
 
 And now you see why *Van Halen* had to forego the crown. Honestly. If you're still reading this and haven't by now slammed on **Powerslave** and are not even now being thoroughly rocked by the opener "Aces High" then you're doing something wrong. Possibly many things.
 
@@ -52,17 +52,17 @@ And now you see why *Van Halen* had to forego the crown. Honestly. If you're sti
 
 ### [David Bowie](http://www.davidbowie.com/) - [Let's Dance](https://www.amazon.co.uk/Lets-Dance-David-Bowie/dp/B002JAWOC6/)
 
-![David Bowie - Let's Dance](/public/images/2025/02/bowie-dance.jpg){.aoty .aoty-mention} Little can be written here about *Bowie* that has not already been written elsewhere, but what I will say is that you will never hear a more perfectly crafted piece of pop music than the title track. You also get *Stevie Ray Vaughan* thrown in for free. Not bad. **Top track**: "China Girl"
+![David Bowie - Let's Dance](/public/images/2025/02/bowie-dance.jpg){.aoty .aoty-mention loading=lazy} Little can be written here about *Bowie* that has not already been written elsewhere, but what I will say is that you will never hear a more perfectly crafted piece of pop music than the title track. You also get *Stevie Ray Vaughan* thrown in for free. Not bad. **Top track**: "China Girl"
 
 ### [Stevie Ray Vaughan](http://www.srvofficial.com/) - [Texas Flood](https://www.amazon.co.uk/Texas-Stevie-Vaughan-Double-Trouble/dp/B001GTE3XY/)
 
-![Stevie Ray Vaughan - Texas Flood](/public/images/2025/02/texas-flood.jpg){.aoty .aoty-mention} Speaking of the boy from Seattle, this is an essential album. Essential. DO YOU HEAR ME? ESSENTIAL. GET IT. NOW. **Top track**: "Texas Flood"
+![Stevie Ray Vaughan - Texas Flood](/public/images/2025/02/texas-flood.jpg){.aoty .aoty-mention loading=lazy} Speaking of the boy from Seattle, this is an essential album. Essential. DO YOU HEAR ME? ESSENTIAL. GET IT. NOW. **Top track**: "Texas Flood"
 
 ## Winner
 
 ### [Iron Maiden](https://ironmaiden.com/) - [Piece of Mind](https://www.amazon.co.uk/Piece-Mind-1998-Remastered-Maiden/dp/B00QO3AD2C/)
 
-![Iron Maiden - Piece of Mind](/public/images/2018/01/Iron_Maiden_-_Piece_Of_Mind-300.jpg){.aoty .aoty-winner}
+![Iron Maiden - Piece of Mind](/public/images/2018/01/Iron_Maiden_-_Piece_Of_Mind-300.jpg){.aoty .aoty-winner loading=lazy}
 
 If 1984's **Powerslave** was *Maiden* at the very height of their powers, then 1983's predecessor was pretty bloody close behind. Actually in a stand-up fight I probably couldn't pick between them. Luckily they were released in different years so I don't have to. Another golden slab of pure British metal from the best era of the best metal band ever, and I **will** fight you.
 
@@ -74,13 +74,13 @@ If 1984's **Powerslave** was *Maiden* at the very height of their powers, then 1
 
 ### [Dire Straits](https://en.wikipedia.org/wiki/Dire_Straits) - [Love Over Gold](https://www.amazon.co.uk/Love-Over-Gold-Remastered-Straits/dp/B001KV6OQ2/)
 
-![Dire Straits - Love Over Gold](/public/images/2025/02/ds-log.jpg){.aoty .aoty-mention} Once I'd fallen for *Dire Straits* I had to track back through their discography, which contains some gems and some plums. This is the former, and the ~15m first song "Telegraph Road" still makes the hairs on my arms stand on end. Look. They're doing it now. **Top track**: "Telegraph Road"
+![Dire Straits - Love Over Gold](/public/images/2025/02/ds-log.jpg){.aoty .aoty-mention loading=lazy} Once I'd fallen for *Dire Straits* I had to track back through their discography, which contains some gems and some plums. This is the former, and the ~15m first song "Telegraph Road" still makes the hairs on my arms stand on end. Look. They're doing it now. **Top track**: "Telegraph Road"
 
 ## Winner
 
 ### [Iron Maiden](https://ironmaiden.com/) - [The Number of the Beast](https://www.amazon.co.uk/Number-Beast-1998-Remastered/dp/B00QO32FF0/)
 
-![Iron Maiden - The Number of the Beast](/public/images/2018/01/IronMaiden_NumberOfBeast-300.jpg){.aoty .aoty-winner}
+![Iron Maiden - The Number of the Beast](/public/images/2018/01/IronMaiden_NumberOfBeast-300.jpg){.aoty .aoty-winner loading=lazy}
 
 So… observant listeners will be detecting a theme by now. What can I say? *Iron Maiden* were the best damned band of all time at doing this thing they do. This was Bruce Dickenson's first outing on lead vocals, replacing the charismatic but patchy Paul Di'Anno, and that was that. Listen and marvel. You marvelled, didn't you? I SAW YOU MARVELLING.
 
@@ -92,7 +92,7 @@ So… observant listeners will be detecting a theme by now. What can I say? *Iro
 
 ### [Mötley Crüe](https://www.motley.com/) - [Too Fast For Love](https://www.amazon.co.uk/Too-Fast-Love-M%C3%B6tley-Cr%C3%BCe/dp/B076WQXQ2F/)
 
-![Mötley Crüe - Too Fast For Love](/public/images/2018/01/toofast-300.jpg){.aoty .aoty-winner}
+![Mötley Crüe - Too Fast For Love](/public/images/2018/01/toofast-300.jpg){.aoty .aoty-winner loading=lazy}
 
 Much has been written about the history of the most notorious band in hard rock, notably by the band themselves in "The Dirt". This was their first album, and it is hard to imagine it coming out in 1981 when I was 7. The first I heard from *Crüe* was 1989's **Dr. Feelgood**, which we've already [covered](/clives-album-of-the-year-1989/), and which is a much more slick Hollywood production whereas this is almost punk in places and has the raw gritty feel of a band who've got enough (chemical) energy to pull a crowd at a graveyard and enough hairspray to make them all stand to attention. Great fun.
 

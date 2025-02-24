@@ -22,29 +22,29 @@ I was working in a bar in my hometown of Eastbourne, and praying for [hard rock 
 
 ### [Barenaked Ladies](http://barenakedladies.com/) - [Born on a Pirate Ship](http://www.amazon.co.uk/Born-Pirate-Ship-Barenaked-Ladies/dp/B000002N47/)
 
-![Barenaked Ladies – Born on a Pirate Ship](/public/images/2025/02/bnl-pirate-ship.jpg){.aoty .aoty-mention} This album does go a little bit nondescript in the second half, but the first seven songs are gold. Worth the price of admission for "Straw Hat and Old Dirty Hank" or "The Old Apartment" alone. **Top track:** "The Old Apartment"
+![Barenaked Ladies – Born on a Pirate Ship](/public/images/2025/02/bnl-pirate-ship.jpg){.aoty .aoty-mention loading=lazy} This album does go a little bit nondescript in the second half, but the first seven songs are gold. Worth the price of admission for "Straw Hat and Old Dirty Hank" or "The Old Apartment" alone. **Top track:** "The Old Apartment"
 
 ### [Manic Street Preachers](http://www.manicstreetpreachers.com/) - [Everything Must Go](http://www.amazon.co.uk/Everything-Must-Manic-Street-Preachers/dp/B000024UNZ/)
 
-![Manic Street Preachers – Everything Must Go](/public/images/2025/02/msp-emg.jpg){.aoty .aoty-mention} You can't really ignore this album. I know, I tried. I really didn't want to put it in the shortlist, but so huge was its impact that I just couldn't leave it out. And whatever you think of JDB's hectoring, there are some **massive** tunes on here. **Top track:** "Australia"
+![Manic Street Preachers – Everything Must Go](/public/images/2025/02/msp-emg.jpg){.aoty .aoty-mention loading=lazy} You can't really ignore this album. I know, I tried. I really didn't want to put it in the shortlist, but so huge was its impact that I just couldn't leave it out. And whatever you think of JDB's hectoring, there are some **massive** tunes on here. **Top track:** "Australia"
 
 ### [Matchbox Twenty](http://www.matchboxtwenty.com/) - [Yourself or Someone Like You](http://www.amazon.co.uk/Yourself-Someone-Like-You-Matchbox/dp/B000002JWU/)
 
-![Matchbox Twenty – Yourself or Someone Like You](/public/images/2025/02/m20-yourself.jpg){.aoty .aoty-mention} This is quite a poppy album for me to own, and I honestly can't recall where I came across it. Cracking tunes though, and Rob Thomas has a great voice. **Top track:** "Long Day"
+![Matchbox Twenty – Yourself or Someone Like You](/public/images/2025/02/m20-yourself.jpg){.aoty .aoty-mention loading=lazy} This is quite a poppy album for me to own, and I honestly can't recall where I came across it. Cracking tunes though, and Rob Thomas has a great voice. **Top track:** "Long Day"
 
 ### [Ocean Colour Scene](http://oceancolourscene.com/) - [Moseley Shoals](http://www.amazon.co.uk/Moseley-Shoals-Ocean-Colour-Scene/dp/B000024LIX/)
 
-![Ocean Colour Scene – Moseley Shoals](/public/images/2025/02/ocs-mosely.jpg){.aoty .aoty-mention} If you were a 22-year-old male in 1996, which I was, you probably watched the TV show "TFI Friday". And if you watched that show, then you heard quite a lot of *Ocean Colour Scene*. This album has some absolute classics on it, and if you spent any time in a British pub in the late 90s, you'll know a good few of them. **Top track:** "The Riverboat Song", obviously
+![Ocean Colour Scene – Moseley Shoals](/public/images/2025/02/ocs-mosely.jpg){.aoty .aoty-mention loading=lazy} If you were a 22-year-old male in 1996, which I was, you probably watched the TV show "TFI Friday". And if you watched that show, then you heard quite a lot of *Ocean Colour Scene*. This album has some absolute classics on it, and if you spent any time in a British pub in the late 90s, you'll know a good few of them. **Top track:** "The Riverboat Song", obviously
 
 ### [Underworld](http://www.underworldlive.com/) - [Second Toughest in the Infants](http://www.amazon.co.uk/Second-Toughest-Infants-Underworld/dp/B000024KQ8/)
 
-![Underworld – Second Toughest in the Infants](/public/images/2025/02/u-2ndt.jpg){.aoty .aoty-mention} As has been mentioned before I was a little late picking up on the Essex outfit's output, but this - as with all of their early albums - is pretty much essential. **Top track:** "Juanita/Kiteless/To Dream Of Love"
+![Underworld – Second Toughest in the Infants](/public/images/2025/02/u-2ndt.jpg){.aoty .aoty-mention loading=lazy} As has been mentioned before I was a little late picking up on the Essex outfit's output, but this - as with all of their early albums - is pretty much essential. **Top track:** "Juanita/Kiteless/To Dream Of Love"
 
 ## And the winner is…
 
 ### [The Presidents of the USA](http://www.presidentsrock.com/) - [The Presidents of the USA II](http://www.amazon.co.uk/Presidents-United-States-America-II/dp/B000002BIN/)
 
-![The Presidents of the USA - The Presidents of the USA II](/public/images/2018/03/515KJ2EEJAL.jpg){.aoty .aoty-winner}
+![The Presidents of the USA - The Presidents of the USA II](/public/images/2018/03/515KJ2EEJAL.jpg){.aoty .aoty-winner loading=lazy}
 
 *PUSA!*
 
@@ -62,4 +62,4 @@ Unique, if nothing else.
 
 ### [Mr. Big](http://www.mrbigsite.com/) - [Hey Man](http://www.amazon.co.uk/Hey-Man-Mr-Big/dp/B000024Z3I/)
 
-![Mr. Big – Hey Man](/public/images/2025/02/mrbig-heyman.jpg){.aoty .aoty-mention .aoty-turkey} No no no. The one before, **Bump Ahead** had gotten ballad-heavy and nondescript enough for me to consign it to the "probably won't listen to that again" CD pile, and this one (the last before Paul Gilbert left, though he did return 15 years later) really felt like everyone was phoning it in or just didn't know quite what they should sound like. This was [The Dark Times](/the-dark-times) after all…
+![Mr. Big – Hey Man](/public/images/2025/02/mrbig-heyman.jpg){.aoty .aoty-mention .aoty-turkey loading=lazy} No no no. The one before, **Bump Ahead** had gotten ballad-heavy and nondescript enough for me to consign it to the "probably won't listen to that again" CD pile, and this one (the last before Paul Gilbert left, though he did return 15 years later) really felt like everyone was phoning it in or just didn't know quite what they should sound like. This was [The Dark Times](/the-dark-times) after all…

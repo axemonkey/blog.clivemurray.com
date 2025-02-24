@@ -22,29 +22,29 @@ On millennium night I played a covers gig in Hastings, where for the first half 
 
 ### [Buckcherry](http://www.buckcherry.com/) - [Buckcherry](http://www.amazon.co.uk/Buckcherry/dp/B00000IGQU/)
 
-![Buckcherry – Buckcherry](/public/images/2025/02/buckcherry-buckcherry.jpg){.aoty .aoty-mention} I've written much about *Buckcherry* as it is, but this was their debut album. I missed it at the time and came to it later, and still to this day prefer the followup **Time Bomb**, but this is still a righteous rocking album. Proper raw rock and roll. **Top track:** "Lawless And Lulu"
+![Buckcherry – Buckcherry](/public/images/2025/02/buckcherry-buckcherry.jpg){.aoty .aoty-mention loading=lazy} I've written much about *Buckcherry* as it is, but this was their debut album. I missed it at the time and came to it later, and still to this day prefer the followup **Time Bomb**, but this is still a righteous rocking album. Proper raw rock and roll. **Top track:** "Lawless And Lulu"
 
 ### [Ludovico Einaudi](http://www.ludovicoeinaudi.com/) - [Eden Roc](http://www.amazon.co.uk/Eden-Roc-Einaudi/dp/B001HQTEYO/)
 
-![Ludovico Einaudi – Eden Roc](/public/images/2025/02/einaudi-edenroc.jpg){.aoty .aoty-mention} I've only quite recently discovered the minimalist stylings of *Ludo*, but when I heard him on Classic FM I rushed out and bought just about everything of his I could find. Minimal classical, nothing too challenging, perhaps a little anodyne for some, but I love it. **Top track:** "Due Tramonti"
+![Ludovico Einaudi – Eden Roc](/public/images/2025/02/einaudi-edenroc.jpg){.aoty .aoty-mention loading=lazy} I've only quite recently discovered the minimalist stylings of *Ludo*, but when I heard him on Classic FM I rushed out and bought just about everything of his I could find. Minimal classical, nothing too challenging, perhaps a little anodyne for some, but I love it. **Top track:** "Due Tramonti"
 
 ### [Powerman 5000](http://www.powerman5000.com/) - [Tonight the Stars Revolt!](http://www.amazon.co.uk/Tonight-Stars-Revolt-Powerman-5000/dp/B00000JMXV/)
 
-![Powerman 5000 – Tonight the Stars Revolt!](/public/images/2025/02/pm5k-stars.jpg){.aoty .aoty-mention} No idea where I first heard "Nobody's Real" but when I did it made me want more, and this is such a cracking album. Snarly punk-industrial-metal (nu, perhaps… shudder…) and great fun throughout. **Top track:** "Nobody's Real"
+![Powerman 5000 – Tonight the Stars Revolt!](/public/images/2025/02/pm5k-stars.jpg){.aoty .aoty-mention loading=lazy} No idea where I first heard "Nobody's Real" but when I did it made me want more, and this is such a cracking album. Snarly punk-industrial-metal (nu, perhaps… shudder…) and great fun throughout. **Top track:** "Nobody's Real"
 
 ### [Red Hot Chili Peppers](https://redhotchilipeppers.com/) - [Californication](https://www.amazon.co.uk/dp/B00000J7JO)
 
-![Red Hot Chili Peppers – Californication](/public/images/2025/02/rhcp-cali.jpg){.aoty .aoty-mention} This was the *Chilis*' first studio album in four years, and marked the return of John Frusciante on the six-string twangplank. It remains their best-selling album ever, though for my money it's slightly bettered by [2002](/clives-album-of-the-year-2002/)'s **By The Way**. Still great though. **Top track:** "Scar Tissue"
+![Red Hot Chili Peppers – Californication](/public/images/2025/02/rhcp-cali.jpg){.aoty .aoty-mention loading=lazy} This was the *Chilis*' first studio album in four years, and marked the return of John Frusciante on the six-string twangplank. It remains their best-selling album ever, though for my money it's slightly bettered by [2002](/clives-album-of-the-year-2002/)'s **By The Way**. Still great though. **Top track:** "Scar Tissue"
 
 ### [Stereophonics](http://www.stereophonics.com/) - [Performance and Cocktails](http://www.amazon.co.uk/Performance-Cocktails-Stereophonics/dp/B00000ILO7/)
 
-![Stereophonics – Performance and Cocktails](/public/images/2025/02/stereophonics-perf-cock.jpg){.aoty .aoty-mention} The *'phonics* were everywhere in 1999. You couldn't move for "The Bartender and the Thief", "Just Looking" and "Pick a Part That's New", and that was because they're ace songs. The rest of the album is just as great, if not greater. **Top track:** "Pick A Part That's New"
+![Stereophonics – Performance and Cocktails](/public/images/2025/02/stereophonics-perf-cock.jpg){.aoty .aoty-mention loading=lazy} The *'phonics* were everywhere in 1999. You couldn't move for "The Bartender and the Thief", "Just Looking" and "Pick a Part That's New", and that was because they're ace songs. The rest of the album is just as great, if not greater. **Top track:** "Pick A Part That's New"
 
 ## And the winner is…
 
 ### [Underworld](http://www.underworldlive.com/) - [Beaucoup Fish](http://www.amazon.co.uk/Beaucoup-Fish-Underworld/dp/B000023Y31/)
 
-![Underworld - Beaucoup Fish](/public/images/2018/03/u.jpg){.aoty .aoty-winner}
+![Underworld - Beaucoup Fish](/public/images/2018/03/u.jpg){.aoty .aoty-winner loading=lazy}
 
 King of Snake, King of Snake.
 
@@ -64,6 +64,6 @@ And, to quote Rufus (from [Bill & Ted](http://en.wikipedia.org/wiki/Bill_%26_Ted
 
 ### [Mr. Big](http://www.mrbigsite.com/) - [Get Over It](http://www.amazon.co.uk/Get-Over-Mr-Big/dp/B00002DEPB/)
 
-![Mr. Big – Get Over It](/public/images/2025/02/mrbig-getoverit.jpg){.aoty .aoty-mention .aoty-turkey}
+![Mr. Big – Get Over It](/public/images/2025/02/mrbig-getoverit.jpg){.aoty .aoty-mention .aoty-turkey loading=lazy}
 
 Oh dear. For me **Mr. Big** needed Paul Gilbert's sense of humour running through their music to make it listenable, and his replacement Richie Kotzen - while an absolutely incredible musician - is pretty po-faced, and the band lost something vital at this point.

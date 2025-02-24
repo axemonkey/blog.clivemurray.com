@@ -26,29 +26,29 @@ Retroactively, then…
 
 ### [Aerosmith](http://www.aerosmith.com/) - [Permanent Vacation](https://www.amazon.co.uk/Permanent-Vacation-Aerosmith/dp/B000026E3A/)
 
-![Aerosmith – Permanent Vacation](/public/images/2025/02/permvac.jpg){.aoty .aoty-mention} I am familiar with precisely none of *Aerosmith*’s pre-1987 work, a situation which if I’m honest is unlikely to change any time soon. There are a couple of tracks on this album I’m likely to skip, but the good ones are **really** good. **Top track:** “Dude (Looks Like a Lady)”
+![Aerosmith – Permanent Vacation](/public/images/2025/02/permvac.jpg){.aoty .aoty-mention loading=lazy} I am familiar with precisely none of *Aerosmith*’s pre-1987 work, a situation which if I’m honest is unlikely to change any time soon. There are a couple of tracks on this album I’m likely to skip, but the good ones are **really** good. **Top track:** “Dude (Looks Like a Lady)”
 
 ### [Pink Floyd](http://www.pinkfloyd.com/) - [A Momentary Lapse of Reason](https://www.amazon.co.uk/Momentary-Lapse-Reason-Remastered-Version/dp/B005NNZJW8/)
 
-![Pink Floyd – A Momentary Lapse of Reason](/public/images/2025/02/lapse.jpg){.aoty .aoty-mention} I know, right? I’ve never been the most rabid *Floyd* fan alive (though I did live with one for some time), but I’ve always had time and respect for them. In fairness I haven’t gone back and properly engaged with the Roger Waters era (except **The Wall** obviously – that’s a masterpiece) and I’ve *certainly* never even tried with the Syd Barrett era, so I’ve really only been a Gilmour guy. I wasn't listening to *PF* in 1987, but have appreciated them greatly in later years, and this album while not one of their most essential is still very good. **Top track:** “Learning to Fly”
+![Pink Floyd – A Momentary Lapse of Reason](/public/images/2025/02/lapse.jpg){.aoty .aoty-mention loading=lazy} I know, right? I’ve never been the most rabid *Floyd* fan alive (though I did live with one for some time), but I’ve always had time and respect for them. In fairness I haven’t gone back and properly engaged with the Roger Waters era (except **The Wall** obviously – that’s a masterpiece) and I’ve *certainly* never even tried with the Syd Barrett era, so I’ve really only been a Gilmour guy. I wasn't listening to *PF* in 1987, but have appreciated them greatly in later years, and this album while not one of their most essential is still very good. **Top track:** “Learning to Fly”
 
 ### [Joe Satriani](http://www.satriani.com/) - [Surfing With the Alien](https://www.amazon.co.uk/Surfing-Alien-Joe-Satriani-x/dp/B000025N63/)
 
-![Joe Satriani – Surfing With the Alien](/public/images/2025/02/surfing.jpg){.aoty .aoty-mention} In any other year, blah blah blah. But wow, it is hard to overstate the importance of this album to rock guitar. *Satriani* had self produced and released a weird home-grown EP in 1984 and then released his label debut **Not of This Earth** in 1986 to limited acclaim, but when **Surfing** came out in 1987 it changed the game completely. This took instrumental guitar out of the realms of "Apache" and "Telstar" and sent it soaring into the space age with its stellar technique, melodic sensibility, and finely honed production. Even moreso than hearing *Van Halen* for the first time, hearing this was what made me want to play real rock guitar. Thanks, Joe. **Top track:** “Circles”
+![Joe Satriani – Surfing With the Alien](/public/images/2025/02/surfing.jpg){.aoty .aoty-mention loading=lazy} In any other year, blah blah blah. But wow, it is hard to overstate the importance of this album to rock guitar. *Satriani* had self produced and released a weird home-grown EP in 1984 and then released his label debut **Not of This Earth** in 1986 to limited acclaim, but when **Surfing** came out in 1987 it changed the game completely. This took instrumental guitar out of the realms of "Apache" and "Telstar" and sent it soaring into the space age with its stellar technique, melodic sensibility, and finely honed production. Even moreso than hearing *Van Halen* for the first time, hearing this was what made me want to play real rock guitar. Thanks, Joe. **Top track:** “Circles”
 
 ### [Sting](http://www.sting.com/) - [Nothing Like the Sun](https://www.amazon.co.uk/Nothing-Like-Sun-Sting/dp/B000026H0L/)
 
-![Sting – Nothing Like the Sun](/public/images/2025/02/nlts.jpg){.aoty .aoty-mention} Yes, I like Sting (up to a point, and **Mercury Falling** was that point – after that, no ta) and while I didn't get into this album until relatively recently it does contain some of his crackers, most notably "Englishman in New York" which I think I was aware of and liked even in 1987, but see also "They Dance Alone", "Fragile", "Straight to My Heart" and "Sister Moon". Hell, I even quite like his cover of "Little Wing". **Top track:** “Englishman in New York”
+![Sting – Nothing Like the Sun](/public/images/2025/02/nlts.jpg){.aoty .aoty-mention loading=lazy} Yes, I like Sting (up to a point, and **Mercury Falling** was that point – after that, no ta) and while I didn't get into this album until relatively recently it does contain some of his crackers, most notably "Englishman in New York" which I think I was aware of and liked even in 1987, but see also "They Dance Alone", "Fragile", "Straight to My Heart" and "Sister Moon". Hell, I even quite like his cover of "Little Wing". **Top track:** “Englishman in New York”
 
 ### [Whitesnake](http://www.whitesnake.com/) - [Whitesnake](https://www.amazon.co.uk/1987-Whitesnake/dp/B000026BDY/)
 
-![Whitesnake – Whitesnake](/public/images/2025/02/1987.jpg){.aoty .aoty-mention} The *’Snake* have had many incarnations, but predictably it’s the hard rock version I dig. This album features the incomparable John Sykes on guitar and while some of the tracks don’t quite gel for me, it’s a belter overall. **Top track:** “Still of the Night”
+![Whitesnake – Whitesnake](/public/images/2025/02/1987.jpg){.aoty .aoty-mention loading=lazy} The *’Snake* have had many incarnations, but predictably it’s the hard rock version I dig. This album features the incomparable John Sykes on guitar and while some of the tracks don’t quite gel for me, it’s a belter overall. **Top track:** “Still of the Night”
 
 ## And the winner is…
 
 ### [Guns N’ Roses](http://www.gunsnroses.com/) - [Appetite For Destruction](https://www.amazon.co.uk/Appetite-Destruction-Guns-N-Roses/dp/B000026E3O/)
 
-![Guns N’ Roses - Appetite For Destruction](/public/images/2025/02/afd.jpg){.aoty .aoty-winner}
+![Guns N’ Roses - Appetite For Destruction](/public/images/2025/02/afd.jpg){.aoty .aoty-winner loading=lazy}
 
 In some ways, this entire series has been leading up to this point. (I'm certainly not going much further back than '87… perhaps another year or two if I can find enough good stuff…)
 
@@ -70,4 +70,4 @@ Yet.
 
 ### [Mötley Crüe](http://www.motley.com/) - [Girls Girls Girls](https://www.amazon.co.uk/Girls-M%C3%B6tley-Cr%C3%BCe/dp/B005SN9S02/)
 
-![Mötley Crüe – Girls Girls Girls](/public/images/2025/02/ggg-jfc.jpg){.aoty .aoty-mention .aoty-turkey} Meanwhile… *le sigh*.
+![Mötley Crüe – Girls Girls Girls](/public/images/2025/02/ggg-jfc.jpg){.aoty .aoty-mention .aoty-turkey loading=lazy} Meanwhile… *le sigh*.

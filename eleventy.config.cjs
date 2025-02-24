@@ -19,7 +19,7 @@ module.exports = function (eleventyConfig) {
 		.use(markdownItFootNote)
 		.use(markdownItAbbr)
 		.use(markdownItAttrs, {
-		allowedAttributes: ['id', 'class'],
+		allowedAttributes: ['id', 'class', 'loading'],
 	});
 
 	eleventyConfig.setLibrary('md', markdownLib);

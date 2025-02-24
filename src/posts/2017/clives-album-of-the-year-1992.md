@@ -28,35 +28,35 @@ Even so, the list just cannot be whittled down to the usual pool of 6, so here a
 
 ### [Barenaked Ladies](http://www.barenakedladies.com/) - [Gordon](https://www.amazon.co.uk/Gordon-Barenaked-Ladies/dp/B002LPXNCE/)
 
-![Barenaked Ladies – Gordon](/public/images/2025/02/gordon.jpg){.aoty .aoty-mention} Ah, it was a strange time. I'd discovered that I have anxiety disorder and was off work for a short period due to debilitating panic attacks, and was living on a [good friend](http://www.loganwilson.com/)'s floor for a little while as I couldn't handle being alone even for a short time. Sometime around then, he introduced me to Canadian songsmiths *Barenaked Ladies*, and I immediately adored their humour, their musicianship and their endlessly inventive and clever lyrics. This was their debut album, and it is hard to beat. Such heart, so melody, much clever, wow. **Top track:** "Brian Wilson"
+![Barenaked Ladies – Gordon](/public/images/2025/02/gordon.jpg){.aoty .aoty-mention loading=lazy} Ah, it was a strange time. I'd discovered that I have anxiety disorder and was off work for a short period due to debilitating panic attacks, and was living on a [good friend](http://www.loganwilson.com/)'s floor for a little while as I couldn't handle being alone even for a short time. Sometime around then, he introduced me to Canadian songsmiths *Barenaked Ladies*, and I immediately adored their humour, their musicianship and their endlessly inventive and clever lyrics. This was their debut album, and it is hard to beat. Such heart, so melody, much clever, wow. **Top track:** "Brian Wilson"
 
 ### [Jan Cyrka](https://jamtrackcentral.com/artists/jan-cyrka/) - Beyond the Common Ground
 
-![Jan Cyrka – Beyond the Common Ground](/public/images/2025/02/jan-beyond.jpg){.aoty .aoty-mention} So as mentioned last time, *Jan* graduated from stunt guitarist for *Zodiac Mindwarp* to do his own solo thing. This was his debut solo release, and while it's a little more raw than the follow-up **Spirit** I think it's actually a better record, and it's just more fun. **Top track:** "On the Contrary"
+![Jan Cyrka – Beyond the Common Ground](/public/images/2025/02/jan-beyond.jpg){.aoty .aoty-mention loading=lazy} So as mentioned last time, *Jan* graduated from stunt guitarist for *Zodiac Mindwarp* to do his own solo thing. This was his debut solo release, and while it's a little more raw than the follow-up **Spirit** I think it's actually a better record, and it's just more fun. **Top track:** "On the Contrary"
 
 ### [Extreme](https://www.extreme-band.com/) - [III Sides to Every Story](https://www.amazon.co.uk/III-Sides-Every-Story-Extreme/dp/B001KW9NE6/)
 
-![Extreme – III Sides to Every Story](/public/images/2025/02/iii-sides.jpg){.aoty .aoty-mention} Riiiiight. So. I gather that debates still rage on fora about how much of the huge sound of *Extreme*'s 1990 smash **Pornograffitti** was down to legendary producer [Michael Wagener](https://en.wikipedia.org/wiki/Michael_Wagener) and how much was the input of bonsai guitarist Nuno Bettencourt. (My 2p-worth? Michael did most of it, if not all. He didn't make just one amazing sounding record in this period, go look at the list if you want proof. FWIW I adore Nuno as a guitarist – I just think he’s a better player and songwriter than he is a producer.) Anyway, on this album, following the double platinum success of Porno and riding the wave of hard rock excess and ego, i) Nuno decided to sit in the producer's chair and ii) the band decided on an ambitious "three-sided" semi-concept album, which kind of works. For my money, they should have ditched the loftier tracks and stuck with the format of the first "side", i.e. the hard rock songs. Some of those are absolute belters, mind, and the album as a whole is definitely worth your time. **Top track:** "Rest in Peace"
+![Extreme – III Sides to Every Story](/public/images/2025/02/iii-sides.jpg){.aoty .aoty-mention loading=lazy} Riiiiight. So. I gather that debates still rage on fora about how much of the huge sound of *Extreme*'s 1990 smash **Pornograffitti** was down to legendary producer [Michael Wagener](https://en.wikipedia.org/wiki/Michael_Wagener) and how much was the input of bonsai guitarist Nuno Bettencourt. (My 2p-worth? Michael did most of it, if not all. He didn't make just one amazing sounding record in this period, go look at the list if you want proof. FWIW I adore Nuno as a guitarist – I just think he’s a better player and songwriter than he is a producer.) Anyway, on this album, following the double platinum success of Porno and riding the wave of hard rock excess and ego, i) Nuno decided to sit in the producer's chair and ii) the band decided on an ambitious "three-sided" semi-concept album, which kind of works. For my money, they should have ditched the loftier tracks and stuck with the format of the first "side", i.e. the hard rock songs. Some of those are absolute belters, mind, and the album as a whole is definitely worth your time. **Top track:** "Rest in Peace"
 
 ### [Faith No More](http://www.fnm.com/) - [Angel Dust](https://www.amazon.co.uk/Angel-Dust-Explicit-Faith-More/dp/B001F3899A/)
 
-![Faith No More – Angel Dust](/public/images/2025/02/fnm-ad.jpg){.aoty .aoty-mention} *FNM* have always been a difficult one. While some of their stuff flies to the very top of the genius pole, other tracks are just unlistenable nonsense, and this has been the case on pretty much every release. **Angel Dust**, though, is a very cohesive album and is perhaps the best recorded synergy between Mike Patton's unhinged persona and Jim Martin's unstoppable riffage. Only one or two skip-tracks on here, and when it's good it's very very good. **Top track:** “Midlife Crisis“
+![Faith No More – Angel Dust](/public/images/2025/02/fnm-ad.jpg){.aoty .aoty-mention loading=lazy} *FNM* have always been a difficult one. While some of their stuff flies to the very top of the genius pole, other tracks are just unlistenable nonsense, and this has been the case on pretty much every release. **Angel Dust**, though, is a very cohesive album and is perhaps the best recorded synergy between Mike Patton's unhinged persona and Jim Martin's unstoppable riffage. Only one or two skip-tracks on here, and when it's good it's very very good. **Top track:** “Midlife Crisis“
 
 ### [Peter Gabriel](http://petergabriel.com/) - [Us](https://www.amazon.co.uk/d/CDs-Vinyl/Us-Peter-Gabriel/B000025JVB/)
 
-![Peter Gabriel – Us](/public/images/2025/02/us.jpg){.aoty .aoty-mention} A friend and I used to frequently argue about which was better of *Gabriel*'s two-letter albums, 1986's **So** or 1992’s **Us** (a problem which has been compounded further by 2002's **Up**), the answer to which of course is **So**. That doesn't mean that this isn't absolutely brilliant though. (Hint: it is.) **Top track:** "Blood of Eden"
+![Peter Gabriel – Us](/public/images/2025/02/us.jpg){.aoty .aoty-mention loading=lazy} A friend and I used to frequently argue about which was better of *Gabriel*'s two-letter albums, 1986's **So** or 1992’s **Us** (a problem which has been compounded further by 2002's **Up**), the answer to which of course is **So**. That doesn't mean that this isn't absolutely brilliant though. (Hint: it is.) **Top track:** "Blood of Eden"
 
 ### [King's X](http://www.kingsxrocks.com/) - [King's X](https://www.amazon.co.uk/Kings-X/dp/B00H8QHJW6/)
 
-![King's X – King's X](/public/images/2025/02/kingsx.jpg){.aoty .aoty-mention} I knew of *King's X* and their splendid sophomore record **Gretchen Goes to Nebraska**, and had heard one track of this eponymous release on the soundtrack to "Bill & Ted's Bogus Journey" (non-heinous) so picking this up was a no-brainer. Doug Pinnick's unique vocal and bass stylings and Ty Tabor's always *always* interesting guitar work make this a joy from start to finish. **Top track:** "Black Flag"
+![King's X – King's X](/public/images/2025/02/kingsx.jpg){.aoty .aoty-mention loading=lazy} I knew of *King's X* and their splendid sophomore record **Gretchen Goes to Nebraska**, and had heard one track of this eponymous release on the soundtrack to "Bill & Ted's Bogus Journey" (non-heinous) so picking this up was a no-brainer. Doug Pinnick's unique vocal and bass stylings and Ty Tabor's always *always* interesting guitar work make this a joy from start to finish. **Top track:** "Black Flag"
 
 ### [Love/Hate](https://www.facebook.com/JizzyPearlsLoveHate/) - [Wasted in America](https://www.amazon.co.uk/Wasted-America-Love/dp/B00WESLJ88/)
 
-![Love/Hate – Wasted in America](/public/images/2025/02/lh-wasted.jpg){.aoty .aoty-mention} *Love/Hate*'s debut **Blackout in the Red Room** was then and is still one of my favourite albums of all time, and if anything the follow-up is more cohesive and better put together. One absolutely awful track ("Social Sidewinder"), a bunch of crackers, and one anthem for the ages ("Don't F*** With Me"). **Top track:** "Wasted in America"
+![Love/Hate – Wasted in America](/public/images/2025/02/lh-wasted.jpg){.aoty .aoty-mention loading=lazy} *Love/Hate*'s debut **Blackout in the Red Room** was then and is still one of my favourite albums of all time, and if anything the follow-up is more cohesive and better put together. One absolutely awful track ("Social Sidewinder"), a bunch of crackers, and one anthem for the ages ("Don't F*** With Me"). **Top track:** "Wasted in America"
 
 ### [Megadeth](http://www.megadeth.com/) - [Countdown to Extinction](https://www.amazon.co.uk/Countdown-Extinction-Megadeth/dp/B001J72IXU/)
 
-![Megadeth – Countdown to Extinction](/public/images/2025/02/countdown.jpg){.aoty .aoty-mention} On almost any other year this would win, and by some margin. There is not a moment or a note wasted on this album, with Dave Mustaine sneering relentlessly down his microphone at you for 47 minutes while perhaps the tightest recorded metal rhythm section ever pound out crisp riff after riff and the pyrotechnic Marty Friedman soars over it all at the absolute height of his angular-yet-melodic powers. The then ubiquitous "Symphony of Destruction" is a masterclass of metal songwriting and worth the price of admission alone, and it's not even close to being the best song on the album. Really, put this album in any other year and it would be in the bag, and the bag would be sewn up. In 1992 though, the field is just too crazy, and not everything can fit on the top of the podium. Sorry, Dave. **Top track:** "Foreclosure of a Dream"
+![Megadeth – Countdown to Extinction](/public/images/2025/02/countdown.jpg){.aoty .aoty-mention loading=lazy} On almost any other year this would win, and by some margin. There is not a moment or a note wasted on this album, with Dave Mustaine sneering relentlessly down his microphone at you for 47 minutes while perhaps the tightest recorded metal rhythm section ever pound out crisp riff after riff and the pyrotechnic Marty Friedman soars over it all at the absolute height of his angular-yet-melodic powers. The then ubiquitous "Symphony of Destruction" is a masterclass of metal songwriting and worth the price of admission alone, and it's not even close to being the best song on the album. Really, put this album in any other year and it would be in the bag, and the bag would be sewn up. In 1992 though, the field is just too crazy, and not everything can fit on the top of the podium. Sorry, Dave. **Top track:** "Foreclosure of a Dream"
 
 ## And the winners are…
 
@@ -64,7 +64,7 @@ I spent ages on this. Weeks. I agonised. I fretted. I consulted with my longest 
 
 ### [Dream Theater](http://www.dreamtheater.net/) - [Images and Words](https://www.amazon.co.uk/Images-Words-Dream-Theater/dp/B002HVLDSS/)
 
-![Dream Theater - Images and Words](/public/images/2017/01/Images_and_Words.jpg){.aoty .aoty-winner}
+![Dream Theater - Images and Words](/public/images/2017/01/Images_and_Words.jpg){.aoty .aoty-winner loading=lazy}
 
 You have to remember, it was 1992. Shred had existed for years (Malmsteen, Becker, Gilbert, all the Shrapnel label fellas) and prog had for decades, though I’d never really listened to any of it. And then one day someone showed up with a tape of **Images and Words**, and it blew my mind clean off. I’m aware that it wasn’t their debut album, but it was the first with singer James LaBrie and it was, I think, the first to get proper label backing and promotion. Anyway, I knew nothing about it.
 
@@ -76,7 +76,7 @@ I’d never heard musicianship like it from a whole band at once before – perh
 
 ### [Pantera](http://pantera.com/) - [Vulgar Display of Power](https://www.amazon.co.uk/Vulgar-Display-Power-Explicit-Pantera/dp/B001F4W1M0/)
 
-![Pantera - Vulgar Display of Power](/public/images/2017/01/vulgar500.jpg){.aoty .aoty-winner}
+![Pantera - Vulgar Display of Power](/public/images/2017/01/vulgar500.jpg){.aoty .aoty-winner loading=lazy}
 
 F*** me. This is how you do metal. OK, so it turns out that vocalist Phil Anselmo might be at best a bit of a tool and at worst some kind of white supremacist, but you can’t deny his output on this album is nothing short of mindbending. Gone are the Rob-Halford-esque high squeals that date the previous album **Cowboys From Hell** so much, and here is a voice that commands and delivers power from start to finish.
 
@@ -92,7 +92,7 @@ So then, “Dimebag” Darrell Abbott on guitar. So much has been said about him
 
 ### [Joe Satriani](http://www.satriani.com/) - [The Extremist](https://www.amazon.co.uk/Extremist-Joe-Satriani/dp/B00JN52E9I/)
 
-![Joe Satriani - The Extremist](/public/images/2017/01/extremist.jpg){.aoty .aoty-winner}
+![Joe Satriani - The Extremist](/public/images/2017/01/extremist.jpg){.aoty .aoty-winner loading=lazy}
 
 It was *Satch*’s 1987 release **Surfing With the Alien** that earned him his first grammy nomination and which blew the world of instrumental guitar wide open, and rightly so. His 1989 follow-up **Flying in a Blue Dream** trod some new, slightly shaky ground, with Joe taking lead vocals on some songs in between the instrumentals with (if I’m honest) mixed results.
 
@@ -108,7 +108,7 @@ But anyway, balls to that, we’re not here to read the titles are we? We’re h
 
 ### [T-Ride](https://en.wikipedia.org/wiki/T-Ride) - [T-Ride](https://www.amazon.co.uk/T-ride/dp/B0032N17AY/)
 
-![T-Ride - T-Ride](/public/images/2017/01/t-ride-1.jpg){.aoty .aoty-winner}
+![T-Ride - T-Ride](/public/images/2017/01/t-ride-1.jpg){.aoty .aoty-winner loading=lazy}
 
 People fall into two categories: people who have never heard of *T-Ride*, and people who absolutely loved them and still to this day cannot work out why they weren’t the biggest band of their time.
 
@@ -134,4 +134,4 @@ We shall not see its like again. Cherish it. Love it. Cover it in chocolate sauc
 
 ### [Electric Boys](https://www.facebook.com/electricboys) - [Groovus Maximus](https://www.amazon.co.uk/Groovus-Maximus-Re-release-Electric-Boys/dp/B006Q3W61G/)
 
-![Electric Boys – Groovus Maximus](/public/images/2025/02/groovus.jpg){.aoty .aoty-mention .aoty-turkey} Balls, this was. Shame, as [the first one](https://www.amazon.co.uk/Funk-O-Metal-Carpet-Ride-Electric-Boys/dp/B0009VN8BI) was excellent.
+![Electric Boys – Groovus Maximus](/public/images/2025/02/groovus.jpg){.aoty .aoty-mention .aoty-turkey loading=lazy} Balls, this was. Shame, as [the first one](https://www.amazon.co.uk/Funk-O-Metal-Carpet-Ride-Electric-Boys/dp/B0009VN8BI) was excellent.
