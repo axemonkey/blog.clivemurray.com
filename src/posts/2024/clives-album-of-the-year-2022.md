@@ -87,7 +87,7 @@ Is that fair? Perhaps not. 80s revivals come around every now and then, and ther
 
 Back in [2019](/clives-album-of-the-year-2019/), album of the year went to the mighty [*McRocklin & Hutch*](https://mcrocklinhutch.bandcamp.com/) with their genius shredwave album [**Riding Out**](https://mcrocklinhutch.bandcamp.com/album/riding-out), which remains the high water mark for 80s-movie-and-video-game-styled-synth-and-shred-guitar albums. Honestly, it’s brilliant, and still sounds just as fresh five years later.
 
-Anyway, they weren’t the only ones catching the retro wave. [Gus G had a go](https://www.youtube.com/watch?v=96Dp00ut24Y), [so did Muse](https://en.wikipedia.org/wiki/Simulation_Theory_(album)), and I’m sure there have been a whole load more that I haven’t noticed, and I do feel that a fair amount of this is thanks to the specific brand of 80s nostalgia that Stranger Things conjures.
+Anyway, they weren’t the only ones catching the retro wave. [*Gus G* had a go](https://www.youtube.com/watch?v=96Dp00ut24Y), [so did *Muse*](https://en.wikipedia.org/wiki/Simulation_Theory_(album)), and I’m sure there have been a whole load more that I haven’t noticed, and I do feel that a fair amount of this is thanks to the specific brand of 80s nostalgia that Stranger Things conjures.
 
 Enter stage left, *Reckless Love*.
 
