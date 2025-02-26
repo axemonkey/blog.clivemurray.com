@@ -115,7 +115,6 @@ window.addEventListener('load', function() {
 });
 
 const mentionEffect = element => {
-	console.log(`hurrah`);
 	element.classList.add('mention-visible');
 };
 
@@ -236,9 +235,9 @@ const initImageEffects = () => {
 				threshold: 1,
 			};
 			const callback = (entries, observer) => {
-				console.log(`mentions callback`);
+				// console.log(`mentions callback`);
 				if (entries[0].isIntersecting) {
-					console.log(`Mention ${index} visible`);
+					// console.log(`Mention ${index} visible`);
 					mentionEffect(entries[0].target);
 					observer.unobserve(entries[0].target);
 				}
