@@ -7,6 +7,7 @@ import {
 
 const checkPulse = () => {
 	console.log('it loads...');
+	document.body.classList.add('js');
 };
 
 window.addEventListener('load', checkPulse);
