@@ -403,14 +403,16 @@
 	window.addEventListener('load', fitVids);
 	const initImageEffects = () => {
 	  console.log(`initImageEffects`);
+
+	  // AotY winners
 	  const aotyWinners = document.querySelectorAll('.aoty-winner');
 	  if (aotyWinners.length > 0) {
-	    for (let index = 0; index < aotyWinners.length; index++) {
+	    const opt = {
+	      threshold: 1
+	    };
+	    aotyWinners.forEach((winnerNode, index) => {
 	      console.log(`winner found, init confetti canvas ${index}`);
 	      confettiSetti(index);
-	      const opt = {
-	        threshold: 1
-	      };
 	      const callback = (entries, observer) => {
 	        if (entries[0].isIntersecting) {
 	          console.log(`AotY winner ${index} visible`);
@@ -419,27 +421,27 @@
 	        }
 	      };
 	      const observer = new IntersectionObserver(callback, opt);
-	      observer.observe(aotyWinners[index]);
-	    }
+	      observer.observe(winnerNode);
+	    });
 	  }
+
+	  // AotY mentions
 	  const aotyMentions = document.querySelectorAll('.aoty-mention');
 	  console.log(`aotyMentions.length: ${aotyMentions.length}`);
 	  if (aotyMentions.length > 0) {
-	    for (let index = 0; index < aotyMentions.length; index++) {
-	      console.log(`mention found, number: ${index}`);
-	      const opt = {
-	        threshold: 1
-	      };
-	      const callback = (entries, observer) => {
-	        // console.log(`mentions callback`);
-	        if (entries[0].isIntersecting) {
-	          // console.log(`Mention ${index} visible`);
-	          mentionEffect(entries[0].target);
-	          observer.unobserve(entries[0].target);
-	        }
-	      };
+	    const opt = {
+	      threshold: 1
+	    };
+	    const callback = (entries, observer) => {
+	      // console.log(`mentions callback`);
+	      if (entries[0].isIntersecting) {
+	        mentionEffect(entries[0].target);
+	        observer.unobserve(entries[0].target);
+	      }
+	    };
+	    for (const mentionNode of aotyMentions) {
 	      const observer = new IntersectionObserver(callback, opt);
-	      observer.observe(aotyMentions[index]);
+	      observer.observe(mentionNode);
 	    }
 	  }
 	};

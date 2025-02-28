@@ -24,4 +24,4 @@ rules:
     value-keyword-case: null
     scss/dollar-variable-pattern: null
     scss/at-mixin-pattern: null
-    font-family-name-quotes: "always-where-recommended"
+    font-family-name-quotes: 'always-where-recommended'
