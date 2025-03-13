@@ -119,6 +119,12 @@ const mentionEffect = element => {
 	element.classList.add('mention-visible');
 };
 
+const winnerEffect = (element, index) => {
+	element.classList.add('winner-visible');
+	console.log(`AotY winner ${index} visible`);
+	initBurst(index);
+};
+
 const getStrapline = () => {
 	const straps = [];
 	const theDate = new Date();
@@ -219,8 +225,7 @@ const initImageEffects = () => {
 			confettiSetti(index);
 			const callback = (entries, observer) => {
 				if (entries[0].isIntersecting) {
-					console.log(`AotY winner ${index} visible`);
-					initBurst(index);
+					winnerEffect(entries[0].target, index);
 					observer.unobserve(entries[0].target);
 				}
 			};
