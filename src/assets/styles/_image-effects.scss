@@ -5,7 +5,7 @@ body.js {
 	}
 
 	.aoty-winner {
-		scale: 0.5;
+		scale: 0.2;
 		opacity: 0.4;
 	}
 
@@ -14,13 +14,25 @@ body.js {
 	}
 
 	.winner-visible {
-		animation: winner-effect ease-in forwards 0.75s;
+		animation: winner-effect2 ease-out forwards 0.75s;
 	}
 
 	@keyframes mention-effect {
 		100% {
 			scale: 1;
 			opacity: 1;
+		}
+	}
+
+	@keyframes winner-effect2 {
+		0% {
+			transform: rotate(0deg);
+		}
+
+		100% {
+			scale: 1;
+			opacity: 1;
+			transform: rotate(1080deg);
 		}
 	}
 
