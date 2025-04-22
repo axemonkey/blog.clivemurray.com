@@ -12,6 +12,16 @@ $bodyCopyFont: "InclusiveSans";
 @import "image-effects";
 @import "comments";
 
+:root {
+	--meh-default-accent: #222;
+	--meh-default-background: #f8f9fa;
+	--meh-default-foreground: #212529;
+	--meh-default-spacing: 1.2rem;
+	--meh-default-border-radius: 0px;
+	--meh-default-success: green;
+	--meh-default-error: darkred;
+}
+
 p.footer-text {
 	margin: 10px 0;
 	text-align: center;

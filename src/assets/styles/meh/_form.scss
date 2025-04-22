@@ -1,0 +1,44 @@
+@use "sass:color";
+
+$formElementBg: #f0f0f0;
+
+:host {
+	form {
+		label,
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		textarea {
+			font-family: $bodyCopyFont, sans-serif;
+			font-size: 1.25rem;
+		}
+
+		textarea {
+			font-family: $bodyCopyFont, sans-serif;
+		}
+
+		input[type="text"],
+		input[type="email"],
+		input[type="url"],
+		textarea {
+			border: none;
+			border-bottom: 1px solid var(--meh-default-foreground);
+			background-color: $formElementBg;
+
+			&:focus {
+				outline: 1px solid var(--meh-default-foreground);
+				border: none;
+			}
+		}
+
+		button {
+			font-family: $headingFont, serif;
+			font-size: 1rem;
+			background-color: $formElementBg;
+
+			&:hover {
+				background-color: color.adjust($formElementBg, $lightness: -10%);
+			}
+		}
+	}
+}
