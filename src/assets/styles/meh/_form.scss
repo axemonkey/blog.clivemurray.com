@@ -10,11 +10,11 @@ $formElementBg: #f0f0f0;
 		input[type="url"],
 		textarea {
 			font-family: $bodyCopyFont, sans-serif;
-			font-size: 1.25rem;
+			font-size: 1em;
 		}
 
-		textarea {
-			font-family: $bodyCopyFont, sans-serif;
+		label {
+			font-family: $headingFont, serif;
 		}
 
 		input[type="text"],
@@ -33,7 +33,7 @@ $formElementBg: #f0f0f0;
 
 		button {
 			font-family: $headingFont, serif;
-			font-size: 1rem;
+			font-size: 0.75em;
 			background-color: $formElementBg;
 
 			&:hover {

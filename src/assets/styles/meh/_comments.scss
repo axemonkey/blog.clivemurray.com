@@ -3,7 +3,7 @@
 		margin-top: 3em !important;
 
 		& > * {
-			font-size: 1.25rem;
+			font-size: 1em;
 			display: inline-block;
 			margin-right: 5px;
 
@@ -14,21 +14,21 @@
 	}
 
 	div.comment {
-		font-size: 1.25rem;
+		font-size: 1em;
 
 		& > :last-child {
-			padding-bottom: 0.5rem;
+			padding-bottom: 0.5em;
 		}
 
 		time.date {
-			font-size: 1rem;
+			font-size: 0.75em;
 		}
 	}
 
 	div.no-comments {
-		font-size: 1.25rem;
-		margin-top: 2rem;
+		font-size: 1.25em;
+		margin-top: 2em;
 		padding-block: 2rem;
-		border-top: 1px solid var(--meh-default-foreground);
+		border-top: 1px solid #0002;
 	}
 }
