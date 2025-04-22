@@ -1,10 +1,13 @@
 .blog-comments {
 	border-top: 2px dashed rgba(200 200 200 / 50%);
 	padding-block: 3em;
+
+	& > h2 {
+		margin-bottom: 2em;
+	}
 }
 
 p.comments-credit {
-	border-top: 1px dashed rgba(200 200 200 / 50%);
 	padding-top: 2em;
 	font-size: 0.75em;
 	margin: 0;
