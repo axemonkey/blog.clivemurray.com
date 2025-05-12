@@ -23,7 +23,7 @@ Natty, yes? In fact we have been doing this for a little while now, and two chal
 
 Naturally, being of a webbish mindset, I turned this little project into its own website, and so with no further ado, I present to you:
 
-> [Guitar Challenges by the Fiasco Bros. EST 1991](https://challenge.clivemurray.com)
+> [Guitar Challenges by the Fiasco Bros. EST 1991](https://fiasco.quest/)
 
 Enjoy!
 
