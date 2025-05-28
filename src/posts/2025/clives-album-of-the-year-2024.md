@@ -10,9 +10,9 @@ ghost_header_image: aoty2024.jpg
 header_image_caption: 'Top row: Alien Ant Farm – Mantras; Underworld – Strawberry Hotel; Billie Eilish – Hit Me Hard and Soft. Bottom row: Linkin Park – From Zero; The Cure – Songs of a Lost World; Devin Townsend – PowerNerd'
 ---
 
-Intro
+2024 was a year. I expect *some* good things happened, but in the main it was not zesty.
 
-Events
+Many major armed conflicts continued in many places including [Ukraine](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine), [Myanmar](https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)), [Sudan](https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present)), [the Sahel region of West Africa](https://en.wikipedia.org/wiki/Islamist_insurgency_in_the_Sahel) and [Syria](https://en.wikipedia.org/wiki/Syrian_civil_war), as well as [the ongoing war in Gaza](https://en.wikipedia.org/wiki/Gaza_war). Sweden joined NATO and Bulgaria and Romania joined [Schengen](https://en.wikipedia.org/wiki/Schengen_Area). [Northern America saw a total solar eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024), and [a G5-rated series of solar storms](https://en.wikipedia.org/wiki/May_2024_solar_storms) led to the aurorae (both Borealis and Australis) to be seen much further from the poles than usual, including right over my back garden in Hemel Hempstead. True. P45 was [found guilty on 34 counts](https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York), and we thought that would be the last we'd see of him. Hah. Then someone [shot him in the ear](https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania). [CrowdStrike knackered up a lot of Windows computers](https://en.wikipedia.org/wiki/2024_CrowdStrike_incident), the knock-on effects bringing down airlines, banks, government services and more across the world. This also made it difficult for punters to buy beer at the festival I was playing at that day, so boo. In an unusually positive move, the UK became the first G7 country to phase out coal power. The [Europa Clipper](https://en.wikipedia.org/wiki/Europa_Clipper) was sent to Europa, Jupiter's moon, hopefully **not** to attempt a landing.
 
 Deaths
 
@@ -56,10 +56,6 @@ Segue (year of comeback albums etc)
 
 ![Gun – Hombres](/public/images/2025/05/g-h.jpg){.aoty .aoty-mention loading=lazy} lorem. **Top track:** "xxx"
 
-### [Linkin Park](https://linkinpark.com/) - [From Zero](https://www.amazon.co.uk/Zero-Linkin-Park/dp/B0DFX611RV)
-
-![Linkin Park – From Zero](/public/images/2025/05/lp-fz.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "xxx"
-
 ### [London Grammar](https://www.londongrammar.com/) - [The Greatest Love](https://www.amazon.co.uk/Greatest-Love-London-Grammar/dp/B0CZW1LGXQ)
 
 ![London Grammar – The Greatest Love](/public/images/2025/05/lg-tgl.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "xxx"
@@ -80,7 +76,7 @@ Segue (year of comeback albums etc)
 
 ![Underworld – Strawberry Hotel](/public/images/2025/05/u-sh.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "xxx"
 
-## And the winner is…
+## And the winners are…
 
 ### [The Cure](https://thecure.com/) - [Songs of a Lost World](https://www.amazon.co.uk/Songs-Lost-World-Cure/dp/B0DHHKW8NF)
 
@@ -89,6 +85,15 @@ Segue (year of comeback albums etc)
 Lorem
 
 **Top tracks:** "xxx", "xxx", "xxx"
+
+### [Linkin Park](https://linkinpark.com/) - [From Zero](https://www.amazon.co.uk/Zero-Linkin-Park/dp/B0DFX611RV)
+
+![Linkin Park – From Zero](/public/images/2025/05/lp-fz.jpg){.aoty .aoty-winner loading=lazy}
+
+Lorem.
+
+**Top tracks:** "xxx", "xxx", "xxx"
+
 <!--
 ## Turkey of the Year
 
