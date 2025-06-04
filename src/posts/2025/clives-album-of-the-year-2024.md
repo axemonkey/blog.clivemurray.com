@@ -82,7 +82,7 @@ So... you know. Don't write someone off when they're down, until their sleeping 
 
 ### [Devin Townsend](https://hevydevy.com/) - [PowerNerd](https://www.amazon.co.uk/PowerNerd-Devin-Townsend/dp/B0DDZLDJDV)
 
-![Devin Townsend – PowerNerd](/public/images/2025/05/dt-p.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "xxx"
+![Devin Townsend – PowerNerd](/public/images/2025/05/dt-p.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[Gratitude](https://www.youtube.com/watch?v=1mnjfXmsEUQ)"
 
 ### [Underworld](https://underworldlive.com/) - [Strawberry Hotel](https://www.amazon.co.uk/Strawberry-Hotel-Underworld/dp/B0DC21PX75)
 
@@ -90,7 +90,7 @@ So... you know. Don't write someone off when they're down, until their sleeping 
 
 ## And the winners are…
 
-I've gone back and forth on this a few times, and while the first one was never in doubt, the second took a while to lock down its place on top of the podium.
+I've gone back and forth on this a few times, and while the first one was never in any doubt, the second took a while to lock down its place on top of the podium.
 
 ### [The Cure](https://thecure.com/) - [Songs of a Lost World](https://www.amazon.co.uk/Songs-Lost-World-Cure/dp/B0DHHKW8NF)
 
