@@ -60,27 +60,27 @@ Well, actually [the times from a musical POV were pretty dark](/the-dark-times) 
 
 ### [Elbow](https://elbow.co.uk/) - [Audio Vertigo](https://www.amazon.co.uk/AUDIO-VERTIGO-Elbow/dp/B0CSM2W9TT)
 
-![Elbow – Audio Vertigo](/public/images/2025/05/e-av.jpg){.aoty .aoty-mention loading=lazy} I've opined before about how much I've loved **Elbow** since hearing *Cast of Thousands* back in the early 2000s and they remain one of my favourite British bands. Guy Garvey's raw poetic sincerity bleeds through the band's tight arrangements, which swing from sparse to lush with ease. If you can listen to this album and feel nothing, you might have died. Check, would you? **Top track:** "[Balu](https://www.youtube.com/watch?v=B0zYKdfu6Zo)"
+![Elbow – Audio Vertigo](/public/images/2025/05/e-av.jpg){.aoty .aoty-mention loading=lazy} I've opined before about how much I've loved *Elbow* since hearing **Cast of Thousands** back in the early 2000s and they remain one of my favourite British bands. Guy Garvey's raw poetic sincerity bleeds through the band's tight arrangements, which swing from sparse to lush with ease. If you can listen to this album and feel nothing, you might have died. Check, would you? **Top track:** "[Balu](https://www.youtube.com/watch?v=B0zYKdfu6Zo)"
 
 ### [Green Day](https://greenday.com/) - [Saviors](https://www.amazon.co.uk/Saviors-Green-Day/dp/B0CL7V2LHJ)
 
-![Green Day Saviors](/public/images/2025/05/gd-s.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[Corvette Summer](https://www.youtube.com/watch?v=KseB903DZao)"
+![Green Day Saviors](/public/images/2025/05/gd-s.jpg){.aoty .aoty-mention loading=lazy} Look, you know what you're going to get with *Green Day*, right? Right. And that's what you get. And it's really great. Any questions? **Top track:** "[Corvette Summer](https://www.youtube.com/watch?v=KseB903DZao)"
 
 ### [Gun](https://www.gunofficial.co.uk/) - [Hombres](https://gunofficialuk.bandcamp.com/album/hombres)
 
-![Gun – Hombres](/public/images/2025/05/g-h.jpg){.aoty .aoty-mention loading=lazy} lorem. **Top track:** "[Falling](https://www.youtube.com/watch?v=yIEwHajet18)"
+![Gun – Hombres](/public/images/2025/05/g-h.jpg){.aoty .aoty-mention loading=lazy} I don't know how big Scot-rockers *Gun* ever were outside the UK, and even here they were mostly known for their smash cover of *Cameo*'s "[Word Up](https://en.wikipedia.org/wiki/Word_Up!_(song))" (which still owns). Well, they've had the usual inevitable line-up changes and a 15-year break, but the current line-up seems stable and this is a cracking rock album. Lead single "All Fired Up" is a block-rocker, and "Falling" is just lovely. Nice one. **Top track:** "[Falling](https://www.youtube.com/watch?v=yIEwHajet18)"
 
 ### [London Grammar](https://www.londongrammar.com/) - [The Greatest Love](https://www.amazon.co.uk/Greatest-Love-London-Grammar/dp/B0CZW1LGXQ)
 
-![London Grammar – The Greatest Love](/public/images/2025/05/lg-tgl.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[House](https://www.youtube.com/watch?v=JBVr0GgDfi4)"
+![London Grammar – The Greatest Love](/public/images/2025/05/lg-tgl.jpg){.aoty .aoty-mention loading=lazy} I love *London Grammar*. Ethereal moody indie-pop, I suppose, but what do I know? Beautiful vocals, pretty songs, what's not to like? **Top track:** "[House](https://www.youtube.com/watch?v=JBVr0GgDfi4)"
 
 ### [The Offspring](http://offspring.com/) - [Supercharged](https://www.amazon.co.uk/SUPERCHARGED-Offspring/dp/B0D5ZBNJ5T)
 
-![The Offspring – Supercharged](/public/images/2025/05/to-s.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[Looking Out For #1](https://www.youtube.com/watch?v=kred-O48M6w)"
+![The Offspring – Supercharged](/public/images/2025/05/to-s.jpg){.aoty .aoty-mention loading=lazy} Again, you know what you're going to get with *The Offspring*, and you get it, and it is good. 33 minutes of fun punky rock tracks. Any questions? **Top track:** "[Looking Out For #1](https://www.youtube.com/watch?v=kred-O48M6w)"
 
 ### [Max Richter](https://www.maxrichtermusic.com/) - [In a Landscape](https://www.amazon.co.uk/Landscape-Max-Richter/dp/B0D51P46PZ)
 
-![Max Richter – In a Landscape](/public/images/2025/05/mr-ial.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "xxx"
+![Max Richter – In a Landscape](/public/images/2025/05/mr-ial.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[They Will Shade Us With Their Wings](https://www.youtube.com/watch?v=mU7yntVN30A)"
 
 ### [Devin Townsend](https://hevydevy.com/) - [PowerNerd](https://www.amazon.co.uk/PowerNerd-Devin-Townsend/dp/B0DDZLDJDV)
 
