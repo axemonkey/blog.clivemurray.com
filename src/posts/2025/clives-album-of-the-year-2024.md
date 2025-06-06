@@ -18,7 +18,7 @@ Those suddenly pining for the fjords included [David Soul](https://en.wikipedia.
 
 That last name may not be familiar unless you were involved in the local music scene around Eastbourne/Hastings/Bexhill and that sort of area in the 1990s. Matt was the first person I ever saw playing an actual Ibanez Jem in real life, and of all of us he seemed to be the most likely to succeed. I believe he went to GIT (or it could have been a different music school, my memory is bad) in the USA, and was an absurdly gifted guitarist and musician. I was only ever in one band with him, and that only briefly – one of the lineups of *Iguanahead* had me on acoustic guitar and Matt on lead for about a month or two before he left leaving me to take over all guitar duties. Before that, I would occasionally get up on stage with *Sinister Footwear* and play "Surfing With the Alien" or something to give Matt a break to go and get a pint. He was always something of an oddball, and was never dull to be around. Things could always happen, and usually did. He was troubled though, and while I have no concrete details of his passing, I have heard from mutual friends that sadly he took his own life. RIP Matt.
 
-Musically 2024 was a year of comebacks. All of these artists released a fantastic album in 2024 after 5 years away or more:
+Musically 2024 was a year of comebacks. All of these artists released a fantastic album in 2024 after a 5+ year hiatus:
 
 * *Underworld* – **Strawberry Hotel** – 5 years
 * *Mr. Big* – **Ten** – 7 years
@@ -28,14 +28,14 @@ Musically 2024 was a year of comebacks. All of these artists released a fantasti
 * *The Cure* – **Songs of a Lost World** – 16 years
 * *Clive Murray* – **Love and Painkillers** – 22 years
 
-So... you know. Don't write someone off when they're down, until their sleeping chickens are all in a row. Or something.
+So... you know. Don't write someone off when they're down until their sleeping chickens are all in a row, with two in a bush. Or something.
 
 ## The one-liners
 
-- [*Sebastian Bach*](https://www.sebastianbach.com/) – [**Child Within the Man**](https://www.amazon.co.uk/Child-WIthin-Man-Sebastian-Bach/dp/B0CY3BXR8N). (Rock.) The former *Skid Row* screamjouster returns after a ten-year hiatus with a hard rocking album, sprinkled with guest guitar spots from the likes of John 5, Orianthi and Steve Stevens. Not flawless, but very good.
+- [*Sebastian Bach*](https://www.sebastianbach.com/) – [**Child Within the Man**](https://www.amazon.co.uk/Child-WIthin-Man-Sebastian-Bach/dp/B0CY3BXR8N). (Rock.) The former *Skid Row* screamjouster returns after a ten-year break with a hard rocking album, sprinkled with guest guitar spots from the likes of John 5, Orianthi and Steve Stevens. Not flawless, but very good.
 - [*Jerry Cantrell*](https://www.jerrycantrell.com/) – [**I Want Blood**](https://www.amazon.co.uk/I-Want-Blood-Jerry-Cantrell/dp/B0DFCBVT27). (Rock.) Head plank-molester for *Alice in Chains*, Jerry brings us another solo outing. Sounds quite like *Alice in Chains*, as it goes.
 - [*Frost\**](https://frost.life/) – [**Life in the Wires**](https://www.amazon.co.uk/Life-Wires-Frost/dp/B0DD6ZY7ZK). (Proggy rock. Or rocky prog, I suppose.) Messrs Godfrey, Mitchell, Blundell and King return with their fifth full-length long player. Cracking stuff.
-- [*Intervals*](https://intrvls.com/) – [**Memory Palace**](https://intervalsmusic.bandcamp.com/album/memory-palace). (Instrumental metal.) Aaron Marshall with another tightly conceived block of instru-metal. As great as it is, they are all starting to sound pretty samey.
+- [*Intervals*](https://intrvls.com/) – [**Memory Palace**](https://intervalsmusic.bandcamp.com/album/memory-palace). (Instrumental metal.) Aaron Marshall with another tightly conceived block of instru-metal. As great as it is, they are all starting to sound a bit samey.
 - [*Dua Lipa*](https://dualipa.com/) - [**Radical Optimism**](https://www.amazon.co.uk/Radical-Optimism-Limited-Lenticular-CD/dp/B0CXDXW5LV). (Pop). I adored Ms. Lipa's previous album **Future Nostalgia**, and while there's nothing wrong with this one, it doesn't quite grab me the same way. "French Exit" is fab though.
 - [*Rabea Massaad*](https://rabeamassaad.bandcamp.com) – [**Grinding Gears Vol. 4**](https://rabeamassaad.bandcamp.com/album/grinding-gears-vol-4). (Instrumental metal.) The fourth instalment of Rabea's gear demo tunes is the heaviest and best yet. Can the man do no wrong?
 - [*Mr. Big*](https://www.mrbigsite.com/) - [**Ten**](https://www.amazon.co.uk/Ten-Mr-Big/dp/B0D2JFG16X). (Rock). If I'm honest, I only really care about the first three—maybe two—*Mr. Big* albums, but this here is their final one. So, there's that.
@@ -50,15 +50,17 @@ So... you know. Don't write someone off when they're down, until their sleeping 
 
 ### [Alien Ant Farm](https://alienantfarm.com/) - [Mantras](https://www.amazon.co.uk/Mantras-VINYL-Alien-Ant-Farm/dp/B0CSKGCJHT)
 
-![Alien Ant Farm – Mantras](/public/images/2025/05/aaf-m.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[Last dAntz](https://www.youtube.com/watch?v=3G_yA1mAhIk)"
+![Alien Ant Farm – Mantras](/public/images/2025/05/aaf-m.jpg){.aoty .aoty-mention loading=lazy} Probably like a lot of people, I first became aware of *AAF* in 2001 when their major label debut **ANThology** dropped , bringing with it their smash cover of Jacko's "Smooth Criminal". You remember? [The video](https://www.youtube.com/watch?v=CDl9ZMfj6aE){title="Link to the video for Smooth Criminal by Alien Ant Farm"} was ace, and they did the leaning over thing like Mike? Yeah? Good times.
+
+Well, actually [the times from a musical POV were pretty dark](/the-dark-times) for me, but I really liked that album. Anyhow, I lost touch with what they were up to after the less notable followup **TruANT**, and only checked back in on Dryden and co. when I heard they had a new album out, but this one is top drawer gear. Now that nu-metal is thankfully a distant memory, the band's sound has matured and broadened while still being recongiseable as the same band. The first three tracks are brilliant, and "Last dAntz" particularly stands out as a nod to *Coheed and Cambria* with even shades of *Polyphia* creeping in. The album doesn't lose steam there either, and in tru-ANT style we even get a *Wham!* cover, "Everything She wAnts". Great work, boys. **Top track:** "[Last dAntz](https://www.youtube.com/watch?v=3G_yA1mAhIk)"
 
 ### [Billie Eilish](http://billieeilish.com/) - [Hit Me Hard and Soft](https://www.amazon.co.uk/HIT-HARD-SOFT-Billie-Eilish/dp/B0CZWKXLQ3)
 
-![Billie Eilish – Hit Me Hard and Soft](/public/images/2025/05/be-hmhas.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[Lunch](https://www.youtube.com/watch?v=MB3VkzPdgLA)"
+![Billie Eilish – Hit Me Hard and Soft](/public/images/2025/05/be-hmhas.jpg){.aoty .aoty-mention loading=lazy} Billie was born in the year **ANThology** came out. So, there's that. She's young, is what I'm saying. And yet there's a maturity and depth in her voice that I find bewitching, and when coupled with the playful "edginess" of her lyrics and musical stylings, the results are some of the best pop songs around. She's a proper musician too. She writes in collaboration with her brother Finneas, who is also her producer, but you don't become [the youngest artist ever to sing a James Bond theme song](https://www.forbes.com/sites/monicamercuri/2020/01/14/billie-eilish-makes-history-as-youngest-artist-to-sing-james-bond-theme-song/) without being the real deal. Great. **Top track:** "[Lunch](https://www.youtube.com/watch?v=MB3VkzPdgLA)"
 
 ### [Elbow](https://elbow.co.uk/) - [Audio Vertigo](https://www.amazon.co.uk/AUDIO-VERTIGO-Elbow/dp/B0CSM2W9TT)
 
-![Elbow – Audio Vertigo](/public/images/2025/05/e-av.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[Balu](https://www.youtube.com/watch?v=B0zYKdfu6Zo)"
+![Elbow – Audio Vertigo](/public/images/2025/05/e-av.jpg){.aoty .aoty-mention loading=lazy} I've opined before about how much I've loved **Elbow** since hearing *Cast of Thousands* back in the early 2000s and they remain one of my favourite British bands. Guy Garvey's raw poetic sincerity bleeds through the band's tight arrangements, which swing from sparse to lush with ease. If you can listen to this album and feel nothing, you might have died. Check, would you? **Top track:** "[Balu](https://www.youtube.com/watch?v=B0zYKdfu6Zo)"
 
 ### [Green Day](https://greenday.com/) - [Saviors](https://www.amazon.co.uk/Saviors-Green-Day/dp/B0CL7V2LHJ)
 
