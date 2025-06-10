@@ -1,4 +1,5 @@
-{% for tag in tags %}
+{% set sometags = tags if tags else post.data.tags %}
+{% for tag in sometags %}
 	{% if tag !== 'post' %}
 		<a href="/tag/{{ tag | lower | slugify }}">{{ tag }}</a>
 		{% if not loop.last %}

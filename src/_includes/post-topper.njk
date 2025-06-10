@@ -1,0 +1,36 @@
+{% set regExpCode = r/<pre class=(.|\n)*?<\/pre>/gm %}
+{% set fixedContent = content | replace(regExpCode, "") | striptags %}
+{% set wordCount = fixedContent | wordcount %}
+{% set readingRate = 225 %}
+{% set readingTime = (wordCount/readingRate) | round %}
+{% if readingTime < 1 %}{% set readingTime = 1 %}{% endif %}
+
+<article class="post-full post">
+
+	<header class="post-full-header">
+		<section class="post-full-tags">
+			{% include "post-tags.njk" %}
+		</section>
+
+		<h1 class="post-full-title">{{ title if title else post.data.title }}</h1>
+
+		{% include "byline.njk" %}
+
+	</header>
+
+{% set unsplash_post_image = unsplash_post_image if unsplash_post_image else post.data.unsplash_post_image %}
+{% set ghost_header_image = ghost_header_image if ghost_header_image else post.data.ghost_header_image %}
+{% set header_image_caption = header_image_caption if header_image_caption else post.data.header_image_caption %}
+
+	{% if unsplash_post_image or ghost_header_image %}
+	<figure class="post-full-image">
+		{% if unsplash_post_image %}
+			{% include "unsplash_post_image_holder.njk" %}
+		{% else %}
+			{% include "ghost_post_image_holder.njk" %}
+		{% endif %}
+		{% if header_image_caption %}
+			<figcaption>{{ header_image_caption | safe }}</figcaption>
+		{% endif %}
+	</figure>
+	{% endif %}
