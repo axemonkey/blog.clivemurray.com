@@ -1,0 +1,21 @@
+---
+pagination:
+  data: collections.post
+  size: 1
+  alias: post
+permalink: "nonsense/{{ post.data.slug }}/index.html"
+layoutType: post
+layout: post
+nonsense: true
+---
+
+{#
+In case I forget what I am doing...
+https://heydonworks.com/article/poisoning-well/
+#}
+
+<div class="post-content">
+<!-- BEGIN MARKDOWN OUTPUT -->
+{{ post.content | nonsensify | safe }}
+<!-- END MARKDOWN OUTPUT -->
+</div>

@@ -59,6 +59,7 @@
     "moment": "^2.29.4",
     "npm-run-all2": "^7.0.1",
     "onchange": "^7.1.0",
+    "pos": "^0.4.2",
     "postcss": "^8.4.31",
     "prettier": "^2.8.8",
     "rollup": "^3.29.5",

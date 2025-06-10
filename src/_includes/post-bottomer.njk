@@ -1,0 +1,16 @@
+
+	{#
+	<section class="post-pagination">
+	<h3>PAGINATION</h3>
+		<ul>
+			{% if postsForPagination.href.previous %}
+				<li><a href="{{ postsForPagination.href.previous }}">Previous</a></li>
+			{% endif %}
+			{% if postsForPagination.href.next %}
+				<li><a href="{{ postsForPagination.href.next }}">Next</a></li>
+			{% endif %}
+		</ul>
+	</section>
+	 #}
+
+</article>

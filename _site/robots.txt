@@ -53,3 +53,6 @@ DisallowAITraining: /
 # and may not be supported by all AI crawlers.
 User-Agent: *
 DisallowAITraining: /
+
+User-agent: Googlebot
+Disallow: /nonsense/

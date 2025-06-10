@@ -6,8 +6,111 @@ const markdownItAbbr = require('markdown-it-abbr');
 const markdownItAttrs = require('markdown-it-attrs');
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItFootNote = require('markdown-it-footnote');
+const pos = require('pos');
+let seedVal = 0;
 
 moment.locale('en-gb');
+
+const tagger = new pos.Tagger();
+// console.log(tagger.lexicon);
+const words = {
+	nouns: [],
+	adjectives: [],
+	verbsPresent: [],
+	verbsPast: [],
+	adverbs: [],
+};
+
+for (const lexWord in tagger.lexicon) {
+	if (Object.prototype.hasOwnProperty.call(tagger.lexicon, lexWord)) {
+		const wordTypesArray = tagger.lexicon[lexWord];
+		// console.log(wordTypesArray);
+		if (wordTypesArray.includes('NN')) {
+			words.nouns.push(lexWord);
+		}
+		if (wordTypesArray.includes('JJ')) {
+			words.adjectives.push(lexWord);
+		}
+		if (wordTypesArray.includes('VB')) {
+			words.verbsPresent.push(lexWord);
+		}
+		if (wordTypesArray.includes('VBD')) {
+			words.verbsPast.push(lexWord);
+		}
+		if (wordTypesArray.includes('RB')) {
+			words.adverbs.push(lexWord);
+		}
+	}
+}
+// console.log(`**Nonsensifier – number of nouns: ${words.nouns.length}`);
+// console.log(`**Nonsensifier – number of adjectives: ${words.adjectives.length}`);
+// console.log(`**Nonsensifier – number of verbsPresent: ${words.verbsPresent.length}`);
+// console.log(`**Nonsensifier – number of verbsPast: ${words.verbsPast.length}`);
+// console.log(`**Nonsensifier – number of adverbs: ${words.adverbs.length}`);
+
+const calculateWordValue = (word) => {
+	while (seedVal > 1000000) {
+		seedVal -= 1000000;
+	}
+	let wordVal = seedVal;
+	for (const letter in word) {
+		const letterVal = letter.charCodeAt();
+		wordVal += letterVal;
+	}
+	seedVal += wordVal;
+	return wordVal;
+};
+
+const getReplacement = (word, type) => {
+	const wordValue = calculateWordValue(word);
+	const whichWord = wordValue % words[type].length;
+	const newWord = words[type][whichWord - 1];
+
+	return newWord;
+};
+
+const nonsensify = content => {
+	let text = content.replaceAll(' An ', ' The ');
+	text = text.replaceAll(' A ', ' The ');
+	text = text.replaceAll(' an ', ' the ');
+	text = text.replaceAll(' a ', ' the ');
+
+	const taggable = new pos.Lexer().lex(text);
+	const taggedWords = tagger.tag(taggable);
+
+	for (const index in taggedWords) {
+		const taggedWord = taggedWords[index];
+		const word = taggedWord[0];
+		const tag = taggedWord[1];
+		let type;
+		if (tag === 'NN') {
+			type = 'nouns';
+		}
+		if (tag === 'JJ') {
+			type = 'adjectives';
+		}
+		if (tag === 'VB') {
+			type = 'verbsPresent';
+		}
+		if (tag === 'VBD') {
+			type = 'verbsPast';
+		}
+		if (tag === 'RB') {
+			type = 'adverbs';
+		}
+		if (type && /^[A-Za-z]+$/.test(word)) {
+			let replacement = getReplacement(word, type);
+			const firstChar = word.charAt(0);
+			const uppercase = firstChar === firstChar.toUpperCase();
+			if (uppercase) {
+				replacement = replacement.charAt(0).toUpperCase() + replacement.slice(1);
+			}
+			text = text.replace(word, replacement);
+		}
+	}
+
+	return text;
+};
 
 module.exports = function (eleventyConfig) {
 	const markdownLib = markdownIt({
@@ -39,6 +142,10 @@ module.exports = function (eleventyConfig) {
 
 	Object.keys(collections).forEach((collectionName) => {
 		eleventyConfig.addCollection(collectionName, collections[collectionName]);
+	});
+
+	eleventyConfig.addFilter('nonsensify', content => {
+		return nonsensify(content);
 	});
 
 	eleventyConfig.addFilter('titlePrepend', string => {
