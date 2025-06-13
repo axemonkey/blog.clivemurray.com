@@ -5,7 +5,7 @@ date_published: 2025-05-21T12:00:00.000Z
 date: 2025-05-21T12:00:00.000Z
 date_updated: 2025-05-21T12:00:00.000Z
 tags: ['post', 'Albums of the Years', 'Music']
-excerpt: Lorem
+excerpt: Musically 2024 was a year of comebacks.
 ghost_header_image: aoty2024.jpg
 header_image_caption: 'Top row: Alien Ant Farm – Mantras; Underworld – Strawberry Hotel; Billie Eilish – Hit Me Hard and Soft. Bottom row: Linkin Park – From Zero; The Cure – Songs of a Lost World; Devin Townsend – PowerNerd'
 ---
@@ -28,7 +28,7 @@ Musically 2024 was a year of comebacks. All of these artists released a fantasti
 * *The Cure* – **Songs of a Lost World** – 16 years
 * *Clive Murray* – **Love and Painkillers** – 22 years
 
-So... you know. Don't write someone off when they're down until their sleeping chickens are all in a row, with two in a bush. Or something.
+So... you know. Don't write someone off when they're down until their sleeping chickens are all in a row, with two in a bush and both hands on the road. Or something.
 
 ## The one-liners
 
@@ -64,7 +64,9 @@ Well, actually [the times from a musical POV were pretty dark](/the-dark-times) 
 
 ### [Green Day](https://greenday.com/) - [Saviors](https://www.amazon.co.uk/Saviors-Green-Day/dp/B0CL7V2LHJ)
 
-![Green Day Saviors](/public/images/2025/05/gd-s.jpg){.aoty .aoty-mention loading=lazy} Look, you know what you're going to get with *Green Day*, right? Right. And that's what you get. And it's really great. Any questions? **Top track:** "[Corvette Summer](https://www.youtube.com/watch?v=KseB903DZao)"
+![Green Day Saviors](/public/images/2025/05/gd-s.jpg){.aoty .aoty-mention loading=lazy} You know what you're going to get with *Green Day*, right? Right. And that's what you get. And it's really great. Any questions?
+
+Look, I love *Green Day*, alright? I get that there's an argument to be made along the lines of "...these multi-millionare faux 'punk rockers' telling me to smash the system really boil my piss..." and I get that. But a\) there's also an argument that says what is wrong with those who have been successful enough to reach millions of listeners then using their platform to spread their message, and b\) this is also part of the bigger punk discussion. You know the one. It manifests in a few ways, from "I liked them before they were big" right the way up to "they sold a million albums, that **CAN'T** be punk", and so on. Whatever, girlfriend. To be fair to BJA and crew, there is less hectoring on their more recent output, and you know what there is plenty of? Huge tunes. **Top track:** "[Corvette Summer](https://www.youtube.com/watch?v=KseB903DZao)"
 
 ### [Gun](https://www.gunofficial.co.uk/) - [Hombres](https://gunofficialuk.bandcamp.com/album/hombres)
 
