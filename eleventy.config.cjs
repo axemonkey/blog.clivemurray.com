@@ -139,7 +139,6 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.setLibrary('md', markdownLib);
 
-
 	eleventyConfig.addGlobalData('titlePrepend', 'insincere :: ');
 	eleventyConfig.addPassthroughCopy('src/public');
 	eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
