@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Block all known AI crawlers and assistants
 # from using content for training AI models.
@@ -57,5 +58,7 @@ User-Agent: *
 DisallowAITraining: /
 
 >>>>>>> poisoning the well (#12)
+=======
+>>>>>>> strip down robots.txt to just the nonsense rule
 User-agent: Googlebot
 Disallow: /nonsense/
