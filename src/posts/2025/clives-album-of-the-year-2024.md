@@ -66,7 +66,7 @@ Well, actually [the times from a musical POV were pretty dark](/the-dark-times) 
 
 ![Green Day Saviors](/public/images/2025/05/gd-s.jpg){.aoty .aoty-mention loading=lazy} You know what you're going to get with *Green Day*, right? Right. And that's what you get. And it's really great. Any questions?
 
-Look, I love *Green Day*, alright? I get that there's an argument to be made along the lines of "...these multi-millionare faux 'punk rockers' telling me to smash the system really boil my piss..." and I get that. But a\) there's also an argument that says what is wrong with those who have been successful enough to reach millions of listeners then using their platform to spread their message, and b\) this is also part of the bigger punk discussion. You know the one. It manifests in a few ways, from "I liked them before they were big" right the way up to "they sold a million albums, that **CAN'T** be punk", and so on. Whatever, girlfriend. To be fair to BJA and crew, there is less hectoring on their more recent output, and you know what there is plenty of? Huge tunes. **Top track:** "[Corvette Summer](https://www.youtube.com/watch?v=KseB903DZao)"
+OK, look. I get that there's an argument to be made along the lines of "...these multi-millionare faux 'punk rockers' telling me to smash the system really boil my piss..." and I get that. But a\) there's also an argument that says what is wrong with those who have been successful enough to reach millions of listeners then using their platform to spread their message, and b\) this is also part of the bigger punk discussion. You know the one. It manifests in a few ways, from "I liked them before they were big" right the way up to "they sold a million albums, that **CAN'T** be punk", and so on. Whatever, girlfriend. I'm not certain they ever claimed to be punk anyway. And to be fair to BJA and crew, there is less hectoring on their more recent output but you know what there is plenty of? Huge tunes. **Top track:** "[Corvette Summer](https://www.youtube.com/watch?v=KseB903DZao)"
 
 ### [Gun](https://www.gunofficial.co.uk/) - [Hombres](https://gunofficialuk.bandcamp.com/album/hombres)
 
@@ -82,15 +82,15 @@ Look, I love *Green Day*, alright? I get that there's an argument to be made alo
 
 ### [Max Richter](https://www.maxrichtermusic.com/) - [In a Landscape](https://www.amazon.co.uk/Landscape-Max-Richter/dp/B0D51P46PZ)
 
-![Max Richter – In a Landscape](/public/images/2025/05/mr-ial.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[They Will Shade Us With Their Wings](https://www.youtube.com/watch?v=mU7yntVN30A)"
+![Max Richter – In a Landscape](/public/images/2025/05/mr-ial.jpg){.aoty .aoty-mention loading=lazy} Just beautiful. His best work since **The Blue Notebooks**. Absolutely indispensible. **Top track:** "[They Will Shade Us With Their Wings](https://www.youtube.com/watch?v=mU7yntVN30A)"
 
 ### [Devin Townsend](https://hevydevy.com/) - [PowerNerd](https://www.amazon.co.uk/PowerNerd-Devin-Townsend/dp/B0DDZLDJDV)
 
-![Devin Townsend – PowerNerd](/public/images/2025/05/dt-p.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "[Gratitude](https://www.youtube.com/watch?v=1mnjfXmsEUQ)"
+![Devin Townsend – PowerNerd](/public/images/2025/05/dt-p.jpg){.aoty .aoty-mention loading=lazy} Ah, Mister Townsend, we meet again. What's it to be this time, hmmm? Ethereal and wistful, unlistenable screaming, or madder-than-a-box-of-frogs-at-a-**Focus**-gig prog? Oh I see. None of those. Ah, you've gone with punishingly heavy yet melodic and uplifting harmonious metal? Very well done, Mister Townsend... very well done indeed. **Top track:** "[Gratitude](https://www.youtube.com/watch?v=1mnjfXmsEUQ)"
 
 ### [Underworld](https://underworldlive.com/) - [Strawberry Hotel](https://www.amazon.co.uk/Strawberry-Hotel-Underworld/dp/B0DC21PX75)
 
-![Underworld – Strawberry Hotel](/public/images/2025/05/u-sh.jpg){.aoty .aoty-mention loading=lazy} Lorem. **Top track:** "xxx"
+![Underworld – Strawberry Hotel](/public/images/2025/05/u-sh.jpg){.aoty .aoty-mention loading=lazy} There ain't nobody out there making the sound that these guys make. The fact that they're still doing it, and doing it better than anyone else, is frankly awesome. There are a couple of callbacks to some of their classics, for those that have but the ears to hear them, too. I can hear "Push Upstairs" being hinted at in "Denver Luna" and there is a definite nod to "Born Slippy Nuxx" at the end of "Techno Shinkansen". Banging. **Top track:** "Denver Luna"
 
 ## And the winners are…
 
@@ -102,7 +102,7 @@ I've gone back and forth on this a few times, and while the first one was never 
 
 Lorem
 
-**Top tracks:** "xxx", "xxx", "xxx"
+**Top tracks:** "Alone", "xxx", "xxx"
 
 ### [Linkin Park](https://linkinpark.com/) - [From Zero](https://www.amazon.co.uk/Zero-Linkin-Park/dp/B0DFX611RV)
 
@@ -110,7 +110,7 @@ Lorem
 
 Lorem.
 
-**Top tracks:** "xxx", "xxx", "xxx"
+**Top tracks:** "Two Faced", "Over Each Other", "Heavy Is the Crown"
 
 <!--
 ## Turkey of the Year
