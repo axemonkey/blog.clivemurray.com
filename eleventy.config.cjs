@@ -101,7 +101,7 @@ const nonsensify = content => {
 		}
 		if (type && /^[A-Za-z]+$/.test(word)) {
 			const getNewWord = getReplacement(word, type, seedVal);
-			console.log(getNewWord);
+			// console.log(getNewWord);
 			let replacement = getNewWord.word;
 			const firstChar = word.charAt(0);
 			const uppercase = firstChar === firstChar.toUpperCase();
@@ -111,8 +111,7 @@ const nonsensify = content => {
 				} else {
 					replacement = replacement.charAt(0).toUpperCase();
 				}
-
-				console.log(replacement);
+				// console.log(replacement);
 			}
 			text = text.replace(word, replacement);
 			seedVal += getNewWord.wordValue;
