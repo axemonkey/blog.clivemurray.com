@@ -2,11 +2,13 @@ body.js {
 	.aoty-mention {
 		scale: 0.9;
 		opacity: 0.4;
+		filter: blur(3rem);
 	}
 
 	.aoty-winner {
 		scale: 0.2;
 		opacity: 0.4;
+		filter: blur(3rem);
 	}
 
 	.mention-visible {
@@ -21,6 +23,7 @@ body.js {
 		100% {
 			scale: 1;
 			opacity: 1;
+			filter: blur(0);
 		}
 	}
 
@@ -33,6 +36,7 @@ body.js {
 			scale: 1;
 			opacity: 1;
 			transform: rotate(1080deg);
+			filter: blur(0);
 		}
 	}
 

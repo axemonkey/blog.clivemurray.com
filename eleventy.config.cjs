@@ -49,27 +49,28 @@ for (const lexWord in tagger.lexicon) {
 // console.log(`**Nonsensifier – number of adverbs: ${words.adverbs.length}`);
 
 const calculateWordValue = (word) => {
-	while (seedVal > 1000000) {
-		seedVal -= 1000000;
-	}
-	let wordVal = seedVal;
+	let wordVal = 0;
 	for (const letter in word) {
 		const letterVal = letter.charCodeAt();
 		wordVal += letterVal;
 	}
-	seedVal += wordVal;
 	return wordVal;
 };
 
-const getReplacement = (word, type) => {
-	const wordValue = calculateWordValue(word);
+const getReplacement = (word, type, seedVal) => {
+	let wordValue = calculateWordValue(word);
+	wordValue += seedVal;
 	const whichWord = wordValue % words[type].length;
 	const newWord = words[type][whichWord - 1];
 
-	return newWord;
+	return {
+		word: newWord,
+		wordValue,
+	};
 };
 
 const nonsensify = content => {
+	seedVal = 0;
 	let text = content.replaceAll(' An ', ' The ');
 	text = text.replaceAll(' A ', ' The ');
 	text = text.replaceAll(' an ', ' the ');
@@ -99,13 +100,24 @@ const nonsensify = content => {
 			type = 'adverbs';
 		}
 		if (type && /^[A-Za-z]+$/.test(word)) {
-			let replacement = getReplacement(word, type);
+			const getNewWord = getReplacement(word, type, seedVal);
+			// console.log(getNewWord);
+			let replacement = getNewWord.word;
 			const firstChar = word.charAt(0);
 			const uppercase = firstChar === firstChar.toUpperCase();
 			if (uppercase) {
-				replacement = replacement.charAt(0).toUpperCase() + replacement.slice(1);
+				if (replacement.charAt(1)) {
+					replacement = replacement.charAt(0).toUpperCase() + replacement.slice(1);
+				} else {
+					replacement = replacement.charAt(0).toUpperCase();
+				}
+				// console.log(replacement);
 			}
 			text = text.replace(word, replacement);
+			seedVal += getNewWord.wordValue;
+			if (seedVal > 1000000) {
+				seedVal -= 1000000;
+			}
 		}
 	}
 
@@ -122,11 +134,10 @@ module.exports = function (eleventyConfig) {
 		.use(markdownItFootNote)
 		.use(markdownItAbbr)
 		.use(markdownItAttrs, {
-		allowedAttributes: ['id', 'class', 'loading'],
+		allowedAttributes: ['id', 'class', 'loading', 'title'],
 	});
 
 	eleventyConfig.setLibrary('md', markdownLib);
-
 
 	eleventyConfig.addGlobalData('titlePrepend', 'insincere :: ');
 	eleventyConfig.addPassthroughCopy('src/public');
