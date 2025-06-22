@@ -1,9 +1,9 @@
 ---
 title: Clive’s Album of the Year, 2024
 slug: clives-album-of-the-year-2024
-date_published: 2025-06-20T17:44:00.000Z
-date: 2025-06-20T17:44:00.000Z
-date_updated: 2025-06-20T17:44:00.000Z
+date_published: 2025-06-22T16:00:00.000Z
+date: 2025-06-22T16:00:00.000Z
+date_updated: 2025-06-22T16:00:00.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: Musically 2024 was a year of comebacks.
 ghost_header_image: aoty2024.jpg
