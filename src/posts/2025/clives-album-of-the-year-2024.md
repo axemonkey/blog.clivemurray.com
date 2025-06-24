@@ -162,7 +162,7 @@ Look.
 
 See?
 
-I was never into rap-rock, or nu-metal, or any of that stuff back then, but what did I know? I was in my 20s. What I can tell you right here, right now, at this moment in time, without a shadow of a doubt... is that **From Zero** is an absolute belter of an album from start to nuts.
+I was never into rap-rock, or nu-metal, or any of that stuff back then, but what did I know? I was in my 20s. What I can tell you right here, right now, at this moment in time, without a shadow of a doubt... is that **From Zero** is an absolute cracker of an album from start to nuts.
 
 **Top tracks:** "[Two Faced](https://www.youtube.com/watch?v=kivUsDGWojU&pp=ygUVbGlua2luIHBhcmsgdHdvIGZhY2Vk)", "[Over Each Other](https://www.youtube.com/watch?v=fSHoePrnmMw)", "[Heavy Is the Crown](https://www.youtube.com/watch?v=ZAt8oxY0GQo)"
 
