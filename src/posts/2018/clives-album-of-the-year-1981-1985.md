@@ -34,7 +34,7 @@ Possibly the first album I properly enjoyed. My mate next door, Craig, had it on
 
 ### [Van Halen](http://van-halen.com/) - [1984](https://www.amazon.co.uk/1984-Van-Halen/dp/B00UZU0ASW/)
 
-![Van Halen - 1984](/public/images/2025/02/1984.jpg){.aoty .aoty-mention loading=lazy} Natch, and in any other year this may well have wombled off with the prize. In fact, if it wasn't for a couple of conspicuous duddos ("House of Pain" and "Drop Dead Legs" leap to mind) it may still have. On balance though, it's a cracker. **Top track**: "Panama"
+![Van Halen - 1984](/public/images/2025/02/1984.jpg){.aoty .aoty-mention loading=lazy} Natch, and in any other year this may well have wombled off with the prize. In fact, if it wasn't for a couple of conspicuous duddos ("House of Pain" and "Girl Gone Bad" leap to mind) it may still have. On balance though, it's a cracker. **Top track**: "Panama"
 
 ## Winner
 
