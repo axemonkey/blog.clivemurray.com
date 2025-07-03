@@ -272,7 +272,7 @@ The sticker job you see there... well, did I mention I was 17?
 
 My [very first guitar](https://www.google.co.uk/search?q=maya+strat&amp;safe=off&amp;client=firefox-a&amp;hs=xgz&amp;rls=org.mozilla:en-GB:official&amp;channel=sb&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=ypQuU_WcNYmN7QaM84GgBg&amp;ved=0CCwQsAQ&amp;biw=1920&amp;bih=1038). It’s December 1988, I’m 14, and at high school I’m "the dorky kid who’s really good at maths". I have friends though, and am having a not-too-bad time of it. Then one day I notice that several people around me are i) playing instruments and ii) hanging out with girls a lot more than previously. "A-ha," think I. "I’ll become a drummer!" When we found out how much drum kits cost, I decided to be a guitar player instead.
 
-My birthday is January 10th, so this was to be a combined Christmas and birthday present - my Dad bought the guitar and an amp (a Laney keyboard amp, as it turned out) from the local free ad paper, and my Mum paid for a year of lessons, which I took with the splendid [Mick Hutchinson](https://www.facebook.com/pages/Mick-HutchinsonGUITAR-BASS-Lessons/170237742994671).
+My birthday is January 10th, so this was to be a combined Christmas and birthday present - my Dad bought the guitar and an amp (a Laney keyboard amp, as it turned out) from the local free ad paper, and my Mum paid for a year of lessons, which I took with the splendid Mike Hutchinson, a prominent guitar teacher in Eastbourne back in those days.
 
 The rest, as detailed above, is history.
 
