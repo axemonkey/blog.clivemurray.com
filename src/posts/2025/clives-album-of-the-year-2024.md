@@ -70,7 +70,7 @@ OK, look. I get that there's an argument to be made along the lines of "...these
 
 ### [Gun](https://www.gunofficial.co.uk/) - [Hombres](https://gunofficialuk.bandcamp.com/album/hombres)
 
-![Gun – Hombres](/public/images/2025/05/g-h.jpg){.aoty .aoty-mention loading=lazy} I don't know how big Scot-rockers *Gun* ever were outside the UK, and even here they were mostly known for their smash cover of *Cameo*'s "[Word Up](https://en.wikipedia.org/wiki/Word_Up!_(song))" (which still owns). Well, they've had the usual inevitable line-up changes and a 15-year break, but the current line-up seems stable and this is a cracking rock album. Lead single "All Fired Up" is a block-rocker, and "Falling" is just lovely. Nice one. **Top track:** "[Falling](https://www.youtube.com/watch?v=yIEwHajet18)"
+![Gun – Hombres](/public/images/2025/05/g-h.jpg){.aoty .aoty-mention loading=lazy} I don't know how big Scot-rockers *Gun* ever were outside the UK, and even here they were mostly known for their smash cover of *Cameo*'s "[Word Up](https://en.wikipedia.org/wiki/Word_Up!_(song))" (which still [owns](https://www.youtube.com/watch?v=lYzijRRRYxU)). Well, they've had the usual inevitable line-up changes and a 15-year break, but the current line-up seems stable and this is a cracking rock album. Lead single "All Fired Up" is a block-rocker, and "Falling" is just lovely. Nice one. **Top track:** "[Falling](https://www.youtube.com/watch?v=yIEwHajet18)"
 
 ### [London Grammar](https://www.londongrammar.com/) - [The Greatest Love](https://www.amazon.co.uk/Greatest-Love-London-Grammar/dp/B0CZW1LGXQ)
 
