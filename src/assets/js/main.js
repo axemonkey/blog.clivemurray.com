@@ -1,4 +1,3 @@
-// import {lapBanner} from './modules/lap-banner.js';
 import {
 	confettiSetti,
 	// render,

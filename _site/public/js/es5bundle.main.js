@@ -257,7 +257,6 @@
 	  });
 	};
 
-	// import {lapBanner} from './modules/lap-banner.js';
 	const checkPulse = () => {
 	  console.log('it loads...');
 	  document.body.classList.add('js');
