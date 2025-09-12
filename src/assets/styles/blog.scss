@@ -1,23 +1,23 @@
 $headingFont: "Spectral";
 $bodyCopyFont: "InclusiveSans";
 
-@import "fonts";
-@import "confetti";
-@import "ghost01";
-@import "ghost02";
-@import "ghost03";
-@import "ghost04";
-@import "ghost05";
-@import "ghost06";
-@import "image-effects";
-@import "comments";
+@import "partials/fonts";
+@import "partials/confetti";
+@import "partials/ghost01";
+@import "partials/ghost02";
+@import "partials/ghost03";
+@import "partials/ghost04";
+@import "partials/ghost05";
+@import "partials/ghost06";
+@import "partials/image-effects";
+@import "partials/comments";
 
 :root {
 	--meh-default-accent: #922;
 	--meh-default-background: #f8f9fa;
 	--meh-default-foreground: #212529;
 	--meh-default-spacing: 1em;
-	--meh-default-border-radius: 0px;
+	--meh-default-border-radius: 0;
 	--meh-default-success: green;
 	--meh-default-error: darkred;
 }
