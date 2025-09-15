@@ -70,24 +70,6 @@ I can’t stand plain unadorned black guitars, though, so white trimmings all ro
 
 *Serial number: F0008871*
 
-### Washburn N2 (1990s ?)
-
-![Washburn N2](/public/images/2016/03/IMG_5276.jpg){.guitar loading=lazy}
-
-I’ve actually owned this guitar twice, but this time I’m keeping it.
-
-I can’t peg the exact year of this guitar, since its serial number doesn’t conform to usual Washburn numbering, but I believe it to be early-mid 1990s. A friend - and ex-owner of this guitar - believes this to be one of a short run of Japanese made N2s, as the body shape is apparently closer to the guitars that Nuno Bettencourt actually plays, though of course those are N4s. I don’t know. What I do know is that this is one of the most fun guitars to play I’ve ever owned.
-
-I’ve switched out the stock pickups for a [Seymour Duncan](http://www.seymourduncan.com/) [’59](http://www.seymourduncan.com/products/electric/humbucker/vintage-output/59_model_sh1_an/) in the neck and a [Bill and Becky L500XL](http://www.wildepickups.com/Wilde_Bill_s_Twin_Blades.html) in the bridge, in tasteful zebra stylings with cream surrounds. Annoyingly the guy who did the wiring got the pickup selector backwards, so in the picture that’s actually the bridge pickup selected. It won’t turn round in the hole, and I can’t be arsed to rewire it. Ho hum.
-
-Observant listeners will note that one of the bridge saddles is black. The G saddle cracked when I was restringing it one day, and the only replacement I could find was on a ’for parts’ Washburn 600S trem on ebay, which was black. It’s not even the right height saddle either, I had to shim it to get it to the right height.
-
-Anyway - cracking guitar. Plays and sounds fabulous.
-
-**Possible further modifications:** I’m seriously considering changing out that trem for a Gotoh GE1996T. Oh and one day I might get that switch the right way round.
-
-*Serial number: 1100159*
-
 ### Ibanez 540PII-SH (1989)
 
 ![Ibanez 540PII-SH](/public/images/2016/03/IMG_5269.jpg){.guitar loading=lazy}
@@ -124,18 +106,6 @@ A set of [Nailbombs](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbu
 
 *Serial number: F9804205*
 
-### Gibson Les Paul Custom (2001)
-
-![Gibson Les Paul Custom](/public/images/2016/03/IMG_5252.jpg){.guitar loading=lazy}
-
-It was early 2004, and I had just joined [Claytown Troupe](http://en.wikipedia.org/wiki/Claytown_Troupe). My main guitar at the time was the Blackmachine, but I felt a yearning for something more traditional. The added popularity of [The Darkness](http://en.wikipedia.org/wiki/The_Darkness_%28band%29) at the time probably helped steer me towards a white one, and this splendid Alpine White [Custom](http://en.wikipedia.org/wiki/Gibson_Les_Paul_Custom) popped up on eBay at just the time I was looking. White Customs usually have gold hardware, but some apparently were released with nickel/silver, or so I’m told. It wouldn’t surprise me if some of the bits aren’t original though.
-
-I’ve replaced the pickups with a set of [Bare Knuckle](https://bareknucklepickups.co.uk) [Rebel Yells](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=rebel_yell), and had the whole thing rewired as of 2014 since the Gibson pots were rubbish. They basically had two settings: off, and full-on. That’s rubbish. Now it’s as it should be.
-
-I’ve also, as you may notice, replaced the knobs, scratchplate (from [Jack’s Instrument Services](https://www.facebook.com/jacksinstrumentservices?fref=ts) again) and poker chip with white versions. I rather like the look of it that way, thanks.
-
-*Serial number: 03191654*
-
 ### Blackmachine B2 (2003)
 
 ![Blackmachine B2](/public/images/2016/03/IMG_5291.jpg){.guitar loading=lazy}
@@ -147,18 +117,6 @@ My B2 is 30mm thick, mahogany, with a Brazilian rosewood neck and fretboard. At 
 I see that in the decade since Doug made this guitar for me Blackmachine guitars have skyrocketed in value and cachet, but this is one I will never sell. You will have to prise this guitar out of my cold, dead fingers and even then I don’t fancy your chances.
 
 *Serial number: doesn’t have one*
-
-### Ibanez JEM777BBQ (1988)
-
-![Ibanez JEM777BBQ](/public/images/2016/03/IMG_5273.jpg){.guitar loading=lazy}
-
-This guitar started life as a [JEM777DY](http://ibanez.wikia.com/wiki/JEM777), and was sold to me by a friend in need of cash in around 2001. It was in quite a state cosmetically at that point, with several large dings and chips down to the wood. This led me to think about customising the finish, and the results were... divisive. Personally I love the thing - it’s my trusty workhorse guitar, but it still plays like a dream and I love its "modified" look. ;-)
-
-For more about how its unique finish was achieved, see [YouTube](http://www.youtube.com/watch?v=NVOa5CVgP-Q) [videos](http://www.youtube.com/watch?v=6c6KSAQIivM) curated by my friend [James](http://en.wikipedia.org/wiki/James_McIlroy_%28musician%29). Be warned, the internet did not approve of my methods and has left comments to that effect.
-
-I have also swapped out the pickups for (of course) a [Bare Knuckle](https://bareknucklepickups.co.uk/) [Miracle Man](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=miracle_man) matched set (with push-me/pull-you coil-splitting option on the tone knob) and now it absolutely roars.
-
-*Serial number: 882181*
 
 ### [Ibanez JEM777LNG](http://ibanez.wikia.com/wiki/JEM777) (1987)
 
@@ -172,11 +130,51 @@ Before this I played a [JEM77FP](http://ibanez.wikia.com/wiki/JEM77_%28Floral_Pa
 
 ---
 
----
-
 ## Gone But Not Forgotten
 
 Sometimes you have to let guitars go. It’s always hard, but that’s life.
+
+### Washburn N2 (1990s ?)
+
+![Washburn N2](/public/images/2016/03/IMG_5276.jpg){.guitar loading=lazy}
+
+I’ve actually owned this guitar twice, but this time I’m keeping it.
+
+I can’t peg the exact year of this guitar, since its serial number doesn’t conform to usual Washburn numbering, but I believe it to be early-mid 1990s. A friend - and ex-owner of this guitar - believes this to be one of a short run of Japanese made N2s, as the body shape is apparently closer to the guitars that Nuno Bettencourt actually plays, though of course those are N4s. I don’t know. What I do know is that this is one of the most fun guitars to play I’ve ever owned.
+
+I’ve switched out the stock pickups for a [Seymour Duncan](http://www.seymourduncan.com/) [’59](http://www.seymourduncan.com/products/electric/humbucker/vintage-output/59_model_sh1_an/) in the neck and a [Bill and Becky L500XL](http://www.wildepickups.com/Wilde_Bill_s_Twin_Blades.html) in the bridge, in tasteful zebra stylings with cream surrounds. Annoyingly the guy who did the wiring got the pickup selector backwards, so in the picture that’s actually the bridge pickup selected. It won’t turn round in the hole, and I can’t be arsed to rewire it. Ho hum.
+
+Observant listeners will note that one of the bridge saddles is black. The G saddle cracked when I was restringing it one day, and the only replacement I could find was on a ’for parts’ Washburn 600S trem on ebay, which was black. It’s not even the right height saddle either, I had to shim it to get it to the right height.
+
+Anyway - cracking guitar. Plays and sounds fabulous.
+
+**Possible further modifications:** I’m seriously considering changing out that trem for a Gotoh GE1996T. Oh and one day I might get that switch the right way round.
+
+*Serial number: 1100159*
+
+### Gibson Les Paul Custom (2001)
+
+![Gibson Les Paul Custom](/public/images/2016/03/IMG_5252.jpg){.guitar loading=lazy}
+
+It was early 2004, and I had just joined [Claytown Troupe](http://en.wikipedia.org/wiki/Claytown_Troupe). My main guitar at the time was the Blackmachine, but I felt a yearning for something more traditional. The added popularity of [The Darkness](http://en.wikipedia.org/wiki/The_Darkness_%28band%29) at the time probably helped steer me towards a white one, and this splendid Alpine White [Custom](http://en.wikipedia.org/wiki/Gibson_Les_Paul_Custom) popped up on eBay at just the time I was looking. White Customs usually have gold hardware, but some apparently were released with nickel/silver, or so I’m told. It wouldn’t surprise me if some of the bits aren’t original though.
+
+I’ve replaced the pickups with a set of [Bare Knuckle](https://bareknucklepickups.co.uk) [Rebel Yells](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=rebel_yell), and had the whole thing rewired as of 2014 since the Gibson pots were rubbish. They basically had two settings: off, and full-on. That’s rubbish. Now it’s as it should be.
+
+I’ve also, as you may notice, replaced the knobs, scratchplate (from [Jack’s Instrument Services](https://www.facebook.com/jacksinstrumentservices?fref=ts) again) and poker chip with white versions. I rather like the look of it that way, thanks.
+
+*Serial number: 03191654*
+
+### Ibanez JEM777BBQ (1988)
+
+![Ibanez JEM777BBQ](/public/images/2016/03/IMG_5273.jpg){.guitar loading=lazy}
+
+This guitar started life as a [JEM777DY](http://ibanez.wikia.com/wiki/JEM777), and was sold to me by a friend in need of cash in around 2001. It was in quite a state cosmetically at that point, with several large dings and chips down to the wood. This led me to think about customising the finish, and the results were... divisive. Personally I love the thing - it’s my trusty workhorse guitar, but it still plays like a dream and I love its "modified" look. ;-)
+
+For more about how its unique finish was achieved, see [YouTube](http://www.youtube.com/watch?v=NVOa5CVgP-Q) [videos](http://www.youtube.com/watch?v=6c6KSAQIivM) curated by my friend [James](http://en.wikipedia.org/wiki/James_McIlroy_%28musician%29). Be warned, the internet did not approve of my methods and has left comments to that effect.
+
+I have also swapped out the pickups for (of course) a [Bare Knuckle](https://bareknucklepickups.co.uk/) [Miracle Man](https://bareknucklepickups.co.uk/main/pickups.php?cat=humbuckers&amp;sub=contemporary&amp;pickup=miracle_man) matched set (with push-me/pull-you coil-splitting option on the tone knob) and now it absolutely roars.
+
+*Serial number: 882181*
 
 ### Ibanez Iceman ICT700WH
 
@@ -217,10 +215,6 @@ I loved [this thing](http://ibanez.wikia.com/wiki/RG565)! Firstly I’m a sucker
 ![Ibanez RG770DX-VM](/public/images/2014/Mar/ibanez_rg770dxvm-1.jpg){.guitar loading=lazy}
 
 I loved [this thing](http://ibanez.wikia.com/wiki/RG770DX)! Colour-matched violet inlays, lo-pro trem, pretty good pickups... It had a few dings and chips down to the wood though. In the end I let it go to another [UKMG](http://www.ukmg.org.uk/)er and it ended up being refinished with a flame maple veneer by Paul at [Arrowhead Guitars](http://www.arrowheadguitars.co.uk/).
-
-### Washburn N2
-
-I don’t have any pics of [this](http://www.ultimate-guitar.com/reviews/electric_guitars/washburn/n2/). I loved it, and would like it back. Maybe when I have some spare cash...
 
 ### Ibanez RG550DY
 
@@ -272,7 +266,7 @@ The sticker job you see there... well, did I mention I was 17?
 
 My [very first guitar](https://www.google.co.uk/search?q=maya+strat&amp;safe=off&amp;client=firefox-a&amp;hs=xgz&amp;rls=org.mozilla:en-GB:official&amp;channel=sb&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=ypQuU_WcNYmN7QaM84GgBg&amp;ved=0CCwQsAQ&amp;biw=1920&amp;bih=1038). It’s December 1988, I’m 14, and at high school I’m "the dorky kid who’s really good at maths". I have friends though, and am having a not-too-bad time of it. Then one day I notice that several people around me are i) playing instruments and ii) hanging out with girls a lot more than previously. "A-ha," think I. "I’ll become a drummer!" When we found out how much drum kits cost, I decided to be a guitar player instead.
 
-My birthday is January 10th, so this was to be a combined Christmas and birthday present - my Dad bought the guitar and an amp (a Laney keyboard amp, as it turned out) from the local free ad paper, and my Mum paid for a year of lessons, which I took with the splendid Mike Hutchinson, a prominent guitar teacher in Eastbourne back in those days.
+My birthday is in early January, so this was to be a combined Christmas and birthday present - my Dad bought the guitar and an amp (a Laney keyboard amp, as it turned out) from the local free ad paper, and my Mum paid for a year of lessons, which I took with the splendid Mike Hutchinson, a prominent guitar teacher in Eastbourne back in those days.
 
 The rest, as detailed above, is history.
 
