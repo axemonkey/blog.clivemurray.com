@@ -122,7 +122,7 @@ I see that in the decade since Doug made this guitar for me Blackmachine guitars
 
 ![Ibanez JEM777LNG](/public/images/2016/03/IMG_5266.jpg){.guitar loading=lazy}
 
-Before this I played a [JEM77FP](http://ibanez.wikia.com/wiki/JEM77_%28Floral_Pattern%29) which was awesome, but part of me always lusted after the original and when one came up I leapt at the chance to buy it. It cost me 3000DM, which tells me that I bought it in around 2000. As Ibanez officianados will know, this was the first production Jem and only [777](http://ibanez.wikia.com/wiki/JEM777) were made, each numbered by [Steve Vai](http://www.vai.com/) himself. Mine is one of the ones numbered on the backplate rather than the guitar itself, and it is #407.
+Before this I played a [JEM77FP](http://ibanez.wikia.com/wiki/JEM77_%28Floral_Pattern%29) which was awesome, but part of me always lusted after the original and when one came up I leapt at the chance to buy it. It cost me 3000 DM, which tells me that I bought it in around 2000. As Ibanez officianados will know, this was the first production Jem and only [777](http://ibanez.wikia.com/wiki/JEM777) were made, each numbered and signed by [Steve Vai](http://www.vai.com/) himself. Mine is one of the ones numbered on the backplate rather than the guitar itself, and it is #407.
 
 ![The backplate, showing Steve Vai’s signature and &quot;#407&quot;](/public/images/2023/02/jem-number-407.jpg)
 
@@ -271,3 +271,5 @@ My birthday is in early January, so this was to be a combined Christmas and birt
 The rest, as detailed above, is history.
 
 --CM. 23/03/2014.
+
+*[DM]: Deutschmarks
