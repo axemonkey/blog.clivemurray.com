@@ -18,12 +18,12 @@ cc.canvases = [];
 
 // colors, back side is darker for confetti flipping
 const colors = [
-	{front: '#7b5cff', back: '#6245e0'}, // Purple
-	{front: '#b3c7ff', back: '#8fa5e5'}, // Light Blue
-	{front: '#5c86ff', back: '#345dd1'}, // Darker Blue
-	{front: '#aa0000', back: '#330000'}, // Red
-	{front: '#dddd00', back: '#666600'}, // Yellow
-	{front: '#ffffff', back: '#cccccc'}, // White
+	{ front: "#7b5cff", back: "#6245e0" }, // Purple
+	{ front: "#b3c7ff", back: "#8fa5e5" }, // Light Blue
+	{ front: "#5c86ff", back: "#345dd1" }, // Darker Blue
+	{ front: "#aa0000", back: "#330000" }, // Red
+	{ front: "#dddd00", back: "#666600" }, // Yellow
+	{ front: "#ffffff", back: "#cccccc" }, // White
 ];
 
 // helper function to pick a random number within a range
@@ -34,12 +34,13 @@ const randomRange = (min, max) => Math.random() * (max - min) + min;
 const initConfettoVelocity = (xRange, yRange) => {
 	const x = randomRange(xRange[0], xRange[1]);
 	const range = yRange[1] - yRange[0] + 1;
-	let y = yRange[1] - Math.abs(randomRange(0, range) + randomRange(0, range) - range);
+	let y =
+		yRange[1] - Math.abs(randomRange(0, range) + randomRange(0, range) - range);
 	if (y >= yRange[1] - 1) {
 		// Occasional confetto goes higher than the max
-		y += (Math.random() < 0.25) ? randomRange(1, 3) : 0;
+		y += Math.random() < 0.25 ? randomRange(1, 3) : 0;
 	}
-	return {x: x, y: -y};
+	return { x: x, y: -y };
 };
 
 // Confetto Class
@@ -51,7 +52,10 @@ function Confetto() {
 		y: randomRange(8, 15),
 	};
 	this.position = {
-		x: randomRange(cc.canvasSize.width / 2 - cc.canvasSize.width / 4, cc.canvasSize.width / 2 + cc.canvasSize.width / 4),
+		x: randomRange(
+			cc.canvasSize.width / 2 - cc.canvasSize.width / 4,
+			cc.canvasSize.width / 2 + cc.canvasSize.width / 4,
+		),
 		y: randomRange(cc.canvasSize.height / 3, cc.canvasSize.height / 2),
 	};
 	this.rotation = randomRange(0, 2 * Math.PI);
@@ -64,7 +68,10 @@ function Confetto() {
 Confetto.prototype.update = function () {
 	// apply forces to velocity
 	this.velocity.x -= this.velocity.x * cc.dragConfetti;
-	this.velocity.y = Math.min(this.velocity.y + cc.gravityConfetti, cc.terminalVelocity);
+	this.velocity.y = Math.min(
+		this.velocity.y + cc.gravityConfetti,
+		cc.terminalVelocity,
+	);
 	this.velocity.x += Math.random() > 0.5 ? Math.random() : -Math.random();
 
 	// set position
@@ -78,16 +85,19 @@ Confetto.prototype.update = function () {
 // Sequin Class
 function Sequin() {
 	const wCol = colors[Math.floor(randomRange(0, colors.length))];
-	this.color = wCol.back,
-	this.radius = randomRange(1, 2),
-	this.position = {
-		x: randomRange(cc.canvasSize.width / 2 - cc.canvasSize.width / 4, cc.canvasSize.width / 2 + cc.canvasSize.width / 4),
-		y: randomRange(cc.canvasSize.height / 3, cc.canvasSize.height / 2),
-	},
-	this.velocity = {
-		x: randomRange(-6, 6),
-		y: randomRange(-8, -12),
-	};
+	((this.color = wCol.back),
+		(this.radius = randomRange(1, 2)),
+		(this.position = {
+			x: randomRange(
+				cc.canvasSize.width / 2 - cc.canvasSize.width / 4,
+				cc.canvasSize.width / 2 + cc.canvasSize.width / 4,
+			),
+			y: randomRange(cc.canvasSize.height / 3, cc.canvasSize.height / 2),
+		}),
+		(this.velocity = {
+			x: randomRange(-6, 6),
+			y: randomRange(-8, -12),
+		}));
 }
 Sequin.prototype.update = function () {
 	// apply forces to velocity
@@ -99,13 +109,13 @@ Sequin.prototype.update = function () {
 	this.position.y += this.velocity.y;
 };
 
-const tearDown = canvasIndex => {
+const tearDown = (canvasIndex) => {
 	console.log(`finished with canvas ${canvasIndex}`);
 	document.querySelector(`#canvas${canvasIndex}`).remove();
 };
 
 // add elements to arrays to be drawn
-const initBurst = canvasIndex => {
+const initBurst = (canvasIndex) => {
 	for (let i = 0; i < cc.confettiCount; i++) {
 		cc.canvases[canvasIndex].confetti.push(new Confetto());
 	}
@@ -117,7 +127,7 @@ const initBurst = canvasIndex => {
 };
 
 // draws the elements on the canvas
-const render = canvasIndex => {
+const render = (canvasIndex) => {
 	const thisContext = cc.canvases[canvasIndex].context;
 	const thisCanvas = cc.canvases[canvasIndex].canvas;
 	const thisConfetti = cc.canvases[canvasIndex].confetti;
@@ -127,8 +137,8 @@ const render = canvasIndex => {
 	thisContext.clearRect(0, 0, thisCanvas.width, thisCanvas.height);
 
 	for (const [index, confetto] of thisConfetti.entries()) {
-		const width = (confetto.dimensions.x * confetto.scale.x);
-		const height = (confetto.dimensions.y * confetto.scale.y);
+		const width = confetto.dimensions.x * confetto.scale.x;
+		const height = confetto.dimensions.y * confetto.scale.y;
 
 		// console.log(`confetto.position.x: ${confetto.position.x}, confetto.position.y: ${confetto.position.y}`);
 
@@ -140,7 +150,8 @@ const render = canvasIndex => {
 		confetto.update();
 
 		// get front or back fill color
-		thisContext.fillStyle = confetto.scale.y > 0 ? confetto.color.front : confetto.color.back;
+		thisContext.fillStyle =
+			confetto.scale.y > 0 ? confetto.color.front : confetto.color.back;
 
 		// draw confetto
 		thisContext.fillRect(-width / 2, -height / 2, width, height);
@@ -198,12 +209,12 @@ const render = canvasIndex => {
 			render(canvasIndex);
 		});
 	} else {
-		console.log('it is done');
+		console.log("it is done");
 		tearDown(canvasIndex);
 	}
 };
 
-const confettiSetti = index => {
+const confettiSetti = (index) => {
 	// amount to add on each button press
 	cc.confettiCount = 150;
 	cc.sequinCount = 100;
@@ -218,13 +229,13 @@ const confettiSetti = index => {
 	// init other global elements
 	cc.disabled = false;
 
-	const canvasElement = document.createElement('canvas');
+	const canvasElement = document.createElement("canvas");
 	canvasElement.id = `canvas${index}`;
-	canvasElement.classList.add('confettiCanvas');
+	canvasElement.classList.add("confettiCanvas");
 	document.body.append(canvasElement);
 
 	const thisCanvas = document.querySelector(`#canvas${index}`);
-	const thisContext = thisCanvas.getContext('2d');
+	const thisContext = thisCanvas.getContext("2d");
 	thisCanvas.width = window.innerWidth;
 	thisCanvas.height = window.innerHeight;
 
@@ -241,7 +252,4 @@ const confettiSetti = index => {
 	});
 };
 
-export {
-	confettiSetti,
-	initBurst,
-};
+export { confettiSetti, initBurst };

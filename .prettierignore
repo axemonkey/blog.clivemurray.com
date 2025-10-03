@@ -1,7 +1,10 @@
-**/node_modules
-**/tooling
-**/src/public
-**/_site
-**/.git
-**/package-lock.json
+node_modules
+tooling
+src/public
+assets/images
+assets/fonts
+_site
+.git
+package-lock.json
 **/vendor/**
+*.md

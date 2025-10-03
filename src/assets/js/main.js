@@ -2,45 +2,53 @@ import {
 	confettiSetti,
 	// render,
 	initBurst,
-} from './modules/confetti.js';;
+} from "./modules/confetti.js";
 
 const checkPulse = () => {
-	console.log('it loads...');
-	document.body.classList.add('js');
+	console.log("it loads...");
+	document.body.classList.add("js");
 };
 
-window.addEventListener('load', checkPulse);
+window.addEventListener("load", checkPulse);
 
 // from casper theme
 
 // sticky nav
-const initStickyNav = function(s, a) {
-
-	console.log('init sticky nav');
-		s.Casper || (s.Casper = {}), s.Casper.stickyNavTitle = function(e) {
+const initStickyNav = function (s, a) {
+	console.log("init sticky nav");
+	(s.Casper || (s.Casper = {}),
+		(s.Casper.stickyNavTitle = function (e) {
 			var t = a.querySelector(e.navSelector),
 				i = a.querySelector(e.titleSelector),
 				r = s.scrollY,
 				n = !1;
 
 			function o() {
-				i.getBoundingClientRect().top + s.scrollY + (i.offsetHeight + 35) <= r ? t.classList.add(e.activeClass) : t.classList.remove(e.activeClass), n = !1
+				(i.getBoundingClientRect().top + s.scrollY + (i.offsetHeight + 35) <= r
+					? t.classList.add(e.activeClass)
+					: t.classList.remove(e.activeClass),
+					(n = !1));
 			}
-			s.addEventListener("scroll", function() {
-				r = s.scrollY,
-				function() {
-					n || requestAnimationFrame(o);
-					n = !0
-				}()
-			}, {
-				passive: !0
-			}), o()
-		}
+			(s.addEventListener(
+				"scroll",
+				function () {
+					((r = s.scrollY),
+						(function () {
+							n || requestAnimationFrame(o);
+							n = !0;
+						})());
+				},
+				{
+					passive: !0,
+				},
+			),
+				o());
+		}));
 };
 
-const initHomepageNav = function() {
-	var nav = document.querySelector('.site-nav-main .site-nav');
-	var feed = document.querySelector('.post-feed');
+const initHomepageNav = function () {
+	var nav = document.querySelector(".site-nav-main .site-nav");
+	var feed = document.querySelector(".post-feed");
 
 	var lastScrollY = window.scrollY;
 	var lastWindowHeight = window.innerHeight;
@@ -48,7 +56,7 @@ const initHomepageNav = function() {
 	var ticking = false;
 
 	function getDocumentHeight() {
-		var cs = getComputedStyle(document.querySelector('body'));
+		var cs = getComputedStyle(document.querySelector("body"));
 		var csh = cs.height;
 		console.log(csh);
 		return csh;
@@ -78,27 +86,26 @@ const initHomepageNav = function() {
 
 		// show/hide nav
 		if (lastScrollY >= trigger - 20) {
-			nav.classList.add('fixed-nav-active');
+			nav.classList.add("fixed-nav-active");
 		} else {
-			nav.classList.remove('fixed-nav-active');
+			nav.classList.remove("fixed-nav-active");
 		}
 
 		ticking = false;
 	}
 
-	window.addEventListener('scroll', onScroll, { passive: true });
-	window.addEventListener('resize', onResize, false);
+	window.addEventListener("scroll", onScroll, { passive: true });
+	window.addEventListener("resize", onResize, false);
 
 	update();
-
 };
 
-window.addEventListener('load', function() {
-	const bodyEl = document.querySelector('body');
-	if (bodyEl.classList.contains('home-template')) {
+window.addEventListener("load", function () {
+	const bodyEl = document.querySelector("body");
+	if (bodyEl.classList.contains("home-template")) {
 		initHomepageNav();
-	} else if (bodyEl.classList.contains('post-template')) {
-		console.log('about to init sticky nav');
+	} else if (bodyEl.classList.contains("post-template")) {
+		console.log("about to init sticky nav");
 
 		// commented this out, as decided not to use sticky nav.
 		// it should just work again by uncommenting the initStickyNav() call
@@ -114,12 +121,12 @@ window.addEventListener('load', function() {
 	// lapBanner.init();
 });
 
-const mentionEffect = element => {
-	element.classList.add('mention-visible');
+const mentionEffect = (element) => {
+	element.classList.add("mention-visible");
 };
 
 const winnerEffect = (element, index) => {
-	element.classList.add('winner-visible');
+	element.classList.add("winner-visible");
 	console.log(`AotY winner ${index} visible`);
 	initBurst(index);
 };
@@ -129,35 +136,36 @@ const getStrapline = () => {
 	const theDate = new Date();
 	const month = theDate.getMonth();
 
-	straps.push('I play guitar, you know');
-	straps.push('Now in colours!');
-	straps.push('display: bloke;');
-	straps.push('It’s good for you');
-	straps.push('HACKA LÖKEN!');
-	straps.push('Always running');
-	straps.push('Web stuff since 1997');
-	straps.push('Disinformation superlayby');
-	straps.push('At the forefront of the retreat');
-	straps.push('Humour may have settled during transit');
-	straps.push('More harmonies');
-	straps.push('Do you have any grey poupon?');
-	straps.push('He’s beginning to believe');
-	straps.push('It’s not the years, it’s the mileage');
-	straps.push('Be excellent to each other');
-	straps.push('Alsø wik');
-	straps.push('Alsø alsø wik');
-	straps.push('I know where Bruce Lee lives');
-	straps.push('It’s all relative');
-	straps.push('JEM777LNG #407');
-	straps.push('Never put a sock in a toaster');
-	straps.push('Never put jam on a magnet');
-	straps.push('Thou shalt not question Stephen Fry');
-	straps.push('Cough drop and roll');
-	straps.push('R Tape loading error, 0:1');
+	straps.push("I play guitar, you know");
+	straps.push("Now in colours!");
+	straps.push("display: bloke;");
+	straps.push("It’s good for you");
+	straps.push("HACKA LÖKEN!");
+	straps.push("Always running");
+	straps.push("Web stuff since 1997");
+	straps.push("Disinformation superlayby");
+	straps.push("At the forefront of the retreat");
+	straps.push("Humour may have settled during transit");
+	straps.push("More harmonies");
+	straps.push("Do you have any grey poupon?");
+	straps.push("He’s beginning to believe");
+	straps.push("It’s not the years, it’s the mileage");
+	straps.push("Be excellent to each other");
+	straps.push("Alsø wik");
+	straps.push("Alsø alsø wik");
+	straps.push("I know where Bruce Lee lives");
+	straps.push("It’s all relative");
+	straps.push("JEM777LNG #407");
+	straps.push("Never put a sock in a toaster");
+	straps.push("Never put jam on a magnet");
+	straps.push("Thou shalt not question Stephen Fry");
+	straps.push("Cough drop and roll");
+	straps.push("R Tape loading error, 0:1");
 
-	if (month === 5) { // it's june
-		straps.push('HAPPY PRIDE');
-		straps.push('He/Him for now at least');
+	if (month === 5) {
+		// it's june
+		straps.push("HAPPY PRIDE");
+		straps.push("He/Him for now at least");
 	}
 
 	const rStrap = straps[Math.floor(Math.random() * straps.length)];
@@ -165,15 +173,15 @@ const getStrapline = () => {
 };
 
 const initStrapline = () => {
-	const strapSelector = document.querySelector('.site-description');
-	const isHomepage = document.body.classList.contains('home-template');
+	const strapSelector = document.querySelector(".site-description");
+	const isHomepage = document.body.classList.contains("home-template");
 
 	if (strapSelector && isHomepage) {
 		strapSelector.innerHTML = getStrapline();
 	}
 };
 
-window.addEventListener('load', initStrapline);
+window.addEventListener("load", initStrapline);
 
 const fitVids = () => {
 	const frames = document.querySelectorAll('iframe[src*="youtube.com"]');
@@ -186,15 +194,18 @@ const fitVids = () => {
 		const frameHeight = frame.height;
 		let vidCaption;
 
-		if (frame.nextElementSibling && frame.nextElementSibling.tagName.toLowerCase() === 'figcaption') {
+		if (
+			frame.nextElementSibling &&
+			frame.nextElementSibling.tagName.toLowerCase() === "figcaption"
+		) {
 			vidCaption = frame.nextElementSibling;
 		}
 
-		const vidFigure = document.createElement('figure');
-		vidFigure.classList.add('kg-card');
-		vidFigure.classList.add('kg-embed-card');
-		const vidDiv = document.createElement('div');
-		vidDiv.classList.add('fluid-width-video-wrapper');
+		const vidFigure = document.createElement("figure");
+		vidFigure.classList.add("kg-card");
+		vidFigure.classList.add("kg-embed-card");
+		const vidDiv = document.createElement("div");
+		vidDiv.classList.add("fluid-width-video-wrapper");
 		vidDiv.style.paddingTop = `${(frameHeight / frameWidth) * 100}%`;
 		vidFigure.append(vidDiv);
 		frameParent.insertBefore(vidFigure, frame);
@@ -202,19 +213,19 @@ const fitVids = () => {
 		if (vidCaption) {
 			vidFigure.append(vidCaption);
 		}
-		frame.setAttribute('name', `fitvid${currentVid}`);
+		frame.setAttribute("name", `fitvid${currentVid}`);
 
 		currentVid++;
 	}
 };
 
-window.addEventListener('load', fitVids);
+window.addEventListener("load", fitVids);
 
 const initImageEffects = () => {
 	console.log(`initImageEffects`);
 
 	// AotY winners
-	const aotyWinners = document.querySelectorAll('.aoty-winner');
+	const aotyWinners = document.querySelectorAll(".aoty-winner");
 	if (aotyWinners.length > 0) {
 		const opt = {
 			threshold: 1,
@@ -234,7 +245,7 @@ const initImageEffects = () => {
 	}
 
 	// AotY mentions
-	const aotyMentions = document.querySelectorAll('.aoty-mention');
+	const aotyMentions = document.querySelectorAll(".aoty-mention");
 	console.log(`aotyMentions.length: ${aotyMentions.length}`);
 	if (aotyMentions.length > 0) {
 		const opt = {
@@ -254,4 +265,4 @@ const initImageEffects = () => {
 	}
 };
 
-window.addEventListener('load', initImageEffects);
+window.addEventListener("load", initImageEffects);
