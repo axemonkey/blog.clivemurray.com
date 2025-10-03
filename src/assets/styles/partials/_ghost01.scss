@@ -15,7 +15,11 @@
 	--darkmode: #1a1c20;
 }
 
-$nav-item-shadow: 0 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000, -1px 0 0 #000;
+$nav-item-shadow:
+	0 1px 0 #000,
+	1px 0 0 #000,
+	0 -1px 0 #000,
+	-1px 0 0 #000;
 
 a,
 abbr,
@@ -305,8 +309,9 @@ html {
 
 body {
 	color: #303a3e;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-family:
+		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+		Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 	font-size: 1.6rem;
 	line-height: 1.6em;
 	font-weight: 400;
@@ -617,7 +622,11 @@ body {
 	font-size: 5rem;
 	line-height: 1em;
 	font-weight: 600;
-	text-shadow: 0 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000, -1px 0 0 #000;
+	text-shadow:
+		0 1px 0 #000,
+		1px 0 0 #000,
+		0 -1px 0 #000,
+		-1px 0 0 #000;
 }
 
 .site-logo {
@@ -632,7 +641,11 @@ body {
 	line-height: 1.4em;
 	font-weight: bold;
 	opacity: 1;
-	text-shadow: 0 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000, -1px 0 0 #000;
+	text-shadow:
+		0 1px 0 #000,
+		1px 0 0 #000,
+		0 -1px 0 #000,
+		-1px 0 0 #000;
 }
 
 .site-home-header {
@@ -1176,7 +1189,9 @@ body {
 	white-space: nowrap;
 	background: var(--darkgrey);
 	border-radius: 3px;
-	box-shadow: 0 12px 26px rgb(39 44 49 / 8%), 1px 3px 8px rgb(39 44 49 / 3%);
+	box-shadow:
+		0 12px 26px rgb(39 44 49 / 8%),
+		1px 3px 8px rgb(39 44 49 / 3%);
 	opacity: 0;
 	transition: all 0.35s cubic-bezier(0.4, 0.01, 0.165, 0.99);
 	transform: translateY(6px);
@@ -1488,7 +1503,8 @@ body {
 	color: var(--darkgrey);
 	text-decoration: none;
 	word-break: break-word;
-	box-shadow: inset 0 -1px 0 rgba(100, 100, 100, 1),
+	box-shadow:
+		inset 0 -1px 0 rgba(100, 100, 100, 1),
 		0 1px 0 rgba(100, 100, 100, 1);
 	transition: all 0.2s ease-in-out;
 }
@@ -1496,7 +1512,8 @@ body {
 .post-full-content a:hover {
 	color: #fff;
 	text-decoration: none;
-	box-shadow: inset 0 -30px 0 rgba(100, 100, 100, 1),
+	box-shadow:
+		inset 0 -30px 0 rgba(100, 100, 100, 1),
 		0 1px 0 rgba(100, 100, 100, 1);
 }
 
@@ -1658,8 +1675,9 @@ body {
 .post-full-content h5,
 .post-full-content h6 {
 	color: #0a0b0c;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-family:
+		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+		Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 .post-full-content h1 {
@@ -1844,21 +1862,20 @@ body {
 	width: auto;
 	border-spacing: 0;
 	border-collapse: collapse;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-family:
+		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+		Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 	font-size: 1.6rem;
 	white-space: nowrap;
 	vertical-align: top;
 	-webkit-overflow-scrolling: touch;
-	background: radial-gradient(
-				ellipse at left,
-				rgb(0 0 0 / 20%) 0,
-				transparent 75%
-			)
-			0,
+	background:
+		radial-gradient(ellipse at left, rgb(0 0 0 / 20%) 0, transparent 75%) 0,
 		radial-gradient(ellipse at right, rgb(0 0 0 / 20%) 0, transparent 75%) 100%;
 	background-attachment: scroll, scroll;
-	background-size: 10px 100%, 10px 100%;
+	background-size:
+		10px 100%,
+		10px 100%;
 	background-repeat: no-repeat;
 }
 
@@ -1964,7 +1981,9 @@ body {
 	line-height: 1.5em;
 	background: #fff;
 	border-radius: 3px;
-	box-shadow: 0 12px 26px rgb(39 44 49 / 8%), 1px 3px 8px rgb(39 44 49 / 6%);
+	box-shadow:
+		0 12px 26px rgb(39 44 49 / 8%),
+		1px 3px 8px rgb(39 44 49 / 6%);
 	opacity: 0;
 	transition: all 0.35s cubic-bezier(0.4, 0.01, 0.165, 0.99);
 	transform: scale(0.98) translateY(15px);
@@ -2470,8 +2489,9 @@ body {
 .post-full-content figcaption {
 	margin: 1em auto 0;
 	color: #5c7078;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-family:
+		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+		Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 	font-size: 75%;
 	line-height: 1.5em;
 	text-align: center;
@@ -2552,8 +2572,9 @@ body {
 .post-full-content .kg-bookmark-container {
 	display: flex;
 	min-height: 148px;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-family:
+		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+		Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 	border-radius: 3px;
 }
 
@@ -2561,7 +2582,9 @@ body {
 .post-full-content .kg-bookmark-container:hover {
 	color: var(--darkgrey);
 	text-decoration: none;
-	box-shadow: 0 2px 5px -1px rgb(0 0 0 / 15%), 0 0 1px rgb(0 0 0 / 9%);
+	box-shadow:
+		0 2px 5px -1px rgb(0 0 0 / 15%),
+		0 0 1px rgb(0 0 0 / 9%);
 }
 
 .kg-bookmark-content {
