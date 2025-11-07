@@ -1,3 +1,5 @@
+"use strict";
+
 import {
 	confettiSetti,
 	// render,
@@ -58,7 +60,6 @@ const initHomepageNav = function () {
 	function getDocumentHeight() {
 		var cs = getComputedStyle(document.querySelector("body"));
 		var csh = cs.height;
-		console.log(csh);
 		return csh;
 	}
 
@@ -222,8 +223,6 @@ const fitVids = () => {
 window.addEventListener("load", fitVids);
 
 const initImageEffects = () => {
-	console.log(`initImageEffects`);
-
 	// AotY winners
 	const aotyWinners = document.querySelectorAll(".aoty-winner");
 	if (aotyWinners.length > 0) {
@@ -231,7 +230,7 @@ const initImageEffects = () => {
 			threshold: 1,
 		};
 		aotyWinners.forEach((winnerNode, index) => {
-			console.log(`winner found, init confetti canvas ${index}`);
+			// console.log(`winner found, init confetti canvas ${index}`);
 			confettiSetti(index);
 			const callback = (entries, observer) => {
 				if (entries[0].isIntersecting) {
@@ -246,7 +245,7 @@ const initImageEffects = () => {
 
 	// AotY mentions
 	const aotyMentions = document.querySelectorAll(".aoty-mention");
-	console.log(`aotyMentions.length: ${aotyMentions.length}`);
+	// console.log(`aotyMentions.length: ${aotyMentions.length}`);
 	if (aotyMentions.length > 0) {
 		const opt = {
 			threshold: 1,
