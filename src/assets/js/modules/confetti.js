@@ -18,12 +18,12 @@ cc.canvases = [];
 
 // colors, back side is darker for confetti flipping
 const colors = [
-	{ front: "#7b5cff", back: "#6245e0" }, // Purple
-	{ front: "#b3c7ff", back: "#8fa5e5" }, // Light Blue
-	{ front: "#5c86ff", back: "#345dd1" }, // Darker Blue
-	{ front: "#aa0000", back: "#330000" }, // Red
-	{ front: "#dddd00", back: "#666600" }, // Yellow
-	{ front: "#ffffff", back: "#cccccc" }, // White
+	{ front: '#7b5cff', back: '#6245e0' }, // Purple
+	{ front: '#b3c7ff', back: '#8fa5e5' }, // Light Blue
+	{ front: '#5c86ff', back: '#345dd1' }, // Darker Blue
+	{ front: '#aa0000', back: '#330000' }, // Red
+	{ front: '#dddd00', back: '#666600' }, // Yellow
+	{ front: '#ffffff', back: '#cccccc' }, // White
 ];
 
 // helper function to pick a random number within a range
@@ -209,7 +209,7 @@ const render = (canvasIndex) => {
 			render(canvasIndex);
 		});
 	} else {
-		console.log("it is done");
+		console.log('it is done');
 		tearDown(canvasIndex);
 	}
 };
@@ -229,13 +229,13 @@ const confettiSetti = (index) => {
 	// init other global elements
 	cc.disabled = false;
 
-	const canvasElement = document.createElement("canvas");
+	const canvasElement = document.createElement('canvas');
 	canvasElement.id = `canvas${index}`;
-	canvasElement.classList.add("confettiCanvas");
+	canvasElement.classList.add('confettiCanvas');
 	document.body.append(canvasElement);
 
 	const thisCanvas = document.querySelector(`#canvas${index}`);
-	const thisContext = thisCanvas.getContext("2d");
+	const thisContext = thisCanvas.getContext('2d');
 	thisCanvas.width = window.innerWidth;
 	thisCanvas.height = window.innerHeight;
 
