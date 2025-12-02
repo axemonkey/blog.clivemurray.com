@@ -10,6 +10,24 @@ body,
 .post-full-content figcaption,
 .post-full-content .kg-bookmark-container {
 	font-family: $headingFont, sans-serif;
+	text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: normal;
+}
+
+h1,
+h2 {
+	&::first-letter {
+		text-transform: lowercase;
+		font-size: 150%;
+	}
 }
 
 #ghost-portal-root {
@@ -46,6 +64,7 @@ body,
 .post-card-excerpt,
 .subscribe-overlay-description {
 	font-family: $bodyCopyFont, Georgia, serif;
+	text-transform: none;
 }
 
 section.support {

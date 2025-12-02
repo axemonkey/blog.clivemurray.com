@@ -20,7 +20,7 @@ I also make little web tools and toys. Feel free to have a play with:
 * [Cubist – a speedcubing timer](https://cubi.st/) (not quite finished)
 * [Print a month](https://calendar.clivemurray.com/) (not finished)
 
-This blog used to live on a [Raspberry Pi](http://www.raspberrypi.org/) in my house, and used to be powered by [Ghost](https://ghost.org/). Since June 2023 however, this site now lives on [Github Pages](https://pages.github.com/) and is powered by the mighty [Eleventy](https://www.11ty.dev/). Hurrah! It also used to live at **[insince.re](https://insince.re)**, but [because of Brexit, it now doesn’t](/moving-house). Booo!
+This blog used to live on a [Raspberry Pi](http://www.raspberrypi.org/) in my house, and used to be powered by [Ghost](https://ghost.org/). Since June 2023 however, this site now lives on [Github Pages](https://pages.github.com/) and is powered by the mighty [Eleventy](https://www.11ty.dev/). Hurrah! It also used to live at [insince.re](https://insince.re), but [because of Brexit, it now doesn’t](/moving-house). Booo!
 
 You can email me on [hi@clivemurray.com](mailto:hi@clivemurray.com) if the desire so takes you.
 

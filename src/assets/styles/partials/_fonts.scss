@@ -30,35 +30,6 @@
 	font-style: italic;
 }
 
-// Spectral
-@font-face {
-	font-family: "Spectral";
-	src: url("/public/fonts/Spectral-Regular.woff2") format("woff2");
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: "Spectral";
-	src: url("/public/fonts/Spectral-Bold.woff2") format("woff2");
-	font-weight: bold;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: "Spectral";
-	src: url("/public/fonts/Spectral-Italic.woff2") format("woff2");
-	font-weight: normal;
-	font-style: italic;
-}
-
-@font-face {
-	font-family: "Spectral";
-	src: url("/public/fonts/Spectral-BoldItalic.woff2") format("woff2");
-	font-weight: bold;
-	font-style: italic;
-}
-
 // Inclusive Sans
 @font-face {
 	font-family: "InclusiveSans";
@@ -74,4 +45,12 @@
 		format("woff2");
 	font-weight: normal bold;
 	font-style: italic;
+}
+
+// Black-Charms
+@font-face {
+	font-family: "Black-Charms";
+	src: url("/public/fonts/Black-Charms.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
 }

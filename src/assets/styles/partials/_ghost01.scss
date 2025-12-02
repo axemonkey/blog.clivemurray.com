@@ -16,10 +16,10 @@
 }
 
 $nav-item-shadow:
-	0 1px 0 #000,
-	1px 0 0 #000,
-	0 -1px 0 #000,
-	-1px 0 0 #000;
+	0 1px 8px rgba(0 0 0 / 50%),
+	1px 0 8px rgba(0 0 0 / 50%),
+	0 -1px 8px rgba(0 0 0 / 50%),
+	-1px 0 8px rgba(0 0 0 / 50%);
 
 a,
 abbr,
@@ -570,7 +570,7 @@ body {
 
 .site-header-background {
 	position: relative;
-	margin-top: 64px;
+	// margin-top: 64px;
 	padding-bottom: 12px;
 	color: #fff;
 	background: #0a0b0c no-repeat 50%;
@@ -621,12 +621,12 @@ body {
 	padding: 0;
 	font-size: 5rem;
 	line-height: 1em;
-	font-weight: 600;
+	// font-weight: 600;
 	text-shadow:
-		0 1px 0 #000,
-		1px 0 0 #000,
-		0 -1px 0 #000,
-		-1px 0 0 #000;
+		0 1px 8px rgba(0 0 0 / 50%),
+		1px 0 8px rgba(0 0 0 / 50%),
+		0 -1px 8px rgba(0 0 0 / 50%),
+		-1px 0 8px rgba(0 0 0 / 50%);
 }
 
 .site-logo {
@@ -639,13 +639,13 @@ body {
 	padding: 5px 0;
 	font-size: 2.5rem;
 	line-height: 1.4em;
-	font-weight: bold;
+	// font-weight: bold;
 	opacity: 1;
 	text-shadow:
-		0 1px 0 #000,
-		1px 0 0 #000,
-		0 -1px 0 #000,
-		-1px 0 0 #000;
+		0 1px 8px rgba(0 0 0 / 50%),
+		1px 0 8px rgba(0 0 0 / 50%),
+		0 -1px 8px rgba(0 0 0 / 50%),
+		-1px 0 8px rgba(0 0 0 / 50%);
 }
 
 .site-home-header {
@@ -794,10 +794,10 @@ body {
 	padding: 12px 0;
 	color: #fff;
 	font-size: 1.7rem;
-	line-height: 1.8rem;
-	font-weight: 700;
+	// line-height: 1.8rem;
+	// font-weight: 700;
 	letter-spacing: -0.5px;
-	text-transform: none;
+	// text-transform: none;
 }
 
 .site-nav-logo:hover {
@@ -833,7 +833,7 @@ body {
 	display: block;
 	margin: 0;
 	padding: 0;
-	font-weight: bold;
+	// font-weight: bold;
 	font-size: 1.6rem;
 	text-shadow: $nav-item-shadow;
 }
@@ -1099,7 +1099,7 @@ body {
 .post-card-primary-tag {
 	margin: 0 0 0.2em;
 	color: var(--blue);
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	font-weight: 500;
 	letter-spacing: 0.2px;
 	text-transform: uppercase;
@@ -1214,7 +1214,7 @@ body {
 	flex-direction: column;
 	margin: 2px 0 0 6px;
 	color: #90a2aa;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	line-height: 1.4em;
 	font-weight: 400;
 	letter-spacing: 0.2px;
@@ -1227,11 +1227,11 @@ body {
 
 .post-card-byline-content a {
 	color: #434952;
-	font-weight: 600;
+	// font-weight: 600;
 }
 
 .post-card-byline-date {
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 }
 
 .post-card-byline-date .bull {
@@ -1357,15 +1357,15 @@ body {
 	justify-content: flex-start;
 	align-items: center;
 	color: var(--midgrey);
-	font-size: 1.3rem;
+	font-size: 1.4rem;
 	line-height: 1.4em;
-	font-weight: 600;
+	font-weight: 400;
 	text-transform: uppercase;
 }
 
 .post-full-meta-date {
 	color: var(--midgrey);
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 	font-weight: 400;
 }
 @media (width <= 1170px) {
@@ -1507,6 +1507,8 @@ body {
 		inset 0 -1px 0 rgba(100, 100, 100, 1),
 		0 1px 0 rgba(100, 100, 100, 1);
 	transition: all 0.2s ease-in-out;
+	font-family: $headingFont;
+	text-transform: uppercase;
 }
 
 .post-full-content a:hover {
@@ -1701,7 +1703,7 @@ body {
 	margin: 0.5em 0 0.4em;
 	font-size: 3.2rem;
 	line-height: 1.25em;
-	font-weight: 600;
+	// font-weight: 600;
 }
 
 .post-full-content p + h2 {
@@ -1719,7 +1721,7 @@ body {
 	margin: 0.5em 0 0.2em;
 	font-size: 2.5rem;
 	line-height: 1.75em;
-	font-weight: 600;
+	// font-weight: 600;
 }
 
 .post-full-content h2 + h3 {
@@ -1736,7 +1738,7 @@ body {
 .post-full-content h4 {
 	margin: 0.5em 0 0.2em;
 	font-size: 2.5rem;
-	font-weight: 600;
+	// font-weight: 600;
 }
 
 .post-full-content h2 + h4 {
@@ -1784,7 +1786,7 @@ body {
 .post-full-content h6 {
 	margin: 0.5em 0 0.2em;
 	font-size: 2rem;
-	font-weight: 700;
+	// font-weight: 700;
 }
 @media (width <= 800px) {
 	.post-full-content h6 {
