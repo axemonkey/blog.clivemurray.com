@@ -1106,7 +1106,7 @@ body {
 }
 
 .post-card-title {
-	margin: 0 0 0.4em;
+	margin: -0.5em 0 0.4em;
 	line-height: 1.15em;
 	transition: color 0.2s ease-in-out;
 }
@@ -1386,7 +1386,7 @@ body {
 }
 
 .post-full-title {
-	margin: 0 0 0.2em;
+	margin: 0.5em 0 0.2em;
 	color: #0a0b0c;
 }
 
@@ -1793,6 +1793,11 @@ body {
 		font-size: 1.8rem;
 		line-height: 1.4em;
 	}
+}
+
+.footnote-ref {
+	padding-inline: 3px;
+	font-size: 90%;
 }
 
 .footnotes-sep {

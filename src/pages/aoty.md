@@ -17,6 +17,23 @@ Enjoy.
 
 ---
 
+- [2024 (tie)](/clives-album-of-the-year-2024)
+	- **Winners**
+		- [The Cure – Songs of a Lost World](/clives-album-of-the-year-2024/#the-cure---songs-of-a-lost-world)
+		- [Linkin Park – From Zero](/clives-album-of-the-year-2024/#linkin-park---from-zero)
+	- **Honourable mentions**
+		- [Alien Ant Farm – Mantras](/clives-album-of-the-year-2024/#alien-ant-farm---mantras)
+		- [Billie Eilish – Hit Me Hard and Soft](/clives-album-of-the-year-2024/#billie-eilish---hit-me-hard-and-soft)
+		- [Elbow – Audio Vertigo](/clives-album-of-the-year-2024/#elbow---audio-vertigo)
+		- [Green Day – Saviors](/clives-album-of-the-year-2024/#green-day---saviors)
+		- [Gun – Hombres](/clives-album-of-the-year-2024/#gun---hombres)
+		- [London Grammar – The Greatest Love](/clives-album-of-the-year-2024/#london-grammar---the-greatest-love)
+		- [The Offspring – Supercharged](/clives-album-of-the-year-2024/#the-offspring---supercharged)
+		- [Max Richter – In a Landscape](/clives-album-of-the-year-2024/#max-richter---in-a-landscape)
+		- [Devin Townsend – PowerNerd](/clives-album-of-the-year-2024/#devin-townsend---powernerd)
+		- [Underworld – Strawberry Hotel](/clives-album-of-the-year-2024/#underworld---strawberry-hotel)
+	- **Turkey of the year**
+		- [Blood Stain Child – Cyberia](/clives-album-of-the-year-2024/#blood-stain-child---cyberia)
 - [2023](/clives-album-of-the-year-2023)
 	- **Winner**
 		- [Sleep Token – Take Me Back to Eden](/clives-album-of-the-year-2023/#sleep-token---take-me-back-to-eden)
@@ -141,7 +158,7 @@ Enjoy.
 		- [Dream Theater – The Astonishing](/clives-album-of-the-year-2016#dream-theater---the-astonishing)
 - [2015](/clives-album-of-the-year-2015)
 	- **Winner**
-		- [Coheed and Cambria – The Color Before the Sun](/clives-album-of-the-year-2015#)
+		- [Coheed and Cambria – The Color Before the Sun](/clives-album-of-the-year-2015#coheed-and-cambria---the-color-before-the-sun)
 	- **Honourable mentions**
 		- [Furyon – Lost Salvation](/clives-album-of-the-year-2015#furyon---lost-salvation)
 		- [Lonely Robot – Please Come Home](/clives-album-of-the-year-2015#lonely-robot---please-come-home)

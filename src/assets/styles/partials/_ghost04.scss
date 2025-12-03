@@ -23,10 +23,17 @@ h6 {
 }
 
 h1,
-h2 {
+h2,
+h3 {
 	&::first-letter {
 		text-transform: lowercase;
-		font-size: 150%;
+		// font-size: 150%;
+		font-style: italic;
+		font-size: 200%;
+		line-height: 60px;
+		padding-top: 4px;
+		padding-right: 4px;
+		// padding-left: 3px;
 	}
 }
 
