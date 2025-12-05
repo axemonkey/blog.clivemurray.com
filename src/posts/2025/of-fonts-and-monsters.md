@@ -22,7 +22,7 @@ Anyway, the manager of the shop was a printer and typesetter called Ben from who
 
 Anyway, life continued, and even up to a couple of months ago I was still breaking out Perpetua for headings on websites and YouTube thumbnails, because it looks great. One day something made me read the Wikipedia entry on the creator of these typefaces, Eric Gill. If you are of a sensitive disposition you may not want to go and read that yourself – I shall just tell you that he apparently got up to some pretty abhorrent things[^badshit].
 
-I never liked Lostprophets in the first place, so when the atrocities of Ian Watkins came to light, my music collection was safe. When the awfulness perpetrated by the likes of Rolf Harris and Jimmy Savile and the like bubbled continuously to the surface during the 2010s, I shook my head and was appalled of course, but it wasn’t like I had to go home and throw away my huge collection of “Jim’ll Fix It” DVDs or anything. I never really listened to that much Michael Jackson, so deleting a couple of albums hardly stang at all.
+I never liked Lostprophets in the first place, so when the atrocities of Ian Watkins came to light, my music collection was safe. When the awfulness perpetrated by the likes of Rolf Harris and Jimmy Savile (and so many others) bubbled continuously to the surface during the 2010s, I shook my head and was appalled of course, but it wasn’t like I had to go home and throw away my huge collection of “Jim’ll Fix It” DVDs or anything. I never really listened to that much Michael Jackson, so deleting a couple of albums hardly stang at all.
 
 But I couldn’t go on shoving Perpetua into everything without feeling a very considerable **ick**, so it had to go.
 
