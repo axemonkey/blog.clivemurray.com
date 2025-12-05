@@ -5,8 +5,9 @@ date_published: 2014-05-10T21:40:05.000Z
 date: 2014-05-10T21:40:05.000Z
 date_updated: 2021-08-26T15:27:50.000Z
 tags: ['post', 'Music']
-excerpt: I grew up normally for an only child, the regular average upbringing of a semi-affluent family in Southern England, and some time in my mid-teens I decided I’d like to learn to play guitar. 
-ghost_header_image: Wasteland2.jpg
+excerpt: I grew up normally for an only child, the regular average upbringing of a semi-affluent family in Southern England, and some time in my mid-teens I decided I’d like to learn to play guitar.
+unsplash_post_image: photo-1431440869543-efaf3388c585
+header_image_caption: Photo by <a href="https://unsplash.com/@brenomachado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Breno Machado</a> on <a href="https://unsplash.com/photos/photography-of-lightning-storm-in9-n0JwgZ0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 I was born in 1974.

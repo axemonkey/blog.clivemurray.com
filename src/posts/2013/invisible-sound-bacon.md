@@ -7,6 +7,7 @@ date_updated: 2014-03-17T17:42:37.000Z
 tags: ['post', 'Funny']
 excerpt: My good friend Nick Beatty, known on the Twitters as @bumlaser, has a unique way with words.
 unsplash_post_image: photo-1630710979324-43f131046559
+header_image_caption: Photo by <a href="https://unsplash.com/@dear_jondog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Daniels</a> on <a href="https://unsplash.com/photos/brown-and-black-chocolate-cake-PIqZTaKJ1Bs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 My good friend Nick Beatty, known on the Twitters as [@bumlaser](http://www.twitter.com/bumlaser), has a unique way with words.

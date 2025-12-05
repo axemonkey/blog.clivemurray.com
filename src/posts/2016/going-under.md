@@ -7,6 +7,7 @@ date_updated: 2017-08-03T13:42:45.000Z
 tags: ['post', 'This Site']
 excerpt: This blog will be going offline for a little while shortly, as I'm moving house.
 unsplash_post_image: photo-1615309662472-4ca77a77a189
+header_image_caption: Photo by <a href="https://unsplash.com/@sigmund?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sigmund</a> on <a href="https://unsplash.com/photos/black-and-silver-computer-ram-stick-EJe6LqEjHpA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 This blog will be going offline for a little while shortly, as I'm moving house.

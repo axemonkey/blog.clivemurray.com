@@ -7,6 +7,7 @@ date_updated: 2020-05-12T09:12:10.000Z
 excerpt: The hardest part of starting a new band has always been coming up with a cool name.
 tags: ['post', 'Misc']
 ghost_header_image: bandnames.jpg
+header_image_caption: Many heavy metal band logos
 ---
 
 The hardest part of starting a new band has always been coming up with a cool name. Nowadays it's even harder since you need to come up with a name that has an available .com domain. If you have to add "online" or "rocks" to the end of your band's name to get the domain, you haven't put enough work into it.

@@ -7,6 +7,7 @@ date_updated: 2014-06-16T22:56:35.000Z
 tags: ['post', 'Cats']
 excerpt: "People seem to divide reasonably neatly into two groups: cat people and dog people. People who say \"But I like both!\" - you're probably dog people."
 unsplash_post_image: photo-1623387641168-d9803ddd3f35
+header_image_caption: Photo by <a href="https://unsplash.com/@sita2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrew S</a> on <a href="https://unsplash.com/photos/a-dog-and-a-cat-laying-in-the-grass-ouo1hbizWwo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 People seem to divide reasonably neatly into two groups: cat people and dog people. People who say "But I like both!" - you're probably dog people. People who like both (in my experience) *tend* to be more devoted to their dogs while the cats are just kind of around the place. Whereas people who are only cat people often have either a basic mistrust of dogs (and dog people) or just don't have the time to traipse after a drooling needy idiot, picking up their faeces. (Yes, there are exceptions. Yes, I'm sure you love your cat as much as your dog. Sure, fine, OK, it's a generalisation. Sue me. Can we move on?)

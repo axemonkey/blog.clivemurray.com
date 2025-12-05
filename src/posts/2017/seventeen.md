@@ -7,6 +7,7 @@ date_updated: 2017-08-03T13:43:02.000Z
 tags: ['post', 'This Site']
 excerpt: I've moved house and though the boxes still fill most corners of the new place, there is at least internet and I finally got the Raspberry Pi that houses this thing a wi-fi adapter and got it back on the internet.
 unsplash_post_image: photo-1482932542078-12df7104cc78
+header_image_caption: Photo by <a href="https://unsplash.com/@brigittetohm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brigitte Tohm</a> on <a href="https://unsplash.com/photos/2017-firecracker-light-SD2FxgKDAGk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 And so, the blog is back. I've moved house and though the boxes still fill most corners of the new place, there is at least internet and I finally got the Raspberry Pi that houses this thing a wi-fi adapter and got it back on the internet.
