@@ -26,7 +26,7 @@ I never liked Lostprophets in the first place, so when the atrocities of Ian Wat
 
 But I couldn’t go on shoving Perpetua into everything without feeling a very considerable **ick**, so it had to go.
 
-I redid my YouTube thumbnails using [OFL Sorts Mill Goudy](https://fonts.adobe.com/fonts/ofl-sorts-mill-goudy) a little while ago, and this week I have been through my whole web presence making sure I only use fonts that are open source or free to use.
+I redid my YouTube thumbnails using [OFL Sorts Mill Goudy](https://fonts.adobe.com/fonts/ofl-sorts-mill-goudy) a little while ago, and this week I have been through my whole web presence making sure I only use fonts that are open source or free to use, and have no connection with the bastard Gill.
 
 There’ll be a more in-depth post coming up on this soon, but in the meantime why not check out:
 
