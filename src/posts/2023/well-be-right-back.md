@@ -7,6 +7,7 @@ date_updated: 2023-03-15T10:33:21.000Z
 tags: ['post', 'Your Illustrious Host', 'This Site']
 excerpt: This blog may disappear for a while.
 unsplash_post_image: photo-1636193535246-a07cd0aa6fcb
+header_image_caption: Photo by <a href="https://unsplash.com/@bearsnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Junseong Lee</a> on <a href="https://unsplash.com/photos/a-sign-that-says-see-you-later-hanging-from-a-door-v_WLk_vNYRA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 This blog may disappear for a while.

@@ -7,6 +7,7 @@ date_updated: 2021-08-26T13:53:16.000Z
 tags: ['post', 'Your Illustrious Host', 'COVID-19']
 excerpt: Maybe you heard something about a virus...?
 unsplash_post_image: photo-1449158743715-0a90ebb6d2d8
+header_image_caption: Photo by <a href="https://unsplash.com/@olivier_twwli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olivier Guillard</a> on <a href="https://unsplash.com/photos/photo-of-brown-wooden-cabin-in-forest-during-daytime-FKJgBUDoVC0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Maybe you heard something about a virus...?

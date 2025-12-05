@@ -6,7 +6,8 @@ date: 2018-06-08T13:06:59.000Z
 date_updated: 2019-04-09T09:18:34.000Z
 tags: ['post', 'Your Illustrious Host']
 excerpt: Many years ago, I came up with an excellent name for a cocktail – the "Gin Diesel".
-unsplash_post_image: photo-1504675099198-7023dd85f5a3
+unsplash_post_image: photo-1514362545857-3bc16c4c7d1b
+header_image_caption: The Gin Diesel not pictured. Photo by <a href="https://unsplash.com/@badashproducts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ash Edmonds</a> on <a href="https://unsplash.com/photos/clear-glass-tumbler-on-brown-wooden-tray-fsI-_MRsic0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Many years ago, I came up with an excellent name for a cocktail – the "Gin Diesel". However it was at least a full year before I could properly nail down the recipe.

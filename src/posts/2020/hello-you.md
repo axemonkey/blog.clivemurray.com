@@ -7,6 +7,7 @@ date_updated: 2021-03-23T15:56:59.000Z
 tags: ['post', 'Your Illustrious Host', 'Thinks']
 excerpt: It's self-isolation day 113 here at Murray Mansions, and everything is wearing thin.
 unsplash_post_image: photo-1462795532207-33cabf8c8175
+header_image_caption: Photo by <a href="https://unsplash.com/@goian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ian Schneider</a> on <a href="https://unsplash.com/photos/hello-beautiful-printed-brown-concrete-wall-with-near-white-wooden-house-jbroe3pOt8M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Well, yes. I know. I only call you when I need something or when I feel bad. Which is it today? I don't know.
@@ -29,4 +30,4 @@ I have applied the jumper cables to the project folder on my mac labelled "secon
 
 Oh, and in a surprise move, I appear to be having a short course of guitar lessons starting on Friday with a splendid chap called [Jay](http://www.jayparmar.com/) who lives in Brighton. He's my mate's teacher, and my mate is having three weeks off, so I'm taking his lessons for that period. No idea what I want to do with these, but it will be interesting I am sure.
 
-I hope you're OK. 
+I hope you're OK.

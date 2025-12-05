@@ -7,6 +7,7 @@ date_updated: 2021-08-26T13:48:28.000Z
 tags: ['post', 'Your Illustrious Host', 'Thinks', 'Anxiety']
 excerpt: I’m having a bad day today. I guess we all are.
 unsplash_post_image: photo-1441804238730-210ce1c2cc00
+header_image_caption: Photo by <a href="https://unsplash.com/@jilburr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jilbert Ebrahimi</a> on <a href="https://unsplash.com/photos/macrophotography-of-cracked-glass-screen-pVEcNabAg9o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 I’m having a bad day today.

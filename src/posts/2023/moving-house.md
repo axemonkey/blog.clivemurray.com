@@ -7,6 +7,7 @@ date_updated: 2023-06-01T12:00:00.000Z
 tags: ['post', 'Your Illustrious Host', 'This Site']
 excerpt: As you may or may not know, domain ownership is a mixed bag of weasels.
 unsplash_post_image: photo-1600725935160-f67ee4f6084a
+header_image_caption: Photo by <a href="https://unsplash.com/@mikbutcher?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michal Balog</a> on <a href="https://unsplash.com/photos/brown-cardboard-boxes-on-brown-wooden-table-66NaCdBrkCs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 Well, this is annoying.
 

@@ -6,7 +6,8 @@ date: 2018-08-21T10:29:06.000Z
 date_updated: 2021-08-26T14:06:27.000Z
 tags: ['post', 'Misc', 'Funny']
 excerpt: "Don’t start on them. You know they’ve been short staffed since that thing with Kenny."
-unsplash_post_image: photo-1449157291145-7efd050a4d0e
+unsplash_post_image: photo-1486406146926-c627a92ad1ab
+header_image_caption: Photo by <a href="https://unsplash.com/@seanpollock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sean Pollock</a> on <a href="https://unsplash.com/photos/low-angle-photo-of-city-high-rise-buildings-during-daytime-PhYq704ffdA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 A:

@@ -7,6 +7,7 @@ date_updated: 2021-08-26T15:20:13.000Z
 excerpt: "One minute, got to pay for my shopping, I'll ring you back"
 tags: ['post', 'Thinks']
 unsplash_post_image: photo-1572016047668-5b5e909e1605
+header_image_caption: Photo by <a href="https://unsplash.com/@jonasleupe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonas Leupe</a> on <a href="https://unsplash.com/photos/man-in-black-crew-neck-top-using-smartphone-8pCtwj37VB4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Right, stop what you're doing and listen closely.

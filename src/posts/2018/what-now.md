@@ -7,6 +7,7 @@ date_updated: 2019-04-08T10:12:38.000Z
 tags: ['post', 'Albums of the Years', 'Music']
 excerpt: So yeah, observant listeners may have realised that I have now completed my task of picking an Album of the Year (plus runners-up where applicable) for every year from 2017 right back to the year of my birth, 1974.
 unsplash_post_image: photo-1588665343610-04dfd562e2e7
+header_image_caption: Photo by <a href="https://unsplash.com/@timmossholder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Mossholder</a> on <a href="https://unsplash.com/photos/text-DZcZ4Kskq6U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 So yeah, observant listeners may have realised that I have now completed my task of picking an Album of the Year (plus runners-up where applicable) for every year from 2017 right back to the year of my birth, 1974.

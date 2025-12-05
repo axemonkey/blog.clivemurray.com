@@ -7,6 +7,7 @@ date_updated: 2020-04-22T10:18:21.000Z
 tags: ['post', 'Your Illustrious Host', 'COVID-19']
 excerpt: It’s self-isolation, day 38 for me.
 unsplash_post_image: photo-1516958913532-21ddd9ab81d6
+header_image_caption: Photo by <a href="https://unsplash.com/@redaquamedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denny Müller</a> on <a href="https://unsplash.com/photos/black-window-frame-on-dim-light-uWYedErgXgU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Hi gang, I’m still here.

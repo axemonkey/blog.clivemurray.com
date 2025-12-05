@@ -7,11 +7,10 @@ date_updated: 2022-05-13T14:44:46.000Z
 tags: ['post', 'A-Z', 'Music', 'Guitar']
 excerpt: ...Al Joseph
 ghost_header_image: al-joseph.jpg
+header_image_caption: Image borrowed from Al’s site at <a hre"https://aljosephmusic.com">aljosephmusic.com</a>
 ---
 
 ## J is for… [Al Joseph](https://www.aljosephmusic.com/)
-
-*Image borrowed from Al’s site at [aljosephmusic.com](https://aljosephmusic.com)*
 
 I first became aware of *Al Joseph* through a couple of YouTube videos and Instagram clips, and then a friend playing me one of his solo albums. Turns out he’s a very active guitar teacher over there in the good old U.S. of States, both privately and through the splendid [JamTrackCentral](https://jtcguitar.com/), and I also just learned that he was born in 1987, which means I have [a guitar which is as old as he is](/guitars/#ibanez-jem777lng-(1987)).
 

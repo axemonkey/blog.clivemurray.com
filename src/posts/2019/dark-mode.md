@@ -7,6 +7,7 @@ date_updated: 2020-02-26T14:17:56.000Z
 tags: ['post', 'Your Illustrious Host', 'This Site', 'Thinks']
 excerpt: "Sometimes I post stuff on here that doesn't sound very happy, or not like I'm in a very good place."
 unsplash_post_image: photo-1531167599833-609a45d3d903
+header_image_caption: Photo by <a href="https://unsplash.com/@carolinachadwick?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carolina Pimenta</a> on <a href="https://unsplash.com/photos/person-taking-photo-of-grey-concrete-stairs-ELO-NmuvFCM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Sometimes I post stuff on here that doesn't sound very happy, or not like I'm in a very good place. And sometimes that is because I am not.

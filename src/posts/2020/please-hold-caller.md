@@ -7,6 +7,7 @@ date_updated: 2020-05-12T09:21:21.000Z
 tags: ['post', 'Thinks', 'Your Illustrious Host', 'Anxiety']
 excerpt: ...your call is important to us. But we are going through a number of things at the moment, and honestly haven't felt capable of blogging for a while.
 unsplash_post_image: photo-1506704810770-7e9bbab1094b
+header_image_caption: Photo by <a href="https://unsplash.com/@kaip?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kai Pilger</a> on <a href="https://unsplash.com/photos/closeup-photo-of-street-go-and-stop-signage-displaying-stop-1k3vsv7iIIc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 ...your call is important to us.

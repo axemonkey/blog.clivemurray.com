@@ -7,6 +7,8 @@ date_updated: 2023-08-30T14:00:00.000Z
 tags: ['post', 'Music', 'Guitar', 'Your Illustrious Host']
 excerpt: I’m working on an album. I might have mentioned it before a couple of times.
 unsplash_post_image: photo-1535406208535-1429839cfd13
+header_image_caption: Photo by <a href="https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adi Goldstein</a> on <a href="https://unsplash.com/photos/close-up-photo-of-audio-mixer-sdtnZ4LgbWk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 ---
 I’m working on [an album](https://loveandpainkillers.com/). I might have [mentioned it before](/kickstarter-update/) a couple of times.
 

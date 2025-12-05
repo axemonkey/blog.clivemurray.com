@@ -7,6 +7,7 @@ date_updated: 2019-03-31T19:00:03.000Z
 tags: ['post', 'Misc', 'Thinks']
 excerpt: RIP Keith Flint
 unsplash_post_image: photo-1533175069760-268143ce2e51
+header_image_caption: Photo by <a href="https://unsplash.com/@natural?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriel</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-man-wearing-black-shirt-E-b_VNmtGJY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 - Keith Flint (2019)

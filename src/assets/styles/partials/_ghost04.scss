@@ -9,7 +9,7 @@ body,
 .post-full-content table,
 .post-full-content figcaption,
 .post-full-content .kg-bookmark-container {
-	font-family: $headingFont, sans-serif;
+	font-family: var(--heading-font);
 	text-transform: uppercase;
 }
 
@@ -70,7 +70,7 @@ h3 {
 .post-full-custom-excerpt,
 .post-card-excerpt,
 .subscribe-overlay-description {
-	font-family: $bodyCopyFont, Georgia, serif;
+	font-family: var(--body-copy-font);
 	text-transform: none;
 }
 

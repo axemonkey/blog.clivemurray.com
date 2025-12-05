@@ -7,6 +7,7 @@ date_updated: 2021-03-23T17:20:31.000Z
 tags: ['post', 'Music', 'Indigo Down', 'Your Illustrious Host', 'Thinks']
 excerpt: Observant listeners could be forgiven for wondering where the hell the Indigo Down lockdown video is that I promised you all last year.
 unsplash_post_image: photo-1484069560501-87d72b0c3669
+header_image_caption: Photo by <a href="https://unsplash.com/@emilymorter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Emily Morter</a> on <a href="https://unsplash.com/photos/question-mark-neon-signage-8xAA0f9yQnE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Observant listeners could be forgiven for wondering where the hell the [Indigo Down](https://indigodown.com/) lockdown video is that I promised you all last year.
