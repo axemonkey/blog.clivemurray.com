@@ -40,3 +40,5 @@ There’ll be a more in-depth post coming up on this soon, but in the meantime w
 [^nineties]: The late 1990s.
 [^letters]: In my second actual web job, in London in 1999, I worked with a designer by the name of Ed. In the first week we discovered that a) we shared the same birthday, and b) we shared the same favourite typeface, Gill Sans. His favourite character in Gill Sans was the uppercase “Q”, and mine was the lowercase “t”. So there you go.
 [^badshit]: The whole trifecta, I’m afraid: paedophilia, incest, and bestiality. Jesus.
+
+*[TL;DR]: Too long, didn’t read

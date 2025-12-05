@@ -28,3 +28,7 @@ Which of course, I then did. Once I’d built it, I figured “Hmmm… I wonder 
 So of course, I built that. It is [The Wheel of Things](https://wot.clivemurray.com/), and you are most welcome to use it. If it doesn’t work for you on your computer/device, or if you have other comments on it, you can drop me a line via [email](mailto:hi@clivemurray.com) or [Mastodon](https://metalhead.club/@axemonkey).
 
 However, I accept **no responsibility** for anything that occurs as a result of you using the Wheel of Things. That is on **you**.
+
+
+
+*[TL;DR]: Too long, didn’t read
