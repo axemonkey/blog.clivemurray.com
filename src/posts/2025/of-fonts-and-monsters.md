@@ -7,7 +7,7 @@ date_updated: 2025-12-05T12:00:00.000Z
 tags: ['post', 'Your Illustrious Host', 'This Site', 'Web Stuff']
 excerpt: Eric Gill was a bastard and I will not use his typefaces any more.
 ghost_header_image: type-cascade.jpg
-header_image_caption: Some pangrams set in OFL Sorts Mill Goudy, then effected in Photoshop
+header_image_caption: Some pangrams set in Sorts Mill Goudy, then effected in Photoshop
 ---
 
 I am going to try not to make this another 3000+ word rant, I swear, but there has to be *some* preamble. If you just want the main takeaway, however...
@@ -26,7 +26,7 @@ I never liked Lostprophets in the first place, so when the atrocities of Ian Wat
 
 But I couldn’t go on shoving Perpetua into everything without feeling a very considerable **ick**, so it had to go.
 
-I redid my YouTube thumbnails using [OFL Sorts Mill Goudy](https://fonts.adobe.com/fonts/ofl-sorts-mill-goudy) a little while ago, and this week I have been through my whole web presence making sure I only use fonts that are open source or free to use, and have no connection with the bastard Gill.
+I redid my YouTube thumbnails using [Sorts Mill Goudy](https://fonts.adobe.com/fonts/ofl-sorts-mill-goudy) a little while ago, and this week I have been through my whole web presence making sure I only use fonts that are open source or free to use, and have no connection with the bastard Gill.
 
 There’ll be a more in-depth post coming up on this soon, but in the meantime why not check out:
 
