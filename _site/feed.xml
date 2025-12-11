@@ -7,6 +7,143 @@
     <description>I play guitar, you know.</description>
     <language>en</language>
     <item>
+      <title>A Good Day to Font Hard</title>
+      <link>https://blog.clivemurray.com/a-good-day-to-font-hard/</link>
+      <description>&lt;p&gt;I have been making stuff on the web for thousands of years, and that is a cast-iron &lt;em&gt;fact&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;abbr title=&quot;Too long, didn’t read&quot;&gt;TL;DR&lt;/abbr&gt;&lt;/strong&gt;: I have a metric truckload of links to free-to-use fonts that you might like to be somewhat aware of very much actually.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;font-hard&quot; tabindex=&quot;-1&quot;&gt;Font Hard&lt;/h2&gt;
+&lt;p&gt;Back in the dark ages, you had literally&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; eight typefaces&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt; to choose from that would work across all&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn3&quot; id=&quot;fnref3&quot;&gt;[3]&lt;/a&gt;&lt;/sup&gt; OSes&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn4&quot; id=&quot;fnref4&quot;&gt;[4]&lt;/a&gt;&lt;/sup&gt; and all&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn5&quot; id=&quot;fnref5&quot;&gt;[5]&lt;/a&gt;&lt;/sup&gt; browsers&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn6&quot; id=&quot;fnref6&quot;&gt;[6]&lt;/a&gt;&lt;/sup&gt;: five sans-serif, two serif, and a monospaced. Why so few? Browsers of the day couldn’t embed font files in the pages you were viewing, and had to look on your computer for the font you had used, and only this select bunch could reliably be semi-guaranteed to be on everyone’s computer. To get around this, generations of designers resorted to putting all their headline and decorative text in images, or even more arcane methods (anyone remember &lt;a href=&quot;https://en.wikipedia.org/wiki/Scalable_Inman_Flash_Replacement&quot;&gt;sIFR&lt;/a&gt;? &lt;em&gt;*shudder*&lt;/em&gt;) to achieve their desired results.&lt;/p&gt;
+&lt;h2 id=&quot;font-hard-2%3A-font-harder&quot; tabindex=&quot;-1&quot;&gt;Font Hard 2: Font Harder&lt;/h2&gt;
+&lt;p&gt;Several&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn7&quot; id=&quot;fnref7&quot;&gt;[7]&lt;/a&gt;&lt;/sup&gt; decades later, CSS and browser advancement brought us embedded fonts ubiquitously supported across the known galaxy, thrusting us bodily into a golden age of web typography. Now you can use literally any typeface you can imagine (and many that you can’t) on literally any web page, literally just by thinking about it! Literally&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn8&quot; id=&quot;fnref8&quot;&gt;[8]&lt;/a&gt;&lt;/sup&gt;! You can spaff a hundred different fonts onto every page you make!&lt;/p&gt;
+&lt;p&gt;But &lt;em&gt;should&lt;/em&gt; you?&lt;/p&gt;
+&lt;h2 id=&quot;font-hard-with-a-vengeance&quot; tabindex=&quot;-1&quot;&gt;Font Hard With a Vengeance&lt;/h2&gt;
+&lt;p&gt;Of course you shouldn’t, for several mind-buggeringly good reasons. Of these, the first two that leap to mind are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It &lt;em&gt;will&lt;/em&gt; look shit&lt;/li&gt;
+&lt;li&gt;Fonts are someone’s copyrighted work, and if you use them without a license that’s software piracy (or “stealing”&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn9&quot; id=&quot;fnref9&quot;&gt;[9]&lt;/a&gt;&lt;/sup&gt;, if you prefer)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;And it is this second reason that brings me back to my beloved soapbox today, ladies and gentlemen and Evil Dave. &lt;a href=&quot;https://blog.clivemurray.com/of-fonts-and-monsters&quot;&gt;I recently posted&lt;/a&gt; about how I was given to remove all traces of the work of Eric Gill from my web presence, and in doing so I went on quite the typographical safari while researching alternatives. I found some absolutely top-drawer fonts that are &lt;strong&gt;free&lt;/strong&gt; for commercial &lt;strong&gt;and&lt;/strong&gt; non-commercial use &lt;strong&gt;and/or&lt;/strong&gt; licensed openly for anyone to use as they see fit, and because I am a kind and benevolent future galactic emperor, I will share these with you now.&lt;/p&gt;
+&lt;h3 id=&quot;que-serif%2C-serif&quot; tabindex=&quot;-1&quot;&gt;Que Serif, Serif&lt;/h3&gt;
+&lt;p&gt;If you wanted serifs on the web, it was either good old Times New Roman or Georgia. I spent years using Georgia because TNR was the boring-ass default that a browser would use if you didn’t specify a font at all – still is&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn10&quot; id=&quot;fnref10&quot;&gt;[10]&lt;/a&gt;&lt;/sup&gt;. This was where I would casually bung in Perpetua and impress the amassed adoring crowds with my typological nous, until I discovered what a bastard Gill was.&lt;/p&gt;
+&lt;p&gt;However, after literally&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn11&quot; id=&quot;fnref11&quot;&gt;[11]&lt;/a&gt;&lt;/sup&gt; years of research, I can now bring to your attention:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vollkorn&lt;/li&gt;
+&lt;li&gt;Cormorant&lt;/li&gt;
+&lt;li&gt;Sorts Mill Goudy&lt;/li&gt;
+&lt;li&gt;Fanwood&lt;/li&gt;
+&lt;li&gt;Linden Hill&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;the-sans-of-time&quot; tabindex=&quot;-1&quot;&gt;The Sans of Time&lt;/h3&gt;
+&lt;p&gt;Pre-renaissance, we had five – FIVE! – sans-serifs to choose from (including Comic Sans and Impact, that is), and a good portion of my formative years were spent laying everything out in teeny tiny 10px Verdana. However, I am happy to say I have since made a full recovery, and now I quiver to bring you these lovely alternatives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Union Gothic&lt;/li&gt;
+&lt;li&gt;Barlow&lt;/li&gt;
+&lt;li&gt;Klima&lt;/li&gt;
+&lt;li&gt;Caviar Dreams&lt;/li&gt;
+&lt;li&gt;Greve&lt;/li&gt;
+&lt;li&gt;Mort&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;sans-macabre&quot; tabindex=&quot;-1&quot;&gt;Sans Macabre&lt;/h3&gt;
+&lt;p&gt;These ones are technically sans-serifs, but they’re a bit different. Come along and let’s have a little look at them now very much in fact.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Atkinson Hyperlegible Next&lt;/li&gt;
+&lt;li&gt;Inclusive Sans&lt;/li&gt;
+&lt;li&gt;Lisnoti&lt;/li&gt;
+&lt;li&gt;Bricolage Grotesque&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;breaking-the-news&quot; tabindex=&quot;-1&quot;&gt;Breaking the News&lt;/h3&gt;
+&lt;p&gt;You could possibly get away with using Arial Black for your headlines back in the day, but it wasn’t usually to be found on Macs. It was safer to just go with Arial or Helvetica bold, or Impact if you didn’t mind condensed. Nowadays with variable fonts like Union Gothic you can just whack up the weight and the width, and hey presto, Robert is very familiar with your mother all of a sudden. But if you want a dedicated chonksome headliner, why not try this absolute unit:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Folsom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In awe at the size of that lad.&lt;/p&gt;
+&lt;h3 id=&quot;i%E2%80%99ll-fix-your-width-in-a-minute&quot; tabindex=&quot;-1&quot;&gt;I’ll Fix &lt;strong&gt;YOUR&lt;/strong&gt; Width in a Minute&lt;/h3&gt;
+&lt;p&gt;I’m a web developer by trade and I spend most of my day in code editors and terminals, usually in a fixed width font. If you wanted to use one on the web back when I started out your choices were Courier&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn12&quot; id=&quot;fnref12&quot;&gt;[12]&lt;/a&gt;&lt;/sup&gt;… that was it. We’ve come a long way since then, and here are some choice alternatives I’ve picked up over the years that will spruce up your code samples and SSH windows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monaspace family&lt;/li&gt;
+&lt;li&gt;Anonymous Pro&lt;/li&gt;
+&lt;li&gt;M1+&lt;/li&gt;
+&lt;li&gt;Comic mono&lt;/li&gt;
+&lt;li&gt;Julia mono&lt;/li&gt;
+&lt;li&gt;Clack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;flip-the-script&quot; tabindex=&quot;-1&quot;&gt;Flip the script&lt;/h3&gt;
+&lt;p&gt;I’ve left Brush Script off my initial list intentionally, because there are some things that in this modern age really should not be. If you really must use cursive, you should probably have a bit of a think about why that is. That said, I &lt;em&gt;am&lt;/em&gt; quite partial to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fair Prosper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;…but in the name of all the saints and sinners, go easy will you? A little goes a &lt;em&gt;very&lt;/em&gt; long way.&lt;/p&gt;
+&lt;h2 id=&quot;type-free-or-font-hard&quot; tabindex=&quot;-1&quot;&gt;Type Free or Font Hard&lt;/h2&gt;
+&lt;p&gt;Let’s just remember why we’re here, n’est-ce pas? Fonts/typefaces are copyright&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn13&quot; id=&quot;fnref13&quot;&gt;[13]&lt;/a&gt;&lt;/sup&gt;, and you need a license to use them. Someone put a lot of work into Din, and Helvetica Neue, and Proxima Nova, and Kora, and Wensley, just like I put a lot of work into writing and making music. It’s easy to forget that you are using a piece of software that someone else toiled over when you’re slapping a title onto a flyer in Photoshop or cooking up a dank meme&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn14&quot; id=&quot;fnref14&quot;&gt;[14]&lt;/a&gt;&lt;/sup&gt; in… whatever the kids use, and scrolling through 1000s of typefaces looking for the one that will pop.&lt;/p&gt;
+&lt;p&gt;Monotype—one of the big boys in the digital typeface playground—have &lt;a href=&quot;https://www.monotype.com/font-licensing-explained-designers-and-brands&quot;&gt;an explainer about it&lt;/a&gt;, and this quote sums up what I’m getting at here:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Fonts are made by the human hand, painstakingly drawn over months or sometimes years, and engineered to perform perfectly. This is what you’re paying for when you license a font: Not just the letters on the screen, but the time and care the designer put into it, often the result of a lifelong dedication to the craft.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sometimes these things are damned expensive, too. A full set of Helvetica Neue licenses will set you back ~£460. This kind of thing is taken care of for you if you work at a design agency (or at least it damned well should be), but for the average Joe with a laptop in a coffee shop mooching on the free wifi, it might be a little prohibitive.&lt;/p&gt;
+&lt;p&gt;So, there are two paths you can go by&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fn15&quot; id=&quot;fnref15&quot;&gt;[15]&lt;/a&gt;&lt;/sup&gt;. You can take the easy route and just use whatever you like, download the trial version of whatever it is and never buy a license, just get on with it, because who’s really going to care? Or even notice? Probably no-one, it’s true. Unless your website suddenly goes viral or your band suddenly gets signed to a mega-deal or whatever, the thing you’re using your pirated fonts for is going to go utterly unnoticed and no-one will care one jot. Not one whit. Not a dickybird. The tree will fall in the forest and no-one will hear. Sure. Great. Well done.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Or&lt;/em&gt;, you can… &lt;em&gt;not&lt;/em&gt; do that.&lt;/p&gt;
+&lt;p&gt;And this is the way I am going now. As I’ve covered earlier in this Ted Talk, there are free open source alternatives that look awesome for just about anything, if you just take a little time to look for them. Or perhaps cheap fonts are worth your time? Some of the fonts I mentioned earlier are around $20 for a commercial license. If the thing you’re doing is making you money, maybe buy a license for the font, and help the designer to be able to make their next one.&lt;/p&gt;
+&lt;p&gt;And, you know. You can feel good about it.&lt;/p&gt;
+&lt;h2 id=&quot;a-good-day-to-font-hard&quot; tabindex=&quot;-1&quot;&gt;A Good Day to Font Hard&lt;/h2&gt;
+&lt;p&gt;This won’t apply to everyone. If you’re an actual graphic designer, then your standards will likely be higher than mine and these cheap/free alternatives might not quite cut it. But then, if it’s your profession, you should pay for the tools you use.&lt;/p&gt;
+&lt;p&gt;But if you’re an amateur knocking stuff up at home, for whatever reason, you can find good typefaces on the web for free that meet your needs. You don’t have to just use whatever is on your computer, and you don’t always have to load up Google Fonts[^googlefonts] and spend an afternoon scrolling through endless lists (lists that contain Lobster and Papyrus, for shit’s sake).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Nobody&lt;/em&gt; needs Lobster or Papyrus.&lt;/p&gt;
+&lt;p&gt;–c.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; Sorry, what was that? You have a question? Why all the &lt;strong&gt;Die Hard&lt;/strong&gt; references? Well, it’s like this, see. When I was trying to come up with a title for this, I typed “Font Harder” and it just spiralled from there. Plus, &lt;a href=&quot;https://news.sky.com/story/is-die-hard-a-christmas-film-the-public-have-spoken-and-you-might-not-like-the-result-13478136&quot;&gt;it’s Christmas&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;P.P.S.&lt;/strong&gt; Those original eight fonts, in case you were wondering:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Arial - sans-serif&lt;/li&gt;
+&lt;li&gt;Verdana - sans-serif&lt;/li&gt;
+&lt;li&gt;Trebuchet - sans-serif&lt;/li&gt;
+&lt;li&gt;Impact - sans-serif&lt;/li&gt;
+&lt;li&gt;Comic Sans - sans-serif&lt;/li&gt;
+&lt;li&gt;Times New Roman - serif&lt;/li&gt;
+&lt;li&gt;Georgia - serif&lt;/li&gt;
+&lt;li&gt;Courier New - monospace&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr class=&quot;footnotes-sep&quot; /&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Literally &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;“Fonts” and “typefaces” are subtly different things – &lt;a href=&quot;https://www.geeksforgeeks.org/websites-apps/difference-between-typeface-and-font/&quot;&gt;a typeface is a font family, which can contain several fonts&lt;/a&gt;. Now you know. &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn3&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Both &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref3&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn4&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Windows and Mac (but no-one had a Mac) &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref4&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn5&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Both &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref5&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn6&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;IE and Netscape (but no-one used Netscape) &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref6&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn7&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Two &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref7&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn8&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Not literally &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref8&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn9&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;I think it’s fairly well known now that &lt;a href=&quot;https://en.wikipedia.org/wiki/You_Wouldn&#39;t_Steal_a_Car&quot;&gt;the infamous “You Wouldn’t Steal a Car” anti-piracy ads&lt;/a&gt; on TV in the mid-2000s did in fact themselves &lt;a href=&quot;https://news.sky.com/story/you-wouldnt-steal-a-font-famous-anti-piracy-campaign-may-have-used-pirated-typeface-13357462&quot;&gt;use a pirated font&lt;/a&gt;, which is moderately hilarious &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref9&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn10&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Well technically it’s “Times” not “Times New Roman”, but that’s really splitting hairs at this stage &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref10&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn11&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;No &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref11&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn12&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Again, no-one cares about the difference between Courier and Courier New, not even me… just let it go &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref12&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn13&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Of course &lt;a href=&quot;https://en.wikipedia.org/wiki/Intellectual_property_protection_of_typefaces&quot;&gt;it isn’t quite that simple&lt;/a&gt;. They can’t actually be copyrighted in the USA, though they can in other more sensible countries. But copying them isn’t the same as using them, and you still need a license to use them. &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref13&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn14&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Did I do that right? &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref14&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn15&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;But in the long run, there’s still time to change the road you’re on
+[^googlefonts] The Spotify of the font world &lt;a href=&quot;https://blog.clivemurray.com/a-good-day-to-font-hard/#fnref15&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+      <pubDate>Thu, 11 Dec 2025 12:00:00 +0000</pubDate>
+      <dc:creator>Clive Murray</dc:creator>
+      <guid>https://blog.clivemurray.com/a-good-day-to-font-hard/</guid>
+    </item>
+    <item>
       <title>Fonts and Monsters</title>
       <link>https://blog.clivemurray.com/of-fonts-and-monsters/</link>
       <description>&lt;p&gt;I am going to try not to make this another 3000+ word rant, I swear, but there has to be &lt;em&gt;some&lt;/em&gt; preamble. If you just want the main takeaway, however…&lt;/p&gt;
