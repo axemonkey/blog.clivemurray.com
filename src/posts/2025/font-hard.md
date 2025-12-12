@@ -27,6 +27,7 @@ Several[^several] decades later, CSS and browser advancement brought us embedded
 
 But *should* you?
 
+---
 
 ## Font Hard With a Vengeance
 
@@ -37,65 +38,69 @@ Of course you shouldn’t, for several mind-buggeringly good reasons. Of these, 
 
 And it is this second reason that brings me back to my beloved soapbox today, ladies and gentlemen and Evil Dave. [I recently posted](/of-fonts-and-monsters) about how I was given to remove all traces of the work of Eric Gill from my web presence, and in doing so I went on quite the typographical safari while researching alternatives. I found some absolutely top-drawer fonts that are **free** for commercial **and** non-commercial use **and/or** licensed openly for anyone to use as they see fit, and because I am a kind and benevolent future galactic emperor, I will share these with you now.
 
+**NB**: I could have embedded each of these fonts live into the page, or I could have inserted an image sample of each one. I chose to do neither of those things to reduce the number of files embedded in this one page. Instead there is an image sample for each that you may click to view, should you desire. You’re welcome.
+
 ### Que Serif, Serif
 
 If you wanted serifs on the web, it was either good old Times New Roman or Georgia. I spent years using Georgia because TNR was the boring-ass default that a browser would use if you didn’t specify a font at all – still is[^times]. This was where I would casually bung in Perpetua and impress the amassed adoring crowds with my typological nous, until I discovered what a bastard Gill was.
 
 However, after literally[^not] years of research, I can now bring to your attention:
 
-* Vollkorn
-* Cormorant
-* Sorts Mill Goudy
-* Fanwood
-* Linden Hill
+* [**Vollkorn**](http://vollkorn-typeface.com/) by [Friedrich Althausen](http://friedrichalthausen.de/) – [sample](/public/images/2025/12/font-samples/vollkorn.png)<br>This is an absolutely excellent serif font, let down only slightly by the absence of weights below 400.
+* [**Cormorant**](https://fonts.google.com/specimen/Cormorant) by [Christian Thalmann](https://www.myfonts.com/collections/catharsis-fonts-foundry) - [sample](/public/images/2025/12/font-samples/cormorant.png)<br>A gorgeous serif in a nice range of weights and variants. An ideal replacement for Perpetua, great for body copy.
+* [**Fanwood**](https://www.theleagueofmoveabletype.com/fanwood) by [Barry Schwartz](http://www.crudfactory.com/) – [sample](/public/images/2025/12/font-samples/fanwood.png)<br>One of three great serifs from Barry Schwartz of [The League of Moveable Type](https://www.theleagueofmoveabletype.com/).
+* [**Linden Hill**](https://www.theleagueofmoveabletype.com/linden-hill) by [Barry Schwartz](http://www.crudfactory.com/) – [sample](/public/images/2025/12/font-samples/linden-hill.png)<br>One of three great serifs from Barry Schwartz of [The League of Moveable Type](https://www.theleagueofmoveabletype.com/).
+* [**Sorts Mill Goudy**](https://www.theleagueofmoveabletype.com/sorts-mill-goudy) by [Barry Schwartz](http://www.crudfactory.com/) – [sample](/public/images/2025/12/font-samples/sorts-mill-goudy.png)<br>One of three great serifs from Barry Schwartz of [The League of Moveable Type](https://www.theleagueofmoveabletype.com/). Lovely stuff.
+* [**IM Fell DW Pica**](https://fonts.google.com/specimen/IM+Fell+DW+Pica) by [Igino Marini](https://iginomarini.com) - [sample](/public/images/2025/12/font-samples/im-fell-dw-pica.png)<br>Perhaps not ideal for blocks of body copy, but this one has buckets of character. Read a bit about [the Fell Types](https://www.sessions.edu/notes-on-design/type-in-history-the-fell-types/) if that sort of thing interests you.
 
 ### The Sans of Time
 
 Pre-renaissance, we had five – FIVE! – sans-serifs to choose from (including Comic Sans and Impact, that is), and a good portion of my formative years were spent laying everything out in teeny tiny 10px Verdana. However, I am happy to say I have since made a full recovery, and now I quiver to bring you these lovely alternatives:
 
-* Union Gothic
-* Barlow
-* Klima
-* Caviar Dreams
-* Greve
-* Mort
+* [**Klima**](https://wehtt.am/fonts/#fonts) by [Matthew Hinders-Anderson](https://wehtt.am) - [sample](/public/images/2025/12/font-samples/klima.png)<br>Intended initially as "a softer, more relaxed version of [DIN](https://en.wikipedia.org/wiki/FF_DIN)", this grotesque is primo gear and comes in seven weights with italics. Delete that unlicensed hooky version of DIN and get Klima on the go.
+* [**Barlow**](https://tribby.com/fonts/barlow/) by [Jeremy Tribby](https://tribby.com/) - [sample](/public/images/2025/12/font-samples/barlow.png)<br>Three widths, nine weights, all with italics, in all the formats you can eat plus a variable TTF for later, all for free, and all looking fabulous. You can see why it's in the top 20 most used fonts on the web.
+* [**Union Gothic**](https://wehtt.am/fonts/#fonts) by [Matthew Hinders-Anderson](https://wehtt.am) - [sample](/public/images/2025/12/font-samples/union-gothic.png)<br>A really nice variable width display font that goes from extremely condensed to ultra wide, in variable weights from 400 to 1000. Versatile.
+* [**Caviar Dreams**](http://www.nymfont.com/2009/06/new-caviar-dreams-font.html) by [Lauren Thompson](http://www.nymfont.com/) - [sample](/public/images/2025/12/font-samples/caviar-dreams.png)<br>A lovely free geometric typeface to help wean you off your Futura addiction, perhaps. Nice.
+* [**Greve**](https://wehtt.am/fonts/#fonts) by [Matthew Hinders-Anderson](https://wehtt.am) - [sample](/public/images/2025/12/font-samples/greve.png)<br>Another variable display face from Matthew Hinders-Anderson with a lot going on on the width and weight axes.
+* [**Mort**](https://wehtt.am/fonts/#fonts) by [Matthew Hinders-Anderson](https://wehtt.am) - [sample](/public/images/2025/12/font-samples/mort.png)<br>Another geometric this time with variable weight from 100 to 1000. Looks really great at maximum chonk, but all the weights pop.
 
 ### Sans Macabre
 
-These ones are technically sans-serifs, but they’re a bit different. Come along and let’s have a little look at them now very much in fact.
+These ones are technically sans-serifs, but they’re a bit different. Come along and let’s have a little look at them just now very much in fact.
 
-* Atkinson Hyperlegible Next
-* Inclusive Sans
-* Lisnoti
-* Bricolage Grotesque
+* [**Atkinson Hyperlegible Next**](https://www.brailleinstitute.org/freefont/) by [The Braille Institute](https://www.brailleinstitute.org/) - [sample](/public/images/2025/12/font-samples/atkinson-hyperlegible-next.png)<br>There have been a few typefaces released over recent years that claim to be super easy to read, but this one is backed and created by [The Braille Institute of America](https://www.brailleinstitute.org/) who know a thing or two about making things legible. I use it for most of my body copy. You're probably reading it right now.
+* [**Inclusive Sans**](https://www.oliviaking.com/inclusivesans/feature) by [Olivia King](https://www.oliviaking.com/) - [sample](/public/images/2025/12/font-samples/inclusive-sans.png)<br>Another super legible typeface backed by research into legibility, Inclusive Sans additionally aims to tackle readability issues faced by those with neurodiverse conditions. Great work.
+* [**Lisnoti**](https://github.com/Lisnoti/Lisnoti/) by [Tim Gordon](https://timgord.com/) - [sample](/public/images/2025/12/font-samples/lisnoti.png)<br>Tim Gordon is not a type designer or a typography expert but a frustrated user, as he explains in his excellent blog post on [the genesis of Lisnoti](https://timgord.com/2024-01/lisnoti-a-proportional-font-that-works-for-coding-too/). It is a proportional font designed for coding, a practice almost exclusively carried out in monospaced (fixed-width) type. Having wanted and searched for such a thing for 15 years, Tim finally "decided to stop waiting and to make one myself". I have been using it to code for a week or two now. I'm not 100% sure if I dig it or not yet, but it's definitely interesting.
+* [**Bricolage Grotesque**](https://ateliertriay.github.io/bricolage/) by [Mathieu Triay](https://www.mathieutriay.com/) - [sample](/public/images/2025/12/font-samples/bricolage-grotesque.png)<br>This neo-grotesque from a French designer living in England attempts to marry the two worlds in "a typeface with French attitude & British mannerisms." I reckon he's nailed it. Variable width and weight axes too, which is very nice.
+* [**Sans Forgetica**](https://fontsarena.com/sans-forgetica-by-rmit-university/) by [the Royal Melbourne Institute of Technology](https://www.rmit.edu.au/) - [sample](/public/images/2025/12/font-samples/sans-forgetica.png)<br>I love the idea behind this one. It's almost the opposite of Atkinson Hyperlegible or Inclusive Sans – it is **intentionally harder to read** than regular text. What the eff? Well, quite. There is science involved, but the basic idea is you print out study notes (or a speech, or lyrics, or anything that you want to remember) in this font, and then when you read those words back your brain will "engage in deeper processing" than if you had simply read them in a clearer font like Futura or Times, and this leads to better recall. Your mileage may vary, but it's a nice idea.<br>**NB:** this font is licensed to RMIT under the CCBYNC license ([creative commons, non-commercial, attributed](http://creativecommons.org.au/learn/fact-sheets/attribution/)), so don't just go slapping it into public or commercial work without attribution.
 
 ### Breaking the News
 
 You could possibly get away with using Arial Black for your headlines back in the day, but it wasn’t usually to be found on Macs. It was safer to just go with Arial or Helvetica bold, or Impact if you didn’t mind condensed. Nowadays with variable fonts like Union Gothic you can just whack up the weight and the width, and hey presto, Robert is very familiar with your mother all of a sudden. But if you want a dedicated chonksome headliner, why not try this absolute unit:
 
-* Folsom
+* [**Folsom**](https://wehtt.am/fonts/#fonts) by [Matthew Hinders-Anderson](https://wehtt.am) - [sample](/public/images/2025/12/font-samples/folsom.png)
 
-In awe at the size of that lad.
+In awe at the size of this lad.
 
 ### I’ll Fix **YOUR** Width in a Minute
 
 I’m a web developer by trade and I spend most of my day in code editors and terminals, usually in a fixed width font. If you wanted to use one on the web back when I started out your choices were Courier[^courier]… that was it. We’ve come a long way since then, and here are some choice alternatives I’ve picked up over the years that will spruce up your code samples and SSH windows:
 
-* Monaspace family
-* Anonymous Pro
-* M1+
-* Comic mono
-* Julia mono
-* Clack
+* [**Monaspace superfamily**](https://monaspace.githubnext.com/) by [Github Next](https://githubnext.com/) - [sample](/public/images/2025/12/font-samples/monaspace-argon.png)<br>The Argon variant of Monaspace has been my terminal font for two or three years now and all five faces share the same set of excellent features. The "texture healing" feature is a great way to get around one of the issues that usually affect monospaced fonts, and I think really improves overall readability. Very nice stuff.
+* [**Anonymous Pro**](https://www.marksimonson.com/fonts/view/anonymous/) by [Mark Simonson](https://www.marksimonson.com/) - [sample](/public/images/2025/12/font-samples/anonymous-pro.png)
+* [**M+ 1m**](https://mplusfonts.github.io/) by [Coji Morishita](http://www.underforest.com/) - [sample](/public/images/2025/12/font-samples/mplus-1m.png)
+* [**Julia Mono**](https://github.com/cormullion/juliamono) by [Cormullion](https://github.com/cormullion/) - [sample](/public/images/2025/12/font-samples/julia-mono.png)
+* [**Clack**](https://wehtt.am/fonts/#fonts) by [Matthew Hinders-Anderson](https://wehtt.am) - [sample](/public/images/2025/12/font-samples/clack.png)
 
 ### Flip the script
 
 I’ve left Brush Script off my initial list intentionally, because there are some things that in this modern age really should not be. If you really must use cursive, you should probably have a bit of a think about why that is. That said, I *am* quite partial to:
 
-* Fair Prosper
+* [**Fair Prosper**](https://www.dafont.com/fair-prosper.font) by [Khurasan](https://creativemarket.com/khurasan?u=khurasan) - [sample](/public/images/2025/12/font-samples/fair-prosper.png)
 
-…but in the name of all the saints and sinners, go easy will you? A little goes a *very* long way.
+…but in the name of all the saints and sinners, go easy would you? A little goes a *very* long way.
 
+---
 
 ## Type Free or Font Hard
 
@@ -105,28 +110,29 @@ Monotype—one of the big boys in the digital typeface playground—have [an exp
 
 > “Fonts are made by the human hand, painstakingly drawn over months or sometimes years, and engineered to perform perfectly. This is what you’re paying for when you license a font: Not just the letters on the screen, but the time and care the designer put into it, often the result of a lifelong dedication to the craft.”
 
-Sometimes these things are damned expensive, too. A full set of Helvetica Neue licenses will set you back ~£460. This kind of thing is taken care of for you if you work at a design agency (or at least it damned well should be), but for the average Joe with a laptop in a coffee shop mooching on the free wifi, it might be a little prohibitive.
+Sometimes these things are damned expensive, too. A full set of Helvetica Now[^helnow] licenses will set you back ~£550. This kind of thing is taken care of for you if you work at a design agency (or at least it damned well should be), but for the average Joe with a laptop in a coffee shop mooching on the free wifi, it might be a little prohibitive.
 
-So, there are two paths you can go by[^stairway]. You can take the easy route and just use whatever you like, download the trial version of whatever it is and never buy a license, just get on with it, because who’s really going to care? Or even notice? Probably no-one, it’s true. Unless your website suddenly goes viral or your band suddenly gets signed to a mega-deal or whatever, the thing you’re using your pirated fonts for is going to go utterly unnoticed and no-one will care one jot. Not one whit. Not a dickybird. The tree will fall in the forest and no-one will hear. Sure. Great. Well done.
+So, there are two paths you can go by[^stairway]. You can take the easy route and just use whatever you like, download the trial version of whatever it is and never buy a license, just get on with it, because who’s really going to care? Or even notice? Probably no-one, it’s true. It *is* software piracy, but unless your website suddenly goes viral or your band suddenly gets signed to a mega-deal or whatever, the thing you’re using your pirated fonts for is extremely likely to go utterly unnoticed and no-one will care one jot. Not one whit. Not a dickybird. The tree will fall in the forest and no-one will hear. Sure. Great. Well done.
 
 *Or*, you can… *not* do that.
 
 And this is the way I am going now. As I’ve covered earlier in this Ted Talk, there are free open source alternatives that look awesome for just about anything, if you just take a little time to look for them. Or perhaps cheap fonts are worth your time? Some of the fonts I mentioned earlier are around $20 for a commercial license. If the thing you’re doing is making you money, maybe buy a license for the font, and help the designer to be able to make their next one.
 
-And, you know. You can feel good about it.
+And, you know. You can feel good about it too.
 
+---
 
 ## A Good Day to Font Hard
 
 This won’t apply to everyone. If you’re an actual graphic designer, then your standards will likely be higher than mine and these cheap/free alternatives might not quite cut it. But then, if it’s your profession, you should pay for the tools you use.
 
-But if you’re an amateur knocking stuff up at home, for whatever reason, you can find good typefaces on the web for free that meet your needs. You don’t have to just use whatever is on your computer, and you don’t always have to load up Google Fonts[^googlefonts] and spend an afternoon scrolling through endless lists (lists that contain Lobster and Papyrus, for shit’s sake).
+But if you’re an amateur knocking stuff up at home for whatever reason, you can find good typefaces on the web for free that meet your needs. You don’t have to just use whatever is on your computer, and you don’t always have to load up Google Fonts[^googlefonts] and spend an afternoon scrolling through endless lists (lists that contain Lobster and Papyrus, for shit’s sake).
 
 *Nobody* needs Lobster or Papyrus.
 
 --c.
 
-**P.S.** Sorry, what was that? You have a question? Why all the **Die Hard** references? Well, it’s like this, see. When I was trying to come up with a title for this, I typed “Font Harder” and it just spiralled from there. Plus, [it’s Christmas](https://news.sky.com/story/is-die-hard-a-christmas-film-the-public-have-spoken-and-you-might-not-like-the-result-13478136).
+**P.S.** Sorry, what was that? You have a question? Why all the **Die Hard** references? Well, it’s like this, see. When I was trying to come up with a title for this, I typed “Font Harder” and it just spiralled from there. Plus [it’s Christmas](https://news.sky.com/story/is-die-hard-a-christmas-film-the-public-have-spoken-and-you-might-not-like-the-result-13478136).
 
 **P.P.S.** Those original eight fonts, in case you were wondering:
 
@@ -154,8 +160,9 @@ But if you’re an amateur knocking stuff up at home, for whatever reason, you c
 [^courier]: Again, no-one cares about the difference between Courier and Courier New, not even me… just let it go
 [^copyright]: Of course [it isn’t quite that simple](https://en.wikipedia.org/wiki/Intellectual_property_protection_of_typefaces). They can’t actually be copyrighted in the USA, though they can in other more sensible countries. But copying them isn’t the same as using them, and you still need a license to use them.
 [^meme]: Did I do that right?
+[^helnow]: Monotype’s 2019 [revamp](https://averagejoes.co.uk/design-architecture-blog/helvetica-now-new-font-update/) of Helvetica.
 [^stairway]: But in the long run, there’s still time to change the road you’re on
-[^googlefonts] The Spotify of the font world
+[^googlefonts]: The Spotify of the typography world
 
 
 
