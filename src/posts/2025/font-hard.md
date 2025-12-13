@@ -4,10 +4,10 @@ slug: a-good-day-to-font-hard
 date_published: 2025-12-11T12:00:00.000Z
 date: 2025-12-11T12:00:00.000Z
 date_updated: 2025-12-11T12:00:00.000Z
-tags: ['post', 'Web Stuff']
-excerpt: Lorem
-ghost_header_image: type-cascade.jpg
-header_image_caption: Lorem
+tags: ['post', 'Web Stuff', 'Your Illustrious Host']
+excerpt: Back in the dark ages, you had literally eight typefaces to choose from
+unsplash_post_image: photo-1610454059909-f9a5a6eb4e58
+header_image_caption: Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/photos/black-white-and-red-textile-M9NVqELEtHU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 I have been making stuff on the web for thousands of years, and that is a cast-iron *fact*.
@@ -18,7 +18,7 @@ I have been making stuff on the web for thousands of years, and that is a cast-i
 
 ## Font Hard
 
-Back in the dark ages, you had literally[^literally] eight typefaces[^typefaces] to choose from that would work across all[^all-os] OSes[^both-os] and all[^all-browser] browsers[^both-browser]: five sans-serif, two serif, and a monospaced. Why so few? Browsers of the day couldn’t embed font files in the pages you were viewing, and had to look on your computer for the font you had used, and only this select bunch could reliably be semi-guaranteed to be on everyone’s computer. To get around this, generations of designers resorted to putting all their headline and decorative text in images, or even more arcane methods (anyone remember [sIFR](https://en.wikipedia.org/wiki/Scalable_Inman_Flash_Replacement)? *\*shudder\**) to achieve their desired results.
+Back in the dark ages of website building, you had literally[^literally] eight typefaces[^typefaces] to choose from that would work across all[^all-os] OSes[^both-os] and all[^all-browser] browsers[^both-browser]: five sans-serif, two serif, and a monospaced. Why so few? Browsers of the day couldn’t embed font files in the pages you were viewing, and had to look on your computer for the font you had used, and only this select bunch could reliably be semi-guaranteed to be on everyone’s computer. To get around this, generations of designers resorted to putting all their headline and decorative text in images, or even more arcane methods (anyone remember [sIFR](https://en.wikipedia.org/wiki/Scalable_Inman_Flash_Replacement)? *\*shudder\**) to achieve their desired results.
 
 
 ## Font Hard 2: Font Harder
@@ -104,7 +104,7 @@ I’ve left Brush Script off my initial list intentionally, because there are so
 
 ## Type Free or Font Hard
 
-Let’s just remember why we’re here, n’est-ce pas? Fonts/typefaces are copyright[^copyright], and you need a license to use them. Someone put a lot of work into Din, and Helvetica Neue, and Proxima Nova, and Kora, and Wensley, just like I put a lot of work into writing and making music. It’s easy to forget that you are using a piece of software that someone else toiled over when you’re slapping a title onto a flyer in Photoshop or cooking up a dank meme[^meme] in… whatever the kids use, and scrolling through 1000s of typefaces looking for the one that will pop.
+Let’s just remember why we’re here, n’est-ce pas? Fonts/typefaces are copyright[^copyright], and you need a license to use them. Someone put a lot of work into DIN, and Helvetica Neue, and Proxima Nova, and Kora, and Wensley, just like I put a lot of work into writing and making music. It’s easy to forget that you are using a piece of software that someone else toiled over when you’re slapping a title onto a flyer in Photoshop or cooking up a dank meme[^meme] in… whatever the kids use, and scrolling through 1000s of typefaces looking for the one that will pop.
 
 Monotype—one of the big boys in the digital typeface playground—have [an explainer about it](https://www.monotype.com/font-licensing-explained-designers-and-brands), and this quote sums up what I’m getting at here:
 
