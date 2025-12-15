@@ -1509,6 +1509,11 @@ body {
 	transition: all 0.2s ease-in-out;
 	font-family: $headingFont;
 	text-transform: uppercase;
+	letter-spacing: 0.3px;
+
+	strong {
+		letter-spacing: 0.5px;
+	}
 }
 
 .post-full-content a:hover {
@@ -1799,6 +1804,7 @@ body {
 	// padding-inline: 3px;
 	font-size: 90%;
 	font-family: var(--body-copy-font);
+	letter-spacing: 0;
 }
 
 .footnotes-sep {
