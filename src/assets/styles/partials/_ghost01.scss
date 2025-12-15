@@ -474,7 +474,8 @@ h1 {
 	font-size: 5.5rem;
 	font-weight: 600;
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	h1 {
 		font-size: 2.2rem;
 	}
@@ -484,7 +485,8 @@ h2 {
 	margin: 1.5em 0 0.5em;
 	font-size: 2.2rem;
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	h2 {
 		font-size: 1.8rem;
 	}
@@ -495,7 +497,8 @@ h3 {
 	font-size: 1.8rem;
 	font-weight: 500;
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	h3 {
 		font-size: 1.7rem;
 	}
@@ -554,7 +557,8 @@ body {
 	max-width: 1040px;
 	width: 100%;
 }
-@media (width >= 900px) {
+
+@media (width >=900px) {
 	.author-template .post-feed,
 	.home-template .post-feed,
 	.tag-template .post-feed {
@@ -696,12 +700,14 @@ body {
 	padding: 5vw 0 10px;
 	border-bottom: 1px solid #eaeff1;
 }
-@media (width <= 900px) {
+
+@media (width <=900px) {
 	.site-header-content {
 		padding-bottom: 9vw;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.site-home-header .site-title {
 		font-size: 4.2rem;
 	}
@@ -1012,7 +1018,8 @@ body {
 	opacity: 1;
 	transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1) 0.05s;
 }
-@media (width <= 700px) {
+
+@media (width <=700px) {
 	.site-home-header .site-nav {
 		margin-left: -5vw;
 	}
@@ -1099,7 +1106,7 @@ body {
 .post-card-primary-tag {
 	margin: 0 0 0.2em;
 	color: var(--blue);
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 	font-weight: 500;
 	letter-spacing: 0.2px;
 	text-transform: uppercase;
@@ -1202,7 +1209,8 @@ body {
 	opacity: 1;
 	transform: translateY(0);
 }
-@media (width <= 700px) {
+
+@media (width <=700px) {
 	.author-name-tooltip {
 		display: none;
 	}
@@ -1212,10 +1220,10 @@ body {
 	flex: 1 1 50%;
 	display: flex;
 	flex-direction: column;
-	margin: 2px 0 0 6px;
+	margin: 0;
 	color: #90a2aa;
-	font-size: 1.4rem;
-	line-height: 1.4em;
+	font-size: 1.5rem;
+	line-height: 1.5em;
 	font-weight: 400;
 	letter-spacing: 0.2px;
 	text-transform: uppercase;
@@ -1231,7 +1239,7 @@ body {
 }
 
 .post-card-byline-date {
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 }
 
 .post-card-byline-date .bull {
@@ -1245,8 +1253,8 @@ body {
 	flex-direction: column;
 	margin-left: 5px;
 	color: #5c7078;
-	font-size: 1.3rem;
-	line-height: 1.4em;
+	font-size: 1.5rem;
+	line-height: 1.5em;
 	font-weight: 500;
 }
 
@@ -1262,7 +1270,8 @@ body {
 .single-author-name {
 	display: inline-block;
 }
-@media (width >= 795px) {
+
+@media (width >=795px) {
 	.post-card-large {
 		flex: 1 1 100%;
 		flex-direction: row;
@@ -1313,12 +1322,14 @@ body {
 		line-height: 1.5em;
 	}
 }
-@media (width <= 1170px) {
+
+@media (width <=1170px) {
 	.post-card {
 		margin-bottom: 5vw;
 	}
 }
-@media (width <= 650px) {
+
+@media (width <=650px) {
 	.post-feed {
 		padding-top: 5vw;
 	}
@@ -1327,7 +1338,8 @@ body {
 		margin-bottom: 5vw;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.post-card-title {
 		font-size: 1.9rem;
 	}
@@ -1357,8 +1369,8 @@ body {
 	justify-content: flex-start;
 	align-items: center;
 	color: var(--midgrey);
-	font-size: 1.4rem;
-	line-height: 1.4em;
+	font-size: 1.5rem;
+	line-height: 1.5em;
 	font-weight: 400;
 	text-transform: uppercase;
 }
@@ -1368,18 +1380,21 @@ body {
 	font-size: 1.4rem;
 	font-weight: 400;
 }
-@media (width <= 1170px) {
+
+@media (width <=1170px) {
 	.post-full-header {
 		padding: 60px 11vw 50px;
 	}
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-header {
 		padding-right: 5vw;
 		padding-left: 5vw;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.post-full-header {
 		padding: 20px 0 35px;
 	}
@@ -1435,18 +1450,21 @@ body {
 	line-height: 1.6em;
 	background: #fff;
 }
-@media (width <= 1170px) {
+
+@media (width <=1170px) {
 	.post-full-content {
 		padding: 0 11vw;
 	}
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content {
 		padding: 0 5vw;
 		font-size: 1.8rem;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.post-full-custom-excerpt {
 		font-size: 1.9rem;
 		line-height: 1.5em;
@@ -1479,7 +1497,8 @@ body {
 	margin: 0 0 1.5em;
 	min-width: 100%;
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.footnotes,
 	.post-full-comments,
 	.post-full-content dl,
@@ -1527,6 +1546,7 @@ body {
 .post-full-content a em,
 .post-full-content a strong {
 	transition: all 0.2s ease-in-out;
+
 	@media (prefers-color-scheme: light) {
 		color: var(--darkgrey);
 	}
@@ -1558,7 +1578,8 @@ body {
 	max-width: 1040px;
 	height: auto;
 }
-@media (width <= 1040px) {
+
+@media (width <=1040px) {
 	.post-full-content img,
 	.post-full-content video {
 		width: 100%;
@@ -1586,7 +1607,8 @@ body {
 	padding: 0 1.5em;
 	border-left: 3px solid #3eb0ef;
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.post-full-content blockquote {
 		padding: 0 1.3em;
 	}
@@ -1697,7 +1719,8 @@ body {
 .post-full-content p + h1 {
 	margin-top: 0.8em;
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content h1 {
 		font-size: 3.2rem;
 		line-height: 1.25em;
@@ -1714,7 +1737,8 @@ body {
 .post-full-content p + h2 {
 	margin-top: 0.8em;
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content h2 {
 		margin-bottom: 0.3em;
 		font-size: 2.8rem;
@@ -1732,7 +1756,8 @@ body {
 .post-full-content h2 + h3 {
 	margin-top: 0.7em;
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content h3 {
 		margin-bottom: 0.3em;
 		font-size: 2.4rem;
@@ -1753,7 +1778,8 @@ body {
 .post-full-content h3 + h4 {
 	margin-top: 0;
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content h4 {
 		margin-bottom: 0.3em;
 		font-size: 2.4rem;
@@ -1772,13 +1798,15 @@ body {
 	line-height: 1.35em;
 	text-align: center;
 }
-@media (width >= 1180px) {
+
+@media (width >=1180px) {
 	.post-full-content h5 {
 		max-width: 1060px;
 		width: 100vw;
 	}
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content h5 {
 		margin-bottom: 1em;
 		margin-left: 1.3em;
@@ -1793,7 +1821,8 @@ body {
 	font-size: 2rem;
 	// font-weight: 700;
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content h6 {
 		font-size: 1.8rem;
 		line-height: 1.4em;
@@ -1826,7 +1855,8 @@ body {
 	text-decoration: none !important;
 	box-shadow: none !important;
 }
-@media (width <= 1170px) {
+
+@media (width <=1170px) {
 	.post-full-image {
 		margin: 25px -6vw 50px;
 		border-radius: 0;
@@ -1836,12 +1866,14 @@ body {
 		max-width: 1170px;
 	}
 }
-@media (width <= 700px) {
+
+@media (width <=700px) {
 	.post-full-image {
 		margin: 25px -5vw;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.post-full-meta {
 		font-size: 1.2rem;
 		line-height: 1.3em;
@@ -1944,7 +1976,7 @@ body {
 .post-full-byline-meta {
 	margin: 2px 0 0;
 	color: #90a2aa;
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 	line-height: 1.2em;
 	letter-spacing: 0.2px;
 	text-transform: uppercase;
@@ -1952,8 +1984,8 @@ body {
 
 .post-full-byline-meta h4 {
 	margin: 0 0 3px;
-	font-size: 1.4rem;
-	line-height: 1.4em;
+	font-size: 1.5rem;
+	line-height: 1.5em;
 	font-weight: 500;
 }
 
@@ -1991,7 +2023,7 @@ body {
 	justify-content: space-between;
 	margin-left: -200px;
 	width: 400px;
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 	line-height: 1.5em;
 	background: #fff;
 	border-radius: 3px;
@@ -2074,7 +2106,8 @@ body {
 	height: 60px;
 	opacity: 0.15;
 }
-@media (width <= 1170px) {
+
+@media (width <=1170px) {
 	.author-list-item .author-card {
 		margin-left: -50px;
 		width: 430px;
@@ -2084,12 +2117,14 @@ body {
 		left: 50px;
 	}
 }
-@media (width <= 650px) {
+
+@media (width <=650px) {
 	.author-list-item .author-card {
 		display: none;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.author-avatar {
 		width: 36px;
 		height: 36px;
@@ -2229,7 +2264,8 @@ body {
 .subscribe-form .invalid .message-error {
 	display: block;
 }
-@media (width <= 650px) {
+
+@media (width <=650px) {
 	.subscribe-form-title {
 		font-size: 2.4rem;
 	}
@@ -2238,7 +2274,8 @@ body {
 		font-size: 1.6rem;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.subscribe-form form {
 		flex-direction: column;
 	}
@@ -2434,13 +2471,15 @@ body {
 	color: var(--yellow);
 	text-decoration: none;
 }
-@media (width <= 1170px) {
+
+@media (width <=1170px) {
 	.read-next-card {
 		flex: 1 1 261px;
 		margin-bottom: 5vw;
 	}
 }
-@media (width <= 650px) {
+
+@media (width <=650px) {
 	.read-next-feed {
 		flex-direction: column;
 		padding: 25px 0 0;
@@ -2526,7 +2565,8 @@ body {
 .kg-embed-card .fluid-width-video-wrapper {
 	margin: 0;
 }
-@media (width <= 1040px) {
+
+@media (width <=1040px) {
 	.post-full-content .kg-width-full .kg-image {
 		width: 100vw;
 	}
@@ -2685,7 +2725,8 @@ body {
 	color: #5c7078;
 	font-weight: 400;
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.post-full-content figure {
 		margin: 0.2em 0 1.3em;
 	}
@@ -2697,7 +2738,8 @@ body {
 		margin-top: 0.9em;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.post-full-content .kg-width-full,
 	.post-full-content .kg-width-wide {
 		margin-right: -5vw;
@@ -2839,14 +2881,16 @@ body {
 .no-image .author-stats + .author-social-link::before {
 	color: var(--midgrey);
 }
-@media (width <= 700px) {
+
+@media (width <=700px) {
 	.author-location,
 	.author-stats,
 	.author-stats + .author-social-link:first-of-type::before {
 		display: none;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.author-header {
 		padding: 10px 0 0;
 	}
@@ -2927,14 +2971,16 @@ body {
 	display: inline-block;
 	margin-top: 5px;
 }
-@media (width >= 940px) {
+
+@media (width >=940px) {
 	.error-content .post-card {
 		margin-bottom: 0;
 		padding-bottom: 0;
 		border-bottom: none;
 	}
 }
-@media (width <= 800px) {
+
+@media (width <=800px) {
 	.error-content {
 		padding-top: 24vw;
 	}
@@ -2952,7 +2998,8 @@ body {
 		font-size: 1.8rem;
 	}
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.error-content {
 		padding-top: 28vw;
 	}
@@ -3164,7 +3211,8 @@ body {
 .subscribe-overlay .loading .button-loader {
 	top: 5px;
 }
-@media (width <= 500px) {
+
+@media (width <=500px) {
 	.subscribe-overlay button {
 		margin: 12px 0 0;
 	}
@@ -3220,7 +3268,8 @@ body {
 .site-footer-nav a:first-of-type::before {
 	display: none;
 }
-@media (width <= 650px) {
+
+@media (width <=650px) {
 	.site-footer-content {
 		flex-direction: column;
 	}
@@ -3229,6 +3278,7 @@ body {
 		margin-left: 0;
 	}
 }
+
 @media (prefers-color-scheme: dark) {
 	body {
 		color: hsl(0deg 0% 100% / 75%);

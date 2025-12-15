@@ -4,7 +4,7 @@ slug: a-good-day-to-font-hard
 date_published: 2025-12-15T11:00:00.000Z
 date: 2025-12-15T11:00:00.000Z
 date_updated: 2025-12-15T11:00:00.000Z
-tags: ['Web Stuff', 'Your Illustrious Host']
+tags: ['post', 'Web Stuff', 'Your Illustrious Host']
 excerpt: Back in the dark ages, you had literally eight typefaces to choose from
 unsplash_post_image: photo-1610454059909-f9a5a6eb4e58
 header_image_caption: Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/photos/black-white-and-red-textile-M9NVqELEtHU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
