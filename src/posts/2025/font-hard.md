@@ -136,14 +136,14 @@ But if you’re an amateur knocking stuff up at home for whatever reason, you ca
 
 **P.P.S.** Those original eight fonts[^the-hateful-eight], in case you were wondering:
 
-1. [Arial](https://en.wikipedia.org/wiki/Arial) - sans-serif
-2. [Verdana](https://en.wikipedia.org/wiki/Verdana) - sans-serif
-3. [Trebuchet](https://en.wikipedia.org/wiki/Trebuchet_MS) - sans-serif
-4. [Impact](https://en.wikipedia.org/wiki/Impact_(typeface)) - sans-serif
-5. [Comic Sans](https://en.wikipedia.org/wiki/Comic_Sans) - sans-serif
-6. [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman) - serif
-7. [Georgia](https://en.wikipedia.org/wiki/Georgia_(typeface)) - serif
-8. [Courier New](https://en.wikipedia.org/wiki/Courier_New) - monospace
+1. [Arial](https://en.wikipedia.org/wiki/Arial) – sans-serif
+2. [Verdana](https://en.wikipedia.org/wiki/Verdana) – sans-serif
+3. [Trebuchet](https://en.wikipedia.org/wiki/Trebuchet_MS) – sans-serif
+4. [Impact](https://en.wikipedia.org/wiki/Impact_(typeface)) – sans-serif
+5. [Comic Sans](https://en.wikipedia.org/wiki/Comic_Sans) – sans-serif
+6. [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman) – serif
+7. [Georgia](https://en.wikipedia.org/wiki/Georgia_(typeface)) – serif
+8. [Courier New](https://en.wikipedia.org/wiki/Courier_New) – monospace
 
 ---
 
@@ -151,8 +151,9 @@ But if you’re an amateur knocking stuff up at home for whatever reason, you ca
 
 * [Intellectual property protection of typefaces](https://en.wikipedia.org/wiki/Intellectual_property_protection_of_typefaces) *(Wikipedia)*
 * [Why do I need a font license?](https://www.monotype.com/font-licensing-explained-designers-and-brands) *(Monotype)*
+* [Some of the best free fonts](https://clearleft.com/thinking/some-of-the-best-free-fonts) *(Clearleft)*
 * [The League of Moveable Type's manifesto](https://www.theleagueofmoveabletype.com/manifesto)
-* [Bricolage Grotesque demo site](https://ateliertriay.github.io/bricolage/) - this is how you demonstrate a font on the web – bravo, Mathieu!
+* [Bricolage Grotesque demo site](https://ateliertriay.github.io/bricolage/) – this is how you demonstrate a font on the web – bravo, Mathieu!
 
 
 
