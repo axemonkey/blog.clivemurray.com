@@ -1,5 +1,3 @@
-'use strict';
-
 import {
 	confettiSetti,
 	// render,
@@ -16,17 +14,21 @@ window.addEventListener('load', checkPulse);
 // from casper theme
 
 // sticky nav
+/*
 const initStickyNav = function (s, a) {
 	console.log('init sticky nav');
 	(s.Casper || (s.Casper = {}),
 		(s.Casper.stickyNavTitle = function (e) {
-			var t = a.querySelector(e.navSelector),
-				i = a.querySelector(e.titleSelector),
-				r = s.scrollY,
-				n = !1;
+			var t = a.querySelector(e.navSelector);
+			var index = a.querySelector(e.titleSelector);
+			var r = s.scrollY;
+			var n = !1;
 
 			function o() {
-				(i.getBoundingClientRect().top + s.scrollY + (i.offsetHeight + 35) <= r
+				(index.getBoundingClientRect().top +
+					s.scrollY +
+					(index.offsetHeight + 35) <=
+				r
 					? t.classList.add(e.activeClass)
 					: t.classList.remove(e.activeClass),
 					(n = !1));
@@ -47,21 +49,22 @@ const initStickyNav = function (s, a) {
 				o());
 		}));
 };
+*/
 
 const initHomepageNav = function () {
 	var nav = document.querySelector('.site-nav-main .site-nav');
 	var feed = document.querySelector('.post-feed');
 
 	var lastScrollY = window.scrollY;
-	var lastWindowHeight = window.innerHeight;
-	var lastDocumentHeight = getDocumentHeight();
+	// var lastWindowHeight = window.innerHeight;
+	// var lastDocumentHeight = getDocumentHeight();
 	var ticking = false;
 
-	function getDocumentHeight() {
-		var cs = getComputedStyle(document.querySelector('body'));
-		var csh = cs.height;
-		return csh;
-	}
+	// function getDocumentHeight() {
+	// 	var cs = getComputedStyle(document.querySelector('body'));
+	// 	var csh = cs.height;
+	// 	return csh;
+	// }
 
 	function onScroll() {
 		lastScrollY = window.scrollY;
@@ -69,8 +72,8 @@ const initHomepageNav = function () {
 	}
 
 	function onResize() {
-		lastWindowHeight = window.innerHeight;
-		lastDocumentHeight = getDocumentHeight();
+		// lastWindowHeight = window.innerHeight;
+		// lastDocumentHeight = getDocumentHeight();
 		requestTick();
 	}
 
@@ -83,7 +86,7 @@ const initHomepageNav = function () {
 
 	function update() {
 		var trigger = feed.getBoundingClientRect().top + window.scrollY;
-		var progressMax = lastDocumentHeight - lastWindowHeight;
+		// var progressMax = lastDocumentHeight - lastWindowHeight;
 
 		// show/hide nav
 		if (lastScrollY >= trigger - 20) {
@@ -102,10 +105,10 @@ const initHomepageNav = function () {
 };
 
 window.addEventListener('load', function () {
-	const bodyEl = document.querySelector('body');
-	if (bodyEl.classList.contains('home-template')) {
+	const bodyElement = document.querySelector('body');
+	if (bodyElement.classList.contains('home-template')) {
 		initHomepageNav();
-	} else if (bodyEl.classList.contains('post-template')) {
+	} else if (bodyElement.classList.contains('post-template')) {
 		console.log('about to init sticky nav');
 
 		// commented this out, as decided not to use sticky nav.
@@ -137,36 +140,37 @@ const getStrapline = () => {
 	const theDate = new Date();
 	const month = theDate.getMonth();
 
-	straps.push('I play guitar, you know');
-	straps.push('Now in colours!');
-	straps.push('display: bloke;');
-	straps.push('It’s good for you');
-	straps.push('HACKA LÖKEN!');
-	straps.push('Always running');
-	straps.push('Web stuff since 1997');
-	straps.push('Disinformation superlayby');
-	straps.push('At the forefront of the retreat');
-	straps.push('Humour may have settled during transit');
-	straps.push('More harmonies');
-	straps.push('Do you have any grey poupon?');
-	straps.push('He’s beginning to believe');
-	straps.push('It’s not the years, it’s the mileage');
-	straps.push('Be excellent to each other');
-	straps.push('Alsø wik');
-	straps.push('Alsø alsø wik');
-	straps.push('I know where Bruce Lee lives');
-	straps.push('It’s all relative');
-	straps.push('JEM777LNG #407');
-	straps.push('Never put a sock in a toaster');
-	straps.push('Never put jam on a magnet');
-	straps.push('Thou shalt not question Stephen Fry');
-	straps.push('Cough drop and roll');
-	straps.push('R Tape loading error, 0:1');
+	straps.push(
+		'I play guitar, you know',
+		'Now in colours!',
+		'display: bloke;',
+		'It’s good for you',
+		'HACKA LÖKEN!',
+		'Always running',
+		'Web stuff since 1997',
+		'Disinformation superlayby',
+		'At the forefront of the retreat',
+		'Humour may have settled during transit',
+		'More harmonies',
+		'Do you have any grey poupon?',
+		'He’s beginning to believe',
+		'It’s not the years, it’s the mileage',
+		'Be excellent to each other',
+		'Alsø wik',
+		'Alsø alsø wik',
+		'I know where Bruce Lee lives',
+		'It’s all relative',
+		'JEM777LNG #407',
+		'Never put a sock in a toaster',
+		'Never put jam on a magnet',
+		'Thou shalt not question Stephen Fry',
+		'Cough drop and roll',
+		'R Tape loading error, 0:1',
+	);
 
 	if (month === 5) {
 		// it's june
-		straps.push('HAPPY PRIDE');
-		straps.push('He/Him for now at least');
+		straps.push('HAPPY PRIDE', 'He/Him for now at least');
 	}
 
 	const rStrap = straps[Math.floor(Math.random() * straps.length)];
@@ -190,7 +194,6 @@ const fitVids = () => {
 	let currentVid = 0;
 
 	for (const frame of frames) {
-		const frameParent = frame.parentNode;
 		const frameWidth = frame.width;
 		const frameHeight = frame.height;
 		let vidCaption;
@@ -203,13 +206,12 @@ const fitVids = () => {
 		}
 
 		const vidFigure = document.createElement('figure');
-		vidFigure.classList.add('kg-card');
-		vidFigure.classList.add('kg-embed-card');
+		vidFigure.classList.add('kg-card', 'kg-embed-card');
 		const vidDiv = document.createElement('div');
 		vidDiv.classList.add('fluid-width-video-wrapper');
 		vidDiv.style.paddingTop = `${(frameHeight / frameWidth) * 100}%`;
 		vidFigure.append(vidDiv);
-		frameParent.insertBefore(vidFigure, frame);
+		frame.before(vidFigure);
 		vidDiv.append(frame);
 		if (vidCaption) {
 			vidFigure.append(vidCaption);
@@ -229,7 +231,7 @@ const initImageEffects = () => {
 		const opt = {
 			threshold: 1,
 		};
-		aotyWinners.forEach((winnerNode, index) => {
+		for (const [index, winnerNode] of aotyWinners.entries()) {
 			// console.log(`winner found, init confetti canvas ${index}`);
 			confettiSetti(index);
 			const callback = (entries, observer) => {
@@ -240,7 +242,7 @@ const initImageEffects = () => {
 			};
 			const observer = new IntersectionObserver(callback, opt);
 			observer.observe(winnerNode);
-		});
+		}
 	}
 
 	// AotY mentions

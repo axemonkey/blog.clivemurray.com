@@ -114,18 +114,6 @@ const tearDown = (canvasIndex) => {
 	document.querySelector(`#canvas${canvasIndex}`).remove();
 };
 
-// add elements to arrays to be drawn
-const initBurst = (canvasIndex) => {
-	for (let i = 0; i < cc.confettiCount; i++) {
-		cc.canvases[canvasIndex].confetti.push(new Confetto());
-	}
-	for (let i = 0; i < cc.sequinCount; i++) {
-		cc.canvases[canvasIndex].sequins.push(new Sequin());
-	}
-
-	render(canvasIndex);
-};
-
 // draws the elements on the canvas
 const render = (canvasIndex) => {
 	const thisContext = cc.canvases[canvasIndex].context;
@@ -205,13 +193,25 @@ const render = (canvasIndex) => {
 	// console.log(`conf: ${cc.confetti.length}, seq: ${cc.sequins.length}`);
 
 	if (thisConfetti.length > 0 || thisSequins.length > 0) {
-		window.requestAnimationFrame(() => {
+		globalThis.requestAnimationFrame(() => {
 			render(canvasIndex);
 		});
 	} else {
 		console.log('it is done');
 		tearDown(canvasIndex);
 	}
+};
+
+// add elements to arrays to be drawn
+const initBurst = (canvasIndex) => {
+	for (let index = 0; index < cc.confettiCount; index++) {
+		cc.canvases[canvasIndex].confetti.push(new Confetto());
+	}
+	for (let index = 0; index < cc.sequinCount; index++) {
+		cc.canvases[canvasIndex].sequins.push(new Sequin());
+	}
+
+	render(canvasIndex);
 };
 
 const confettiSetti = (index) => {
