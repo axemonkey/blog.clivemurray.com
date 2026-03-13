@@ -1,19 +1,28 @@
 <meta property="og:site_name" content="insince.re – the blog of Clive Murray">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:type" content="article">
+<meta property="og:locale" content="en_GB">
 <meta property="og:url" content="https://blog.clivemurray.com/{{ slug }}">
 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:site" content="@axemonkey">
+<meta name="twitter:creator" content="@axemonkey">
 
 {% if unsplash_post_image or ghost_header_image %}
 	{% if unsplash_post_image %}
 		<meta property="og:image" content="https://images.unsplash.com/{{ unsplash_post_image }}?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ">
+		<meta name="twitter:image" content="https://images.unsplash.com/{{ unsplash_post_image }}?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ">
 	{% else %}
 		<meta property="og:image" content="https://blog.clivemurray.com/public/images/size/w1000/{{ ghost_header_image }}">
 	{% endif %}
+	<meta name="twitter:image" content="https://blog.clivemurray.com/public/images/size/w1000/{{ ghost_header_image }}">
 {% else %}
 	<meta property="og:image" content="https://blog.clivemurray.com/public/images/size/w2000/2021/08/Underworld_013crop2.jpg">
+	<meta name="twitter:image" content="https://blog.clivemurray.com/public/images/size/w2000/2021/08/Underworld_013crop2.jpg">
 {% endif %}
 
 {% if excerpt %}
 <meta name="og:description" content="{{ excerpt }}">
+<meta name="twitter:description" content="{{ excerpt }}">
 {% endif %}
