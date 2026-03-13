@@ -13,13 +13,10 @@
 	--pink: #fa3a57;
 	--brown: #a3821a;
 	--darkmode: #1a1c20;
+	--nav-item-shadow:
+		0 1px 8px rgba(0 0 0 / 50%), 1px 0 8px rgba(0 0 0 / 50%),
+		0 -1px 8px rgba(0 0 0 / 50%), -1px 0 8px rgba(0 0 0 / 50%);
 }
-
-$nav-item-shadow:
-	0 1px 8px rgba(0 0 0 / 50%),
-	1px 0 8px rgba(0 0 0 / 50%),
-	0 -1px 8px rgba(0 0 0 / 50%),
-	-1px 0 8px rgba(0 0 0 / 50%);
 
 a,
 abbr,
@@ -841,7 +838,7 @@ body {
 	padding: 0;
 	// font-weight: bold;
 	font-size: 1.6rem;
-	text-shadow: $nav-item-shadow;
+	text-shadow: var(--nav-item-shadow);
 }
 
 .nav li a {
@@ -1526,7 +1523,7 @@ body {
 		inset 0 -1px 0 rgba(100, 100, 100, 1),
 		0 1px 0 rgba(100, 100, 100, 1);
 	transition: all 0.2s ease-in-out;
-	font-family: $headingFont;
+	font-family: var(--heading-font);
 	text-transform: uppercase;
 	letter-spacing: 0.3px;
 

@@ -1,6 +1,3 @@
-$headingFont: "Black-Charms";
-$bodyCopyFont: "Atkinson-Hyperlegible";
-
 @import "partials/fonts";
 @import "partials/confetti";
 @import "partials/ghost01";
@@ -20,6 +17,7 @@ $bodyCopyFont: "Atkinson-Hyperlegible";
 	--meh-default-border-radius: 0;
 	--meh-default-success: green;
 	--meh-default-error: darkred;
+	--meh-form-element-bg: #f0f0f0;
 	--heading-font: "Black-Charms", serif;
 	--body-copy-font: "Atkinson-Hyperlegible", sans-serif;
 }

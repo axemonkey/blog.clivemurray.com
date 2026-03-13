@@ -1,7 +1,5 @@
 @use "sass:color";
 
-$formElementBg: #f0f0f0;
-
 :host {
 	form {
 		label,
@@ -9,12 +7,12 @@ $formElementBg: #f0f0f0;
 		input[type="email"],
 		input[type="url"],
 		textarea {
-			font-family: $bodyCopyFont, sans-serif;
+			font-family: var(--body-copy-font), sans-serif;
 			font-size: 1em;
 		}
 
 		label {
-			font-family: $headingFont, serif;
+			font-family: var(--heading-font);
 		}
 
 		input[type="text"],
@@ -23,7 +21,7 @@ $formElementBg: #f0f0f0;
 		textarea {
 			border: none;
 			border-bottom: 1px solid var(--meh-default-foreground);
-			background-color: $formElementBg;
+			background-color: var(--meh-form-element-bg);
 
 			&:focus {
 				outline: 1px solid var(--meh-default-foreground);
@@ -32,12 +30,13 @@ $formElementBg: #f0f0f0;
 		}
 
 		button {
-			font-family: $headingFont, serif;
+			font-family: var(--heading-font);
 			font-size: 0.75em;
-			background-color: $formElementBg;
+			background-color: var(--meh-form-element-bg);
 
 			&:hover {
-				background-color: color.adjust($formElementBg, $lightness: -10%);
+				// this function cribbed from https: //rijsdam.nl/blog/replacing-sass-darken-and-lighten-functions-with-pure-css
+				background-color: hsl(from var(--meh-form-element-bg) h s calc(l - 10));
 			}
 		}
 	}
