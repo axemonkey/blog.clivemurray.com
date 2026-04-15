@@ -94,7 +94,7 @@ I’m a web developer by trade and I spend most of my day in code editors and te
 
 ### Flip the script
 
-I’ve left Brush Script off my initial list intentionally, because there are some things that in this modern age really should not be. If you really must use cursive on the web, you should probably have a bit of a think about why that is. That said, I *am* quite partial to:
+I’ve left Brush Script off my initial list intentionally, because there are some things that in this modern age really should not be. If you really must use cursive on the web, you should probably have a bit of a think around why that is. That said, I *am* quite partial to:
 
 * [**Fair Prosper**](https://www.dafont.com/fair-prosper.font) by [Khurasan](https://creativemarket.com/khurasan?u=khurasan) - [sample](/public/images/2025/12/font-samples/fair-prosper.png)
 
