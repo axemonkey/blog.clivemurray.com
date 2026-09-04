@@ -37,7 +37,7 @@
 		"globals": "^17.6.0",
 		"markdown-it-abbr": "^2.0.0",
 		"markdown-it-anchor": "^9.2.0",
-		"markdown-it-attrs": "^4.3.1",
+		"markdown-it-attrs": "^5.0.1",
 		"markdown-it-footnote": "^4.0.0",
 		"moment": "^2.29.4",
 		"npm-run-all2": "^9.0.3",
