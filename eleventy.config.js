@@ -87,17 +87,13 @@ const nonsensify = (content) => {
 		let type;
 		if (tag === 'NN') {
 			type = 'nouns';
-		}
-		if (tag === 'JJ') {
+		} else if (tag === 'JJ') {
 			type = 'adjectives';
-		}
-		if (tag === 'VB') {
+		} else if (tag === 'VB') {
 			type = 'verbsPresent';
-		}
-		if (tag === 'VBD') {
+		} else if (tag === 'VBD') {
 			type = 'verbsPast';
-		}
-		if (tag === 'RB') {
+		} else if (tag === 'RB') {
 			type = 'adverbs';
 		}
 		if (type && /^[A-Za-z]+$/.test(word)) {

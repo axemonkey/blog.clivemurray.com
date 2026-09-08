@@ -105,10 +105,10 @@ body.home-template section.post-support a {
 
 body.post-template section.post-support {
 	display: block;
-	padding: 20vh 0;
+	padding: 10vh 0;
 	text-align: center;
 	border-top: 2px dashed rgba(200 200 200 / 50%);
-	border-bottom: 2px dashed rgba(200 200 200 / 50%);
+	// border-bottom: 2px dashed rgba(200 200 200 / 50%);
 }
 
 body.post-template section.post-support p {
@@ -124,4 +124,9 @@ body.post-template section.post-support img {
 
 body.post-template section.post-support .btn-container {
 	margin: auto;
+}
+
+div.nonsense-note {
+	padding: 10vh 0;
+	border-top: 2px dashed rgba(200 200 200 / 50%);
 }
