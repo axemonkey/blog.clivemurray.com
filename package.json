@@ -37,7 +37,7 @@
 		"eslint-plugin-unicorn": "^74.0.0",
 		"globals": "^17.6.0",
 		"markdown-it-abbr": "^2.0.0",
-		"markdown-it-anchor": "^9.2.0",
+		"markdown-it-anchor": "^10.0.0",
 		"markdown-it-attrs": "^5.0.1",
 		"markdown-it-footnote": "^4.0.0",
 		"moment": "^2.29.4",
