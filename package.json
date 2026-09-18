@@ -28,7 +28,7 @@
 		"@11ty/eleventy": "^3.1.6",
 		"@11ty/eleventy-plugin-rss": "^3.0.0",
 		"@eslint/js": "^10.0.1",
-		"@springernature/assets-pipeline": "^0.3.1",
+		"@springernature/assets-pipeline": "^0.3.2",
 		"dayjs": "^1.11.8",
 		"eslint": "^10.4.0",
 		"eslint-plugin-import-x": "^4.16.2",
