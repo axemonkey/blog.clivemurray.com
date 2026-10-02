@@ -45,7 +45,7 @@
 		"onchange": "^7.1.0",
 		"pos": "^0.4.2",
 		"prettier": "^3.9.9",
-		"sharp": "^0.35.4",
+		"sharp": "^0.35.5",
 		"stylelint": "^17.15.0",
 		"stylelint-config-recommended-scss": "^17.0.1",
 		"stylelint-order": "^8.1.1",
