@@ -50,7 +50,7 @@ Yes, he really is doing all that live, at once. He pretty damned good, n'est-ce 
 
 It's true that Jon's current wave of success was catapulted forward by Stephen Fry tweeting one word ("Wow") about that "Passionflower" video, but all that did was accelerate the process a little. Jon would have got there anyway, he's that awesome.
 
-And to cap off the splendid, Jon is an independent musician. This album was originally funded through [Pledge Music](http://www.pledgemusic.com/), and there's no record company behind him scraping profit off his earnings. (I was, naturally, an early backer.) I usually link to the albums in these lists on Amazon, but for the best karma and to keep supporting independent music, you should really [buy this album direct](http://jongomm.com/store).
+And to cap off the splendid, Jon is an independent musician. This album was originally funded through Pledge Music, and there's no record company behind him scraping profit off his earnings. (I was, naturally, an early backer.) I usually link to the albums in these lists on Amazon, but for the best karma and to keep supporting independent music, you should really [buy this album direct](http://jongomm.com/store).
 
 He's also a really nice bloke. Sickening, really.
 
